@@ -30,6 +30,10 @@ def plain(s):
 def canonical(url):
     p=urllib.parse.urlsplit(url.strip())
     if p.scheme not in ('https','http') or not p.hostname or p.username or p.password: raise ValueError('unsafe article URL')
+    # note article query parameters identify share routes, not separate articles.
+    # Keep arbitrary publisher queries, which can be part of their identity.
+    if p.hostname in ('note.com','www.note.com') and re.fullmatch(r'/[A-Za-z0-9_-]+/n/[A-Za-z0-9]+/?',p.path):
+        return 'https://note.com'+p.path.rstrip('/')
     q=[(k,v) for k,v in urllib.parse.parse_qsl(p.query) if not k.lower().startswith('utm_') and k.lower() not in ('fbclid','gclid','ref','hl')]
     return urllib.parse.urlunsplit((p.scheme,p.netloc.lower(),p.path,urllib.parse.urlencode(q),''))
 

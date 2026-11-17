@@ -2,7 +2,7 @@
 
 人気の大小を離れて、アイドルを読む。公開済みの個人の考察・批評・感想への、メタデータとリンクの総合アンテナです。
 
-公開予定URL: https://sakura-essays.github.io/idol-kosatsu-antenna/
+公開URL: https://sakura-essays.github.io/idol-kosatsu-antenna/
 
 姉妹サイト: https://sakura-essays.github.io/sakurazaka-kosatsu-antenna/
 

@@ -141,5 +141,192 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-17",
     "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "chihiro-blues",
+    "name": "熊谷千尋（ちひろBLUES）",
+    "url": "https://chihiro-blues.hatenablog.com",
+    "feed": "https://chihiro-blues.hatenablog.com/rss",
+    "platform": "はてなブログ",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "ippyiwa",
+    "name": "ippyiwa",
+    "url": "https://ippyiwa.hatenablog.com",
+    "feed": "https://ippyiwa.hatenablog.com/rss",
+    "platform": "はてなブログ",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "atnnnas",
+    "name": "atnnnas",
+    "url": "https://atnnnas.hatenablog.com",
+    "feed": "https://atnnnas.hatenablog.com/rss",
+    "platform": "はてなブログ",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "thisiswakky",
+    "name": "Wakky",
+    "url": "https://note.com/thisiswakky",
+    "feed": "https://note.com/thisiswakky/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "tyan_th",
+    "name": "tyan_th",
+    "url": "https://note.com/tyan_th",
+    "feed": "https://note.com/tyan_th/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "mizugaumai",
+    "name": "みん",
+    "url": "https://note.com/mizugaumai",
+    "feed": "https://note.com/mizugaumai/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "sexysadie",
+    "name": "taiga",
+    "url": "https://note.com/sexysadie",
+    "feed": "https://note.com/sexysadie/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "mick_nice",
+    "name": "mick_nice",
+    "url": "https://note.com/mick_nice",
+    "feed": "https://note.com/mick_nice/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "dnf48",
+    "name": "DNF48",
+    "url": "https://note.com/dnf48",
+    "feed": "https://note.com/dnf48/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "antitti",
+    "name": "アンチッチ（アンチ人間）",
+    "url": "https://note.com/antitti",
+    "feed": "https://note.com/antitti/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "aaa_0987",
+    "name": "べちょ",
+    "url": "https://note.com/aaa_0987",
+    "feed": "https://note.com/aaa_0987/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "pom_ym_bb",
+    "name": "稀有",
+    "url": "https://note.com/pom_ym_bb",
+    "feed": "https://note.com/pom_ym_bb/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "b8978na",
+    "name": "ごな",
+    "url": "https://note.com/b8978na",
+    "feed": "https://note.com/b8978na/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "ready_auklet5508",
+    "name": "asaki",
+    "url": "https://note.com/ready_auklet5508",
+    "feed": "https://note.com/ready_auklet5508/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "oboeteitekure913",
+    "name": "中村 辰之介(旧 栄、覚えていてくれ)",
+    "url": "https://note.com/oboeteitekure913",
+    "feed": "https://note.com/oboeteitekure913/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "yas21",
+    "name": "やすす",
+    "url": "https://note.com/yas21",
+    "feed": "https://note.com/yas21/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
+  },
+  {
+    "id": "biscuit0904",
+    "name": "ビスハン",
+    "url": "https://biscuit0904.blog.shinobi.jp",
+    "feed": "https://biscuit0904.blog.shinobi.jp/RSS/200/",
+    "platform": "忍者ブログ",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "元記事で公開元・表示名・公開日・考察や感想を確認。公開フィードを発見。取得成否はstate/status.json。個別の転載許諾ではない。"
   }
 ]

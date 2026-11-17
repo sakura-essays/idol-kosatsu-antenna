@@ -1,67 +1,152 @@
 {
   "fubuki_hp": {
-    "etag": "W/\"a6c8a3b0cde06a8569cabc10d07457dc\"",
+    "etag": "W/\"0fd579809a21287dbc8305d79689af4e\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "nadegata_hp": {
-    "etag": "W/\"2cd709e2ae2789f6526122d2266e0cdb\"",
+    "etag": "W/\"9fb1ee36ee3c900da609d77ca094ac31\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "aokinikki": {
-    "etag": "W/\"068fc34fa7ec1e2da5924a4667dc7d4b\"",
+    "etag": "W/\"cdc5154667a397444ef28b7dc26106d2\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "ktmk___55": {
-    "etag": "W/\"3999bf0651093b53d81f156c15014b83\"",
+    "etag": "W/\"674cb3ccd011e8d667385e4f6c28beb2\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "hatsutaiken_note": {
-    "etag": "W/\"5263124d04e2933cb41aa90d6e1d17c0\"",
+    "etag": "W/\"85852ae1d1bc4f03b55c6b05e7315cd9\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "sakuya0928": {
-    "etag": "W/\"b117484af8cdfb930c01fc5c68a2810f\"",
+    "etag": "W/\"26d1e35302440f2670bce83f95dff878\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "0909otakulife_": {
-    "etag": "W/\"b434a458f409b55609db852bc05cd8ad\"",
+    "etag": "W/\"3ad05c47f15fc5fef8eafce5c4a60df5\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "manami_fy05422": {
-    "etag": "W/\"5b6a2020e00761f30381649cd3d3cd4d\"",
+    "etag": "W/\"523e6767ae5f64ea73ed3d40ee935a5f\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "daraku_in": {
-    "etag": "W/\"1da5f777f3dc1a82660ece25d7cd9d03\"",
+    "etag": "W/\"be00a92e5eac69b663fd4e949fd97935\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "nachi___s2": {
-    "etag": "W/\"0d932e8c9e4505bb086d2202a474f86e\"",
+    "etag": "W/\"767a5f433f377776a8fe3574757123b5\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "idol0taku": {
-    "etag": "W/\"a4916f48e003ba8498f265bd0945369d\"",
+    "etag": "W/\"a12714f546bd75ccc15025affd89c141\"",
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "splicom": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   },
   "jeln1nyo-0728": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-17T12:27:50.020324+00:00"
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "chihiro-blues": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "ippyiwa": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "atnnnas": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "thisiswakky": {
+    "etag": "W/\"ff2652e6ce79ab2b33cdf3f5ee783daf\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "tyan_th": {
+    "etag": "W/\"8b11dffeb0a4f43d118470fe97be9e72\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "mizugaumai": {
+    "etag": "W/\"5bd0fd5c6b23db4a61c9b1802eb46d4b\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "sexysadie": {
+    "etag": "W/\"13499ae665780d1cf37c45aeab84c23c\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "mick_nice": {
+    "etag": "W/\"582d15a5d1b69ea2cc76a69f8765ee70\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "dnf48": {
+    "etag": "W/\"76d5777819cce07f65d337b731ad61aa\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "antitti": {
+    "etag": "W/\"e33c3c681abc88c93ce16bb1a41dccde\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "aaa_0987": {
+    "etag": "W/\"90fbd521818ff3a14c0bb293a9a9703e\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "pom_ym_bb": {
+    "etag": "W/\"2a83d7cf2977d0ac447aad0e3ea26a69\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "b8978na": {
+    "etag": "W/\"98834e1af48cd7f5801b72d4c13eb143\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "ready_auklet5508": {
+    "etag": "W/\"1c4c435db26b32d16cb31a2176cb5fe3\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "oboeteitekure913": {
+    "etag": "W/\"9acd981e18b2318b5c902fe3318c74c0\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "yas21": {
+    "etag": "W/\"1a2a0574c182dcc7021cee3903ce0859\"",
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
+  },
+  "biscuit0904": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-17T12:50:35.360019+00:00"
   }
 }

@@ -240,6 +240,442 @@
       ],
       "member_ids": [],
       "song_ids": []
+    },
+    "https://chihiro-blues.hatenablog.com/entry/2026/10/12/114500": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "No Negicco, No 古町どんどん！",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "negicco"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://ippyiwa.hatenablog.com/entry/2018/07/23/174511": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "Love My Negicco Years-Negicco結成15周年ライブ『love my 15years at 朱鷺メッセ』に行ってみて-",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "negicco"
+      ],
+      "topic_ids": [
+        "live",
+        "history",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://atnnnas.hatenablog.com/entry/2014/09/15/194632": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "SMAPのコンサートに行ってきた～そして私は恋をした～",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "smap"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "starto"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/thisiswakky/n/n0ccd68f801e3": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "君は伝説のアイドル「松浦亜弥」を覚えているか？",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "matsuura-aya"
+      ],
+      "topic_ids": [
+        "member",
+        "performance",
+        "history"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "member_ids": [
+        "matsuura-aya"
+      ],
+      "song_ids": []
+    },
+    "https://note.com/tyan_th/n/n387e2e38f2a6": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "日本とタイとアイドルと。「Voice Street in Bangkok」の感想",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "usabeni",
+        "shimmer-shrimpmer",
+        "yurumerumo"
+      ],
+      "topic_ids": [
+        "live",
+        "performance"
+      ],
+      "category_ids": [
+        "jp-female",
+        "overseas"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/mizugaumai/n/n0e0282385512": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "・・・・・・・・・",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "dotstokyo"
+      ],
+      "topic_ids": [
+        "live",
+        "history",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female",
+        "culture"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/sexysadie/n/n9e5e0a97daa6": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "【BiSH解散しちゃったね】僕が見た彼女らは、ずっと2017年12月2日のまま。",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "bish"
+      ],
+      "topic_ids": [
+        "live",
+        "history",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/mick_nice/n/n6d70483421b1": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "夜空ノムコウ/SMAPのコード進行考察",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "smap"
+      ],
+      "topic_ids": [
+        "music"
+      ],
+      "category_ids": [
+        "starto"
+      ],
+      "member_ids": [],
+      "song_ids": [
+        "smap-yozora"
+      ]
+    },
+    "https://note.com/dnf48/n/nf25e3780464d": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "初めてのHKT48劇場　― “ライブが強い理由”が分かった日",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "hkt48",
+        "akb48"
+      ],
+      "topic_ids": [
+        "live",
+        "performance"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "member_ids": [
+        "eguchi-kokohana"
+      ],
+      "song_ids": []
+    },
+    "https://note.com/antitti/n/n541c62c73b53": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "初めてJKT48劇場に行く人に向けて箇条書き",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "jkt48"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "48",
+        "overseas"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/aaa_0987/n/n42e058dc96c8": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "はぴささ！",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "yurumerumo",
+        "pupilmom"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/pom_ym_bb/n/n177fabdf3adc": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "【ライブ感想】寝る前に、覚めた後に【BE:FIRST】",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "be-first"
+      ],
+      "topic_ids": [
+        "live",
+        "performance"
+      ],
+      "category_ids": [
+        "jp-male"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/b8978na/n/nafb2ee8ee5a3": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "SEVENTEENのライブに初めて行ったときの話",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "seventeen"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "kpop"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/ready_auklet5508/n/nbbe5f28862d9": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "NMB48 ここにだって天使はいる公演 歌詞考察1",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "nmb48"
+      ],
+      "topic_ids": [
+        "music"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "member_ids": [],
+      "song_ids": [
+        "nmb-doga"
+      ]
+    },
+    "https://note.com/oboeteitekure913/n/n1d8d1af8ab0a": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "STU48＆SKE48合同ライブの感想「いつも見る君が歌う、知らない歌から生まれた色」",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "stu48",
+        "ske48"
+      ],
+      "topic_ids": [
+        "live",
+        "performance"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/yas21/n/n672a37cfee4c": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "上海に行ってAKB48 Team SH とSNH48を見てきた",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "akb48-team-sh",
+        "snh48"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "48",
+        "overseas"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://biscuit0904.blog.shinobi.jp/%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AC%E3%83%9D/-2024.12.1-ryutist%20last%20ho": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "[2024.12.1]RYUTist LAST HOME LIVE ありがとね、ほんとにね。＠渋谷CLUB QUATTRO",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "ryutist"
+      ],
+      "topic_ids": [
+        "live",
+        "history",
+        "performance"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/aokinikki/n/n5e484b938593": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "クロンナリイッソが聴きたい。日本語詞のK-POPが好まれないワケ",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "twice",
+        "bts"
+      ],
+      "topic_ids": [
+        "music",
+        "fandom"
+      ],
+      "category_ids": [
+        "kpop",
+        "culture"
+      ],
+      "member_ids": [],
+      "song_ids": [
+        "twice-feel-special"
+      ],
+      "verification": "日本語版K-POPの音・訳詞に対する筆者の解釈を原文で確認。"
+    },
+    "https://note.com/0909otakulife_/n/n6b26873a3e5e": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "ME:Iへの愛が止まらない話",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "me-i"
+      ],
+      "topic_ids": [
+        "member",
+        "performance",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [
+        "takami-ayane"
+      ],
+      "song_ids": [],
+      "verification": "本人の歌声・楽曲・ファン体験への評価を原文で確認。"
+    },
+    "https://note.com/fubuki_hp/n/n443ff1185f46": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "ハロプロの公式リセール利用体験記〜雨の武道館で考えた手数料と本人確認〜",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "hello-project",
+        "tsubaki"
+      ],
+      "topic_ids": [
+        "industry",
+        "fandom"
+      ],
+      "category_ids": [
+        "hello",
+        "culture"
+      ],
+      "member_ids": [],
+      "song_ids": [],
+      "verification": "リセールを本人が使った経験に基づく評価と提案を原文で確認。"
+    },
+    "https://note.com/nadegata_hp/n/n55a19905c2d6": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "和田彩花という人を、わかったことにしない",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "angerme"
+      ],
+      "topic_ids": [
+        "member",
+        "history"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "member_ids": [
+        "wada-ayaka"
+      ],
+      "song_ids": [],
+      "verification": "卒業後のライブ体験・著書読書を通じたアイドル時代との関係への考察を確認。"
+    },
+    "https://note.com/idol0taku/n/n9c5edffb51ce": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "アイドルという存在について考えることⅡ",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "super-dragon",
+        "milk"
+      ],
+      "topic_ids": [
+        "fandom",
+        "industry"
+      ],
+      "category_ids": [
+        "jp-male",
+        "culture"
+      ],
+      "member_ids": [],
+      "song_ids": [],
+      "verification": "本人のアイドル観の変化と具体例を原文で確認。"
     }
   },
   "blocked_urls": [],

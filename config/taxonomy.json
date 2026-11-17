@@ -168,7 +168,9 @@
       "id": "snowman",
       "name": "Snow Man",
       "category_id": "starto",
-      "aliases": []
+      "aliases": [
+        "SnowMan"
+      ]
     },
     {
       "id": "naniwa",
@@ -241,7 +243,8 @@
       "name": "FRUITS ZIPPER",
       "category_id": "jp-female",
       "aliases": [
-        "ふるっぱー"
+        "ふるっぱー",
+        "FRUITSZIPPER"
       ]
     },
     {
@@ -308,7 +311,9 @@
       "id": "be-first",
       "name": "BE:FIRST",
       "category_id": "jp-male",
-      "aliases": []
+      "aliases": [
+        "BEFIRST"
+      ]
     },
     {
       "id": "bts",
@@ -322,7 +327,9 @@
       "id": "seventeen",
       "name": "SEVENTEEN",
       "category_id": "kpop",
-      "aliases": []
+      "aliases": [
+        "セブチ"
+      ]
     },
     {
       "id": "twice",
@@ -353,6 +360,118 @@
       "name": "aespa",
       "category_id": "kpop",
       "aliases": []
+    },
+    {
+      "id": "negicco",
+      "name": "Negicco",
+      "category_id": "jp-female",
+      "aliases": [
+        "ねぎっこ"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "matsuura-aya",
+      "name": "松浦亜弥",
+      "category_id": "hello",
+      "aliases": [
+        "あやや"
+      ],
+      "kind": "solo"
+    },
+    {
+      "id": "usabeni",
+      "name": "usabeni",
+      "category_id": "jp-female",
+      "aliases": [
+        "宇佐蔵べに"
+      ],
+      "kind": "solo"
+    },
+    {
+      "id": "dotstokyo",
+      "name": "・・・・・・・・・",
+      "category_id": "jp-female",
+      "aliases": [
+        "ドッツトーキョー",
+        "dotstokyo"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "jkt48",
+      "name": "JKT48",
+      "category_id": "48",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "yurumerumo",
+      "name": "ゆるめるモ！",
+      "category_id": "jp-female",
+      "aliases": [
+        "ゆるめるモ!"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "pupilmom",
+      "name": "ぴゅーぴるモ！",
+      "category_id": "jp-female",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "ryutist",
+      "name": "RYUTist",
+      "category_id": "jp-female",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "akb48-team-sh",
+      "name": "AKB48 Team SH",
+      "category_id": "48",
+      "aliases": [
+        "AKB48 TeamSH"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "snh48",
+      "name": "SNH48",
+      "category_id": "overseas",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "me-i",
+      "name": "ME:I",
+      "category_id": "jp-female",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "bybbit",
+      "name": "BYBBiT",
+      "category_id": "jp-female",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "super-dragon",
+      "name": "SUPER★DRAGON",
+      "category_id": "jp-male",
+      "aliases": [
+        "SUPER DRAGON"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "shimmer-shrimpmer",
+      "name": "Shimmer Shrimpmer",
+      "category_id": "overseas",
+      "aliases": []
     }
   ],
   "members": [
@@ -377,6 +496,39 @@
       "group_ids": [
         "sixtones"
       ]
+    },
+    {
+      "id": "wada-ayaka",
+      "name": "和田彩花",
+      "aliases": [],
+      "group_ids": [
+        "angerme"
+      ],
+      "association_note": "記事が扱う過去のスマイレージ／アンジュルム活動。現所属の自動推定には使わない。"
+    },
+    {
+      "id": "takami-ayane",
+      "name": "高見文寧",
+      "aliases": [],
+      "group_ids": [
+        "me-i"
+      ]
+    },
+    {
+      "id": "eguchi-kokohana",
+      "name": "江口心々華",
+      "aliases": [],
+      "group_ids": [
+        "hkt48"
+      ]
+    },
+    {
+      "id": "matsuura-aya",
+      "name": "松浦亜弥",
+      "aliases": [],
+      "group_ids": [
+        "matsuura-aya"
+      ]
     }
   ],
   "songs": [
@@ -390,6 +542,24 @@
       "id": "fz-fruits-basket",
       "name": "フルーツバスケット",
       "group_id": "fruits-zipper",
+      "aliases": []
+    },
+    {
+      "id": "smap-yozora",
+      "name": "夜空ノムコウ",
+      "group_id": "smap",
+      "aliases": []
+    },
+    {
+      "id": "nmb-doga",
+      "name": "ドガとバレリーナ",
+      "group_id": "nmb48",
+      "aliases": []
+    },
+    {
+      "id": "twice-feel-special",
+      "name": "Feel Special",
+      "group_id": "twice",
       "aliases": []
     }
   ],
@@ -416,7 +586,7 @@
     },
     {
       "id": "media",
-      "name": "テレビ・ラジオ・演技"
+      "name": "テレビ・ラジオ・雑誌・演技"
     },
     {
       "id": "fandom",

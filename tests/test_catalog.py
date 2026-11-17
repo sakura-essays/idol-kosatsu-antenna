@@ -11,6 +11,11 @@ class CatalogTests(unittest.TestCase):
  def test_manual_publication_and_unique(self):
   r=self.calc();self.assertEqual(len(r),len(self.manual));self.assertTrue(all(a['status']=='published' for a in r.values()))
  def test_tracking_dedup(self):self.assertEqual(canonical(self.url+'?utm_source=x#top'),self.url)
+ def test_note_share_routes_are_one_article(self):
+  self.assertEqual(canonical(self.url+'?sub_rt=share_pb&magazine_key=xyz'),self.url)
+  self.assertEqual(canonical(self.url.replace('https://note.com','http://www.note.com')+'/'),self.url)
+ def test_other_publishers_keep_identity_query(self):
+  self.assertEqual(canonical('https://example.org/?p=123&utm_source=test'),'https://example.org/?p=123')
  def test_block_wins_over_approval(self):
   m=copy.deepcopy(self.mod);m['blocked_urls']=[self.url];self.assertEqual(self.calc(mod=m)[self.url]['status'],'excluded')
  def test_author_block(self):
