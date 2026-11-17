@@ -676,6 +676,202 @@
       "member_ids": [],
       "song_ids": [],
       "verification": "本人のアイドル観の変化と具体例を原文で確認。"
+    },
+    "https://ksk.hatenablog.com/entry/2012/12/21/014134": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "121220 キラキラWINTERライブ 乃木坂46",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "member_ids": [],
+      "song_ids": [],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://note.com/sannie_blog/n/n8772872373ce": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "【歌詞考察】#乃木坂46 タイムリミット片想い -新たな門出と卒業、二面性をはらんだ“時間切れの恋”の物語-",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "member_ids": [],
+      "song_ids": [
+        "nogi-time-limit"
+      ],
+      "topic_ids": [
+        "music"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://tkmt-182.hatenablog.com/entry/2019/03/01/203740": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "西野七瀬ちゃんのおはなし",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "member_ids": [
+        "nishino-nanase"
+      ],
+      "song_ids": [],
+      "topic_ids": [
+        "member",
+        "history",
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://note.com/tkakab/n/n7416e46975ab": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "けやき坂46初の舞台「あゆみ」を観た",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "member_ids": [],
+      "song_ids": [],
+      "topic_ids": [
+        "media",
+        "performance"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://note.com/hinatahappy/n/n8edd3d426674": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "アイドルに興味のない僕がけやき坂46(日向坂46)に心惹かれた話",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "member_ids": [],
+      "song_ids": [],
+      "topic_ids": [
+        "fandom",
+        "history"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://note.com/tsukagirei/n/n80d5db8280df": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "金村美玖と小坂菜緒(最終章　たぶん)",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "member_ids": [
+        "kanemura-miku",
+        "kosaka-nao"
+      ],
+      "song_ids": [],
+      "topic_ids": [
+        "member"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://note.com/ui_ui/n/nc8134ba5c989": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "黒い羊と〈僕〉",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "member_ids": [],
+      "song_ids": [
+        "keyaki-kuroi-hitsuji"
+      ],
+      "topic_ids": [
+        "music",
+        "fandom"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://note.com/sama_migirou/n/n8826cd167f1f": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "大声を出しているのは私だった【櫻坂46 元凶 歌詞考察】",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "member_ids": [],
+      "song_ids": [
+        "sakura-genkyo"
+      ],
+      "topic_ids": [
+        "music"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://note.com/cathouse/n/n8582fd971e1a": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "セカイ系悲劇のヒロイン——櫻坂46『元凶』",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "member_ids": [],
+      "song_ids": [
+        "sakura-genkyo"
+      ],
+      "topic_ids": [
+        "music",
+        "performance"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ]
+    },
+    "https://kokokokua2.hatenablog.com/entry/2020/12/01/143330": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "AKB48グループ歌唱力No.1決定戦　雑感②　「萌芽」",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "akb48",
+        "stu48",
+        "hkt48",
+        "equal-love"
+      ],
+      "member_ids": [],
+      "song_ids": [],
+      "topic_ids": [
+        "performance",
+        "media",
+        "fandom"
+      ],
+      "category_ids": [
+        "48"
+      ]
     }
   },
   "blocked_urls": [],

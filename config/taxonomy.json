@@ -529,6 +529,33 @@
       "group_ids": [
         "matsuura-aya"
       ]
+    },
+    {
+      "id": "nishino-nanase",
+      "name": "西野七瀬",
+      "aliases": [],
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "association_note": "この記事で扱うグループ活動の文脈。現在の在籍・所属期間を自動確定する情報ではない。"
+    },
+    {
+      "id": "kanemura-miku",
+      "name": "金村美玖",
+      "aliases": [],
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "association_note": "この記事で扱うグループ活動の文脈。現在の在籍・所属期間を自動確定する情報ではない。"
+    },
+    {
+      "id": "kosaka-nao",
+      "name": "小坂菜緒",
+      "aliases": [],
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "association_note": "この記事で扱うグループ活動の文脈。現在の在籍・所属期間を自動確定する情報ではない。"
     }
   ],
   "songs": [
@@ -560,6 +587,24 @@
       "id": "twice-feel-special",
       "name": "Feel Special",
       "group_id": "twice",
+      "aliases": []
+    },
+    {
+      "id": "nogi-time-limit",
+      "name": "タイムリミット片想い",
+      "group_id": "nogizaka46",
+      "aliases": []
+    },
+    {
+      "id": "keyaki-kuroi-hitsuji",
+      "name": "黒い羊",
+      "group_id": "sakurazaka46",
+      "aliases": []
+    },
+    {
+      "id": "sakura-genkyo",
+      "name": "元凶",
+      "group_id": "sakurazaka46",
       "aliases": []
     }
   ],
