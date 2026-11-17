@@ -1222,6 +1222,130 @@
       ],
       "member_ids": [],
       "song_ids": []
+    },
+    "https://note.com/fubuki_hp/n/n6f42604bc490": {
+      "status": "published",
+      "reviewed_title": "小田さくら卒業コンサートはどの楽曲で締め括られるか ── 2011〜2026年の締め曲85枠から読む",
+      "reviewed_at": "2026-11-17",
+      "review_note": "公開部分で2011〜2026年の締め曲85枠を調べた卒業公演の楽曲分析と確認。有料部分は未確認",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "morning"
+      ],
+      "topic_ids": [
+        "music",
+        "live",
+        "history"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/dnf48/n/n738d6c1572ef": {
+      "status": "published",
+      "reviewed_title": "AKB48 21年間423公演のコンサートで最も歌われた曲は？",
+      "reviewed_at": "2026-11-17",
+      "review_note": "AKB48の423公演セットリストを数えた独自集計とその考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48"
+      ],
+      "topic_ids": [
+        "music",
+        "history"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/sannie_blog/n/n5fae0d99c80b": {
+      "status": "published",
+      "reviewed_title": "中島健人 2026ライブツアー IDOL1ST 石川公演に行ってきた話",
+      "reviewed_at": "2026-11-17",
+      "review_note": "中島健人ソロ公演の構成、演出、アイドル像に関する感想・分析",
+      "verified_nonfiction": true,
+      "group_ids": [],
+      "topic_ids": [
+        "live",
+        "performance",
+        "fandom"
+      ],
+      "category_ids": [
+        "starto"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/sexysadie/n/n00fca7391bbe": {
+      "status": "published",
+      "reviewed_title": "ハロプロファン歴半年の僕、映画『あの頃。』を飛行機で観て、むせび泣く。",
+      "reviewed_at": "2026-11-17",
+      "review_note": "ハロプロファンを描く映画を通じて推すことの意味を論じている",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hello-project"
+      ],
+      "topic_ids": [
+        "fandom",
+        "media"
+      ],
+      "category_ids": [
+        "hello",
+        "culture"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/hatsutaiken_note/n/n47d3a5427ada": {
+      "status": "excluded",
+      "reviewed_title": "悩みの言語化サービスの無料モニターを募集します",
+      "reviewed_at": "2026-11-17",
+      "review_note": "悩みの言語化サービスのモニター募集が中心でアイドルの感想・考察ではない"
+    },
+    "https://sprint-life.hatenablog.com/entry/2021/03/25/005534": {
+      "status": "excluded",
+      "reviewed_title": "KORGのNTS-1 digital kitを買った",
+      "reviewed_at": "2026-11-17",
+      "review_note": "KORGシンセサイザーの購入・組立・使用メモで、アイドルに関係しない"
+    },
+    "https://ksk.hatenablog.com/entry/2013/11/27/233000": {
+      "status": "excluded",
+      "reviewed_title": "乃木坂46 6thシングル「バレッタ」",
+      "reviewed_at": "2026-11-17",
+      "review_note": "乃木坂46シングルの収録曲・制作クレジット・選抜メンバー一覧が中心で、批評や個人的感想が主題ではない"
+    },
+    "https://note.com/tyan_th/n/n7e362ddad220": {
+      "status": "excluded",
+      "reviewed_title": "2026年10月に聴いたもの",
+      "reviewed_at": "2026-11-17",
+      "review_note": "多ジャンル音楽の月次リスニング記録。アイドルの言及は1作品に限られ主題ではない"
+    },
+    "https://note.com/daraku_in/n/na2b091b99550": {
+      "status": "published",
+      "reviewed_title": "推し活の敗北？──國分功一郎『天皇への敗北』読書感想",
+      "reviewed_at": "2026-11-17",
+      "review_note": "天皇という象徴とアイドルの規範・ファンの視線を比較する文化論",
+      "verified_nonfiction": true,
+      "group_ids": [],
+      "topic_ids": [
+        "fandom",
+        "industry"
+      ],
+      "category_ids": [
+        "culture"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/oboeteitekure913/n/nf3770e7b0b79": {
+      "status": "pending",
+      "reviewed_title": "数字を超えた偏愛的アイドル批評の可能性",
+      "reviewed_at": "2026-11-17",
+      "review_note": "アイドル批評という題名は対象だが有料本文4704字を確認できず、主題適合性の実証が未了"
     }
   },
   "blocked_urls": [],
