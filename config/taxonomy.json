@@ -506,6 +506,23 @@
       "category_id": "48",
       "aliases": [],
       "kind": "group"
+    },
+    {
+      "id": "andteam",
+      "name": "&TEAM",
+      "category_id": "jp-male",
+      "aliases": [
+        "andTEAM",
+        "＆TEAM"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "sgo48",
+      "name": "SGO48",
+      "category_id": "48",
+      "aliases": [],
+      "kind": "group"
     }
   ],
   "members": [
