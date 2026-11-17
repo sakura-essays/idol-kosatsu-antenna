@@ -499,6 +499,13 @@
         "w-inds"
       ],
       "kind": "group"
+    },
+    {
+      "id": "klp48",
+      "name": "KLP48",
+      "category_id": "48",
+      "aliases": [],
+      "kind": "group"
     }
   ],
   "members": [
