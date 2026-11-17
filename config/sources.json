@@ -452,5 +452,16 @@
     "verified_at": "2026-11-17",
     "verification": "姉妹サイトの既存候補を公開元で再確認。本文・画像は転載せずRSSは確認待ち。個別許諾の取得を意味しない。",
     "research_id": "kokokokua2.hatenablog.com"
+  },
+  {
+    "id": "lively_fennel526",
+    "url": "https://note.com/lively_fennel526",
+    "feed": "https://note.com/lively_fennel526/rss",
+    "platform": "note",
+    "name": "深山1234｜感情の置き場",
+    "enabled": true,
+    "verified_at": "2026-11-17",
+    "verification": "本人の登録依頼。公開元で記事タイトル・筆者・公開日と考察本文を確認。RSS新着は他筆者同様に確認待ち。",
+    "article_policy": "review_required"
   }
 ]
