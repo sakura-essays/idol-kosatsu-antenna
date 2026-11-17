@@ -3912,8 +3912,8 @@
     "first_seen_at": "2026-11-17T12:28:07.112475+00:00",
     "content_warning": null,
     "id": "fbaf874c0b6d258a8b14",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "sixtones"
     ],
@@ -3922,7 +3922,10 @@
     "category_ids": [
       "starto"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "music",
+      "performance"
+    ]
   },
   {
     "url": "https://jeln1nyo-0728.hatenablog.com/entry/2024/06/26/000000",
@@ -5045,8 +5048,8 @@
     "first_seen_at": "2026-11-17T12:51:01.601399+00:00",
     "content_warning": null,
     "id": "5651248831c2aabdb3a1",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "negicco"
     ],
@@ -5055,7 +5058,11 @@
     "category_ids": [
       "jp-female"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "live",
+      "fandom",
+      "performance"
+    ]
   },
   {
     "url": "https://ippyiwa.hatenablog.com/entry/2015/10/27/231913",
@@ -9490,8 +9497,8 @@
     "first_seen_at": "2026-11-17T12:51:19.827611+00:00",
     "content_warning": null,
     "id": "dbcfa7f2b2316fb577dd",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "nmb48"
     ],
@@ -9500,7 +9507,10 @@
     "category_ids": [
       "48"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "music",
+      "live"
+    ]
   },
   {
     "url": "https://note.com/ready_auklet5508/n/n0e6c4b738fd9",
