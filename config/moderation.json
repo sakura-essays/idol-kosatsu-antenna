@@ -1052,6 +1052,176 @@
       "reviewed_title": "推しについて (自己紹介の続き)",
       "reviewed_at": "2026-11-17",
       "review_note": "複数グループへの好みの紹介が中心で、短い感想として扱うか編集判断を保留"
+    },
+    "https://note.com/fubuki_hp/n/n5aa2c935e9d1": {
+      "status": "published",
+      "reviewed_title": "秋山眞緒卒業コンサート「花音 -はなおと-」の感想 〜支える者と後を継ぐ者〜",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "tsubaki"
+      ],
+      "topic_ids": [
+        "live",
+        "history",
+        "performance"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/nadegata_hp/n/n12a45a0bca4f": {
+      "status": "published",
+      "reviewed_title": "21年前の曲が、自分の中で新曲になった｜井上春華と『THE マンパワー!!!』",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "morning"
+      ],
+      "topic_ids": [
+        "music",
+        "history",
+        "performance"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/sakuya0928/n/n6bcc4ebbcedb": {
+      "status": "published",
+      "reviewed_title": "超次元音楽祭2023Day2レポート",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "liella"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/daraku_in/n/na8715841a9df": {
+      "status": "published",
+      "reviewed_title": "『イマジナリーネガティブ：認知科学で読み解く心の闇』を読んだ。ので地下アイドルには売れて欲しいと思った。",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [],
+      "topic_ids": [
+        "fandom",
+        "industry"
+      ],
+      "category_ids": [
+        "culture",
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/sexysadie/n/n40a85ed7bbd1": {
+      "status": "published",
+      "reviewed_title": "BEYOOOOONDS、『恋する銀河』が全然公式リリースされないから感想書いて焦らせちゃうもんね〜",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "beyooooonds"
+      ],
+      "topic_ids": [
+        "music",
+        "performance"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/dnf48/n/nb1a65db416ce": {
+      "status": "published",
+      "reviewed_title": "“何回歌われたか”ではなく“どれだけ選ばれたか”。シングル表題曲のコンサート披露率",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48"
+      ],
+      "topic_ids": [
+        "music",
+        "history"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/yas21/n/n8afbb9826c43": {
+      "status": "published",
+      "reviewed_title": "推しが卒業するまで全通した ～2026/10/11　天空音パレード羽澄るな卒業～",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "tenkuon-parade"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom",
+        "history"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/thisiswakky/n/n94bb26a0fa08": {
+      "status": "published",
+      "reviewed_title": "＂推し＂という言葉がなかった時代に",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "winds"
+      ],
+      "topic_ids": [
+        "fandom",
+        "history"
+      ],
+      "category_ids": [
+        "jp-male",
+        "culture"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/hatsutaiken_note/n/nbee84f6c4ffa": {
+      "status": "excluded",
+      "reviewed_title": "IT業界の人間はなぜ性格が悪いのか",
+      "reviewed_at": "2026-11-17"
+    },
+    "https://note.com/sannie_blog/n/nee3fa337b18a": {
+      "status": "published",
+      "reviewed_title": "AKB48「THREE CONCEPTS LIVE」に行ってきた話",
+      "reviewed_at": "2026-11-17",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48"
+      ],
+      "topic_ids": [
+        "live",
+        "performance"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "member_ids": [],
+      "song_ids": []
     }
   },
   "blocked_urls": [],
