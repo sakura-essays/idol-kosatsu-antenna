@@ -22,7 +22,7 @@ def build():
     payload=json.dumps(data,ensure_ascii=False,separators=(',',':')).replace('<','\\u003c').replace('\u2028','\\u2028').replace('\u2029','\\u2029')
     (out/'data.js').write_text('window.ANTENNA='+payload+';\n')
     template=(ROOT/'web/index.html').read_text()
-    for asset in ('data.js','core.js','app.js','style.css'):
+    for asset in ('data.js','core.js','app.js','analytics.js','style.css'):
         version=hashlib.sha256((out/asset).read_bytes()).hexdigest()[:12];template=template.replace('"'+asset+'"','"'+asset+'?v='+version+'"')
     esc=html.escape;base=settings['base_url']
     def page(path,heading,rows,preset=''):
