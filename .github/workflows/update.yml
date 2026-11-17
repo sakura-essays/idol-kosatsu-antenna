@@ -1,0 +1,71 @@
+name: Collect, review queue and publish
+on:
+  push:
+    branches: [main]
+    paths: ['web/**', 'scripts/**', 'config/**', 'tests/**', '.github/workflows/**']
+  schedule:
+    - cron: '43 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: idol-antenna-state
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Restore initial source checkpoint if present
+        run: |
+          if [ -f source-checkpoint.zip ]; then
+            python -m zipfile -e source-checkpoint.zip .
+          fi
+      - name: Verify catalog and regressions
+        run: |
+          python -m unittest discover -s tests -v
+          node tests/search.cjs
+      - name: Collect (retain existing metadata on feed errors)
+        id: collect
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python scripts/collect.py
+      - name: Build public metadata only
+        run: python scripts/build.py
+      - name: Persist cumulative metadata
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md LICENSE .gitignore scripts config state web dist docs tests .github/ISSUE_TEMPLATE
+          git rm --ignore-unmatch source-checkpoint.zip
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update independent idol index and review queue'
+            git push origin HEAD:main
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+          retention-days: 1
+      - name: Deploy Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Report partial collection failure after publishing retained data
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo '::error::RSS取得に失敗した媒体があります。既存データは保持。state/status.jsonを確認してください。'
+          exit 1
