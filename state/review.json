@@ -26,7 +26,7 @@
     "content_warning": null,
     "id": "4d88104a8f13c92e22eb",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [
       "juice"
     ],
@@ -371,27 +371,6 @@
     "reason": "記事単位の確認待ち",
     "group_ids": [
       "hello-project"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/nadegata_hp/n/nf37ce830dc7c",
-    "title": "染まらないことが、つばきファクトリーの色なのかもしれない",
-    "author_id": "nadegata_hp",
-    "published_at": "2026-09-16T10:15:56+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:52.638370+00:00",
-    "content_warning": null,
-    "id": "758e279ef3da4e1cc487",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "tsubaki"
     ],
     "member_ids": [],
     "song_ids": [],
@@ -1063,23 +1042,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/hatsutaiken_note/n/n2ccdb3f2f32c",
-    "title": "あなたのクレームはなぜ届かないのか〜退会できないクソページが生まれるワケ〜",
-    "author_id": "hatsutaiken_note",
-    "published_at": "2026-08-26T11:57:29+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:56.111549+00:00",
-    "content_warning": null,
-    "id": "b9049b0edcd1d48edb75",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/hatsutaiken_note/n/n9dfdfeb4b65c",
     "title": "【一人参加】ダイアログ・イン・ザ・ダーク行ってきた〜PEACE IN THE DARK「祭」〜",
     "author_id": "hatsutaiken_note",
@@ -1446,7 +1408,7 @@
     "content_warning": null,
     "id": "aed748df14c5872738a8",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -1530,23 +1492,6 @@
     "first_seen_at": "2026-11-17T12:28:00.651779+00:00",
     "content_warning": null,
     "id": "75148939d1598b2778a5",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/daraku_in/n/ne925efa0a549",
-    "title": "アイドル運営のためのAI入門 〜月4000円未満でGoogleカレンダー同期をほぼ自動化する〜",
-    "author_id": "daraku_in",
-    "published_at": "2026-09-27T05:14:41+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:28:00.651857+00:00",
-    "content_warning": null,
-    "id": "aabd28587058d4676d5a",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -1840,23 +1785,6 @@
     "first_seen_at": "2026-11-17T12:28:01.762202+00:00",
     "content_warning": null,
     "id": "c042e0ce732df3a4d876",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/idol0taku/n/n983f76c5e7c8",
-    "title": "&TEAMに出逢ってメンクリに行けたよ",
-    "author_id": "idol0taku",
-    "published_at": "2026-09-14T11:46:40+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:28:02.876907+00:00",
-    "content_warning": null,
-    "id": "29a7ab9afbbcb8aa0ff0",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -2779,27 +2707,6 @@
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://jeln1nyo-0728.hatenablog.com/entry/2024/10/18/000000",
-    "title": "SixTONES LIVE TOUR 2024 VVS 円盤発売。",
-    "author_id": "jeln1nyo-0728",
-    "published_at": "2024-10-17T15:00:00+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:28:07.111590+00:00",
-    "content_warning": null,
-    "id": "d2a831638105266bc0cf",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "sixtones"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "starto"
-    ],
     "topic_ids": []
   },
   {
@@ -5066,23 +4973,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/tyan_th/n/n697be548199f",
-    "title": "好きなタイ料理 その7：クアイジャップユアン（ก๋วยจั๊บญวน）",
-    "author_id": "tyan_th",
-    "published_at": "2026-08-17T16:37:37+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:07.345778+00:00",
-    "content_warning": null,
-    "id": "285c0515f25e10fb4fde",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/tyan_th/n/ndf82b0220e76",
     "title": "2026年7月に聴いたもの",
     "author_id": "tyan_th",
@@ -6026,27 +5916,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/dnf48/n/n93d5b06b60a7",
-    "title": "AKB48 現役メンバーの力で、もう一度紅白歌合戦の舞台へ",
-    "author_id": "dnf48",
-    "published_at": "2026-11-13T05:58:36+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:12.782057+00:00",
-    "content_warning": null,
-    "id": "3444533dc58adbd34349",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "akb48"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "48"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/dnf48/n/nf4b23b5a029c",
     "title": "AIを使って気づいた、AKB48の歴史を記録し続けてくれるファンへの感謝",
     "author_id": "dnf48",
@@ -6507,23 +6376,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/antitti/n/nd47ba053a97b",
-    "title": "SGO48個別握手会レポ（行けば分かるさ、海外４８）＊約４万字",
-    "author_id": "antitti",
-    "published_at": "2019-10-17T07:10:22+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:14.301592+00:00",
-    "content_warning": null,
-    "id": "c65383b10302b2257640",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/antitti/n/n028d46276ec1",
     "title": "SGO48個別握手会レポ（イートアウト合法納税課金版）（内容は無料版より薄い、コピペ）",
     "author_id": "antitti",
@@ -6534,10 +6386,14 @@
     "id": "e21658e0164e1addda8e",
     "status": "pending",
     "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "group_ids": [
+      "sgo48"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "48"
+    ],
     "topic_ids": []
   },
   {
@@ -6589,10 +6445,14 @@
     "id": "d53c97a5e3e98d7be07d",
     "status": "pending",
     "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "group_ids": [
+      "sgo48"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "48"
+    ],
     "topic_ids": []
   },
   {
@@ -8446,23 +8306,6 @@
     "first_seen_at": "2026-11-17T12:51:21.238476+00:00",
     "content_warning": null,
     "id": "07c4fda85d21f0d2dde9",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/yas21/n/nabfd1ba608aa",
-    "title": "推しが卒業するまで全通する",
-    "author_id": "yas21",
-    "published_at": "2026-09-27T14:23:13+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:22.653313+00:00",
-    "content_warning": null,
-    "id": "98f796c7a5c1052e8b76",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -10499,27 +10342,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/hinatahappy/n/n5656d95b205c",
-    "title": "日向坂46 1stアルバム ひなたざか　レビュー",
-    "author_id": "hinatahappy",
-    "published_at": "2020-09-23T15:11:09+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:10.471005+00:00",
-    "content_warning": null,
-    "id": "c24ad40226da9c191939",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "hinatazaka46"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "sakamichi"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/hinatahappy/n/nb133964b7764",
     "title": "Lypo-Cの日向坂RTキャンペーンに物申したい",
     "author_id": "hinatahappy",
@@ -10712,23 +10534,6 @@
     "category_ids": [
       "sakamichi"
     ],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/tsukagirei/n/nd087847bdf4f",
-    "title": "紅白歌合戦とシーンの変化。その変わり方って悲しかったりもする",
-    "author_id": "tsukagirei",
-    "published_at": "2026-11-14T23:35:37+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:11.764698+00:00",
-    "content_warning": null,
-    "id": "e8c85b22be4d4cb3af6e",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
     "topic_ids": []
   },
   {
@@ -12024,27 +11829,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/cathouse/n/ncb46a6dbd4e4",
-    "title": "四期生たちのエクソダス——櫻坂46『We got your back』",
-    "author_id": "cathouse",
-    "published_at": "2026-07-25T17:45:26+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:16.622350+00:00",
-    "content_warning": null,
-    "id": "3ec812d0c7a7bae6c341",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "sakurazaka46"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "sakamichi"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/cathouse/n/n38db0ab4a266",
     "title": "遠藤理子は永遠回帰する——櫻坂46『コインランドリー』",
     "author_id": "cathouse",
@@ -12552,27 +12336,6 @@
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://kokokokua2.hatenablog.com/entry/2022/01/15/003637",
-    "title": "第４回AKB48グループ歌唱力No.1決定戦　感想①",
-    "author_id": "kokokokua2",
-    "published_at": "2022-01-14T15:36:37+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:18.947541+00:00",
-    "content_warning": null,
-    "id": "1ec9162cb4f5fb2c1c3d",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "akb48"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "48"
-    ],
     "topic_ids": []
   },
   {
