@@ -9,3 +9,5 @@ const start=performance.now();assert.equal(C.filter(rows,{q:'Perfume',group:'per
 console.log(`Search/discovery assertions passed; 30,000 metadata rows filter + fair interleave: ${elapsed.toFixed(1)} ms (Node, not mobile browser).`);
 
 const skew=[...Array.from({length:29001},()=>a),...Array.from({length:999},(_,i)=>({...a,author_id:'other'+i}))];const skewStart=performance.now();const interleaved=C.balanced(skew);assert.equal(interleaved.length,30000);assert.equal(new Set(interleaved.slice(0,1000).map(x=>x.author_id)).size,1000);console.log('30,000 skewed-author rows: '+(performance.now()-skewStart).toFixed(1)+' ms.');
+
+const ive={...a,group_ids:['ive'],search:C.norm('IVE concert')};const live={...a,group_ids:['ryutist'],search:C.norm('RYUTist LAST HOME LIVE')};assert.equal(C.filter([ive,live],{q:'IVE'},[{id:'ive',name:'IVE',aliases:[]}]).length,1);console.log('Exact IVE group query excludes incidental LIVE substring.');
