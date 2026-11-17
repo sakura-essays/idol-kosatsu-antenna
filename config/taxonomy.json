@@ -472,6 +472,33 @@
       "name": "Shimmer Shrimpmer",
       "category_id": "overseas",
       "aliases": []
+    },
+    {
+      "id": "liella",
+      "name": "Liella!",
+      "category_id": "jp-female",
+      "aliases": [
+        "Liella"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "tenkuon-parade",
+      "name": "天空音パレード",
+      "category_id": "jp-female",
+      "aliases": [
+        "天パレ"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "winds",
+      "name": "w-inds.",
+      "category_id": "jp-male",
+      "aliases": [
+        "w-inds"
+      ],
+      "kind": "group"
     }
   ],
   "members": [
