@@ -1,0 +1,434 @@
+{
+  "categories": [
+    {
+      "id": "48",
+      "name": "48グループ"
+    },
+    {
+      "id": "sakamichi",
+      "name": "坂道シリーズ"
+    },
+    {
+      "id": "hello",
+      "name": "ハロー！プロジェクト"
+    },
+    {
+      "id": "starto",
+      "name": "STARTO・旧ジャニーズ関連"
+    },
+    {
+      "id": "jp-female",
+      "name": "その他の国内女性アイドル"
+    },
+    {
+      "id": "jp-male",
+      "name": "その他の国内男性アイドル"
+    },
+    {
+      "id": "kpop",
+      "name": "K-POP"
+    },
+    {
+      "id": "overseas",
+      "name": "海外アイドルその他"
+    },
+    {
+      "id": "culture",
+      "name": "アイドル文化・業界論"
+    }
+  ],
+  "groups": [
+    {
+      "id": "akb48",
+      "name": "AKB48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "ske48",
+      "name": "SKE48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "nmb48",
+      "name": "NMB48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "hkt48",
+      "name": "HKT48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "ngt48",
+      "name": "NGT48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "stu48",
+      "name": "STU48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "nogizaka46",
+      "name": "乃木坂46",
+      "category_id": "sakamichi",
+      "aliases": []
+    },
+    {
+      "id": "sakurazaka46",
+      "name": "櫻坂46",
+      "category_id": "sakamichi",
+      "aliases": [
+        "欅坂46"
+      ]
+    },
+    {
+      "id": "hinatazaka46",
+      "name": "日向坂46",
+      "category_id": "sakamichi",
+      "aliases": [
+        "けやき坂46"
+      ]
+    },
+    {
+      "id": "morning",
+      "name": "モーニング娘。",
+      "category_id": "hello",
+      "aliases": [
+        "モー娘。"
+      ]
+    },
+    {
+      "id": "angerme",
+      "name": "アンジュルム",
+      "category_id": "hello",
+      "aliases": [
+        "スマイレージ"
+      ]
+    },
+    {
+      "id": "juice",
+      "name": "Juice=Juice",
+      "category_id": "hello",
+      "aliases": []
+    },
+    {
+      "id": "beyooooonds",
+      "name": "BEYOOOOONDS",
+      "category_id": "hello",
+      "aliases": []
+    },
+    {
+      "id": "tsubaki",
+      "name": "つばきファクトリー",
+      "category_id": "hello",
+      "aliases": []
+    },
+    {
+      "id": "kobushi",
+      "name": "こぶしファクトリー",
+      "category_id": "hello",
+      "aliases": []
+    },
+    {
+      "id": "c-ute",
+      "name": "℃-ute",
+      "category_id": "hello",
+      "aliases": []
+    },
+    {
+      "id": "berryz",
+      "name": "Berryz工房",
+      "category_id": "hello",
+      "aliases": []
+    },
+    {
+      "id": "hello-project",
+      "name": "ハロー！プロジェクト",
+      "category_id": "hello",
+      "aliases": [
+        "ハロプロ"
+      ]
+    },
+    {
+      "id": "sixtones",
+      "name": "SixTONES",
+      "category_id": "starto",
+      "aliases": [
+        "ストーンズ"
+      ]
+    },
+    {
+      "id": "snowman",
+      "name": "Snow Man",
+      "category_id": "starto",
+      "aliases": []
+    },
+    {
+      "id": "naniwa",
+      "name": "なにわ男子",
+      "category_id": "starto",
+      "aliases": []
+    },
+    {
+      "id": "arashi",
+      "name": "嵐",
+      "category_id": "starto",
+      "aliases": []
+    },
+    {
+      "id": "smap",
+      "name": "SMAP",
+      "category_id": "starto",
+      "aliases": []
+    },
+    {
+      "id": "kinki",
+      "name": "KinKi Kids",
+      "category_id": "starto",
+      "aliases": [
+        "DOMOTO"
+      ]
+    },
+    {
+      "id": "momoclo",
+      "name": "ももいろクローバーZ",
+      "category_id": "jp-female",
+      "aliases": [
+        "ももクロ"
+      ]
+    },
+    {
+      "id": "ebichu",
+      "name": "私立恵比寿中学",
+      "category_id": "jp-female",
+      "aliases": [
+        "エビ中"
+      ]
+    },
+    {
+      "id": "equal-love",
+      "name": "=LOVE",
+      "category_id": "jp-female",
+      "aliases": [
+        "イコラブ"
+      ]
+    },
+    {
+      "id": "not-equal-me",
+      "name": "≠ME",
+      "category_id": "jp-female",
+      "aliases": [
+        "ノイミー"
+      ]
+    },
+    {
+      "id": "nearly-joy",
+      "name": "≒JOY",
+      "category_id": "jp-female",
+      "aliases": [
+        "ニアジョイ"
+      ]
+    },
+    {
+      "id": "fruits-zipper",
+      "name": "FRUITS ZIPPER",
+      "category_id": "jp-female",
+      "aliases": [
+        "ふるっぱー"
+      ]
+    },
+    {
+      "id": "perfume",
+      "name": "Perfume",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "bish",
+      "name": "BiSH",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "chula",
+      "name": "chuLa",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "maiden-doll",
+      "name": "MAIDEN√DOLL",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "bear-park",
+      "name": "ベアードパーク",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "briot",
+      "name": "BR!OT",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "milk",
+      "name": "M!LK",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "bullet-train",
+      "name": "超特急",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "jo1",
+      "name": "JO1",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "ini",
+      "name": "INI",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "be-first",
+      "name": "BE:FIRST",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "bts",
+      "name": "BTS",
+      "category_id": "kpop",
+      "aliases": [
+        "防弾少年団"
+      ]
+    },
+    {
+      "id": "seventeen",
+      "name": "SEVENTEEN",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "twice",
+      "name": "TWICE",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "blackpink",
+      "name": "BLACKPINK",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "ive",
+      "name": "IVE",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "le-sserafim",
+      "name": "LE SSERAFIM",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "aespa",
+      "name": "aespa",
+      "category_id": "kpop",
+      "aliases": []
+    }
+  ],
+  "members": [
+    {
+      "id": "maeda-atsuko",
+      "name": "前田敦子",
+      "aliases": [],
+      "group_ids": [
+        "akb48"
+      ],
+      "affiliations": [
+        {
+          "group_id": "akb48",
+          "ended": "2012-08-27"
+        }
+      ]
+    },
+    {
+      "id": "matsumura-hokuto",
+      "name": "松村北斗",
+      "aliases": [],
+      "group_ids": [
+        "sixtones"
+      ]
+    }
+  ],
+  "songs": [
+    {
+      "id": "bts-butter",
+      "name": "Butter",
+      "group_id": "bts",
+      "aliases": []
+    },
+    {
+      "id": "fz-fruits-basket",
+      "name": "フルーツバスケット",
+      "group_id": "fruits-zipper",
+      "aliases": []
+    }
+  ],
+  "topics": [
+    {
+      "id": "member",
+      "name": "人物・メンバー"
+    },
+    {
+      "id": "music",
+      "name": "楽曲・歌詞・MV"
+    },
+    {
+      "id": "live",
+      "name": "ライブ・公演"
+    },
+    {
+      "id": "history",
+      "name": "歴史・変化・卒業"
+    },
+    {
+      "id": "performance",
+      "name": "歌唱・ダンス・表現"
+    },
+    {
+      "id": "media",
+      "name": "テレビ・ラジオ・演技"
+    },
+    {
+      "id": "fandom",
+      "name": "ファン文化・体験"
+    },
+    {
+      "id": "industry",
+      "name": "産業・運営"
+    },
+    {
+      "id": "creators",
+      "name": "制作者・クリエイター"
+    }
+  ]
+}

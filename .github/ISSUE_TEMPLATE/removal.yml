@@ -1,0 +1,19 @@
+name: 掲載取り下げ・分類訂正
+description: 公開URLとご要望をお知らせください（投稿は公開されます）
+title: '掲載対応の依頼'
+body:
+  - type: markdown
+    attributes:
+      value: 'この投稿は公開されます。住所・メールアドレスなどの個人情報を書かないでください。'
+  - type: input
+    id: url
+    attributes:
+      label: 対象の公開URL
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: 取り下げまたは訂正のご要望
+    validations:
+      required: true

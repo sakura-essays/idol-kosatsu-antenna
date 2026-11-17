@@ -1,0 +1,19 @@
+name: 記事・書き手の推薦
+description: 公開URLとご要望をお知らせください（投稿は公開されます）
+title: 記事・書き手の推薦
+body:
+  - type: markdown
+    attributes:
+      value: 'この投稿は公開されます。住所・メールアドレスなどの個人情報を書かないでください。'
+  - type: input
+    id: url
+    attributes:
+      label: 対象の公開URL
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: どんな考察や感想を書いているか
+    validations:
+      required: true

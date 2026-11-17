@@ -1,0 +1,145 @@
+[
+  {
+    "id": "fubuki_hp",
+    "name": "ふぶき",
+    "url": "https://note.com/fubuki_hp",
+    "feed": "https://note.com/fubuki_hp/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "nadegata_hp",
+    "name": "なでがた",
+    "url": "https://note.com/nadegata_hp",
+    "feed": "https://note.com/nadegata_hp/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "aokinikki",
+    "name": "ごはん",
+    "url": "https://note.com/aokinikki",
+    "feed": "https://note.com/aokinikki/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "ktmk___55",
+    "name": "mako",
+    "url": "https://note.com/ktmk___55",
+    "feed": "https://note.com/ktmk___55/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "hatsutaiken_note",
+    "name": "初体験note",
+    "url": "https://note.com/hatsutaiken_note",
+    "feed": "https://note.com/hatsutaiken_note/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "sakuya0928",
+    "name": "さくぎゃら",
+    "url": "https://note.com/sakuya0928",
+    "feed": "https://note.com/sakuya0928/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "0909otakulife_",
+    "name": "のあ",
+    "url": "https://note.com/0909otakulife_",
+    "feed": "https://note.com/0909otakulife_/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "manami_fy05422",
+    "name": "まなみ",
+    "url": "https://note.com/manami_fy05422",
+    "feed": "https://note.com/manami_fy05422/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "daraku_in",
+    "name": "へびぐも",
+    "url": "https://note.com/daraku_in",
+    "feed": "https://note.com/daraku_in/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "nachi___s2",
+    "name": "nachi___s2",
+    "url": "https://note.com/nachi___s2",
+    "feed": "https://note.com/nachi___s2/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "idol0taku",
+    "name": "池田 夏葉",
+    "url": "https://note.com/idol0taku",
+    "feed": "https://note.com/idol0taku/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "splicom",
+    "name": "splicom",
+    "url": "https://sprint-life.hatenablog.com",
+    "feed": "https://sprint-life.hatenablog.com/rss",
+    "platform": "はてなブログ",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  },
+  {
+    "id": "jeln1nyo-0728",
+    "name": "じぇるすけ",
+    "url": "https://jeln1nyo-0728.hatenablog.com",
+    "feed": "https://jeln1nyo-0728.hatenablog.com/rss",
+    "platform": "はてなブログ",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-17",
+    "verification": "公開元の記事にてタイトル・筆者・公開日と個人的な考察または感想を確認。公開フィードの取得可否はstate/status.jsonを参照。個別許諾の取得を意味しない。"
+  }
+]
