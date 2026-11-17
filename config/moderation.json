@@ -1346,6 +1346,164 @@
       "reviewed_title": "数字を超えた偏愛的アイドル批評の可能性",
       "reviewed_at": "2026-11-17",
       "review_note": "アイドル批評という題名は対象だが有料本文4704字を確認できず、主題適合性の実証が未了"
+    },
+    "https://note.com/nadegata_hp/n/n903e726cc2eb": {
+      "status": "published",
+      "reviewed_title": "感想より先に「〇〇担です！」と名乗るYouTubeのコメント",
+      "reviewed_at": "2026-11-17",
+      "review_note": "BEYOOOOONDS動画のコメント欄における他界隈ファンの名乗りを分析したファンダム文化論",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "beyooooonds"
+      ],
+      "category_ids": [
+        "hello",
+        "culture"
+      ],
+      "topic_ids": [
+        "fandom",
+        "industry"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/daraku_in/n/n808308049e9a": {
+      "status": "excluded",
+      "reviewed_title": "俺のことなんか言ってた？感想 -役所広司にはなれない俺たちは？-",
+      "reviewed_at": "2026-11-17",
+      "review_note": "主題は役所広司出演のドラマ感想と承認欲求。アイドルについての言及は一文程度で中心ではない"
+    },
+    "https://note.com/idol0taku/n/n52f0289e7b3b": {
+      "status": "published",
+      "reviewed_title": "この夏のアイドルと私",
+      "reviewed_at": "2026-11-17",
+      "review_note": "B&ZAI・ジュニア・EBiDAN・INI公演の感想と継承、ファンの不安定さを描く体験記",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "ini"
+      ],
+      "category_ids": [
+        "starto",
+        "jp-male"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/dnf48/n/n10d2d4aafe8a": {
+      "status": "published",
+      "reviewed_title": "2023年以降のAKB48のコンサート定番曲は？",
+      "reviewed_at": "2026-11-17",
+      "review_note": "2023年以降のAKB48の74公演・592曲を集計し定番曲の変化を論じた記事",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "topic_ids": [
+        "music",
+        "history",
+        "live"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/manami_fy05422/n/n1ce68e23d7cb": {
+      "status": "excluded",
+      "reviewed_title": "FRUITS ZIPPERの空想大冒険",
+      "reviewed_at": "2026-11-17",
+      "review_note": "FRUITS ZIPPERの実在メンバーが空想世界で会話するフィクションであり妄想創作の除外対象"
+    },
+    "https://note.com/hinatahappy/n/ncc1b892f59da": {
+      "status": "published",
+      "reviewed_title": "日向坂46 ミーグリ当落とかの話　握手会より当たるって本当？",
+      "reviewed_at": "2026-11-17",
+      "review_note": "日向坂46のミーグリと握手会の個人当選結果を比較する実体験と感想。一般的な当選確率の証明ではない",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/sannie_blog/n/n67c68c28dc6b": {
+      "status": "published",
+      "reviewed_title": "投資と期待の乃木坂32枚目選抜の話",
+      "reviewed_at": "2026-11-17",
+      "review_note": "32枚目選抜の年齢構成を過去10作品と比較し世代交代の戦略を論じた記事",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "history",
+        "industry",
+        "member"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://ksk.hatenablog.com/entry/2013/10/11/150125": {
+      "status": "published",
+      "reviewed_title": "7thシングル選抜発表",
+      "reviewed_at": "2026-11-17",
+      "review_note": "7th選抜について初選抜各メンバーへの独自の評価・選抜戦略への見解を示した2013年当時の考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "member",
+        "history",
+        "industry"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://kokokokua2.hatenablog.com/entry/2023/02/06/023004": {
+      "status": "published",
+      "reviewed_title": "乃木坂スター誕生で乃木坂ちゃんは松原正樹のギターとどうセッションしたか",
+      "reviewed_at": "2026-11-17",
+      "review_note": "乃木坂スター誕生のカバーで松原正樹のギター表現を再現する編曲への考察。本人と実際の共演ではない",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "music",
+        "media",
+        "performance",
+        "creators"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/tyan_th/n/n7b6ec64d12ad": {
+      "status": "excluded",
+      "reviewed_title": "最近のタイの食べ物を語る 〜XX警察に怒られそうなトムカーガイラーメン〜",
+      "reviewed_at": "2026-11-17",
+      "review_note": "タイのトムカーガイラーメンの飲食レビューでアイドルとの関連がない"
     }
   },
   "blocked_urls": [],
