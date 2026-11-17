@@ -1,17 +1,12 @@
-# 次回Workの実行順
+# 次回Work：この順で再開
 
-1. `docs/WORK_PROGRESS.md` を読み、公開・検証結果を確認。GitHub mainの最新を取得する。
-2. Actionsの最新成否と公開URLを確認。直近の `state/status.json` にRSSエラーがあれば、元サイトを触らず当該フィードだけ調べる。
-3. `state/review.json` から領域・年代・書き手の偏りを見て元記事を確認。本文や画像は保存せず、`config/moderation.json` で対象適合性のみを承認する。少数の筆者だけ大量承認しない。
-4. 地域・ソロ・解散済み・海外非韓国の公開ブログを手動検索。実在・日付・感想・利用条件・フィードを確認し `config/candidates.json` に候補登録。架空URLを補わない。
-5. 確認できた書き手は `config/sources.json`、RSS外の過去記事は `config/manual_articles.json` へ。人物は所属期間と固有IDを保持して辞書追加。短い略称・同名は自動確定しない。
-6. `python -m unittest discover -s tests -v`、`node tests/search.cjs`、`python scripts/build.py` を実行。検索・抽選・書き手ページ・取り下げを必要な範囲で検証。
-7. 機能単位でGitHubへ保存しActions成功と公開反映を確認。
-8. 実数・エラー・残作業を進捗に追記。未確認のものを完了扱いしない。
+1. `WORK_PROGRESS.md`、`OPERATIONS.md`、`PHASE2_SOURCE_AUDIT.md` を読む。新サイトのGitHub main最新を取得し、公開35記事/30人、累積600件（公開35・確認待ち565）、30フィードの基準から開始する。公開済み17人を再発掘しない。
+2. 最新Actions、`state/status.json`、公開URLの実数を確認。変更があれば実数を優先し、古いローカルstateをpushしない。
+3. `state/review.json` の候補から、未充実領域・古い年代を少数ずつ原文確認。筆者・公開日・対象適合性・重複・利用条件を確認し、`config/moderation.json` へ正確なreviewed_title/reviewed_at等を登録する。品質採点せず、1人だけ大量追加しない。
+4. WordPress/独自ドメイン、ソロ、解散済み、海外非韓国、制作者論などの新しい書き手を手動探索。候補は `config/candidates.json`、確認済み筆者は `config/sources.json`、RSS外の実在する過去記事は `config/manual_articles.json` に登録。本文や画像を保存しない。
+5. グループ/ソロ・人物・楽曲は安定IDと別名で追加し、同名・所属期間を確認。タイはShimmer Shrimpmer、SNH48は海外分類、ライブ開催日と記事公開日を取り違えない。
+6. `python -m unittest discover -s tests -v`、`node tests/search.cjs`、`python scripts/build.py`。必要な変更範囲だけブラウザ確認し、機能単位でGitHubへ保存する。
+7. 接続API書込403の場合は `OPERATIONS.md` の画面アップロード手順。ソースパッチZIPへstate/distを含めず、Actions成功・通常ファイルの保存・公開反映まで確認する。
+8. 実数、残タスク、エラー、検証限界を進捗に更新。未選定のピックアップを無理に埋めない。実機スマホと大規模ブラウザ実測は未完了。
 
-旧サイト側の相互リンクは、元サイトの変更禁止条件が解除された場合だけ最小変更する。それまでは新サイト側リンクと引き継ぎ記録を維持する。
-
-新規リポジトリへの接続書込はGit Trees APIで403になった。初回はGitHub画面のアップロードとワークフローで通常ファイルへ展開・保存済み。再調査せず、次回の権限状態を必要なときだけ確認する。
-
-
-第2段階の最新確認はWORK_PROGRESS末尾を優先。追加済み17人を再発掘しない。タイ記事の対象はShimmer Shrimpmer。SNH48は現AKB系列と断定せず海外分類。RYUTistラストライブ記事は公演12/1でなく公開12/14、2019年ドッツ公演回想は公開2025年。新着を確認待ちから適合性で審査し、同一筆者だけ大量承認しない。
+旧・坂道考察アンテナはリポジトリ/記事/設定/公開/定期更新を変更しない。新サイトからは姉妹リンク済み。逆リンクは元サイト変更禁止の解除後のみ。
