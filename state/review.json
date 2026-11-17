@@ -148,23 +148,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/fubuki_hp/n/nac578aec1e64",
-    "title": "令和の現在における「ファンとの距離感」の設計について",
-    "author_id": "fubuki_hp",
-    "published_at": "2026-07-13T02:46:36+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:51.458801+00:00",
-    "content_warning": null,
-    "id": "9c9593752b65165d0172",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/fubuki_hp/n/n10e43a06a290",
     "title": "事務所の平等主義とハロコン2026の役割：「わがままリクエスト」から紐解く構造変革",
     "author_id": "fubuki_hp",
@@ -342,23 +325,6 @@
     "first_seen_at": "2026-11-17T12:27:52.638450+00:00",
     "content_warning": null,
     "id": "03bd1a2096ee5ed56865",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/nadegata_hp/n/nff8ab714486a",
-    "title": "江端妃咲は、「不憫」なだけの人なのか？",
-    "author_id": "nadegata_hp",
-    "published_at": "2026-07-05T13:12:28+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:52.638514+00:00",
-    "content_warning": null,
-    "id": "ba68e30e37b750159146",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -562,23 +528,6 @@
     "first_seen_at": "2026-11-17T12:27:52.638841+00:00",
     "content_warning": null,
     "id": "314d9cb6da6da6e86f48",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/ktmk___55/n/nfc25c1e2161d",
-    "title": "地上の満月",
-    "author_id": "ktmk___55",
-    "published_at": "2026-09-15T11:39:09+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:54.946922+00:00",
-    "content_warning": null,
-    "id": "74351937ca424d5de58d",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -1081,23 +1030,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/hatsutaiken_note/n/nbb366c480f96",
-    "title": "映画「恋愛裁判」から考えるアイドルの幸せ",
-    "author_id": "hatsutaiken_note",
-    "published_at": "2026-02-06T12:07:35+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:56.112068+00:00",
-    "content_warning": null,
-    "id": "661f9d81473c16a107ff",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/hatsutaiken_note/n/n3d2d6eee417f",
     "title": "メンエスで働いているのに、挿入だけは拒否感があるという女子大生の相談に答えた",
     "author_id": "hatsutaiken_note",
@@ -1379,7 +1311,7 @@
     "content_warning": null,
     "id": "20c69b7db9776201ae75",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [
       "bybbit"
     ],
@@ -1688,23 +1620,6 @@
     "first_seen_at": "2026-11-17T12:28:02.877208+00:00",
     "content_warning": null,
     "id": "2ea7c18021b89d600862",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/idol0taku/n/n454664c018b5",
-    "title": "2025年の10曲選",
-    "author_id": "idol0taku",
-    "published_at": "2025-12-28T13:36:13+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:28:02.877229+00:00",
-    "content_warning": null,
-    "id": "8ea883ef9a60bfbcbd57",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -5670,27 +5585,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/dnf48/n/nf4b23b5a029c",
-    "title": "AIを使って気づいた、AKB48の歴史を記録し続けてくれるファンへの感謝",
-    "author_id": "dnf48",
-    "published_at": "2026-10-20T17:11:13+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:12.782080+00:00",
-    "content_warning": null,
-    "id": "b555fb319fd13dc12d73",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "akb48"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "48"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/dnf48/n/nf4cd31d47346",
     "title": "持ち時間30分の“勝負曲”。フェスで選ばれるAKB48の10曲",
     "author_id": "dnf48",
@@ -6144,27 +6038,6 @@
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/antitti/n/n091f6b0695a0",
-    "title": "ベトナムまでチーム８を追いかけて、SGO４８を見てきたお話（社会主義とアイドルとパレードと現場主義）",
-    "author_id": "antitti",
-    "published_at": "2019-01-16T18:31:45+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:14.301755+00:00",
-    "content_warning": null,
-    "id": "d53c97a5e3e98d7be07d",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "sgo48"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "48"
-    ],
     "topic_ids": []
   },
   {
@@ -7705,23 +7578,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/oboeteitekure913/n/nb48e1887df89",
-    "title": "今日のラジオは文字です「転生しても好きですか？」",
-    "author_id": "oboeteitekure913",
-    "published_at": "2026-11-11T21:31:25+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:21.237850+00:00",
-    "content_warning": null,
-    "id": "98fbf973b19bfbedd5c7",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/oboeteitekure913/n/nb5f98077756c",
     "title": "今日のラジオは文字です「モデラ―の目で世界を見ること」",
     "author_id": "oboeteitekure913",
@@ -8494,23 +8350,6 @@
     "first_seen_at": "2026-11-17T12:51:25.476300+00:00",
     "content_warning": null,
     "id": "b2ba2a3174684314518b",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://ksk.hatenablog.com/entry/2013/08/08/021536",
-    "title": "130726 お台場合衆国2013 めざましライブ",
-    "author_id": "ksk",
-    "published_at": "2013-08-07T17:15:36+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:03.492141+00:00",
-    "content_warning": null,
-    "id": "a0f281dcb88289f0d64a",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -9855,27 +9694,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/hinatahappy/n/n4c5bf7529215",
-    "title": "日向坂46 オンラインミート＆グリート　感想",
-    "author_id": "hinatahappy",
-    "published_at": "2020-11-02T06:00:43+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:10.470861+00:00",
-    "content_warning": null,
-    "id": "5aed07de490962d36289",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "hinatazaka46"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "sakamichi"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/hinatahappy/n/ne38c4c2438a7",
     "title": "第８回ミラーズランキング 反省会",
     "author_id": "hinatahappy",
@@ -10215,23 +10033,6 @@
     "first_seen_at": "2026-11-17T13:16:11.765168+00:00",
     "content_warning": null,
     "id": "3f94855b6e721da1425f",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/tsukagirei/n/n6d2d6f71426a",
-    "title": "欅坂で一番どうかしてる曲「もう森へ帰ろうか？」。たぶん関係者全員やばくなってた",
-    "author_id": "tsukagirei",
-    "published_at": "2026-10-11T02:06:05+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:11.765229+00:00",
-    "content_warning": null,
-    "id": "fb564d0bcfd9c2ff7880",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -10942,27 +10743,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/sama_migirou/n/n1acd1c3cc80e",
-    "title": "夢を諦めた人間ほど、夢を笑う。【櫻坂46 自称バレエダンサー 歌詞考察】",
-    "author_id": "sama_migirou",
-    "published_at": "2026-10-02T22:43:18+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:15.118979+00:00",
-    "content_warning": null,
-    "id": "4ae3268178af4f9bde59",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "sakurazaka46"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "sakamichi"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/sama_migirou/n/n80c9ee0bdde0",
     "title": "先鋭化してしまいがちな時代を生き抜く考え方。",
     "author_id": "sama_migirou",
@@ -11279,27 +11059,6 @@
     "first_seen_at": "2026-11-17T13:16:15.120154+00:00",
     "content_warning": null,
     "id": "08a333735e17c95841f2",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "sakurazaka46"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "sakamichi"
-    ],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/cathouse/n/n857bb9494f7a",
-    "title": "「成熟」と「成長」／櫻坂46「6th ANNIVERSARY LIVE」に期待すること",
-    "author_id": "cathouse",
-    "published_at": "2026-11-11T06:25:27+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:16.622139+00:00",
-    "content_warning": null,
-    "id": "800cfb513337a2f3cc7d",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [
@@ -11875,27 +11634,6 @@
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://kokokokua2.hatenablog.com/entry/2021/03/16/230903",
-    "title": "「STU48 4周年コンサート」感想　昼公演編",
-    "author_id": "kokokokua2",
-    "published_at": "2021-03-16T14:09:03+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:18.950601+00:00",
-    "content_warning": null,
-    "id": "c2d7b5dd23698f6001d2",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "stu48"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "48"
-    ],
     "topic_ids": []
   },
   {
