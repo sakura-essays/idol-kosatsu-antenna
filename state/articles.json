@@ -329,8 +329,8 @@
     "first_seen_at": "2026-11-17T12:27:51.455654+00:00",
     "content_warning": null,
     "id": "195ceb141e5f8dbea4df",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "angerme",
       "hello-project"
@@ -340,7 +340,10 @@
     "category_ids": [
       "hello"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "industry",
+      "history"
+    ]
   },
   {
     "url": "https://note.com/fubuki_hp/n/n17eb1d97f9b1",
@@ -351,8 +354,8 @@
     "first_seen_at": "2026-11-17T12:27:51.457965+00:00",
     "content_warning": null,
     "id": "6dd03c94f39deeb6f283",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -808,17 +811,22 @@
     "first_seen_at": "2026-11-17T12:27:52.638091+00:00",
     "content_warning": null,
     "id": "85d7570c61445a05a1b1",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
-      "hello-project"
+      "hello-project",
+      "juice"
     ],
     "member_ids": [],
     "song_ids": [],
     "category_ids": [
       "hello"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "industry",
+      "music",
+      "history"
+    ]
   },
   {
     "url": "https://note.com/nadegata_hp/n/n507183f67af2",
@@ -1285,8 +1293,8 @@
     "first_seen_at": "2026-11-17T12:27:54.946692+00:00",
     "content_warning": null,
     "id": "6c4f2917623857e113bc",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -2101,8 +2109,8 @@
     "first_seen_at": "2026-11-17T12:27:57.222452+00:00",
     "content_warning": null,
     "id": "58054573d4e0426609fb",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -2231,7 +2239,7 @@
     "content_warning": null,
     "id": "39e915c8395cc6bf1a90",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -2264,19 +2272,19 @@
     "first_seen_at": "2026-11-17T12:27:59.532831+00:00",
     "content_warning": null,
     "id": "78fd48f3603d1e835d4d",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "fruits-zipper"
     ],
     "member_ids": [],
-    "song_ids": [
-      "fz-fruits-basket"
-    ],
+    "song_ids": [],
     "category_ids": [
       "jp-female"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "music"
+    ]
   },
   {
     "url": "https://note.com/manami_fy05422/n/n1ce68e23d7cb",
@@ -3154,8 +3162,8 @@
     "first_seen_at": "2026-11-17T12:28:04.852551+00:00",
     "content_warning": null,
     "id": "a2fd7af00a93c10864c2",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -4224,8 +4232,8 @@
     "first_seen_at": "2026-11-17T12:50:58.777948+00:00",
     "content_warning": null,
     "id": "4073aa3701136100427d",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -7385,7 +7393,7 @@
     "content_warning": null,
     "id": "e42251507cf48542b512",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [
       "akb48"
     ],

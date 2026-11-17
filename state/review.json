@@ -1,44 +1,5 @@
 [
   {
-    "url": "https://note.com/fubuki_hp/n/n4e7c943c9949",
-    "title": "2026年ハロプロ研修生のアンジュルム加入について（速報編）",
-    "author_id": "fubuki_hp",
-    "published_at": "2026-11-12T20:25:42+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:51.455654+00:00",
-    "content_warning": null,
-    "id": "195ceb141e5f8dbea4df",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "angerme",
-      "hello-project"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/fubuki_hp/n/n17eb1d97f9b1",
-    "title": "電子書籍『アイドルが人気を獲得し、向上させる方法』発売のお知らせ",
-    "author_id": "fubuki_hp",
-    "published_at": "2026-11-03T07:31:50+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:51.457965+00:00",
-    "content_warning": null,
-    "id": "6dd03c94f39deeb6f283",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/fubuki_hp/n/n5aa2c935e9d1",
     "title": "秋山眞緒卒業コンサート「花音 -はなおと-」の感想 〜支える者と後を継ぐ者〜",
     "author_id": "fubuki_hp",
@@ -453,27 +414,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/nadegata_hp/n/nb13901ea8a55",
-    "title": "「売り方が下手」と言われるハロプロが、ずっと売ってきたもの",
-    "author_id": "nadegata_hp",
-    "published_at": "2026-10-27T11:00:49+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:52.638091+00:00",
-    "content_warning": null,
-    "id": "85d7570c61445a05a1b1",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "hello-project"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/nadegata_hp/n/n507183f67af2",
     "title": "有澤一華の「変態な音楽」は、たぶん最上級の褒め言葉｜Juice=Juiceバンドライブ2026",
     "author_id": "nadegata_hp",
@@ -867,23 +807,6 @@
     "first_seen_at": "2026-11-17T12:27:52.638841+00:00",
     "content_warning": null,
     "id": "314d9cb6da6da6e86f48",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/ktmk___55/n/n9394827db876",
-    "title": "Podcastを開設してしまいました｜超共感覚って一体？",
-    "author_id": "ktmk___55",
-    "published_at": "2026-10-28T11:54:47+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:54.946692+00:00",
-    "content_warning": null,
-    "id": "6c4f2917623857e113bc",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -1692,23 +1615,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/sakuya0928/n/n9e53ca78f44c",
-    "title": "ラブカファンミーティングハーフデッキ一夜漬け備忘録",
-    "author_id": "sakuya0928",
-    "published_at": "2025-05-28T12:19:25+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:57.222452+00:00",
-    "content_warning": null,
-    "id": "58054573d4e0426609fb",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/sakuya0928/n/n514dca095ebe",
     "title": "コントラストの好きな歌詞発表ドラゴン",
     "author_id": "sakuya0928",
@@ -1803,7 +1709,7 @@
     "content_warning": null,
     "id": "39e915c8395cc6bf1a90",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -1825,29 +1731,6 @@
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/manami_fy05422/n/n3be35a0cea34",
-    "title": "『フルーツバスケット』/FRUITSZIPPER｜それぞれの甘酸っぱさを抱えて、自分らしく生きていく。",
-    "author_id": "manami_fy05422",
-    "published_at": "2026-11-03T04:11:19+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:59.532831+00:00",
-    "content_warning": null,
-    "id": "78fd48f3603d1e835d4d",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "fruits-zipper"
-    ],
-    "member_ids": [],
-    "song_ids": [
-      "fz-fruits-basket"
-    ],
-    "category_ids": [
-      "jp-female"
-    ],
     "topic_ids": []
   },
   {
@@ -2683,23 +2566,6 @@
     "first_seen_at": "2026-11-17T12:28:02.877784+00:00",
     "content_warning": null,
     "id": "fd34aa10cb7c67b02daa",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://sprint-life.hatenablog.com/entry/2021/09/22/185037",
-    "title": "Thunderbirdでグローバル検索データベースを再構築する",
-    "author_id": "splicom",
-    "published_at": "2021-09-22T09:50:37+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:28:04.852551+00:00",
-    "content_warning": null,
-    "id": "a2fd7af00a93c10864c2",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -3729,23 +3595,6 @@
     "first_seen_at": "2026-11-17T12:28:07.117194+00:00",
     "content_warning": null,
     "id": "64953eb94efa223cbb26",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://chihiro-blues.hatenablog.com/entry/2026/11/09/213000",
-    "title": "【お知らせ】新潟ペンライト行動［11/19(木) 18:30～19:30、新潟駅南口広場］",
-    "author_id": "chihiro-blues",
-    "published_at": "2026-11-16T14:00:00+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:50:58.777948+00:00",
-    "content_warning": null,
-    "id": "4073aa3701136100427d",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -6754,7 +6603,7 @@
     "content_warning": null,
     "id": "e42251507cf48542b512",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [
       "akb48"
     ],
