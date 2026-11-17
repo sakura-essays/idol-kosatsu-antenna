@@ -464,17 +464,22 @@
     "first_seen_at": "2026-11-17T12:27:51.458225+00:00",
     "content_warning": null,
     "id": "66f199d60ef12680c458",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "angerme"
     ],
     "member_ids": [],
     "song_ids": [],
     "category_ids": [
+      "culture",
       "hello"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "live",
+      "industry",
+      "history"
+    ]
   },
   {
     "url": "https://note.com/fubuki_hp/n/n09f3b40bb46a",
@@ -1512,13 +1517,17 @@
     "first_seen_at": "2026-11-17T12:27:54.947350+00:00",
     "content_warning": null,
     "id": "1e8d9c4f9a8cc6f7cf52",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "jp-female"
+    ],
+    "topic_ids": [
+      "music"
+    ]
   },
   {
     "url": "https://note.com/ktmk___55/n/nd199c487932d",
@@ -1920,8 +1929,8 @@
     "first_seen_at": "2026-11-17T12:27:56.111849+00:00",
     "content_warning": null,
     "id": "55ac562920fe624fe194",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -2159,7 +2168,7 @@
     "content_warning": null,
     "id": "cbf203cb92bbb71bdbab",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -2540,13 +2549,21 @@
     "first_seen_at": "2026-11-17T12:28:00.652037+00:00",
     "content_warning": null,
     "id": "21ae3124c6f9e3a7168c",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "bybbit"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "culture",
+      "jp-female"
+    ],
+    "topic_ids": [
+      "industry",
+      "fandom"
+    ]
   },
   {
     "url": "https://note.com/daraku_in/n/nedf2cf37f96b",
@@ -2932,13 +2949,21 @@
     "first_seen_at": "2026-11-17T12:28:02.877027+00:00",
     "content_warning": null,
     "id": "0b1cca2b513e47f95524",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "super-dragon"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "culture",
+      "jp-male"
+    ],
+    "topic_ids": [
+      "member",
+      "fandom"
+    ]
   },
   {
     "url": "https://note.com/idol0taku/n/n71baaf066adb",
@@ -3374,8 +3399,8 @@
     "first_seen_at": "2026-11-17T12:28:04.853331+00:00",
     "content_warning": null,
     "id": "92324d7d8c325d39505c",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [
       "perfume"
     ],
@@ -3886,13 +3911,18 @@
     "first_seen_at": "2026-11-17T12:28:07.111235+00:00",
     "content_warning": null,
     "id": "bdf43e4ff8adf3115efd",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "starto"
+    ],
+    "topic_ids": [
+      "live",
+      "performance"
+    ]
   },
   {
     "url": "https://jeln1nyo-0728.hatenablog.com/entry/2024/10/18/000000",
@@ -6317,8 +6347,8 @@
     "first_seen_at": "2026-11-17T12:51:07.345573+00:00",
     "content_warning": null,
     "id": "5e0e7c2f5ecfbd589ffc",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -7986,13 +8016,23 @@
     "first_seen_at": "2026-11-17T12:51:14.301450+00:00",
     "content_warning": null,
     "id": "a209abde44688cb0645f",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "klp48"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "48",
+      "culture",
+      "overseas"
+    ],
+    "topic_ids": [
+      "fandom",
+      "industry",
+      "history"
+    ]
   },
   {
     "url": "https://note.com/antitti/n/ne1e7644b9252",
@@ -8005,10 +8045,14 @@
     "id": "74f1d123bbade2375e7c",
     "status": "pending",
     "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "group_ids": [
+      "klp48"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "48"
+    ],
     "topic_ids": []
   },
   {
@@ -10125,8 +10169,8 @@
     "first_seen_at": "2026-11-17T12:51:22.653269+00:00",
     "content_warning": null,
     "id": "433f6c4d5f5f3883e9b0",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "tenkuon-parade"
     ],
@@ -10135,7 +10179,10 @@
     "category_ids": [
       "jp-female"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "live",
+      "fandom"
+    ]
   },
   {
     "url": "https://note.com/yas21/n/nabfd1ba608aa",
@@ -11682,8 +11729,8 @@
     "first_seen_at": "2026-11-17T13:16:04.974822+00:00",
     "content_warning": null,
     "id": "8ce8025e42f5711b8da9",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "hinatazaka46"
     ],
@@ -11692,7 +11739,11 @@
     "category_ids": [
       "sakamichi"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "live",
+      "music",
+      "history"
+    ]
   },
   {
     "url": "https://note.com/sannie_blog/n/na36a8e776407",
@@ -12076,13 +12127,21 @@
     "first_seen_at": "2026-11-17T13:16:07.488424+00:00",
     "content_warning": null,
     "id": "a52de7617eec25a83989",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "hinatazaka46"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "sakamichi"
+    ],
+    "topic_ids": [
+      "live",
+      "fandom",
+      "performance"
+    ]
   },
   {
     "url": "https://tkmt-182.hatenablog.com/entry/2020/12/31/201250",
@@ -13019,13 +13078,21 @@
     "first_seen_at": "2026-11-17T13:16:11.764766+00:00",
     "content_warning": null,
     "id": "6f797e2827f04a7d9f69",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "hinatazaka46"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "culture",
+      "sakamichi"
+    ],
+    "topic_ids": [
+      "fandom",
+      "media"
+    ]
   },
   {
     "url": "https://note.com/tsukagirei/n/n090ec683f540",
@@ -14893,13 +14960,22 @@
     "first_seen_at": "2026-11-17T13:16:18.943415+00:00",
     "content_warning": null,
     "id": "858a0bbd5c470d6774e9",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "nogizaka46"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "sakamichi"
+    ],
+    "topic_ids": [
+      "music",
+      "media",
+      "history",
+      "creators"
+    ]
   },
   {
     "url": "https://kokokokua2.hatenablog.com/entry/2023/07/06/231350",
