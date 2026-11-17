@@ -2719,6 +2719,276 @@
       ],
       "member_ids": [],
       "song_ids": []
+    },
+    "https://note.com/fubuki_hp/n/nac578aec1e64": {
+      "status": "published",
+      "reviewed_title": "令和の現在における「ファンとの距離感」の設計について",
+      "reviewed_at": "2026-11-18",
+      "review_note": "無料公開冒頭でSNS・ブログによるアイドルとファンの心理的距離の変容を具体的に論じていると確認。本文7,071字の有料部分は未確認",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hello-project"
+      ],
+      "category_ids": [
+        "hello",
+        "culture"
+      ],
+      "topic_ids": [
+        "fandom",
+        "industry",
+        "media"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/nadegata_hp/n/nff8ab714486a": {
+      "status": "published",
+      "reviewed_title": "江端妃咲は、「不憫」なだけの人なのか？",
+      "reviewed_at": "2026-11-18",
+      "review_note": "Juice=Juice江端妃咲の『不憫キャラ』という受け止め方に対して、イベントや番組内での場を回す能力を具体的に分析",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "juice"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "topic_ids": [
+        "member",
+        "media",
+        "performance"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/ktmk___55/n/nfc25c1e2161d": {
+      "status": "excluded",
+      "reviewed_title": "地上の満月",
+      "reviewed_at": "2026-11-18",
+      "review_note": "ドラマ視聴と照明器具、本人の対人観を記した日記で、アイドルを中心とする考察・感想ではない"
+    },
+    "https://note.com/hatsutaiken_note/n/nbb366c480f96": {
+      "status": "published",
+      "reviewed_title": "映画「恋愛裁判」から考えるアイドルの幸せ",
+      "reviewed_at": "2026-11-18",
+      "review_note": "映画『恋愛裁判』を契機にアイドルの恋愛禁止・労働・ファン心理を論じた実質的なアイドル文化批評",
+      "verified_nonfiction": true,
+      "group_ids": [],
+      "category_ids": [
+        "culture"
+      ],
+      "topic_ids": [
+        "media",
+        "fandom",
+        "industry"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/daraku_in/n/na5ef74427e89": {
+      "status": "pending",
+      "reviewed_title": "なぜ本州在住の私が北海道のアイドル(BYBBiT)に通うようになったのか",
+      "reviewed_at": "2026-11-18",
+      "review_note": "BYBBiTへの遠征やリーダー竹内りおんへの言及を検索結果の原文断片で確認。ただし元記事本文の取得ができず、全体の確認後に再審査"
+    },
+    "https://note.com/idol0taku/n/n454664c018b5": {
+      "status": "published",
+      "reviewed_title": "2025年の10曲選",
+      "reviewed_at": "2026-11-18",
+      "review_note": "男性アイドル楽曲を中心とした2025年の10曲の個別感想。音楽表現と自身のファン体験を曲別に具体的に論評",
+      "verified_nonfiction": true,
+      "group_ids": [],
+      "category_ids": [
+        "jp-male",
+        "starto"
+      ],
+      "topic_ids": [
+        "music",
+        "fandom",
+        "performance"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/dnf48/n/nf4b23b5a029c": {
+      "status": "published",
+      "reviewed_title": "AIを使って気づいた、AKB48の歴史を記録し続けてくれるファンへの感謝",
+      "reviewed_at": "2026-11-18",
+      "review_note": "AKB48の歴史を残してきたファンの記録がAI集計を通じ新たに読めることへの考察。技術手順ではなくファン文化が主題",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48"
+      ],
+      "category_ids": [
+        "48",
+        "culture"
+      ],
+      "topic_ids": [
+        "history",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/antitti/n/n091f6b0695a0": {
+      "status": "published",
+      "reviewed_title": "ベトナムまでチーム８を追いかけて、SGO４８を見てきたお話（社会主義とアイドルとパレードと現場主義）",
+      "reviewed_at": "2026-11-18",
+      "review_note": "AKB48チーム8とSGO48を追いベトナムまで渡航した2018年の経験を、現地イベントと海外ファン文化を含めて長文で記述",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48",
+        "sgo48"
+      ],
+      "category_ids": [
+        "48",
+        "overseas"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/oboeteitekure913/n/nb48e1887df89": {
+      "status": "published",
+      "reviewed_title": "今日のラジオは文字です「転生しても好きですか？」",
+      "reviewed_at": "2026-11-18",
+      "review_note": "前田敦子と元SKE48林美澪の会話を手がかりに、元メンバーが活動を変えた後も応援する理由を自身の経験から論考",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "ske48"
+      ],
+      "category_ids": [
+        "48",
+        "culture"
+      ],
+      "topic_ids": [
+        "fandom",
+        "history",
+        "member"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/tsukagirei/n/n6d2d6f71426a": {
+      "status": "published",
+      "reviewed_title": "欅坂で一番どうかしてる曲「もう森へ帰ろうか？」。たぶん関係者全員やばくなってた",
+      "reviewed_at": "2026-11-18",
+      "review_note": "欅坂46『もう森へ帰ろうか？』の歌詞とMVをメタ的なアイドル自己批評として解釈。制作陣の心理については筆者の推測である",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "music",
+        "history",
+        "creators"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/cathouse/n/n857bb9494f7a": {
+      "status": "published",
+      "reviewed_title": "「成熟」と「成長」／櫻坂46「6th ANNIVERSARY LIVE」に期待すること",
+      "reviewed_at": "2026-11-18",
+      "review_note": "櫻坂46の過去ツアーと6周年ライブへの期待を、成熟と成長の循環・セットリストの構造から説明する考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/sama_migirou/n/n1acd1c3cc80e": {
+      "status": "published",
+      "reviewed_title": "夢を諦めた人間ほど、夢を笑う。【櫻坂46 自称バレエダンサー 歌詞考察】",
+      "reviewed_at": "2026-11-18",
+      "review_note": "櫻坂46『自称バレエダンサー』の歌詞とMVを、夢を諦めた側の視点と自己規定の問題から読み解いた考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "music",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://kokokokua2.hatenablog.com/entry/2021/03/16/230903": {
+      "status": "published",
+      "reviewed_title": "「STU48 4周年コンサート」感想　昼公演編",
+      "reviewed_at": "2026-11-18",
+      "review_note": "STU48四周年コンサートの配信鑑賞を曲別の演出・歌唱や機材トラブルへの印象を含めて記した具体的な公演感想",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "stu48"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "music"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://ksk.hatenablog.com/entry/2013/08/08/021536": {
+      "status": "published",
+      "reviewed_title": "130726 お台場合衆国2013 めざましライブ",
+      "reviewed_at": "2026-11-18",
+      "review_note": "2013年のお台場合衆国・乃木坂46ライブを振り返り、セットリストの特定曲不在への率直な感想と会場体験を記述",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/hinatahappy/n/n4c5bf7529215": {
+      "status": "published",
+      "reviewed_title": "日向坂46 オンラインミート＆グリート　感想",
+      "reviewed_at": "2026-11-18",
+      "review_note": "日向坂46のオンラインミート＆グリート初参加を通じた会話方法・機器準備・交流の体験的な評価",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "fandom",
+        "member"
+      ],
+      "member_ids": [],
+      "song_ids": []
     }
   },
   "blocked_urls": [],
