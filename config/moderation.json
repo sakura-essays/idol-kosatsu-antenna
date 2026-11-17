@@ -951,6 +951,107 @@
       ],
       "member_ids": [],
       "song_ids": []
+    },
+    "https://note.com/fubuki_hp/n/n4e7c943c9949": {
+      "status": "published",
+      "reviewed_title": "2026年ハロプロ研修生のアンジュルム加入について（速報編）",
+      "reviewed_at": "2026-11-17",
+      "review_note": "グループ現状、動員、加入時期を分析した論評",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "angerme",
+        "hello-project"
+      ],
+      "topic_ids": [
+        "industry",
+        "history"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/fubuki_hp/n/n17eb1d97f9b1": {
+      "status": "excluded",
+      "reviewed_title": "電子書籍『アイドルが人気を獲得し、向上させる方法』発売のお知らせ",
+      "reviewed_at": "2026-11-17",
+      "review_note": "本記事は書籍の発売告知と目次・購入案内が中心"
+    },
+    "https://note.com/nadegata_hp/n/nb13901ea8a55": {
+      "status": "published",
+      "reviewed_title": "「売り方が下手」と言われるハロプロが、ずっと売ってきたもの",
+      "reviewed_at": "2026-11-17",
+      "review_note": "楽曲比較と事務所戦略について独自の仮説を展開",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hello-project",
+        "juice"
+      ],
+      "topic_ids": [
+        "industry",
+        "music",
+        "history"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/ktmk___55/n/n9394827db876": {
+      "status": "excluded",
+      "reviewed_title": "Podcastを開設してしまいました｜超共感覚って一体？",
+      "reviewed_at": "2026-11-17",
+      "review_note": "本人のPodcast開設告知でありアイドル論ではない"
+    },
+    "https://note.com/manami_fy05422/n/n3be35a0cea34": {
+      "status": "published",
+      "reviewed_title": "『フルーツバスケット』/FRUITSZIPPER｜それぞれの甘酸っぱさを抱えて、自分らしく生きていく。",
+      "reviewed_at": "2026-11-17",
+      "review_note": "FRUITS ZIPPER楽曲の歌詞を一節ごとに解釈",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "fruits-zipper"
+      ],
+      "topic_ids": [
+        "music"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/sakuya0928/n/n9e53ca78f44c": {
+      "status": "excluded",
+      "reviewed_title": "ラブカファンミーティングハーフデッキ一夜漬け備忘録",
+      "reviewed_at": "2026-11-17",
+      "review_note": "主題はトレーディングカードゲームのデッキ戦略"
+    },
+    "https://sprint-life.hatenablog.com/entry/2021/09/22/185037": {
+      "status": "excluded",
+      "reviewed_title": "Thunderbirdでグローバル検索データベースを再構築する",
+      "reviewed_at": "2026-11-17",
+      "review_note": "メールソフトの技術メモでアイドル関連性なし"
+    },
+    "https://chihiro-blues.hatenablog.com/entry/2026/11/09/213000": {
+      "status": "excluded",
+      "reviewed_title": "【お知らせ】新潟ペンライト行動［11/19(木) 18:30～19:30、新潟駅南口広場］",
+      "reviewed_at": "2026-11-17",
+      "review_note": "市民行動の告知でアイドル関連性なし"
+    },
+    "https://note.com/dnf48/n/n82af656ac021": {
+      "status": "pending",
+      "reviewed_title": "紅白2年連続出場　―バズでは測れないAKB48の画面持ちの良さ",
+      "reviewed_at": "2026-11-17",
+      "review_note": "記事の公開元に到達できず本文確認を未了"
+    },
+    "https://note.com/0909otakulife_/n/nd74f474930a5": {
+      "status": "pending",
+      "reviewed_title": "推しについて (自己紹介の続き)",
+      "reviewed_at": "2026-11-17",
+      "review_note": "複数グループへの好みの紹介が中心で、短い感想として扱うか編集判断を保留"
     }
   },
   "blocked_urls": [],
