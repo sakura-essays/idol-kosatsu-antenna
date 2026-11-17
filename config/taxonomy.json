@@ -530,6 +530,15 @@
       "category_id": "hello",
       "aliases": [],
       "kind": "group"
+    },
+    {
+      "id": "timelesz",
+      "name": "timelesz",
+      "aliases": [
+        "Sexy Zone"
+      ],
+      "category_id": "starto",
+      "kind": "group"
     }
   ],
   "members": [
