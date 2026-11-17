@@ -22,7 +22,7 @@ const params=new URLSearchParams(location.search);for(const [key,id] of [['q','q
 $('stats').textContent=`${D.articles.length} 記事 / ${D.authors.length} 人の書き手 · 収集開始版`;
 for(const id of ['category','group','topic','era','sort'])$(id).addEventListener('change',()=>{if(id==='category')groupOptions();if(id==='sort')randomOrder=C.shuffle(rows);shown=30;$('draw-result').replaceChildren();render()});
 let timer;for(const id of ['query','group-query'])$(id).addEventListener('input',()=>{clearTimeout(timer);timer=setTimeout(()=>{if(id==='group-query')groupOptions();shown=30;$('draw-result').replaceChildren();render()},100)});
-$('reset').onclick=()=>{for(const id of ['query','category','group-query','topic','era'])$(id).value='';groupOptions();$('sort').value='balanced';author=window.PRESET_AUTHOR||'';shown=30;$('draw-result').replaceChildren();render()};
+$('reset').onclick=()=>{for(const id of ['query','category','group','group-query','topic','era'])$(id).value='';groupOptions();$('sort').value='balanced';author=window.PRESET_AUTHOR||'';shown=30;$('draw-result').replaceChildren();render()};
 $('more').onclick=()=>{shown+=30;render()};
 for(const old of [false,true])$(old?'old-random':'random').onclick=()=>{const cutoff=new Date(Date.now()-30*86400000).toISOString();const pool=search(rows,current()).filter(a=>!old||a.published_at<cutoff);const a=C.draw(pool);$('draw-result').innerHTML=a?article(a):'<p>この条件で抽選できる記事はありません。</p>'};
 if(isWriters){$('discovery').hidden=true;$('sort').parentElement.hidden=true;$('results-heading').textContent='書き手を探す';const b=document.createElement('button');b.className='quiet';b.textContent='書き手を並べ直す';b.onclick=()=>{writerOrder=C.shuffle(D.authors);render()};$('active-author').append(b)}
