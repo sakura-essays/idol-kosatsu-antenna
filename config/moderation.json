@@ -2229,6 +2229,254 @@
       ],
       "member_ids": [],
       "song_ids": []
+    },
+    "https://note.com/fubuki_hp/n/nb50f2a308152": {
+      "status": "published",
+      "reviewed_title": "ロージークロニクル ライブツアー2026～BOOKMARK～（東京）の感想 〜一強から調和へ、デビュー２年目の現在地〜",
+      "reviewed_at": "2026-11-18",
+      "review_note": "ライブの構成、コール、メンバー間の支持や表現の変化を論評。無料公開部分で非創作の考察と確認、有料部分は未確認",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "rosy-chronicle"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "history",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/ktmk___55/n/na016e1782839": {
+      "status": "excluded",
+      "reviewed_title": "9月に読んだ6冊｜読書記録",
+      "reviewed_at": "2026-11-18",
+      "review_note": "9月に読んだ文芸作品6冊の読書感想。アイドル活動や文化の考察を主題にしない"
+    },
+    "https://note.com/hatsutaiken_note/n/n9dfdfeb4b65c": {
+      "status": "excluded",
+      "reviewed_title": "【一人参加】ダイアログ・イン・ザ・ダーク行ってきた〜PEACE IN THE DARK「祭」〜",
+      "reviewed_at": "2026-11-18",
+      "review_note": "暗闇体験イベントの参加レポートで、アイドルに関係しない"
+    },
+    "https://note.com/idol0taku/n/ndd369ba63082": {
+      "status": "excluded",
+      "reviewed_title": "fairy tale",
+      "reviewed_at": "2026-11-18",
+      "review_note": "『詩』タグを付けた創作詩であり、実在アイドルの具体的な考察・感想とは確認できない"
+    },
+    "https://sprint-life.hatenablog.com/entry/2021/03/23/193553": {
+      "status": "excluded",
+      "reviewed_title": "Twitterのアナリティクスは自分のリアクションも集計対象になっている",
+      "reviewed_at": "2026-11-18",
+      "review_note": "Twitterアナリティクスの集計挙動を説明する技術記事でアイドルに無関係"
+    },
+    "https://ksk.hatenablog.com/entry/2013/12/09/233000": {
+      "status": "published",
+      "reviewed_title": "131208 「バレッタ」全国握手会 in パシフィコ横浜",
+      "reviewed_at": "2026-11-18",
+      "review_note": "2013年の乃木坂46全国握手会について、楽曲別の生歌・口パクの印象や公演構成・ファン増加への独自評価を記した現地レポート",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/cathouse/n/n7118d15c8bcc": {
+      "status": "published",
+      "reviewed_title": "未来へ「反復」すること／櫻坂46「6th YEAR ANNIVERSARY LIVE」",
+      "reviewed_at": "2026-11-18",
+      "review_note": "櫻坂46の6thアニラにおける演出・人物の視線・立ち位置・『反復』の概念を分析した独立考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "history",
+        "member"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/ready_auklet5508/n/n0e6c4b738fd9": {
+      "status": "published",
+      "reviewed_title": "NMB48 ここにだって天使はいる公演 歌詞考察2",
+      "reviewed_at": "2026-11-18",
+      "review_note": "NMB48『ここにだって天使はいる』公演の複数曲にまたがる歌詞と人物像の連関を解釈した考察。フィクションの創作ではなく既存楽曲の批評",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nmb48"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "topic_ids": [
+        "music",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://kokokokua2.hatenablog.com/entry/2023/03/27/150314": {
+      "status": "published",
+      "reviewed_title": "人は夢を二度見る／池田瑛紗",
+      "reviewed_at": "2026-11-18",
+      "review_note": "池田瑛紗の進路と乃木坂46の『帰り道は遠回りしたくなる』MV等をつなげた考察的感想",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "member",
+        "music",
+        "media",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://tkmt-182.hatenablog.com/entry/2019/12/26/214633": {
+      "status": "published",
+      "reviewed_title": "ひなたくりすます2019のおはなし",
+      "reviewed_at": "2026-11-18",
+      "review_note": "日向坂46『ひなくり2019』の現地観覧に基づき楽曲別の演出やコール、メンバーの表情を評価したライブレポート",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/fubuki_hp/n/n017af58f2384": {
+      "status": "published",
+      "reviewed_title": "ハロプロ研修生発表会2026年９月〜新風〜（東京）の感想",
+      "reviewed_at": "2026-11-18",
+      "review_note": "ハロプロ研修生発表会のステージ動線、既存曲の歌割、リズム表現、出演者への個別評価を含む分析",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hello-project"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "industry",
+        "member"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/hinatahappy/n/n89822b99cb62": {
+      "status": "published",
+      "reviewed_title": "齊藤京子1st写真集「とっておきの恋人」が素晴らしすぎる",
+      "reviewed_at": "2026-11-18",
+      "review_note": "齊藤京子1st写真集について複数表紙や収録内容への主観的印象と店頭展示での観察を記した短いファンレビュー。批評の深さではなく感想の有無で判断",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "media",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/oboeteitekure913/n/n1123ea7502d5": {
+      "status": "published",
+      "reviewed_title": "今日のラジオは文字です「地方の48グループに所属するということ」",
+      "reviewed_at": "2026-11-18",
+      "review_note": "STU48のオーディション、媒体戦略、メンバーが求める姿勢について既存インタビューを踏まえて考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "stu48",
+        "ske48"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "topic_ids": [
+        "industry",
+        "history",
+        "member"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/fubuki_hp/n/n9e763a1046d0": {
+      "status": "published",
+      "reviewed_title": "アンジュルム 橋迫鈴の卒業決定に関する考察 〜なぜ、今卒業を決断したのか〜",
+      "reviewed_at": "2026-11-18",
+      "review_note": "アンジュルム橋迫鈴の卒業について、本人の言葉と年齢・在籍歴のねじれを区別して検討。無料公開部分で非創作考察と確認、有料部分は未確認",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "angerme",
+        "hello-project"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "topic_ids": [
+        "member",
+        "history",
+        "industry"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://kokokokua2.hatenablog.com/entry/2022/01/23/050654": {
+      "status": "published",
+      "reviewed_title": "感想②　小島愛子の歌、思い出したこと",
+      "reviewed_at": "2026-11-18",
+      "review_note": "STU48小島愛子の歌唱力大会での評価を技術面と表現面に分けて論じ、審査軸の違いを検討する感想",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "stu48"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "topic_ids": [
+        "performance",
+        "music",
+        "member"
+      ],
+      "member_ids": [],
+      "song_ids": []
     }
   },
   "blocked_urls": [],
