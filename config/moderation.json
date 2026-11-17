@@ -1998,6 +1998,237 @@
       ],
       "member_ids": [],
       "song_ids": []
+    },
+    "https://note.com/fubuki_hp/n/nc56d1fff01c5": {
+      "status": "pending",
+      "reviewed_title": "紅白出場という一等星へ向かってひた走る「銀河鉄道Juice=Juice」～事務所は最後のブレーキをどこでかけるか～",
+      "reviewed_at": "2026-11-18",
+      "review_note": "検索結果でJuice=Juiceの紅白出場と事務所戦略への論評を確認したが元記事本文を取得できず保留"
+    },
+    "https://note.com/nadegata_hp/n/nf37ce830dc7c": {
+      "status": "published",
+      "reviewed_title": "染まらないことが、つばきファクトリーの色なのかもしれない",
+      "reviewed_at": "2026-11-18",
+      "review_note": "つばきファクトリーの現地ライブ経験をもとに、ファン層の深さ・グループの色・世代交代を論じる",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "tsubaki"
+      ],
+      "category_ids": [
+        "hello",
+        "culture"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/hatsutaiken_note/n/n2ccdb3f2f32c": {
+      "status": "excluded",
+      "reviewed_title": "あなたのクレームはなぜ届かないのか〜退会できないクソページが生まれるワケ〜",
+      "reviewed_at": "2026-11-18",
+      "review_note": "原文の現題はダークパターンと企業のクレーム対応機構の解説。アイドル文化や運営についての論評ではない"
+    },
+    "https://note.com/sakuya0928/n/n228938c633c1": {
+      "status": "pending",
+      "reviewed_title": "やっぱり私、結那が好きだ！",
+      "reviewed_at": "2026-11-18",
+      "review_note": "記事『やっぱり私、結那が好きだ！』は元記事本文を取得できず、対象アイドル及び内容適合性の確認を保留"
+    },
+    "https://note.com/daraku_in/n/ne925efa0a549": {
+      "status": "excluded",
+      "reviewed_title": "アイドル運営のためのAI入門 〜月4000円未満でGoogleカレンダー同期をほぼ自動化する〜",
+      "reviewed_at": "2026-11-18",
+      "review_note": "アイドル運営向けGoogleカレンダー同期をAIで実装する手順解説が主題。アイドル文化の批評・感想ではない"
+    },
+    "https://note.com/idol0taku/n/n983f76c5e7c8": {
+      "status": "published",
+      "reviewed_title": "&TEAMに出逢ってメンクリに行けたよ",
+      "reviewed_at": "2026-11-18",
+      "review_note": "&TEAMとの出会いとK・FUMAから受けた影響を踏まえたファン自身の経験談。医療の効果や人物評価の事実性を保証しない",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "andteam"
+      ],
+      "category_ids": [
+        "jp-male",
+        "culture"
+      ],
+      "topic_ids": [
+        "fandom",
+        "member"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://jeln1nyo-0728.hatenablog.com/entry/2024/10/18/000000": {
+      "status": "published",
+      "reviewed_title": "SixTONES LIVE TOUR 2024 VVS 円盤発売。",
+      "reviewed_at": "2026-11-18",
+      "review_note": "SixTONES『VVS』映像作品の発売案内に加え、ライブ映像と現地観覧経験を比較しステージ演出への感想を記載",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sixtones"
+      ],
+      "category_ids": [
+        "starto"
+      ],
+      "topic_ids": [
+        "live",
+        "performance"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/tyan_th/n/n697be548199f": {
+      "status": "excluded",
+      "reviewed_title": "好きなタイ料理 その7：クアイジャップユアン（ก๋วยจั๊บญวน）",
+      "reviewed_at": "2026-11-18",
+      "review_note": "タイの麺料理の食材と調理・実食を扱う旅行・飲食記事。アイドル関連性なし"
+    },
+    "https://note.com/dnf48/n/n93d5b06b60a7": {
+      "status": "published",
+      "reviewed_title": "AKB48 現役メンバーの力で、もう一度紅白歌合戦の舞台へ",
+      "reviewed_at": "2026-11-18",
+      "review_note": "AKB48の紅白復帰についてOGとの共演と現役世代の継承を比較したファンによる論評。報道の正誤をサイトが保証するものではない",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "topic_ids": [
+        "history",
+        "industry",
+        "performance"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/antitti/n/nd47ba053a97b": {
+      "status": "published",
+      "reviewed_title": "SGO48個別握手会レポ（行けば分かるさ、海外４８）＊約４万字",
+      "reviewed_at": "2026-11-18",
+      "review_note": "2019年のSGO48ベトナム個別握手会を実際の参加経験と現場の描写から記した長文の体験記",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sgo48"
+      ],
+      "category_ids": [
+        "48",
+        "overseas"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/yas21/n/nabfd1ba608aa": {
+      "status": "published",
+      "reviewed_title": "推しが卒業するまで全通する",
+      "reviewed_at": "2026-11-18",
+      "review_note": "天空音パレード羽澄るなの卒業発表を契機に、熱心すぎないファンの葛藤や全通を決める心理を綴る",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "tenkuon-parade"
+      ],
+      "category_ids": [
+        "jp-female",
+        "culture"
+      ],
+      "topic_ids": [
+        "fandom",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/hinatahappy/n/n5656d95b205c": {
+      "status": "published",
+      "reviewed_title": "日向坂46 1stアルバム ひなたざか　レビュー",
+      "reviewed_at": "2026-11-18",
+      "review_note": "2020年の日向坂46の1stアルバム各収録曲について音楽的感想とメンバー配置への評価を記したレビュー",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hinatazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "music",
+        "performance"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/tsukagirei/n/nd087847bdf4f": {
+      "status": "published",
+      "reviewed_title": "紅白歌合戦とシーンの変化。その変わり方って悲しかったりもする",
+      "reviewed_at": "2026-11-18",
+      "review_note": "紅白歌合戦への出場選考を手がかりに、坂道とK-POPの音楽シーンの変化を論じる批評",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46",
+        "hinatazaka46"
+      ],
+      "category_ids": [
+        "sakamichi",
+        "culture"
+      ],
+      "topic_ids": [
+        "industry",
+        "history",
+        "music"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/cathouse/n/ncb46a6dbd4e4": {
+      "status": "published",
+      "reviewed_title": "四期生たちのエクソダス——櫻坂46『We got your back』",
+      "reviewed_at": "2026-11-18",
+      "review_note": "櫻坂46『We got your back』MVの動作・衣装・歌詞を、四期生と欅坂の物語に結びつけた考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "music",
+        "performance",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://kokokokua2.hatenablog.com/entry/2022/01/15/003637": {
+      "status": "published",
+      "reviewed_title": "第４回AKB48グループ歌唱力No.1決定戦　感想①",
+      "reviewed_at": "2026-11-18",
+      "review_note": "AKB48グループ歌唱力No.1決定戦の矢野帆夏の選曲や歌唱・編曲について具体的に分析した感想",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "topic_ids": [
+        "performance",
+        "music",
+        "media"
+      ],
+      "member_ids": [],
+      "song_ids": []
     }
   },
   "blocked_urls": [],
