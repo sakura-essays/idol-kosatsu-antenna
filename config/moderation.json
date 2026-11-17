@@ -896,6 +896,61 @@
         "creators",
         "fandom"
       ]
+    },
+    "https://jeln1nyo-0728.hatenablog.com/entry/2024/07/11/000000": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "SixTONESのニューシングル『GONG / ここに帰ってきて』全曲レポートブログ",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "sixtones"
+      ],
+      "topic_ids": [
+        "music",
+        "performance"
+      ],
+      "category_ids": [
+        "starto"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://ippyiwa.hatenablog.com/entry/2015/11/16/033136": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "ぼくらの日曜日〜Negicco ツーマンツアー盛岡公演〜",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "negicco"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom",
+        "performance"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/ready_auklet5508/n/nc0291108c730": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "NMB48 ここにだって天使はいる公演 歌詞考察3",
+      "reviewed_at": "2026-11-17",
+      "group_ids": [
+        "nmb48"
+      ],
+      "topic_ids": [
+        "music",
+        "live"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "member_ids": [],
+      "song_ids": []
     }
   },
   "blocked_urls": [],
