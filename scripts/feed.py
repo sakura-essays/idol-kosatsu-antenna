@@ -38,7 +38,8 @@ def canonical(url):
     return urllib.parse.urlunsplit((p.scheme,p.netloc.lower(),p.path,urllib.parse.urlencode(q),''))
 
 def safe_url(url):
-    p=urllib.parse.urlsplit(canonical(url))
+    canonical(url)  # Validate URL syntax, but check the actual fetch target below.
+    p=urllib.parse.urlsplit(url.strip())
     if p.scheme!='https' or p.port not in (None,443):raise ValueError('HTTPS public endpoints only')
     # Known publisher hosts also work through environments whose HTTPS proxy resolves DNS.
     if p.hostname=='note.com' or p.hostname.endswith(('.hatenablog.com','.hatenablog.jp','.hateblo.jp')):return url

@@ -1,7 +1,7 @@
 import copy,json,sys,pathlib,unittest,tempfile
 from unittest.mock import patch
 sys.path.insert(0,str(pathlib.Path(__file__).resolve().parents[1]/'scripts'))
-from feed import ROOT,canonical,parse
+from feed import ROOT,canonical,parse,safe_url
 from catalog import apply,suggest,read,load_catalog
 from collect import ingest,run
 class CatalogTests(unittest.TestCase):
@@ -16,6 +16,9 @@ class CatalogTests(unittest.TestCase):
   self.assertEqual(canonical(self.url.replace('https://note.com','http://www.note.com')+'/'),self.url)
  def test_other_publishers_keep_identity_query(self):
   self.assertEqual(canonical('https://example.org/?p=123&utm_source=test'),'https://example.org/?p=123')
+ def test_fetch_checks_actual_scheme_and_port(self):
+  for u in ('http://note.com/account/n/id','https://note.com:444/account/n/id'):
+   with self.assertRaises(ValueError):safe_url(u)
  def test_block_wins_over_approval(self):
   m=copy.deepcopy(self.mod);m['blocked_urls']=[self.url];self.assertEqual(self.calc(mod=m)[self.url]['status'],'excluded')
  def test_author_block(self):
