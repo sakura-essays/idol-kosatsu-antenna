@@ -539,6 +539,23 @@
       ],
       "category_id": "starto",
       "kind": "group"
+    },
+    {
+      "id": "genjibu",
+      "name": "原因は自分にある。",
+      "category_id": "jp-male",
+      "aliases": [
+        "げんじぶ",
+        "原因は自分にある"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "kokoiya",
+      "name": "KOKOIYA",
+      "category_id": "overseas",
+      "aliases": [],
+      "kind": "group"
     }
   ],
   "members": [
