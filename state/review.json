@@ -55,23 +55,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/fubuki_hp/n/n10e43a06a290",
-    "title": "事務所の平等主義とハロコン2026の役割：「わがままリクエスト」から紐解く構造変革",
-    "author_id": "fubuki_hp",
-    "published_at": "2026-07-07T21:55:32+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:51.458875+00:00",
-    "content_warning": null,
-    "id": "d255fec48e30b5e10ba5",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/fubuki_hp/n/ncf18fa6bea4e",
     "title": "ハロー！プロジェクトの外部・内部環境統合分析（総論）",
     "author_id": "fubuki_hp",
@@ -107,27 +90,6 @@
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/fubuki_hp/n/n0092e36a0a7e",
-    "title": "ハロプロ研修生発表会2026年６月～若葉～（東京）の感想",
-    "author_id": "fubuki_hp",
-    "published_at": "2026-06-28T20:00:54+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:51.459017+00:00",
-    "content_warning": null,
-    "id": "69cd024cc20eecb63826",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "hello-project"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
     "topic_ids": []
   },
   {
@@ -190,23 +152,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/nadegata_hp/n/na009c2365285",
-    "title": "工藤由愛は「スカしてない」",
-    "author_id": "nadegata_hp",
-    "published_at": "2026-09-08T10:03:25+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:52.638390+00:00",
-    "content_warning": null,
-    "id": "37ff0c5d238904c13341",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/nadegata_hp/n/nb89aa990b1a7",
     "title": "『イン・ザ・メガチャーチ』感想｜「推し活＝宗教」では終わらない",
     "author_id": "nadegata_hp",
@@ -241,27 +186,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/nadegata_hp/n/n6b23a322cdfc",
-    "title": "台風下のJuice=Juice個別イベントに足りなかった情報発信",
-    "author_id": "nadegata_hp",
-    "published_at": "2026-06-28T15:15:37+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:52.638534+00:00",
-    "content_warning": null,
-    "id": "007b4b9b30d736836744",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "juice"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/nadegata_hp/n/n4c1d9393da15",
     "title": "MUSIC AWARDS JAPANを観て、鹿鳴館を思い出した",
     "author_id": "nadegata_hp",
@@ -270,40 +194,6 @@
     "first_seen_at": "2026-11-17T12:27:52.638588+00:00",
     "content_warning": null,
     "id": "d1b4591bade56c5da3bb",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/nadegata_hp/n/n18d58d7005dc",
-    "title": "「おじいちゃんが多い現場」アンケート、自由記述に残っていたもの",
-    "author_id": "nadegata_hp",
-    "published_at": "2026-06-11T13:11:04+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:52.638652+00:00",
-    "content_warning": null,
-    "id": "7d94f44ec3206fe802e2",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/nadegata_hp/n/n25e9f444979f",
-    "title": "クラクラ☆クライマックスはコール曲なのか、客席も歌う曲なのか",
-    "author_id": "nadegata_hp",
-    "published_at": "2026-06-06T12:24:42+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:52.638673+00:00",
-    "content_warning": null,
-    "id": "bd929821a94c6923eeaa",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -397,23 +287,6 @@
     "first_seen_at": "2026-11-17T12:27:52.638841+00:00",
     "content_warning": null,
     "id": "314d9cb6da6da6e86f48",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/ktmk___55/n/nf6539acaa23d",
-    "title": "銀座熊本館に並んだ。熊本で待っとるばい。",
-    "author_id": "ktmk___55",
-    "published_at": "2026-07-30T09:27:39+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:54.947240+00:00",
-    "content_warning": null,
-    "id": "36ea755f2f61096d8c15",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -652,23 +525,6 @@
     "first_seen_at": "2026-11-17T12:27:54.948033+00:00",
     "content_warning": null,
     "id": "a35a538ada0ed2ad6177",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/hatsutaiken_note/n/n7200883a4a10",
-    "title": "部下にイライラするのをやめたいサラリーマンからの相談に答えた",
-    "author_id": "hatsutaiken_note",
-    "published_at": "2026-06-05T11:16:38+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:27:56.111733+00:00",
-    "content_warning": null,
-    "id": "6033209ce6e0145362a5",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -2201,23 +2057,6 @@
     "first_seen_at": "2026-11-17T12:28:07.115837+00:00",
     "content_warning": null,
     "id": "962bafec96d1fee618ce",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://jeln1nyo-0728.hatenablog.com/entry/2024/04/02/000000",
-    "title": "TOBEアーティストの曲をめちゃくちゃ聴いてる",
-    "author_id": "jeln1nyo-0728",
-    "published_at": "2024-04-01T15:00:00+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:28:07.115878+00:00",
-    "content_warning": null,
-    "id": "54fada7b2f58fb0ba08e",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -4728,23 +4567,6 @@
     "first_seen_at": "2026-11-17T12:51:10.038169+00:00",
     "content_warning": null,
     "id": "bd3fee6d1c66af79474f",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://note.com/sexysadie/n/n3e3397b10527",
-    "title": "【映画:PEARL パール】私をここから出して、それから愛して。",
-    "author_id": "sexysadie",
-    "published_at": "2023-07-12T12:23:56+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:10.038290+00:00",
-    "content_warning": null,
-    "id": "db6cc1aa5486f6bf0d95",
     "status": "pending",
     "reason": "記事単位の確認待ち",
     "group_ids": [],
@@ -7630,23 +7452,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/yas21/n/nfe91e9225e8c",
-    "title": "帰り道は遠回りしたくなる -2024/9/8 JumpingKiss 鈴木陽依梨卒業（最終編）",
-    "author_id": "yas21",
-    "published_at": "2024-09-17T12:03:47+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T12:51:22.653764+00:00",
-    "content_warning": null,
-    "id": "febaf2b572f56bf3a533",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/yas21/n/nb13ec09dffff",
     "title": "「笑ったり怒ったり時々泣いたりしながら心は強くなるはず」 -2024/9/8 JumpingKiss 鈴木陽依梨卒業（中編）",
     "author_id": "yas21",
@@ -7657,10 +7462,14 @@
     "id": "c0fff0b2ba73a487b5a7",
     "status": "pending",
     "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "group_ids": [
+      "jumpingkiss"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
     "topic_ids": []
   },
   {
@@ -7674,10 +7483,14 @@
     "id": "216f2def632f2c1f3ae9",
     "status": "pending",
     "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "group_ids": [
+      "jumpingkiss"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
     "topic_ids": []
   },
   {
@@ -10269,27 +10082,6 @@
     "topic_ids": []
   },
   {
-    "url": "https://note.com/sama_migirou/n/n2ed620ebf06f",
-    "title": "過去を背負ったまま、人は別人になれる。【櫻坂46の普遍性】",
-    "author_id": "sama_migirou",
-    "published_at": "2026-08-12T01:37:39+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:15.119767+00:00",
-    "content_warning": null,
-    "id": "adc8b9d587e699d7747c",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "sakurazaka46"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "sakamichi"
-    ],
-    "topic_ids": []
-  },
-  {
     "url": "https://note.com/sama_migirou/n/n4e2f8aefbc07",
     "title": "スピッツの「気がする」文学【歌詞考察】",
     "author_id": "sama_migirou",
@@ -10856,69 +10648,6 @@
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
-    "topic_ids": []
-  },
-  {
-    "url": "https://kokokokua2.hatenablog.com/entry/2020/12/02/165244",
-    "title": "第３回AKB48グループ歌唱力No.1決定戦　観覧記",
-    "author_id": "kokokokua2",
-    "published_at": "2020-12-02T07:52:44+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:18.953495+00:00",
-    "content_warning": null,
-    "id": "b2d7f12b05a2bc7d2e4a",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "akb48"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "48"
-    ],
-    "topic_ids": []
-  },
-  {
-    "url": "https://kokokokua2.hatenablog.com/entry/2020/11/17/000810",
-    "title": "もしも、ハロルド・メイがAKB48の社長になってくれたら",
-    "author_id": "kokokokua2",
-    "published_at": "2020-11-16T15:08:10+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:18.955433+00:00",
-    "content_warning": null,
-    "id": "e638a2ff65a3127ef10a",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "akb48"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "48"
-    ],
-    "topic_ids": []
-  },
-  {
-    "url": "https://kokokokua2.hatenablog.com/entry/2020/10/30/000550",
-    "title": "AKB48グループ歌唱力No.1決定戦あれこれ②　矢野さんの声域から歌唱曲推察してみたらどうなるか",
-    "author_id": "kokokokua2",
-    "published_at": "2020-10-29T15:05:50+00:00",
-    "origin": "rss",
-    "first_seen_at": "2026-11-17T13:16:18.956487+00:00",
-    "content_warning": null,
-    "id": "4e02739601bdf266ef0f",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [
-      "akb48"
-    ],
-    "member_ids": [],
-    "song_ids": [],
-    "category_ids": [
-      "48"
-    ],
     "topic_ids": []
   },
   {
