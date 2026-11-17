@@ -4034,6 +4034,254 @@
       "reviewed_title": "【映画:PEARL パール】私をここから出して、それから愛して。",
       "reviewed_at": "2026-11-18",
       "review_note": "映画『Pearl パール』の映像・物語への批評が主題で、実在するアイドルの活動やファン文化とは無関係"
+    },
+    "https://note.com/fubuki_hp/n/ncf18fa6bea4e": {
+      "status": "pending",
+      "reviewed_title": "ハロー！プロジェクトの外部・内部環境統合分析（総論）",
+      "reviewed_at": "2026-11-18",
+      "review_note": "SCPモデルとVRIO分析でハロプロの競争優位を論じる記事と目次は確認できるが、本文は有料部分のため確認できず保留"
+    },
+    "https://note.com/nadegata_hp/n/nb89aa990b1a7": {
+      "status": "published",
+      "reviewed_title": "『イン・ザ・メガチャーチ』感想｜「推し活＝宗教」では終わらない",
+      "reviewed_at": "2026-11-18",
+      "review_note": "小説『イン・ザ・メガチャーチ』を起点に、ハロプロとAKB・K-POPの指標競争・宗教的共同体との類似と差異を独自に分析する実質的なファンダム論",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "hello-project"
+      ],
+      "category_ids": [
+        "hello",
+        "culture"
+      ],
+      "topic_ids": [
+        "fandom",
+        "industry",
+        "media"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/nadegata_hp/n/nb4bbe642c63b": {
+      "status": "published",
+      "reviewed_title": "なぜ、つばきの現場にはおじいちゃんが多いのか",
+      "reviewed_at": "2026-11-18",
+      "review_note": "つばきファクトリー現場の年齢層が高いという印象の根拠・偏り・現地体験を切り分け、ファンの世代構成を考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "tsubaki"
+      ],
+      "category_ids": [
+        "hello",
+        "culture"
+      ],
+      "topic_ids": [
+        "fandom",
+        "industry"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/nadegata_hp/n/n20542bdaed68": {
+      "status": "published",
+      "reviewed_title": "長野桃羽さんのバーイベで見えた「理想のアイドル像」",
+      "reviewed_at": "2026-11-18",
+      "review_note": "アンジュルム長野桃羽のバースデーイベントで本人が理想のアイドル像を自ら構築する姿を、衣装・楽曲・MCから評価",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "angerme"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "topic_ids": [
+        "member",
+        "performance",
+        "live"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/nadegata_hp/n/n9715a6bf40b1": {
+      "status": "published",
+      "reviewed_title": "Juice=Juiceがよすぎて、逆に書くことがない",
+      "reviewed_at": "2026-11-18",
+      "review_note": "Juice=Juiceのバンドライブの生演奏・曲ごとの歌唱・メンバーの表情を、つばきファクトリーとの比較も交え論評",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "juice",
+        "tsubaki"
+      ],
+      "category_ids": [
+        "hello"
+      ],
+      "topic_ids": [
+        "music",
+        "live",
+        "performance",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/cathouse/n/n7f73adb244c1": {
+      "status": "published",
+      "reviewed_title": "二つの世界における「反抗」と「逃走＝闘争」——櫻坂46『Lonesome rabbit』",
+      "reviewed_at": "2026-11-18",
+      "review_note": "櫻坂46『Lonesome rabbit』のMVにおける人間とウサギの二世界・視線・被攻撃性を反抗と逃走の観点から独自に解釈",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "music",
+        "performance",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/cathouse/n/n0ab571f4ca70": {
+      "status": "published",
+      "reviewed_title": "「頂点がないグループ」の「頂点」とは——櫻坂46 5th YEAR ANNIVERSARY LIVE",
+      "reviewed_at": "2026-11-18",
+      "review_note": "櫻坂46の5周年公演で全員センターの演出・曲順・終幕を『頂点のないグループ』という表現と関連づけた詳細な考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/cathouse/n/n165dca4885ba": {
+      "status": "published",
+      "reviewed_title": "ゼロ距離でパフォーマンスが語りかける——櫻坂46 5th YEAR ANNIVERSARY LIVE",
+      "reviewed_at": "2026-11-18",
+      "review_note": "櫻坂46の5周年ライブ初日と2日目の感情変化や視線・世代交代を公演映像と歌詞から考察",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/cathouse/n/na369618c0a68": {
+      "status": "published",
+      "reviewed_title": "「僕」をめぐる冒険／櫻坂46『The growing up train』",
+      "reviewed_at": "2026-11-18",
+      "review_note": "櫻坂46『The growing up train』関連曲の語り手や循環構造を90年代のアルバム文化と比較する独自の音楽批評",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "sakurazaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "music",
+        "history",
+        "creators"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://kokokokua2.hatenablog.com/entry/2020/10/19/011344": {
+      "status": "published",
+      "reviewed_title": "AKB48グループ歌唱力No.1決定戦あれこれ",
+      "reviewed_at": "2026-11-18",
+      "review_note": "AKB48グループ歌唱力No.1決定戦の複数回の予選曲・移調の事例を音階と伴奏方法から具体的に分析した記事",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "akb48",
+        "stu48",
+        "ske48"
+      ],
+      "category_ids": [
+        "48"
+      ],
+      "topic_ids": [
+        "music",
+        "performance",
+        "history"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://ksk.hatenablog.com/entry/2013/05/11/030000": {
+      "status": "published",
+      "reviewed_title": "130509 16人のプリンシパル@赤坂ACTシアター",
+      "reviewed_at": "2026-11-18",
+      "review_note": "2013年の『16人のプリンシパル』配役表に加え、齋藤飛鳥・高山一実らの起用に対する筆者の好みや当時の反応を記録。本人は現地未観覧と明示",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "member",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://ksk.hatenablog.com/entry/2013/05/11/020000_1": {
+      "status": "published",
+      "reviewed_title": "130508 16人のプリンシパルdeux@赤坂ACTシアター",
+      "reviewed_at": "2026-11-18",
+      "review_note": "2013年の乃木坂46二期生加入をめぐり、元AKBメンバーに対する既存ファンの反発や運営の対応を論評。個人の疑念を確認済み事実として扱わない",
+      "verified_nonfiction": true,
+      "group_ids": [
+        "nogizaka46"
+      ],
+      "category_ids": [
+        "sakamichi"
+      ],
+      "topic_ids": [
+        "industry",
+        "history",
+        "fandom"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/ktmk___55/n/n90f3c1a3fe08": {
+      "status": "excluded",
+      "reviewed_title": "4-6月に読んだ本10冊｜読書記録",
+      "reviewed_at": "2026-11-18",
+      "review_note": "一般文芸作品10冊の読書感想でアイドル活動やファン文化が主題でない"
+    },
+    "https://note.com/sama_migirou/n/n6ca361dde2a8": {
+      "status": "excluded",
+      "reviewed_title": "日本の可能性は、伝統か革新かという二者択一の外側にある。",
+      "reviewed_at": "2026-11-18",
+      "review_note": "日本の社会制度・明治維新・文化の変容に関する一般的な社会評論で、アイドル文化を中心に論じていない"
+    },
+    "https://jeln1nyo-0728.hatenablog.com/entry/2024/05/12/225425": {
+      "status": "excluded",
+      "reviewed_title": "ネタがない",
+      "reviewed_at": "2026-11-18",
+      "review_note": "本文はブログの話題がない旨の一文だけで、アイドルについての独自の感想・批評はない"
     }
   },
   "blocked_urls": [],
