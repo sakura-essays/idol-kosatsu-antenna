@@ -556,6 +556,16 @@
       "category_id": "overseas",
       "aliases": [],
       "kind": "group"
+    },
+    {
+      "id": "jumpingkiss",
+      "name": "Jumping Kiss",
+      "category_id": "jp-female",
+      "aliases": [
+        "JumpingKiss",
+        "ジャンキス"
+      ],
+      "kind": "group"
     }
   ],
   "members": [
