@@ -439,13 +439,21 @@
     "first_seen_at": "2026-11-17T12:27:51.458189+00:00",
     "content_warning": null,
     "id": "f3fbbe20002e53fb9901",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
-    "group_ids": [],
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "morning"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "hello"
+    ],
+    "topic_ids": [
+      "music",
+      "live",
+      "history"
+    ]
   },
   {
     "url": "https://note.com/fubuki_hp/n/nd3ca24c1b441",
@@ -1768,8 +1776,8 @@
     "first_seen_at": "2026-11-17T12:27:56.111667+00:00",
     "content_warning": null,
     "id": "3f888d74de38252a49de",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -2464,13 +2472,18 @@
     "first_seen_at": "2026-11-17T12:28:00.651927+00:00",
     "content_warning": null,
     "id": "500f0030e82ffab1d59f",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "culture"
+    ],
+    "topic_ids": [
+      "fandom",
+      "industry"
+    ]
   },
   {
     "url": "https://note.com/daraku_in/n/na5ef74427e89",
@@ -3208,8 +3221,8 @@
     "first_seen_at": "2026-11-17T12:28:04.852677+00:00",
     "content_warning": null,
     "id": "60be4057f62826c8b82e",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -6253,8 +6266,8 @@
     "first_seen_at": "2026-11-17T12:51:07.345461+00:00",
     "content_warning": null,
     "id": "6c92d986fbd2d56e2a0c",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -6898,17 +6911,21 @@
     "first_seen_at": "2026-11-17T12:51:10.038258+00:00",
     "content_warning": null,
     "id": "94b833dff97a2a2ac086",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "hello-project"
     ],
     "member_ids": [],
     "song_ids": [],
     "category_ids": [
+      "culture",
       "hello"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "fandom",
+      "media"
+    ]
   },
   {
     "url": "https://note.com/sexysadie/n/n3e3397b10527",
@@ -7578,8 +7595,8 @@
     "first_seen_at": "2026-11-17T12:51:12.782204+00:00",
     "content_warning": null,
     "id": "2151de98baff2f0234ba",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [
       "akb48"
     ],
@@ -7588,7 +7605,10 @@
     "category_ids": [
       "48"
     ],
-    "topic_ids": []
+    "topic_ids": [
+      "music",
+      "history"
+    ]
   },
   {
     "url": "https://note.com/dnf48/n/n3176eb24af1a",
@@ -9725,7 +9745,7 @@
     "content_warning": null,
     "id": "401d40d2653822739c65",
     "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "reason": "管理者による保留・除外",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -10927,8 +10947,8 @@
     "first_seen_at": "2026-11-17T13:16:03.490641+00:00",
     "content_warning": null,
     "id": "d680e6811d1e5aa8419c",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "excluded",
+    "reason": "管理者による保留・除外",
     "group_ids": [
       "nogizaka46"
     ],
@@ -11475,13 +11495,19 @@
     "first_seen_at": "2026-11-17T13:16:04.974528+00:00",
     "content_warning": null,
     "id": "83b97ff262771e71e882",
-    "status": "pending",
-    "reason": "記事単位の確認待ち",
+    "status": "published",
+    "reason": "元記事を確認・掲載承認済み",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
-    "topic_ids": []
+    "category_ids": [
+      "starto"
+    ],
+    "topic_ids": [
+      "live",
+      "performance",
+      "fandom"
+    ]
   },
   {
     "url": "https://note.com/sannie_blog/n/n8772872373ce",
