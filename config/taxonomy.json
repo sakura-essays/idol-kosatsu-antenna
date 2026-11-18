@@ -626,6 +626,101 @@
       "category_id": "hello",
       "aliases": [],
       "kind": "solo"
+    },
+    {
+      "id": "tokisen",
+      "name": "超ときめき♡宣伝部",
+      "category_id": "jp-female",
+      "aliases": [
+        "超ときめき宣伝部",
+        "超とき宣",
+        "とき宣"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "batten",
+      "name": "ばってん少女隊",
+      "category_id": "jp-female",
+      "aliases": [
+        "ばっしょー"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "tohoku",
+      "name": "いぎなり東北産",
+      "category_id": "jp-female",
+      "aliases": [
+        "東北産"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "ukka",
+      "name": "ukka",
+      "category_id": "jp-female",
+      "aliases": [
+        "桜エビ〜ず"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "team-shachi",
+      "name": "TEAM SHACHI",
+      "category_id": "jp-female",
+      "aliases": [
+        "チームしゃちほこ"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "exwhyz",
+      "name": "ExWHYZ",
+      "category_id": "jp-female",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "gang-parade",
+      "name": "GANG PARADE",
+      "category_id": "jp-female",
+      "aliases": [
+        "ギャンパレ"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "mameshiba",
+      "name": "豆柴の大群",
+      "category_id": "jp-female",
+      "aliases": [
+        "豆柴の大群都内某所 a.k.a MONSTERIDOL"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "asp-idol",
+      "name": "ASP（アイドル）",
+      "category_id": "jp-female",
+      "aliases": [
+        "アイドル\"ASP\"",
+        "アイドルASP",
+        "ASPのライブ",
+        "ASP武道館"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "bis-idol",
+      "name": "BiS（アイドル）",
+      "category_id": "jp-female",
+      "aliases": [
+        "BiS解散",
+        "BiSのライブ",
+        "新生アイドル研究会"
+      ],
+      "kind": "group"
     }
   ],
   "members": [
