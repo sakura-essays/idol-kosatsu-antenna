@@ -1,10 +1,10 @@
 {
   "verified_at": "2026-11-18T01:54:40.497700+00:00",
-  "source_commit": "0de728560d0e9491e8a6afb2efcae76ef4ea2428",
-  "actions_run": "44218893127",
+  "source_commit": "7b38b382cae7a37943199f4aded1167aae51c136",
+  "actions_run": "44219747086",
   "actions_status": "completed",
-  "actions_conclusion": "success",
-  "live_published_articles": 230,
+  "actions_conclusion": "failure",
+  "live_published_articles": 249,
   "live_authors": 71,
   "new_writers_verified": 30,
   "new_articles_verified": 30,
@@ -194,7 +194,7 @@
   "writers_http_status": 200,
   "verification_method": "公開配信データと30人全員の書き手ページHTMLを照合。さらにブラウザでトップの230記事・71人、MORE STAR検索2件、書き手検索1人、個別ページ1記事の表示を確認。",
   "browser_verification": {
-    "home_counts": "230記事・71人を画面上で確認",
+    "home_counts": "追加分の初回公開時に230記事・71人を画面上で確認。最終公開データ249記事・71人はHTTP取得で確認。",
     "group_search": {
       "query": "MORE STAR",
       "results": 2,
@@ -213,7 +213,24 @@
   },
   "existing_collection_issue": {
     "author_id": "biscuit0904",
-    "error": "Temporary failure in name resolution",
+    "error": "No address associated with hostname",
     "scope": "直近の別の全件収集で記録された既存フィードのDNS一時障害。今回追加30人のフィード取得は全て成功。既存メタデータは維持。"
-  }
+  },
+  "registration_source_commit": "0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+  "generated_commit": "9a4a095fca5ed614cf4107044d3863df5eb07239",
+  "initial_deployment": {
+    "run_id": "44218893127",
+    "conclusion": "success",
+    "live_articles": 230,
+    "live_authors": 71
+  },
+  "pages_deployment_step": "success",
+  "actions_failure_reason": "既存biscuit0904フィードのDNSエラーを公開後に通知する終了コード。ビルド・累積保存・Pages公開は成功。",
+  "baseline_published_articles": 200,
+  "this_task_added_articles": 30,
+  "concurrent_other_task_added_articles": 19,
+  "new_feeds_collection_ok": 30,
+  "latest_collection_feeds": 71,
+  "latest_collection_failures": 1,
+  "final_verified_at": "2026-11-18T02:04:10.452386+00:00"
 }

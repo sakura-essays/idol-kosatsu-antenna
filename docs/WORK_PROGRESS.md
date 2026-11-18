@@ -119,3 +119,6 @@ config/、state/、検索コア、GA4本体、収集・審査処理、Actions、
 48関連11人、イコノイジョイ9人、KAWAII LAB.10人を登録し、各1記事を本文確認して公開。書き手41→71人、公開200→230記事。ソース0de7285、Actions 44218893127成功。54ページの人気・新着を探索。詳細は docs/discovery-20261118/REPORT.md、registrations.json、survey.json、verification.json、resume.json。
 
 今回の30人は publication_mode=manual とし、将来の未審査RSSを確認待ちに固定。元の41人や全体の自動掲載設定は維持。次回もこの指定を一括standard等へ書き換えない。保留はわた（jin_294）1人、今回記事の主題が対象外なのはD人1人。config/candidates.json参照。各タグ2ページ目以降・育成枠と海外48の本文審査を伴う発掘は未完了。既存biscuit0904フィードのDNS一時障害は次回確認。
+
+
+最終追記：今回30人・30記事の追加を含む公開データは、並行作業の既存書き手19記事追加後に249記事・71人。run 44219747086で保存9a4a095とPages公開成功。全体は既存biscuit0904のDNSエラー通知でfailure表示（今回30RSSは成功）。36テスト成功。詳細 docs/discovery-20261118/verification.json。
