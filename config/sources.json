@@ -463,5 +463,126 @@
     "verified_at": "2026-11-17",
     "verification": "本人の登録依頼。公開元で記事タイトル・筆者・公開日と考察本文を確認。RSS新着は他筆者同様に確認待ち。",
     "article_policy": "review_required"
+  },
+  {
+    "id": "keikeikei9",
+    "name": "けー(おにぎり)",
+    "url": "https://note.com/keikeikei9",
+    "feed": "https://note.com/keikeikei9/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "shuto_8930312",
+    "name": "柊斗",
+    "url": "https://note.com/shuto_8930312",
+    "feed": "https://note.com/shuto_8930312/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "light_nerine81",
+    "name": "カフェファラオ",
+    "url": "https://note.com/light_nerine81",
+    "feed": "https://note.com/light_nerine81/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "like_chimp6015",
+    "name": "マンゴー伯爵",
+    "url": "https://note.com/like_chimp6015",
+    "feed": "https://note.com/like_chimp6015/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "_ayapoon_",
+    "name": "あやぽん",
+    "url": "https://note.com/_ayapoon_",
+    "feed": "https://note.com/_ayapoon_/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "adam711",
+    "name": "KAZUHIRO",
+    "url": "https://note.com/adam711",
+    "feed": "https://note.com/adam711/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "yano113",
+    "name": "yano",
+    "url": "https://note.com/yano113",
+    "feed": "https://note.com/yano113/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "mochi_sasuke_35",
+    "name": "もちろう",
+    "url": "https://note.com/mochi_sasuke_35",
+    "feed": "https://note.com/mochi_sasuke_35/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "large_zephyr846",
+    "name": "Kの化身",
+    "url": "https://note.com/large_zephyr846",
+    "feed": "https://note.com/large_zephyr846/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "vivid_lemur7625",
+    "name": "きしめん学園たけ",
+    "url": "https://note.com/vivid_lemur7625",
+    "feed": "https://note.com/vivid_lemur7625/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+  },
+  {
+    "id": "vast_daisy3427",
+    "name": "DEDラボ　健ちゃん",
+    "url": "https://note.com/vast_daisy3427",
+    "feed": "https://note.com/vast_daisy3427/rss",
+    "platform": "note",
+    "enabled": true,
+    "article_policy": "review_required",
+    "verified_at": "2026-11-18",
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
   }
 ]
