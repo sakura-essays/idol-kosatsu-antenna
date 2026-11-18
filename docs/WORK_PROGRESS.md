@@ -112,3 +112,10 @@ config/、state/、検索コア、GA4本体、収集・審査処理、Actions、
 公開コミット・Actionsの結果は今回の公開確認記録を参照。旧記録の49記事等は過去時点であり、この改修開始時の公開データは200記事。今後もデータ更新時はmain最新を優先する。
 
 - 公開完了：ソース e703fdf、生成物 460c3fe、Actions #39 / run 44214294342 / publish成功。公開200記事・41人、IVE検索1件、説明ページの新CSS・JSをブラウザ確認。DEPLOYMENT_VERIFY_20261118.md参照。
+
+
+## 2026-11-18 新規書き手発掘完了
+
+48関連11人、イコノイジョイ9人、KAWAII LAB.10人を登録し、各1記事を本文確認して公開。書き手41→71人、公開200→230記事。ソース0de7285、Actions 44218893127成功。54ページの人気・新着を探索。詳細は docs/discovery-20261118/REPORT.md、registrations.json、survey.json、verification.json、resume.json。
+
+今回の30人は publication_mode=manual とし、将来の未審査RSSを確認待ちに固定。元の41人や全体の自動掲載設定は維持。次回もこの指定を一括standard等へ書き換えない。保留はわた（jin_294）1人、今回記事の主題が対象外なのはD人1人。config/candidates.json参照。各タグ2ページ目以降・育成枠と海外48の本文審査を伴う発掘は未完了。既存biscuit0904フィードのDNS一時障害は次回確認。

@@ -1,0 +1,219 @@
+{
+  "verified_at": "2026-11-18T01:54:40.497700+00:00",
+  "source_commit": "0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+  "actions_run": "44218893127",
+  "actions_status": "completed",
+  "actions_conclusion": "success",
+  "live_published_articles": 230,
+  "live_authors": 71,
+  "new_writers_verified": 30,
+  "new_articles_verified": 30,
+  "author_pages": [
+    {
+      "author_id": "keikeikei9",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/keikeikei9.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "shuto_8930312",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/shuto_8930312.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "light_nerine81",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/light_nerine81.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "like_chimp6015",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/like_chimp6015.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "_ayapoon_",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/_ayapoon_.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "adam711",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/adam711.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "yano113",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/yano113.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "mochi_sasuke_35",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/mochi_sasuke_35.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "large_zephyr846",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/large_zephyr846.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "vivid_lemur7625",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/vivid_lemur7625.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "vast_daisy3427",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/vast_daisy3427.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "kn_ykh_1985",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/kn_ykh_1985.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "jellyfish_kaimii",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/jellyfish_kaimii.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "watashitouta",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/watashitouta.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "hashipan21",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/hashipan21.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "syota_826",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/syota_826.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "nonhani",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/nonhani.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "iorisukicontents",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/iorisukicontents.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "tyarumera16",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/tyarumera16.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "kayatan_deko",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/kayatan_deko.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "tom_story",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/tom_story.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "haraharakamone",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/haraharakamone.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "millecrepes2",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/millecrepes2.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "miami_blue",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/miami_blue.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "dusk_ss315",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/dusk_ss315.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "armi",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/armi.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "amber_idol",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/amber_idol.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "cs0804",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/cs0804.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "blitz_feuerwerk",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/blitz_feuerwerk.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    },
+    {
+      "author_id": "katton_4284",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/katton_4284.html?audit=0de728560d0e9491e8a6afb2efcae76ef4ea2428",
+      "status": 200,
+      "article_link_and_title_present": true
+    }
+  ],
+  "main_http_status": 200,
+  "writers_http_status": 200,
+  "verification_method": "公開配信データと30人全員の書き手ページHTMLを照合。さらにブラウザでトップの230記事・71人、MORE STAR検索2件、書き手検索1人、個別ページ1記事の表示を確認。",
+  "browser_verification": {
+    "home_counts": "230記事・71人を画面上で確認",
+    "group_search": {
+      "query": "MORE STAR",
+      "results": 2,
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/?q=MORE+STAR"
+    },
+    "writer_search": {
+      "query": "cs0804",
+      "results": 1,
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/writers.html?q=cs0804"
+    },
+    "author_article_page": {
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/cs0804.html?author=cs0804",
+      "article_count": 1,
+      "article_link": "https://note.com/cs0804/n/na51c999df871"
+    }
+  },
+  "existing_collection_issue": {
+    "author_id": "biscuit0904",
+    "error": "Temporary failure in name resolution",
+    "scope": "直近の別の全件収集で記録された既存フィードのDNS一時障害。今回追加30人のフィード取得は全て成功。既存メタデータは維持。"
+  }
+}

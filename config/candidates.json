@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "url": "https://note.com/jin_294/n/n3892f96d60e8",
+    "profile_url": "https://note.com/jin_294",
+    "name": "わた",
+    "discovered_at": "2026-11-18",
+    "reason": "プロフィール・投稿一覧・RSSと本文取得は成功。21,162字の本文の掲載審査を完了していないため保留。長さを不適格理由にはしない。",
+    "status": "pending"
+  },
+  {
+    "url": "https://note.com/djin_naming_24/n/n6217bece61fe",
+    "profile_url": "https://note.com/djin_naming_24",
+    "name": "D人",
+    "discovered_at": "2026-11-18",
+    "reason": "本文を確認。CUTIE STREETは発端の音MADで触れるが、主題はVIVANTミームでありアイドルの考察・感想が中心ではない。この記事は対象外。書き手全体を掲載停止にはしない。",
+    "status": "excluded"
+  }
+]
