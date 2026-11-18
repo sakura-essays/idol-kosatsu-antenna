@@ -19,13 +19,13 @@ python scripts/collect.py
 python scripts/build.py
 ```
 
-`dist/index.html` を直接開いても検索可能。公開は独立したActionsとPages（Source: GitHub Actions）。通常は6時間おきにRSS取得し、未審査の記事を確認待ちへ保存します。push時は取得せずテスト・ビルド・公開。取得失敗時は既存データを維持し、公開した後にActionsを失敗表示にします。
+`dist/index.html` を直接開いても検索可能。公開は独立したActionsとPages（Source: GitHub Actions）。通常は6時間おきにRSS取得し、明確に条件を満たす記事だけ自動掲載し、判断が難しい記事や移行前の過去記事は確認待ちへ保存します。push時は取得せずテスト・ビルド・公開。取得失敗時は既存データを維持し、公開した後にActionsを失敗表示にします。
 
 ## データの所在
 
 |ファイル|役割|
 |---|---|
-|`config/sources.json`|確認済み書き手・公開RSS/Atom。新着はすべて確認待ち|
+|`config/sources.json`|確認済み書き手・公開RSS/Atom。書き手別の自動掲載条件を設定|
 |`config/manual_articles.json`|元記事で確認した過去記事。確認日と根拠必須|
 |`config/moderation.json`|記事単位の承認、訂正、URL・書き手の掲載停止|
 |`config/taxonomy.json`|大分類・グループ・人物・楽曲の固有IDと表記揺れ|
