@@ -1,0 +1,834 @@
+{
+  "date_jst": "2026-11-18",
+  "baseline_commit": "d7a543243900e7c2f698d1958dcf3471af032efa",
+  "baseline_authors": 71,
+  "baseline_published": 249,
+  "added_authors": 30,
+  "added_published": 30,
+  "after_authors": 101,
+  "after_published": 279,
+  "families": {
+    "hello": 8,
+    "stardust": 7,
+    "wack": 6,
+    "independent": 7,
+    "kpop": 2
+  },
+  "survey_pages": 92,
+  "survey_terms": 46,
+  "metadata_occurrences": 4447,
+  "unique_metadata_urls": 2660,
+  "scope": "タグの人気デフォルト表示と?mode=newの初回HTML。最大50件、関連表示を含む。HTML内メタデータの取得順で、厳密な人気順位を意味しない。2ページ目以降は未調査。検索APIの人気・新着全件検索は実施していない。",
+  "discovery_mode_counts": {
+    "both": 24,
+    "popular_only": 2,
+    "new_only": 2,
+    "supplemental_search": 2
+  },
+  "survey": [
+    {
+      "term": "ASP",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/ASP?mode=new",
+          "checked_at": "2026-11-18T06:29:56.589260+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/ASP",
+          "checked_at": "2026-11-18T06:29:56.557650+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "BEYOOOOONDS",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/BEYOOOOONDS?mode=new",
+          "checked_at": "2026-11-18T06:29:49.218114+00:00",
+          "count": 49
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/BEYOOOOONDS",
+          "checked_at": "2026-11-18T06:29:48.999735+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "BiS",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/BiS",
+          "checked_at": "2026-11-18T06:30:02.664370+00:00",
+          "count": 47
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/BiS?mode=new",
+          "checked_at": "2026-11-18T06:30:02.490021+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "BiSH",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/BiSH",
+          "checked_at": "2026-11-18T06:29:51.800542+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/BiSH?mode=new",
+          "checked_at": "2026-11-18T06:29:51.644283+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "ExWHYZ",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/ExWHYZ",
+          "checked_at": "2026-11-18T06:29:56.719736+00:00",
+          "count": 48
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/ExWHYZ?mode=new",
+          "checked_at": "2026-11-18T06:29:56.665702+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "GANG PARADE",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/GANG%20PARADE",
+          "checked_at": "2026-11-18T06:29:51.770231+00:00",
+          "count": 49
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/GANG%20PARADE?mode=new",
+          "checked_at": "2026-11-18T06:29:51.643059+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "IVE",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/IVE?mode=new",
+          "checked_at": "2026-11-18T06:30:48.788499+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/IVE",
+          "checked_at": "2026-11-18T06:30:48.527872+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Juice=Juice",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/Juice%3DJuice?mode=new",
+          "checked_at": "2026-11-18T06:29:43.511593+00:00",
+          "count": 49
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/Juice%3DJuice",
+          "checked_at": "2026-11-18T06:29:43.241021+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "LE SSERAFIM",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/LE%20SSERAFIM?mode=new",
+          "checked_at": "2026-11-18T06:30:54.682141+00:00",
+          "count": 48
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/LE%20SSERAFIM",
+          "checked_at": "2026-11-18T06:30:54.294513+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "Negicco",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/Negicco",
+          "checked_at": "2026-11-18T06:30:08.437206+00:00",
+          "count": 49
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/Negicco?mode=new",
+          "checked_at": "2026-11-18T06:30:08.354881+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "OCHA NORMA",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/OCHA%20NORMA?mode=new",
+          "checked_at": "2026-11-18T06:29:49.202822+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/OCHA%20NORMA",
+          "checked_at": "2026-11-18T06:29:49.043593+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "PassCode",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/PassCode?mode=new",
+          "checked_at": "2026-11-18T06:30:48.547823+00:00",
+          "count": 47
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/PassCode",
+          "checked_at": "2026-11-18T06:30:48.512060+00:00",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "RE-GE",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/RE-GE?mode=new",
+          "checked_at": "2026-11-18T06:30:22.414516+00:00",
+          "count": 15
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/RE-GE",
+          "checked_at": "2026-11-18T06:30:22.214730+00:00",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "term": "RYUTist",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/RYUTist?mode=new",
+          "checked_at": "2026-11-18T06:30:08.476376+00:00",
+          "count": 49
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/RYUTist",
+          "checked_at": "2026-11-18T06:30:08.446169+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "TEAM SHACHI",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/TEAM%20SHACHI?mode=new",
+          "checked_at": "2026-11-18T06:30:22.715002+00:00",
+          "count": 49
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/TEAM%20SHACHI",
+          "checked_at": "2026-11-18T06:30:22.587079+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "TWICE",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/TWICE",
+          "checked_at": "2026-11-18T06:30:54.498377+00:00",
+          "count": 49
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/TWICE?mode=new",
+          "checked_at": "2026-11-18T06:30:54.242827+00:00",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "Task have Fun",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/Task%20have%20Fun",
+          "checked_at": "2026-11-18T06:30:43.185340+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/Task%20have%20Fun?mode=new",
+          "checked_at": "2026-11-18T06:30:43.075078+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "WHITE SCORPION",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/WHITE%20SCORPION",
+          "checked_at": "2026-11-18T06:30:36.110760+00:00",
+          "count": 48
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/WHITE%20SCORPION?mode=new",
+          "checked_at": "2026-11-18T06:30:35.904962+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "aespa",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/aespa",
+          "checked_at": "2026-11-18T06:30:58.938025+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/aespa?mode=new",
+          "checked_at": "2026-11-18T06:30:58.833595+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "ukka",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/ukka?mode=new",
+          "checked_at": "2026-11-18T06:30:16.116752+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/ukka",
+          "checked_at": "2026-11-18T06:30:15.691937+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "いぎなり東北産",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%81%84%E3%81%8E%E3%81%AA%E3%82%8A%E6%9D%B1%E5%8C%97%E7%94%A3",
+          "checked_at": "2026-11-18T06:30:15.670138+00:00",
+          "count": 49
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%81%84%E3%81%8E%E3%81%AA%E3%82%8A%E6%9D%B1%E5%8C%97%E7%94%A3?mode=new",
+          "checked_at": "2026-11-18T06:30:15.662330+00:00",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "きゅるりんってしてみて",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%81%8D%E3%82%85%E3%82%8B%E3%82%8A%E3%82%93%E3%81%A3%E3%81%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6",
+          "checked_at": "2026-11-18T06:30:19.035114+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%81%8D%E3%82%85%E3%82%8B%E3%82%8A%E3%82%93%E3%81%A3%E3%81%A6%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6?mode=new",
+          "checked_at": "2026-11-18T06:30:19.018250+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "つばきファクトリー",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%81%A4%E3%81%B0%E3%81%8D%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC",
+          "checked_at": "2026-11-18T06:29:43.256558+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%81%A4%E3%81%B0%E3%81%8D%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC?mode=new",
+          "checked_at": "2026-11-18T06:29:43.177348+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "でんぱ組",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%81%A7%E3%82%93%E3%81%B1%E7%B5%84?mode=new",
+          "checked_at": "2026-11-18T06:30:43.090671+00:00",
+          "count": 49
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%81%A7%E3%82%93%E3%81%B1%E7%B5%84",
+          "checked_at": "2026-11-18T06:30:43.080763+00:00",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "とき宣",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%81%A8%E3%81%8D%E5%AE%A3",
+          "checked_at": "2026-11-18T06:41:16.296417+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%81%A8%E3%81%8D%E5%AE%A3?mode=new",
+          "checked_at": "2026-11-18T06:41:16.243262+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "ばってん少女隊",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%81%B0%E3%81%A3%E3%81%A6%E3%82%93%E5%B0%91%E5%A5%B3%E9%9A%8A?mode=new",
+          "checked_at": "2026-11-18T06:30:09.809815+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%81%B0%E3%81%A3%E3%81%A6%E3%82%93%E5%B0%91%E5%A5%B3%E9%9A%8A",
+          "checked_at": "2026-11-18T06:30:09.522030+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "まねきケチャ",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%81%BE%E3%81%AD%E3%81%8D%E3%82%B1%E3%83%81%E3%83%A3",
+          "checked_at": "2026-11-18T06:30:30.405073+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%81%BE%E3%81%AD%E3%81%8D%E3%82%B1%E3%83%81%E3%83%A3?mode=new",
+          "checked_at": "2026-11-18T06:30:30.277561+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "ももいろクローバーZ",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%82%82%E3%82%82%E3%81%84%E3%82%8D%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BCZ?mode=new",
+          "checked_at": "2026-11-18T06:30:01.842997+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%82%82%E3%82%82%E3%81%84%E3%82%8D%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%90%E3%83%BCZ",
+          "checked_at": "2026-11-18T06:30:01.653076+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "ももクロ",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%82%82%E3%82%82%E3%82%AF%E3%83%AD?mode=new",
+          "checked_at": "2026-11-18T06:41:07.798053+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%82%82%E3%82%82%E3%82%AF%E3%83%AD",
+          "checked_at": "2026-11-18T06:41:07.710718+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "わーすた",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%82%8F%E3%83%BC%E3%81%99%E3%81%9F",
+          "checked_at": "2026-11-18T06:30:13.798701+00:00",
+          "count": 48
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%82%8F%E3%83%BC%E3%81%99%E3%81%9F?mode=new",
+          "checked_at": "2026-11-18T06:30:13.701271+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "アンジュルム",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%AB%E3%83%A0",
+          "checked_at": "2026-11-18T06:29:37.553384+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%AB%E3%83%A0?mode=new",
+          "checked_at": "2026-11-18T06:29:37.489039+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "エビ中",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%82%A8%E3%83%93%E4%B8%AD",
+          "checked_at": "2026-11-18T06:41:16.326875+00:00",
+          "count": 49
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%82%A8%E3%83%93%E4%B8%AD?mode=new",
+          "checked_at": "2026-11-18T06:41:16.162565+00:00",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "ハロプロ",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%83%8F%E3%83%AD%E3%83%97%E3%83%AD",
+          "checked_at": "2026-11-18T06:41:07.832674+00:00",
+          "count": 49
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%83%8F%E3%83%AD%E3%83%97%E3%83%AD?mode=new",
+          "checked_at": "2026-11-18T06:41:07.614720+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "フィロソフィーのダンス",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%83%95%E3%82%A3%E3%83%AD%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B9?mode=new",
+          "checked_at": "2026-11-18T06:30:13.772336+00:00",
+          "count": 49
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%83%95%E3%82%A3%E3%83%AD%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%81%AE%E3%83%80%E3%83%B3%E3%82%B9",
+          "checked_at": "2026-11-18T06:30:13.724558+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "モーニング娘",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%A8%98",
+          "checked_at": "2026-11-18T06:29:37.535795+00:00",
+          "count": 47
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%A8%98?mode=new",
+          "checked_at": "2026-11-18T06:29:37.449588+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "ロージークロニクル",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB?mode=new",
+          "checked_at": "2026-11-18T06:29:55.512367+00:00",
+          "count": 48
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%83%AB",
+          "checked_at": "2026-11-18T06:29:55.398147+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "坂井仁香",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E5%9D%82%E4%BA%95%E4%BB%81%E9%A6%99",
+          "checked_at": "2026-11-18T06:41:30.626794+00:00",
+          "count": 49
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E5%9D%82%E4%BA%95%E4%BB%81%E9%A6%99?mode=new",
+          "checked_at": "2026-11-18T06:41:30.309549+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "小田さくら",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E5%B0%8F%E7%94%B0%E3%81%95%E3%81%8F%E3%82%89?mode=new",
+          "checked_at": "2026-11-18T06:41:23.105982+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E5%B0%8F%E7%94%B0%E3%81%95%E3%81%8F%E3%82%89",
+          "checked_at": "2026-11-18T06:41:23.023303+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "東京女子流",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E6%B5%81",
+          "checked_at": "2026-11-18T06:30:35.916450+00:00",
+          "count": 47
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E6%9D%B1%E4%BA%AC%E5%A5%B3%E5%AD%90%E6%B5%81?mode=new",
+          "checked_at": "2026-11-18T06:30:35.840416+00:00",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "桜ひなの",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E6%A1%9C%E3%81%B2%E3%81%AA%E3%81%AE",
+          "checked_at": "2026-11-18T06:41:23.288853+00:00",
+          "count": 39
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E6%A1%9C%E3%81%B2%E3%81%AA%E3%81%AE?mode=new",
+          "checked_at": "2026-11-18T06:41:23.055190+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "私立恵比寿中学",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E7%A7%81%E7%AB%8B%E6%81%B5%E6%AF%94%E5%AF%BF%E4%B8%AD%E5%AD%A6",
+          "checked_at": "2026-11-18T06:30:01.863330+00:00",
+          "count": 50
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E7%A7%81%E7%AB%8B%E6%81%B5%E6%AF%94%E5%AF%BF%E4%B8%AD%E5%AD%A6?mode=new",
+          "checked_at": "2026-11-18T06:30:01.688586+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "虹のコンキスタドール",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB?mode=new",
+          "checked_at": "2026-11-18T06:30:19.153002+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E8%99%B9%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%89%E3%83%BC%E3%83%AB",
+          "checked_at": "2026-11-18T06:30:19.122967+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "豆柴の大群",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E8%B1%86%E6%9F%B4%E3%81%AE%E5%A4%A7%E7%BE%A4",
+          "checked_at": "2026-11-18T06:30:02.448598+00:00",
+          "count": 48
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E8%B1%86%E6%9F%B4%E3%81%AE%E5%A4%A7%E7%BE%A4?mode=new",
+          "checked_at": "2026-11-18T06:30:02.349755+00:00",
+          "count": 48
+        }
+      ]
+    },
+    {
+      "term": "超ときめき宣伝部",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E8%B6%85%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E5%AE%A3%E4%BC%9D%E9%83%A8?mode=new",
+          "checked_at": "2026-11-18T06:30:09.302713+00:00",
+          "count": 50
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E8%B6%85%E3%81%A8%E3%81%8D%E3%82%81%E3%81%8D%E5%AE%A3%E4%BC%9D%E9%83%A8",
+          "checked_at": "2026-11-18T06:30:09.288240+00:00",
+          "count": 50
+        }
+      ]
+    },
+    {
+      "term": "鈴木愛理",
+      "pages": [
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E9%88%B4%E6%9C%A8%E6%84%9B%E7%90%86",
+          "checked_at": "2026-11-18T06:29:55.463548+00:00",
+          "count": 49
+        },
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E9%88%B4%E6%9C%A8%E6%84%9B%E7%90%86?mode=new",
+          "checked_at": "2026-11-18T06:29:55.452322+00:00",
+          "count": 49
+        }
+      ]
+    },
+    {
+      "term": "高嶺のなでしこ",
+      "pages": [
+        {
+          "mode": "new",
+          "url": "https://note.com/tag/%E9%AB%98%E5%B6%BA%E3%81%AE%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93?mode=new",
+          "checked_at": "2026-11-18T06:30:30.520526+00:00",
+          "count": 49
+        },
+        {
+          "mode": "popular",
+          "url": "https://note.com/tag/%E9%AB%98%E5%B6%BA%E3%81%AE%E3%81%AA%E3%81%A7%E3%81%97%E3%81%93",
+          "checked_at": "2026-11-18T06:30:30.284516+00:00",
+          "count": 49
+        }
+      ]
+    }
+  ],
+  "held_candidates": [
+    {
+      "author_id": "anatorihigashi",
+      "name": "アナトリ",
+      "profile_url": "https://note.com/anatorihigashi",
+      "article_url": "https://note.com/anatorihigashi/n/n2c4906bd2ef5",
+      "title": "またペンライトを振れなかった",
+      "status": "pending_body_context",
+      "reason": "抽出できた本文は34文字。短さ自体ではなく、公演対象・具体的な観察を画像を含む文脈で確認できていないため保留。"
+    },
+    {
+      "author_id": "tender_sheep6906",
+      "name": "ひかげ",
+      "profile_url": "https://note.com/tender_sheep6906",
+      "article_url": "https://note.com/tender_sheep6906/n/n44e4ab3c8a22",
+      "title": "55 わーすたのライブに行って",
+      "status": "needs_other_article",
+      "reason": "今回確認した本文は会場情報とセットリスト中心のため記事を除外。書き手自体は除外せず、他の女性アイドル記事の本文を未審査として残す。"
+    }
+  ],
+  "registration_failures": [],
+  "deployment_status": "pending_final_verification"
+}

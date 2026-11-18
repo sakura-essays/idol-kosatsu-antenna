@@ -721,6 +721,47 @@
         "新生アイドル研究会"
       ],
       "kind": "group"
+    },
+    {
+      "id": "philosophy-dance",
+      "name": "フィロソフィーのダンス",
+      "category_id": "jp-female",
+      "aliases": [
+        "フィロのス"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "kyurushite",
+      "name": "きゅるりんってしてみて",
+      "category_id": "jp-female",
+      "aliases": [
+        "きゅるして"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "takaneko",
+      "name": "高嶺のなでしこ",
+      "category_id": "jp-female",
+      "aliases": [
+        "たかねこ"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "passcode",
+      "name": "PassCode",
+      "category_id": "jp-female",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "tokyo-girls-style",
+      "name": "東京女子流",
+      "category_id": "jp-female",
+      "aliases": [],
+      "kind": "group"
     }
   ],
   "members": [

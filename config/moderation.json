@@ -5236,6 +5236,187 @@
       ],
       "member_ids": [],
       "song_ids": []
+    },
+    "https://note.com/ngc__3/n/n76148a22575b": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "【Negiccoライブレポ】261101 アガロック大作戦【セットリスト】",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "negicco"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/penguin_paisen/n/n0772a5fa3255": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "RYUTist×柴田聡子の調和",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "ryutist"
+      ],
+      "topic_ids": [
+        "music",
+        "performance",
+        "creators"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/nm1984/n/n3d624ea3b8e2": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "フィロソフィーのダンス The Last Dance ～DFP Forever！～の Blu-rayを観た",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "philosophy-dance"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "history"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/mya_shota/n/nab7eb47e26eb": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "『しゅーぱーきゅるりんコア〜〜カワイイ・リアリズム宣言〜』の感想",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "kyurushite"
+      ],
+      "topic_ids": [
+        "live",
+        "performance"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/muteki_dead1/n/nda93a41ff3ff": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "高嶺のなでしこよ、本当に売れてくれ（ライブレポあり）",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "takaneko"
+      ],
+      "topic_ids": [
+        "live",
+        "member",
+        "industry",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/anko0880/n/n8c7ed8783033": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "PassCode広島公演",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "passcode"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/cutter/n/ne2dae13a5894": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "【ライブレポ】東京女子流 LAST LIVE ～*キセキの物語*～",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "tokyo-girls-style"
+      ],
+      "topic_ids": [
+        "live",
+        "performance",
+        "history"
+      ],
+      "category_ids": [
+        "jp-female"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/yui_avocet1955/n/n8fd4590db6aa": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "Le Sserafim 台北公演Part2",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "le-sserafim"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom"
+      ],
+      "category_ids": [
+        "kpop"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/tiha_1013/n/n35bd6581642a": {
+      "status": "published",
+      "verified_nonfiction": true,
+      "reviewed_title": "人生初ライブ参戦から1か月で、推しが大炎上した話",
+      "reviewed_at": "2026-11-18",
+      "group_ids": [
+        "aespa"
+      ],
+      "topic_ids": [
+        "live",
+        "fandom",
+        "member"
+      ],
+      "category_ids": [
+        "kpop"
+      ],
+      "member_ids": [],
+      "song_ids": []
+    },
+    "https://note.com/tender_sheep6906/n/n44e4ab3c8a22": {
+      "status": "excluded",
+      "reviewed_title": "55 わーすたのライブに行って",
+      "reviewed_at": "2026-11-18",
+      "reason": "取得できた本文は会場・時刻・料金とセットリストが中心で、具体的な感想を確認できない。書き手全体の除外ではなくこの記事のみ。"
+    },
+    "https://note.com/yui_avocet1955/n/n41b191229c3d": {
+      "status": "excluded",
+      "reviewed_title": "Le Sserafimの台北公演に急遽参戦した！",
+      "reviewed_at": "2026-11-18",
+      "reason": "チケット取得手続きが中心。公演・ファン交流の実体験を記す後編を個別承認。"
     }
   },
   "blocked_urls": [],

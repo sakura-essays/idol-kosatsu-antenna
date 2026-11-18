@@ -485,7 +485,12 @@
       "rss_items_checked": 5,
       "rss_url": "https://note.com/tokku_x/rss",
       "discovery": [],
-      "auto_publish_after": "2026-11-18T15:41:54+09:00"
+      "auto_publish_after": "2026-11-18T15:41:54+09:00",
+      "supplemental_discovery": {
+        "method": "web_search",
+        "query": "site:note.com ASP アイドル 感想 ライブ",
+        "reason": "ASPタグの同名の広告・金融記事が多いため、アイドル文脈を追加して検索"
+      }
     },
     {
       "author_id": "yoshikaze0118",
@@ -508,7 +513,12 @@
       "rss_items_checked": 25,
       "rss_url": "https://note.com/yoshikaze0118/rss",
       "discovery": [],
-      "auto_publish_after": "2026-11-18T15:41:54+09:00"
+      "auto_publish_after": "2026-11-18T15:41:54+09:00",
+      "supplemental_discovery": {
+        "method": "web_search",
+        "query": "site:note.com BiS 解散 感想 note",
+        "reason": "BiSタグに同名の金融関連記事が多いため、解散・ライブの文脈を追加して検索"
+      }
     }
   ],
   "existing_automatic_rss_evidence_refreshed": [

@@ -2948,7 +2948,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "b5ca0b2aca2f57259c22a4068d07411b4918ea22c81f56dc0f7c1f7409531281",
       "body_hash": "06894327298c5263a1d1dbc748245c89bae82c6aea926191c4cc1150a4e86b7a",
       "body_length": 331,
@@ -2968,7 +2968,7 @@
       "title_essay": true,
       "body_subject": true,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:55.194354+00:00"
+      "observed_at": "2026-11-18T06:50:01.710709+00:00"
     },
     "id": "d1b4591bade56c5da3bb",
     "status": "published",
@@ -9396,7 +9396,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "53cf06769496dde7e47e5dbce6ebf7ed0fc291aa1d89d41510b892bf04ce8488",
       "body_hash": "cf78799e80416d18f31f2b24c7622d7be2869460878245135f89f4828bae2eb2",
       "body_length": 301,
@@ -9416,7 +9416,7 @@
       "title_essay": false,
       "body_subject": true,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:55.217617+00:00"
+      "observed_at": "2026-11-18T06:50:01.735293+00:00"
     },
     "id": "6a610bd1552307745407",
     "status": "published",
@@ -11305,7 +11305,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "03e42dd9b76dc761786a6d0d8ab4d667073f9f60c08c23fd020fe169665c9cf1",
       "body_hash": "ecf1d7beead0821bd3ffec4923492f5e8357f0031f773f43bcd0cf2e329d90c9",
       "body_length": 1002,
@@ -11325,7 +11325,7 @@
       "title_essay": false,
       "body_subject": true,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:55.277013+00:00"
+      "observed_at": "2026-11-18T06:50:01.794825+00:00"
     },
     "id": "117dc140a76fb2489cd8",
     "status": "published",
@@ -14124,7 +14124,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "0b6076ca956d497769ca994c6e22cf8baa602d01376f0ee4ee63a6c557dd2058",
       "body_hash": "7500e70769752a956411a736857902170ecde4e0f53af953f4a46bb21cdef6b4",
       "body_length": 2928,
@@ -14144,7 +14144,7 @@
       "title_essay": false,
       "body_subject": true,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:55.475380+00:00"
+      "observed_at": "2026-11-18T06:50:01.991828+00:00"
     },
     "id": "62bb391ee7585a70b202",
     "status": "published",
@@ -21084,7 +21084,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "e41e5dce6bf93dc7a5fa780b10e311e85a61cb3f89dbc582abd839d05081706e",
       "body_hash": "3aad792ba1e23074042e87f02d116f731515a242a95ade62733ce57082a073a4",
       "body_length": 152,
@@ -21104,7 +21104,7 @@
       "title_essay": true,
       "body_subject": true,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:55.480616+00:00"
+      "observed_at": "2026-11-18T06:50:01.996385+00:00"
     },
     "id": "d5ff7e6d31f9fe9b3954",
     "status": "published",
@@ -22622,7 +22622,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "c4beb1c3b90e9c800f35922dfe0e683655a6ef08436f536c101db834c22e464d",
       "body_hash": "db3dced0bd1b108f91a2fd57f07ba6e6d22397c4a715ba13176e5ae7a1311a96",
       "body_length": 85,
@@ -22642,7 +22642,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:55.487731+00:00"
+      "observed_at": "2026-11-18T06:50:02.007554+00:00"
     },
     "id": "3bffb88949141069c931",
     "status": "published",
@@ -26874,7 +26874,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "be06e4e15683d84f8ad88018881624a40e827c379ed412b419ecce35d4efd7de",
       "body_hash": "4c35ddd2391db2af851e480b266d72870e3f89197a8e7d855dcb35dcf599499d",
       "body_length": 610,
@@ -26894,7 +26894,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:55.533206+00:00"
+      "observed_at": "2026-11-18T06:50:02.052489+00:00"
     },
     "id": "f7e626e914f0f9a872c6",
     "status": "published",
@@ -30160,7 +30160,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "666b3288611dd2a117f509cff6ba639a2b13cb5974757ba7d346b1ba9bc2d5f7",
       "body_hash": "239292dd053fcff25e4a83d8a26119bafa2183a2bd24cd3abdd3aa0b49a2951f",
       "body_length": 5109,
@@ -30182,7 +30182,7 @@
       "title_essay": false,
       "body_subject": true,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:55.844982+00:00"
+      "observed_at": "2026-11-18T06:50:02.566415+00:00"
     },
     "id": "33c3f5469a5e83bc84ea",
     "status": "published",
@@ -30420,7 +30420,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "0b25cb0cbef420fdfb50a59bbed27e6f4293d406a05c70e9504fba70ea1d2053",
       "body_hash": "ce82e52c3d3fd58dc5318bed7482d556ee7ad63423de9b36cfc5e990953434f0",
       "body_length": 7557,
@@ -30440,7 +30440,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.330802+00:00"
+      "observed_at": "2026-11-18T06:50:03.122434+00:00"
     },
     "id": "3429adbc96ec724b2d8f",
     "status": "published",
@@ -32577,7 +32577,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "bb070c8d97f2c26f56d2528c541351ed472a449e11f324c265d8b635fea10e66",
       "body_hash": "6526555c47ade847025a0b45b9dd04e4926c50edcb5d675b29f3f2abe14d7c61",
       "body_length": 1646,
@@ -32597,7 +32597,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.488092+00:00"
+      "observed_at": "2026-11-18T06:50:03.280459+00:00"
     },
     "id": "8a3c50935287f5e13575",
     "status": "published",
@@ -32785,7 +32785,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "de25013b70724d05044c66c8e90c1322541e1033a8a58edfe464c23e320e15a1",
       "body_hash": "a347097c089872409dd37a378b719637c2a29682322e32a707bc247f24e62b34",
       "body_length": 1253,
@@ -32805,7 +32805,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.577212+00:00"
+      "observed_at": "2026-11-18T06:50:03.391442+00:00"
     },
     "id": "140ec8e881cfa4f4a68d",
     "status": "published",
@@ -33085,7 +33085,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "6b213f44210f7997a9f83a3aa15936562426df04fba6c966786ea9154241170b",
       "body_hash": "cf7c10367b7dbdcd301ebc366299f47029358937639e1c0550e0e7c444be87d1",
       "body_length": 1536,
@@ -33105,7 +33105,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.689565+00:00"
+      "observed_at": "2026-11-18T06:50:03.506294+00:00"
     },
     "id": "4a709a4e1a6b623e2be2",
     "status": "published",
@@ -33195,7 +33195,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "c1af89ac0272521109b2b4a989353aa8ef20a6ecdd5966750535ff18b0569883",
       "body_hash": "af6de6d776a4d7b427b0c1d5bff317b8dd69724eaf166a4b490367fb1e9533cd",
       "body_length": 1453,
@@ -33215,7 +33215,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.801562+00:00"
+      "observed_at": "2026-11-18T06:50:03.603001+00:00"
     },
     "id": "9420b173e661067dcce6",
     "status": "published",
@@ -38282,7 +38282,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "8589f9acceeb9c4c86c089f253dd84dabd8bfa8849f8867471afcc6200bcb5c8",
       "body_hash": "c0117cee3ebd5f83b4a4d10b629a17ebb7b2c2f521465a91afa2f62aed575fef",
       "body_length": 100,
@@ -38302,7 +38302,7 @@
       "title_essay": true,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.808530+00:00"
+      "observed_at": "2026-11-18T06:50:03.606456+00:00"
     },
     "id": "415b4ef63386fd6dfdd1",
     "status": "published",
@@ -38336,7 +38336,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "934da275e0ac583513358e84c870de61794e9b36c3858a7504ce98cd63dd85e4",
       "body_hash": "efac13bc19959cb1c6d7e66e25b684dc7be166cd7a54ccc3bdc2d3e0c5578281",
       "body_length": 667,
@@ -38356,7 +38356,7 @@
       "title_essay": true,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.818536+00:00"
+      "observed_at": "2026-11-18T06:50:03.616522+00:00"
     },
     "id": "021c591a269c35babd3f",
     "status": "published",
@@ -39577,7 +39577,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "5f332793dc15dcd6fa393dc83035e825f3b53dcfc5156a556003fc81da4684d5",
       "body_hash": "5afe39bc98217a18b999a510134edfd018dea9121ccb7338e6002fd1397d7845",
       "body_length": 84,
@@ -39597,7 +39597,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.827408+00:00"
+      "observed_at": "2026-11-18T06:50:03.625189+00:00"
     },
     "id": "f9bf688f18f1ee88cda1",
     "status": "published",
@@ -39739,7 +39739,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "b0f64de0b706b8823f643ab2cd176693542afa98cabb5540e549da872c92be61",
       "body_hash": "23de91e29a44cccf5f60c477d83747d0ba6ba52ba18d2224a1d5ec080f08db10",
       "body_length": 882,
@@ -39759,7 +39759,7 @@
       "title_essay": true,
       "body_subject": false,
       "body_culture": true,
-      "observed_at": "2026-11-18T06:41:56.886187+00:00"
+      "observed_at": "2026-11-18T06:50:03.691101+00:00"
     },
     "id": "b37f576b76aae26ecafb",
     "status": "published",
@@ -42347,7 +42347,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "b635fa82f50e6f87bbf20198f5196c027734dfd7084ff11b49ac380c2d5f1961",
       "body_hash": "2d08701efef541d7fb10e826f0bb476babfc598a260c1f6e8d5b0edf883961b7",
       "body_length": 77,
@@ -42369,7 +42369,7 @@
       "title_essay": false,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.895334+00:00"
+      "observed_at": "2026-11-18T06:50:03.699204+00:00"
     },
     "id": "a472ebf673c9be60d6e9",
     "status": "published",
@@ -42812,7 +42812,7 @@
     "content_warning": null,
     "rss_evidence": {
       "version": "rss-1.1",
-      "taxonomy_hash": "fb788c867b53090fd33a38821f3a69645e4cb02da39317b15212a6948c074219",
+      "taxonomy_hash": "75ad6426c7444804be13d7e4b5125aa3b3f4b3d2699ed85ec5a99309ae2d23dd",
       "title_hash": "47ec6769ce072573d9bf59876eeded503c2b23113259a90446b7e3306a5e9f57",
       "body_hash": "52b9b4c4fa908ef69246252946027353fe7473fcc53f50803bf32af74421bc38",
       "body_length": 57,
@@ -42832,7 +42832,7 @@
       "title_essay": true,
       "body_subject": false,
       "body_culture": false,
-      "observed_at": "2026-11-18T06:41:56.897874+00:00"
+      "observed_at": "2026-11-18T06:50:03.701702+00:00"
     },
     "id": "e1bcb9de1ecc70ac9e0e",
     "status": "published",
@@ -62182,10 +62182,14 @@
     "id": "f217f1394a3912f7cd34",
     "status": "pending",
     "reason": "自動掲載開始前の記事、または公開・初回取得日時が未確認",
-    "group_ids": [],
+    "group_ids": [
+      "takaneko"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
@@ -64428,7 +64432,8 @@
     "reason": "自動掲載開始前の記事、または公開・初回取得日時が未確認",
     "group_ids": [
       "sweet-steady",
-      "ocha-norma"
+      "ocha-norma",
+      "takaneko"
     ],
     "member_ids": [],
     "song_ids": [],
@@ -66512,10 +66517,14 @@
     "id": "f97776b8b95c6126d8bd",
     "status": "pending",
     "reason": "自動掲載開始前の記事、または公開・初回取得日時が未確認",
-    "group_ids": [],
+    "group_ids": [
+      "philosophy-dance"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
@@ -70116,6 +70125,319 @@
       "method": "human",
       "reason": "元記事を確認・掲載承認済み",
       "decided_at": "2026-11-18T06:41:58.666592+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/ngc__3/n/n76148a22575b",
+    "title": "【Negiccoライブレポ】261101 アガロック大作戦【セットリスト】",
+    "author_id": "ngc__3",
+    "published_at": "2026-11-02T22:42:14.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "阿賀野の体育館での公演で、椅子に座るメンバーの目配せ、他メンバーのダンス、若い初見客とのラインダンスを観察。セトリのみではない。",
+    "verification_url": "https://note.com/ngc__3/n/n76148a22575b",
+    "origin": "manual",
+    "status": "published",
+    "id": "0393384a6216e3e2e89c",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "negicco"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
+    "topic_ids": [
+      "live",
+      "performance",
+      "fandom"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.859121+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/penguin_paisen/n/n0772a5fa3255",
+    "title": "RYUTist×柴田聡子の調和",
+    "author_id": "penguin_paisen",
+    "published_at": "2026-08-06T22:03:47.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "柴田聡子提供の四曲を、歌詞の人物像・歌割り・ライブ映像とグループの終盤の活動から論じたレビュー。",
+    "verification_url": "https://note.com/penguin_paisen/n/n0772a5fa3255",
+    "origin": "manual",
+    "status": "published",
+    "id": "ebc5d2231659d05e261e",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "ryutist"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
+    "topic_ids": [
+      "music",
+      "performance",
+      "creators"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.859588+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/nm1984/n/n3d624ea3b8e2",
+    "title": "フィロソフィーのダンス The Last Dance ～DFP Forever！～の Blu-rayを観た",
+    "author_id": "nm1984",
+    "published_at": "2026-09-24T08:18:51.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "自身も参加した最終公演をBlu-rayで見直し、メドレー、客席の歓声、活動終了時のパフォーマンスに思いを記す。",
+    "verification_url": "https://note.com/nm1984/n/n3d624ea3b8e2",
+    "origin": "manual",
+    "status": "published",
+    "id": "27e7346938672316bc08",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "philosophy-dance"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
+    "topic_ids": [
+      "live",
+      "performance",
+      "history"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.861319+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/mya_shota/n/nab7eb47e26eb",
+    "title": "『しゅーぱーきゅるりんコア〜〜カワイイ・リアリズム宣言〜』の感想",
+    "author_id": "mya_shota",
+    "published_at": "2026-11-14T23:15:05.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "低音・高音の響き、歌声、MCを抜く構成、最上段からの距離感などを短文で列挙した具体的な公演感想。",
+    "verification_url": "https://note.com/mya_shota/n/nab7eb47e26eb",
+    "origin": "manual",
+    "status": "published",
+    "id": "724ac08357201a1f571d",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "kyurushite"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
+    "topic_ids": [
+      "live",
+      "performance"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.862416+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/muteki_dead1/n/nda93a41ff3ff",
+    "title": "高嶺のなでしこよ、本当に売れてくれ（ライブレポあり）",
+    "author_id": "muteki_dead1",
+    "published_at": "2026-08-12T13:42:10.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "四周年ライブの曲順と卒業曲への思い、メンバーの魅力と世間への広まりのずれに対する個人的な意見。",
+    "verification_url": "https://note.com/muteki_dead1/n/nda93a41ff3ff",
+    "origin": "manual",
+    "status": "published",
+    "id": "4a55dc2eb2b00ed98d66",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "takaneko"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
+    "topic_ids": [
+      "live",
+      "member",
+      "industry",
+      "fandom"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.863851+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/anko0880/n/n8c7ed8783033",
+    "title": "PassCode広島公演",
+    "author_id": "anko0880",
+    "published_at": "2026-11-17T19:30:24.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "後方観覧から前方に移ったことで変わった熱量・楽しみ方、原曲と違う歌い方を実感した広島公演の記録。",
+    "verification_url": "https://note.com/anko0880/n/n8c7ed8783033",
+    "origin": "manual",
+    "status": "published",
+    "id": "c60315615f04fe82651c",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "passcode"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
+    "topic_ids": [
+      "live",
+      "fandom"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.864361+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/cutter/n/ne2dae13a5894",
+    "title": "【ライブレポ】東京女子流 LAST LIVE ～*キセキの物語*～",
+    "author_id": "cutter",
+    "published_at": "2026-04-09T14:42:00.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "最終公演の白い衣装と照明、緩急による疲れにくさ、終盤のミスと客席の空気などを観察した批評を含むライブレポ。",
+    "verification_url": "https://note.com/cutter/n/ne2dae13a5894",
+    "origin": "manual",
+    "status": "published",
+    "id": "f979156e4b7230de9af8",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "tokyo-girls-style"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
+    "topic_ids": [
+      "live",
+      "performance",
+      "history"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.865743+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/yui_avocet1955/n/n8fd4590db6aa",
+    "title": "Le Sserafim 台北公演Part2",
+    "author_id": "yui_avocet1955",
+    "published_at": "2026-11-15T17:08:41.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "台北公演での海外ファンとの交流、見切れ席からの眺め、メンバーの中国語と多言語のMCを聞く経験を記す。チケット取得中心の前編は掲載しない。",
+    "verification_url": "https://note.com/yui_avocet1955/n/n8fd4590db6aa",
+    "origin": "manual",
+    "status": "published",
+    "id": "6355080f0e26d60f3d42",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "le-sserafim"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "kpop"
+    ],
+    "topic_ids": [
+      "live",
+      "fandom"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.866343+00:00",
+      "rule_version": "rss-1.2"
+    },
+    "migration_cohort": "new"
+  },
+  {
+    "url": "https://note.com/tiha_1013/n/n35bd6581642a",
+    "title": "人生初ライブ参戦から1か月で、推しが大炎上した話",
+    "author_id": "tiha_1013",
+    "published_at": "2026-11-11T16:44:32.000+09:00",
+    "verified_at": "2026-11-18",
+    "verification": "初参戦での表情・声への惹かれ方と、その後の失望を分け、応援することとすべてを擁護することの距離を考える実体験。",
+    "verification_url": "https://note.com/tiha_1013/n/n35bd6581642a",
+    "origin": "manual",
+    "status": "published",
+    "id": "82e120a9324900e69b1a",
+    "reason": "元記事を確認・掲載承認済み",
+    "group_ids": [
+      "aespa"
+    ],
+    "member_ids": [],
+    "song_ids": [],
+    "category_ids": [
+      "kpop"
+    ],
+    "topic_ids": [
+      "live",
+      "fandom",
+      "member"
+    ],
+    "auto_candidate": "pending",
+    "decision": {
+      "result": "published",
+      "method": "human",
+      "reason": "元記事を確認・掲載承認済み",
+      "decided_at": "2026-11-18T06:50:05.866819+00:00",
       "rule_version": "rss-1.2"
     },
     "migration_cohort": "new"
