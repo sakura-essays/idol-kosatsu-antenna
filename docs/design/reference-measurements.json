@@ -1,0 +1,765 @@
+[
+  {
+    "url": "https://sakura-essays.github.io/sakurazaka-kosatsu-antenna/",
+    "body": {
+      "background": "rgb(248, 247, 243)",
+      "font": "\"Noto Sans JP\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", Meiryo, sans-serif"
+    },
+    "samples": [
+      {
+        "font": "\"Noto Sans JP\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "23.4px",
+        "size": "13px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 324
+      },
+      {
+        "font": "\"Noto Sans JP\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "18px",
+        "size": "10px",
+        "tag": "P",
+        "weight": "600",
+        "width": 670
+      },
+      {
+        "font": "\"Yu Mincho\", \"Hiragino Mincho ProN\", serif",
+        "lineHeight": "66.65px",
+        "size": "43px",
+        "tag": "H1",
+        "weight": "500",
+        "width": 670
+      },
+      {
+        "font": "\"Noto Sans JP\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "26px",
+        "size": "13px",
+        "tag": "P",
+        "weight": "400",
+        "width": 670
+      },
+      {
+        "font": "\"Yu Mincho\", serif",
+        "lineHeight": "32.4px",
+        "size": "18px",
+        "tag": "P",
+        "weight": "400",
+        "width": 377
+      },
+      {
+        "font": "\"Noto Sans JP\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "18px",
+        "size": "10px",
+        "tag": "P",
+        "weight": "400",
+        "width": 377
+      },
+      {
+        "font": "\"Noto Sans JP\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "18px",
+        "size": "10px",
+        "tag": "P",
+        "weight": "600",
+        "width": 381
+      },
+      {
+        "font": "\"Noto Sans JP\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "21.6px",
+        "size": "12px",
+        "tag": "P",
+        "weight": "400",
+        "width": 381
+      }
+    ]
+  },
+  {
+    "url": "https://www.cinra.net/",
+    "body": {
+      "background": "rgba(0, 0, 0, 0)",
+      "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif"
+    },
+    "samples": [
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "0px",
+        "size": "0px",
+        "tag": "H2",
+        "weight": "700",
+        "width": 207
+      },
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "18.4px",
+        "size": "16px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 697
+      },
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "50px",
+        "size": "36px",
+        "tag": "P",
+        "weight": "700",
+        "width": 615
+      },
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "25px",
+        "size": "18px",
+        "tag": "P",
+        "weight": "400",
+        "width": 615
+      },
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "13.8px",
+        "size": "12px",
+        "tag": "P",
+        "weight": "400",
+        "width": 60
+      },
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "28px",
+        "size": "20px",
+        "tag": "P",
+        "weight": "700",
+        "width": 277
+      },
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "13.8px",
+        "size": "12px",
+        "tag": "P",
+        "weight": "400",
+        "width": 60
+      },
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Hiragino Kaku Gothic ProN\", \"Hiragino Sans\", YuGothic, \"Yu Gothic Medium\", \"Yu Gothic\", Meiryo, sans-serif",
+        "lineHeight": "28px",
+        "size": "20px",
+        "tag": "P",
+        "weight": "700",
+        "width": 293
+      }
+    ]
+  },
+  {
+    "url": "https://realsound.jp/",
+    "body": {
+      "background": "rgba(0, 0, 0, 0)",
+      "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif"
+    },
+    "samples": [
+      {
+        "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+        "lineHeight": "28px",
+        "size": "16px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 1240
+      },
+      {
+        "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+        "lineHeight": "15.4px",
+        "size": "11px",
+        "tag": "H1",
+        "weight": "400",
+        "width": 578
+      },
+      {
+        "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+        "lineHeight": "33.6px",
+        "size": "24px",
+        "tag": "H3",
+        "weight": "700",
+        "width": 670
+      },
+      {
+        "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H3",
+        "weight": "700",
+        "width": 318
+      },
+      {
+        "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H3",
+        "weight": "700",
+        "width": 318
+      },
+      {
+        "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H3",
+        "weight": "700",
+        "width": 318
+      },
+      {
+        "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "H3",
+        "weight": "700",
+        "width": 318
+      },
+      {
+        "font": "\"Helvetica Neue\", Roboto, \"Hiragino Sans\", \"ヒラギノ角ゴ ProN W3\", \"Hiragino Kaku Gothic ProN\", Arial, 游ゴシック体, YuGothic, 游ゴシック, \"Yu Gothic\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+        "lineHeight": "33.6px",
+        "size": "24px",
+        "tag": "H2",
+        "weight": "700",
+        "width": 156
+      }
+    ]
+  },
+  {
+    "url": "https://note.com/",
+    "body": {
+      "background": "rgb(255, 255, 255)",
+      "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif"
+    },
+    "samples": [
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 151
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "18px",
+        "size": "12px",
+        "tag": "P",
+        "weight": "700",
+        "width": 133
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "18px",
+        "size": "12px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 151
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "H1",
+        "weight": "400",
+        "width": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.itsnicethat.com/",
+    "body": {
+      "background": "rgba(0, 0, 0, 0)",
+      "font": "Bradford, serif"
+    },
+    "samples": [
+      {
+        "font": "LabilVariable, Labil, sans-serif",
+        "lineHeight": "21px",
+        "size": "15px",
+        "tag": "P",
+        "weight": "400",
+        "width": 0
+      },
+      {
+        "font": "LabilVariable, Labil, sans-serif",
+        "lineHeight": "21px",
+        "size": "15px",
+        "tag": "P",
+        "weight": "400",
+        "width": 0
+      },
+      {
+        "font": "LabilVariable, Labil, sans-serif",
+        "lineHeight": "21px",
+        "size": "15px",
+        "tag": "P",
+        "weight": "400",
+        "width": 0
+      },
+      {
+        "font": "LabilVariable, Labil, sans-serif",
+        "lineHeight": "21px",
+        "size": "15px",
+        "tag": "P",
+        "weight": "400",
+        "width": 0
+      },
+      {
+        "font": "LabilVariable, Labil, sans-serif",
+        "lineHeight": "21px",
+        "size": "15px",
+        "tag": "P",
+        "weight": "400",
+        "width": 0
+      },
+      {
+        "font": "LabilVariable, Labil, sans-serif",
+        "lineHeight": "21px",
+        "size": "15px",
+        "tag": "P",
+        "weight": "400",
+        "width": 0
+      },
+      {
+        "font": "LabilVariable, Labil, sans-serif",
+        "lineHeight": "21px",
+        "size": "15px",
+        "tag": "P",
+        "weight": "400",
+        "width": 0
+      },
+      {
+        "font": "LabilVariable, Labil, sans-serif",
+        "lineHeight": "21px",
+        "size": "15px",
+        "tag": "P",
+        "weight": "400",
+        "width": 0
+      }
+    ]
+  },
+  {
+    "url": "https://muuuuu.org/",
+    "body": {
+      "background": "rgb(237, 237, 235)",
+      "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif"
+    },
+    "samples": [
+      {
+        "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif",
+        "lineHeight": "10px",
+        "size": "10px",
+        "tag": "P",
+        "weight": "400",
+        "width": 515
+      },
+      {
+        "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif",
+        "lineHeight": "28px",
+        "size": "28px",
+        "tag": "H1",
+        "weight": "400",
+        "width": 135
+      },
+      {
+        "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif",
+        "lineHeight": "14px",
+        "size": "14px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 761
+      },
+      {
+        "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif",
+        "lineHeight": "330px",
+        "size": "300px",
+        "tag": "H2",
+        "weight": "500",
+        "width": 1143
+      },
+      {
+        "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif",
+        "lineHeight": "10px",
+        "size": "10px",
+        "tag": "H2",
+        "weight": "600",
+        "width": 94
+      },
+      {
+        "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif",
+        "lineHeight": "43.75px",
+        "size": "35px",
+        "tag": "P",
+        "weight": "600",
+        "width": 504
+      },
+      {
+        "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif",
+        "lineHeight": "16px",
+        "size": "10px",
+        "tag": "P",
+        "weight": "400",
+        "width": 216
+      },
+      {
+        "font": "YakuHanJP, \"LINE Seed JP Core\", \"LINE Seed JP Full\", sans-serif",
+        "lineHeight": "21px",
+        "size": "21px",
+        "tag": "H2",
+        "weight": "400",
+        "width": 1
+      }
+    ]
+  },
+  {
+    "url": "https://www.3ammagazine.com/3am/",
+    "body": {
+      "background": "rgb(255, 255, 255)",
+      "font": "Cardo, sans-serif"
+    },
+    "samples": [
+      {
+        "font": "Cardo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 1120
+      },
+      {
+        "font": "Helvetica, sans-serif",
+        "lineHeight": "40px",
+        "size": "40px",
+        "tag": "H1",
+        "weight": "600",
+        "width": 1120
+      },
+      {
+        "font": "Helvetica, sans-serif",
+        "lineHeight": "39px",
+        "size": "30px",
+        "tag": "H3",
+        "weight": "600",
+        "width": 465
+      },
+      {
+        "font": "Cardo, sans-serif",
+        "lineHeight": "27px",
+        "size": "18px",
+        "tag": "P",
+        "weight": "400",
+        "width": 465
+      },
+      {
+        "font": "Cardo, sans-serif",
+        "lineHeight": "27px",
+        "size": "18px",
+        "tag": "P",
+        "weight": "400",
+        "width": 465
+      },
+      {
+        "font": "Helvetica, sans-serif",
+        "lineHeight": "39px",
+        "size": "30px",
+        "tag": "H3",
+        "weight": "600",
+        "width": 465
+      },
+      {
+        "font": "Cardo, sans-serif",
+        "lineHeight": "27px",
+        "size": "18px",
+        "tag": "P",
+        "weight": "400",
+        "width": 465
+      },
+      {
+        "font": "Cardo, sans-serif",
+        "lineHeight": "27px",
+        "size": "18px",
+        "tag": "P",
+        "weight": "400",
+        "width": 465
+      }
+    ]
+  },
+  {
+    "url": "https://www.publicbooks.org/",
+    "body": {
+      "background": "rgba(0, 0, 0, 0)",
+      "font": "\"Libre Baskerville\", serif"
+    },
+    "samples": [
+      {
+        "font": "Freeman, sans-serif",
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 268
+      },
+      {
+        "font": "Freeman, sans-serif",
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 222
+      },
+      {
+        "font": "\"Libre Baskerville\", serif",
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "NAV",
+        "weight": "400",
+        "width": 678
+      },
+      {
+        "font": "Freeman, sans-serif",
+        "lineHeight": "48px",
+        "size": "40px",
+        "tag": "H2",
+        "weight": "400",
+        "width": 481
+      },
+      {
+        "font": "\"Libre Baskerville\", serif",
+        "lineHeight": "22.4px",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 481
+      },
+      {
+        "font": "Freeman, sans-serif",
+        "lineHeight": "31.92px",
+        "size": "24px",
+        "tag": "H2",
+        "weight": "400",
+        "width": 241
+      },
+      {
+        "font": "Freeman, sans-serif",
+        "lineHeight": "31.92px",
+        "size": "24px",
+        "tag": "H2",
+        "weight": "400",
+        "width": 241
+      },
+      {
+        "font": "\"Libre Baskerville\", serif",
+        "lineHeight": "40px",
+        "size": "32px",
+        "tag": "H2",
+        "weight": "400",
+        "width": 310
+      }
+    ]
+  },
+  {
+    "url": "https://www.aozora.gr.jp/",
+    "body": {
+      "background": "rgb(255, 255, 255)",
+      "font": "\"Times New Roman\""
+    },
+    "samples": [
+      {
+        "font": "\"Times New Roman\"",
+        "lineHeight": "normal",
+        "size": "24px",
+        "tag": "H1",
+        "weight": "700",
+        "width": 1213
+      },
+      {
+        "font": "\"Times New Roman\"",
+        "lineHeight": "normal",
+        "size": "32px",
+        "tag": "P",
+        "weight": "400",
+        "width": 1213
+      },
+      {
+        "font": "\"Times New Roman\"",
+        "lineHeight": "normal",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 1213
+      },
+      {
+        "font": "\"Times New Roman\"",
+        "lineHeight": "normal",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 1213
+      },
+      {
+        "font": "\"Times New Roman\"",
+        "lineHeight": "normal",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 1213
+      },
+      {
+        "font": "\"Times New Roman\"",
+        "lineHeight": "normal",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 1213
+      },
+      {
+        "font": "\"Times New Roman\"",
+        "lineHeight": "normal",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 1213
+      }
+    ]
+  },
+  {
+    "url": "https://www.hayakawabooks.com/",
+    "body": {
+      "background": "rgb(255, 255, 255)",
+      "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif"
+    },
+    "samples": [
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "27px",
+        "size": "18px",
+        "tag": "H1",
+        "weight": "700",
+        "width": 267
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "H2",
+        "weight": "400",
+        "width": 1
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 284
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "H3",
+        "weight": "700",
+        "width": 284
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 284
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "H3",
+        "weight": "700",
+        "width": 284
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "P",
+        "weight": "400",
+        "width": 284
+      },
+      {
+        "font": "\"Helvetica Neue\", \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", Arial, \"Noto Sans JP\", Meiryo, sans-serif",
+        "lineHeight": "24px",
+        "size": "16px",
+        "tag": "H3",
+        "weight": "700",
+        "width": 284
+      }
+    ]
+  },
+  {
+    "url": "https://pha.hateblo.jp/",
+    "body": {
+      "background": "rgb(255, 255, 255)",
+      "font": "\"Helvetica Neue\", Helvetica, Arial, \"Hiragino Kaku Gothic Pro\", Meiryo, \"MS PGothic\", sans-serif"
+    },
+    "samples": [
+      {
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Helvetica, Arial, sans-serif",
+        "lineHeight": "normal",
+        "size": "16px",
+        "tag": "NAV",
+        "weight": "700",
+        "width": 118
+      },
+      {
+        "font": "STKaiti, Georgia, Times, \"Times New Roman\", \"ヒラギノ明朝 Pro W3\", \"Hiragino Mincho Pro\", \"ＭＳ Ｐ明朝\", \"MS PMincho\", serif",
+        "lineHeight": "normal",
+        "size": "32px",
+        "tag": "H1",
+        "weight": "700",
+        "width": 940
+      },
+      {
+        "font": "STKaiti, Georgia, Times, \"Times New Roman\", \"ヒラギノ明朝 Pro W3\", \"Hiragino Mincho Pro\", \"ＭＳ Ｐ明朝\", \"MS PMincho\", serif",
+        "lineHeight": "normal",
+        "size": "16.8px",
+        "tag": "H2",
+        "weight": "400",
+        "width": 940
+      },
+      {
+        "font": "\"Helvetica Neue\", Helvetica, Arial, \"Hiragino Kaku Gothic Pro\", Meiryo, \"MS PGothic\", sans-serif",
+        "lineHeight": "22.88px",
+        "size": "17.6px",
+        "tag": "H1",
+        "weight": "700",
+        "width": 600
+      },
+      {
+        "font": "\"Helvetica Neue\", Helvetica, Arial, \"Hiragino Kaku Gothic Pro\", Meiryo, \"MS PGothic\", sans-serif",
+        "lineHeight": "25.84px",
+        "size": "15.2px",
+        "tag": "P",
+        "weight": "400",
+        "width": 600
+      },
+      {
+        "font": "\"Helvetica Neue\", Helvetica, Arial, \"Hiragino Kaku Gothic Pro\", Meiryo, \"MS PGothic\", sans-serif",
+        "lineHeight": "normal",
+        "size": "12.8px",
+        "tag": "P",
+        "weight": "400",
+        "width": 600
+      },
+      {
+        "font": "\"Helvetica Neue\", Helvetica, Arial, \"Hiragino Kaku Gothic Pro\", Meiryo, \"MS PGothic\", sans-serif",
+        "lineHeight": "22.88px",
+        "size": "17.6px",
+        "tag": "H1",
+        "weight": "700",
+        "width": 600
+      },
+      {
+        "font": "\"Helvetica Neue\", Helvetica, Arial, \"Hiragino Kaku Gothic Pro\", Meiryo, \"MS PGothic\", sans-serif",
+        "lineHeight": "25.84px",
+        "size": "15.2px",
+        "tag": "P",
+        "weight": "400",
+        "width": 600
+      }
+    ]
+  }
+]

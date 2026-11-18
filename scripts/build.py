@@ -24,9 +24,14 @@ def build():
     template=(ROOT/'web/index.html').read_text()
     for asset in ('data.js','core.js','app.js','analytics.js','style.css'):
         version=hashlib.sha256((out/asset).read_bytes()).hexdigest()[:12];template=template.replace('"'+asset+'"','"'+asset+'?v='+version+'"')
+    about=(out/'about.html').read_text()
+    for asset in ('analytics.js','style.css','about.js'):
+        version=hashlib.sha256((out/asset).read_bytes()).hexdigest()[:12];about=about.replace('"'+asset+'"','"'+asset+'?v='+version+'"')
+    (out/'about.html').write_text(about)
     esc=html.escape;base=settings['base_url']
     def page(path,heading,rows,preset=''):
         body=template.replace('{{CANONICAL}}',esc(base+'/'+path,quote=True)).replace('{{HEADING}}',esc(heading))
+        if path=='index.html':body=body.replace('<h1 id="page-heading">'+esc(heading)+'</h1>','<h1 id="page-heading"><span>'+esc(heading).replace('、','、</span><span>',1)+'</span></h1>')
         body=body.replace('{{FALLBACK}}','<ul>'+''.join('<li><a href="'+esc(a['url'],quote=True)+'">'+esc(a['title'])+'</a></li>' for a in rows[:40])+'</ul>')
         if path.startswith('authors/'):body=body.replace('<head>','<head><base href="../">')
         if preset:body=body.replace('</head>',preset+'</head>')
