@@ -1,135 +1,293 @@
 {
   "counts": {
-    "published": 0,
-    "pending": 615,
+    "published": 63,
+    "pending": 552,
     "excluded": 0
   },
   "samples": {
     "pending": [
       {
-        "url": "https://note.com/cathouse/n/na8ae75752c81",
-        "title": "櫻坂46 13th Single『Unhappy birthday構文』フォーメーション考察と村井優の再生。",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/daraku_in/n/nf294bb4679a0",
+        "title": "4月の振り返り日記〜ルート営業崩壊〜",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 114
       },
       {
-        "url": "https://note.com/mizugaumai/n/n3f8e95392f52",
-        "title": "2022/02",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/pom_ym_bb/n/n1a0eb03040f9",
+        "title": "【GW備忘録2026】7日目 きぼう、見えず",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 58
       },
       {
-        "url": "https://ippyiwa.hatenablog.com/entry/2015/10/15/233625",
-        "title": "Negicco Rarities",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://ippyiwa.hatenablog.com/entry/2017/04/01/172001",
+        "title": "「プロ野球・二軍の謎」",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 2025
       },
       {
         "url": "https://chihiro-blues.hatenablog.com/entry/2026/11/06/215500",
         "title": "ギャラリー潟道「滴展（しずくてん）」見に行ってきました。",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 405
       },
       {
         "url": "https://atnnnas.hatenablog.com/entry/2018/04/25/203827",
         "title": "まるで出口のない迷路みたいに～KAT-TUN LIVE 2018 UNION～",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 5335
       },
       {
-        "url": "https://note.com/daraku_in/n/nf294bb4679a0",
-        "title": "4月の振り返り日記〜ルート営業崩壊〜",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
-      },
-      {
-        "url": "https://note.com/pom_ym_bb/n/n32da571c6e7b",
-        "title": "【GW備忘録2026】8日目 えと、暇って、ｺﾄ？",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
-      },
-      {
-        "url": "https://note.com/lively_fennel526/n/n38ae4e110523",
-        "title": "松田里奈がいなくなっても、櫻坂46は続いていく――6thアニラで見た継承と別れ",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
-      },
-      {
-        "url": "https://note.com/tyan_th/n/n22ea5488fc15",
-        "title": "知名度ゼロからの“勝手に再評価” 〜私的名バンド名盤を語る〜その2 Guano Apes（グアノ エイプス）",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/hatsutaiken_note/n/n233f243155cb",
+        "title": "都心じゃないなら、東京じゃなくていい",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 47
       },
       {
         "url": "https://note.com/sannie_blog/n/n8ac977b68c87",
         "title": "あの夏も神宮も玲香もの話",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 196
       },
       {
-        "url": "https://note.com/antitti/n/n04f71aeba5ef",
-        "title": "STU48に募金するための遠征のようなもの（８月２８日２４時間テレビSTU48募金レポ）",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/nadegata_hp/n/n334bdecff205",
+        "title": "ハロプロでよく聞く「落ちサビ」って、どこのこと？",
+        "reason": "RSS要約が短く判定材料不足",
+        "body_length": 35
       },
       {
-        "url": "https://note.com/daraku_in/n/n7ea5e83cb117",
-        "title": "#もえぴろーぐメモ 接触編(2026/1)",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/yas21/n/n603cd7abeec4",
+        "title": "2026/8/4～11 ドイツ・チェコ旅行（1日目）",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 619
+      },
+      {
+        "url": "https://note.com/thisiswakky/n/nc2820ae515a1",
+        "title": "あなたなら「自己紹介」で自分をどう表現する？",
+        "reason": "RSS要約が短く判定材料不足",
+        "body_length": 35
+      },
+      {
+        "url": "https://note.com/antitti/n/nc925e8ffa099",
+        "title": "２０１６年１月ヲタ活まとめ",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 90
+      },
+      {
+        "url": "https://note.com/dnf48/n/nf4cd31d47346",
+        "title": "持ち時間30分の“勝負曲”。フェスで選ばれるAKB48の10曲",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 171
       },
       {
         "url": "https://atnnnas.hatenablog.com/entry/2017/01/15/125325",
         "title": "ドラマ『不機嫌な果実』の成宮寛貴がタイプすぎるという話",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 8677
       },
       {
-        "url": "https://note.com/dnf48/n/n3aed351eb0a8",
-        "title": "『星月花』だけじゃない。AKB48には魅力的なメンバーがたくさんいます【1/2】",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
-      },
-      {
-        "url": "https://note.com/yas21/n/n7c6b5e415356",
-        "title": "ありきたりな言葉で",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/hatsutaiken_note/n/n3d2d6eee417f",
+        "title": "メンエスで働いているのに、挿入だけは拒否感があるという女子大生の相談に答えた",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 114
       },
       {
         "url": "https://chihiro-blues.hatenablog.com/entry/2026/11/09/235000",
         "title": "Kaffaパルムで逢いましょう。",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 1428
       },
       {
-        "url": "https://note.com/oboeteitekure913/n/nb0830d13aba7",
-        "title": "今日のラジオは文字です「待つことぐらいしかできないけどさ」",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/sama_migirou/n/n80c9ee0bdde0",
+        "title": "先鋭化してしまいがちな時代を生き抜く考え方。",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 799
       },
       {
         "url": "https://atnnnas.hatenablog.com/entry/2017/08/26/213829",
         "title": "1人でできる趣味探し第1弾『ABCクッキング体験レッスン』",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 3376
       },
       {
-        "url": "https://note.com/cathouse/n/nec0c1700be9d",
-        "title": "【増補改定】三期生たちの“サイレントマジョリティー”——櫻坂46『静寂の暴力』",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/dnf48/n/n565473bba649",
+        "title": "卒業公演としての「ここからだ」 ―卒業が完成させた新公演",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 110
       },
       {
-        "url": "https://note.com/hinatahappy/n/ne825368f16fd",
-        "title": "マギアレコード 11話感想 記憶ミュージアムへの招待。 マギウスの1人、灯花ちゃんご対面！",
-        "reason": "現行ルールのRSS根拠未取得",
-        "body_length": 0
+        "url": "https://note.com/ktmk___55/n/n7b9538d25d49",
+        "title": "2月に読んだ8冊｜読書記録",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 306
+      },
+      {
+        "url": "https://note.com/pom_ym_bb/n/nab9a2209f9c9",
+        "title": "【GW備忘録2026】4日目 初コインランドリー",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 55
       }
     ],
-    "published": [],
+    "published": [
+      {
+        "url": "https://note.com/yas21/n/n286b2220a8bf",
+        "title": "「こんなに好きになるなんて」 -2024/9/8 JumpingKiss 鈴木陽依梨卒業（前編）-",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 507
+      },
+      {
+        "url": "https://ippyiwa.hatenablog.com/entry/2016/12/23/182024",
+        "title": "久々のhauptharmonieでした",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 2001
+      },
+      {
+        "url": "https://note.com/oboeteitekure913/n/nfbe2a5c0070b",
+        "title": "今日のラジオは文字です「キャリアが長いメンバーのファンの方に聴いて欲しい番組」",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 178
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2019/11/09/224459",
+        "title": "日向坂46の2nd個握のおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 1253
+      },
+      {
+        "url": "https://note.com/nadegata_hp/n/n4c1d9393da15",
+        "title": "MUSIC AWARDS JAPANを観て、鹿鳴館を思い出した",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 331
+      },
+      {
+        "url": "https://ksk.hatenablog.com/entry/2013/02/24/172206",
+        "title": "130222 乃木坂46 1st Birthday Live in 幕張メッセ",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 5109
+      },
+      {
+        "url": "https://note.com/dnf48/n/n61339c30d902",
+        "title": "ライトファンの頃を思い出させてくれたHKT48コンサート",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 325
+      },
+      {
+        "url": "https://kokokokua2.hatenablog.com/entry/2022/04/01/010012",
+        "title": "感想『少しずつ表現の世界へ』",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 3797
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2019/10/09/212445",
+        "title": "日向坂46 3rdシングル発売記念ライブのおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 3458
+      },
+      {
+        "url": "https://note.com/ready_auklet5508/n/nbf23c0f5abcc",
+        "title": "NMB48 ここにだって天使はいる公演 歌詞考察 完",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 96
+      },
+      {
+        "url": "https://ksk.hatenablog.com/entry/2013/05/03/124225",
+        "title": "16人のプリンシパルdeux ＋α",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 2729
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2020/10/07/210311",
+        "title": "日向坂46 オンラインミート＆グリート のおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 2625
+      },
+      {
+        "url": "https://note.com/lively_fennel526/n/nb9ec8c4a5ba3",
+        "title": "櫻坂46は紅白に戻れるのか――国立14万人でも五分五分だと思う理由",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 57
+      },
+      {
+        "url": "https://note.com/ktmk___55/n/nafc083a3cbaa",
+        "title": "春の匂い",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 278
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2019/07/22/204217",
+        "title": "日向坂46の1st個握のおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 1536
+      },
+      {
+        "url": "https://ippyiwa.hatenablog.com/entry/2015/09/21/021041",
+        "title": "Tokyo Idol Project LIVE vol.10 チャオベッラチンクエッティ×Negicco",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 2928
+      },
+      {
+        "url": "https://note.com/lively_fennel526/n/n327a43fd1ed0",
+        "title": "秋元康は、なぜ同じ仕組みを繰り返すのか――AKB48・青葉坂46から考える「時間」のプロデュース",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 138
+      },
+      {
+        "url": "https://ksk.hatenablog.com/entry/2012/12/30/184457",
+        "title": "121227 乃木坂46 Live in Zepp Tokyo 《夜公演》",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 7557
+      },
+      {
+        "url": "https://note.com/oboeteitekure913/n/nab5686ef4771",
+        "title": "SKE48と「アイバト」の問題",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 610
+      },
+      {
+        "url": "https://note.com/antitti/n/nbb06329fcb62",
+        "title": "８月２４日SKE48研究生公演　最前観覧記",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 85
+      }
+    ],
     "excluded": []
   },
-  "author_distribution": {},
-  "group_distribution": {}
+  "author_distribution": {
+    "nadegata_hp": 2,
+    "ktmk___55": 1,
+    "splicom": 2,
+    "jeln1nyo-0728": 1,
+    "ippyiwa": 8,
+    "dnf48": 4,
+    "antitti": 2,
+    "ready_auklet5508": 1,
+    "oboeteitekure913": 2,
+    "yas21": 3,
+    "ksk": 5,
+    "sannie_blog": 1,
+    "tkmt-182": 12,
+    "hinatahappy": 1,
+    "tsukagirei": 1,
+    "ui_ui": 1,
+    "sama_migirou": 5,
+    "cathouse": 5,
+    "kokokokua2": 1,
+    "lively_fennel526": 5
+  },
+  "group_distribution": {
+    "juice": 1,
+    "hello-project": 2,
+    "perfume": 2,
+    "timelesz": 1,
+    "nogizaka46": 9,
+    "negicco": 6,
+    "akb48": 6,
+    "hkt48": 1,
+    "stu48": 1,
+    "ske48": 2,
+    "nmb48": 1,
+    "jumpingkiss": 1,
+    "hinatazaka46": 15,
+    "sakurazaka46": 12,
+    "equal-love": 1
+  }
 }
