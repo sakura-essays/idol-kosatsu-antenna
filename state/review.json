@@ -46049,10 +46049,14 @@
     "id": "f217f1394a3912f7cd34",
     "status": "pending",
     "reason": "自動掲載開始前の記事、または公開・初回取得日時が未確認",
-    "group_ids": [],
+    "group_ids": [
+      "takaneko"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
@@ -48295,7 +48299,8 @@
     "reason": "自動掲載開始前の記事、または公開・初回取得日時が未確認",
     "group_ids": [
       "sweet-steady",
-      "ocha-norma"
+      "ocha-norma",
+      "takaneko"
     ],
     "member_ids": [],
     "song_ids": [],
@@ -50379,10 +50384,14 @@
     "id": "f97776b8b95c6126d8bd",
     "status": "pending",
     "reason": "自動掲載開始前の記事、または公開・初回取得日時が未確認",
-    "group_ids": [],
+    "group_ids": [
+      "philosophy-dance"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
