@@ -50943,10 +50943,14 @@
     "id": "71a1be829849f4310eda",
     "status": "pending",
     "reason": "自動掲載開始前の記事、または公開・初回取得日時が未確認",
-    "group_ids": [],
+    "group_ids": [
+      "gang-parade"
+    ],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [],
+    "category_ids": [
+      "jp-female"
+    ],
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
