@@ -53,8 +53,26 @@ def evidence(title,text,tax):
     elif not tg and len(set(bg))>1:reason='本文に複数グループ・主題の確認待ち'
     elif (gs or culture) and personal and (tg or title_inferred or title_culture or body_subject or body_culture):result,reason='published','アイドルの主題と考察・感想の文脈をRSSで確認'
     return dict(version=EVIDENCE_VERSION,taxonomy_hash=taxonomy_hash(tax),title_hash=digest(title),body_hash=digest(text),body_length=len(text.strip()),classification=classification,result=result,reason=reason,title_subject=bool(tg or title_inferred) or title_culture,title_essay=title_essay,body_subject=body_subject,body_culture=body_culture,observed_at=dt.datetime.now(dt.timezone.utc).isoformat())
+def eligible_since_activation(article,source):
+    """Fail closed: older posts and pre-activation discoveries need review."""
+    boundary=source.get('auto_publish_after')
+    if not boundary:return True
+    try:
+        cutoff=dt.datetime.fromisoformat(boundary.replace('Z','+00:00'))
+        if cutoff.tzinfo is None:return False
+        for field in ('published_at','first_seen_at'):
+            raw=article.get(field)
+            # A date-only feed cannot prove the article was published after the cutoff.
+            if not isinstance(raw,str) or 'T' not in raw:return False
+            seen=dt.datetime.fromisoformat(raw.replace('Z','+00:00'))
+            if seen.tzinfo is None or seen<=cutoff:return False
+        return True
+    except (ValueError,TypeError,OverflowError):
+        return False
+
 def automatic(article,source,tax=None):
     if source.get('publication_mode')=='manual':return 'pending','書き手設定により記事単位の手動確認が必要'
+    if not eligible_since_activation(article,source):return 'pending','自動掲載開始前の記事、または公開・初回取得日時が未確認'
     e=article.get('rss_evidence',{})
     if e.get('version')!=EVIDENCE_VERSION or e.get('title_hash')!=digest(article['title']):return 'pending','現行ルールのRSS根拠未取得'
     if tax is not None and e.get('taxonomy_hash')!=taxonomy_hash(tax):return 'pending','分類辞書変更・RSS根拠の再取得待ち'
