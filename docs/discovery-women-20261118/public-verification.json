@@ -1,0 +1,209 @@
+{
+  "checked_at": "2026-11-18T15:55:23+09:00",
+  "deployed_source_commit": "0f48f4b3964ba3e414e951f2b996d4b60552b940",
+  "actions_run_url": "https://github.com/sakura-essays/idol-kosatsu-antenna/actions/runs/44254604367",
+  "jobs": [
+    {
+      "name": "publish",
+      "status": "completed",
+      "conclusion": "success"
+    }
+  ],
+  "public_data_url": "https://sakura-essays.github.io/idol-kosatsu-antenna/data.js",
+  "authors": 101,
+  "published_articles": 279,
+  "new_author_pages": [
+    {
+      "author_id": "cule_akihirock",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/cule_akihirock.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/cule_akihirock/n/n6a9730ecd8a5"
+    },
+    {
+      "author_id": "gyunyu_music",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/gyunyu_music.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/gyunyu_music/n/n3847defefda2"
+    },
+    {
+      "author_id": "knhr_midori",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/knhr_midori.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/knhr_midori/n/ncae1b565fff5"
+    },
+    {
+      "author_id": "kramon1",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/kramon1.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/kramon1/n/n8e400af7037c"
+    },
+    {
+      "author_id": "easy_skink7537",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/easy_skink7537.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/easy_skink7537/n/nc3e8f3518d91"
+    },
+    {
+      "author_id": "shiori_book",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/shiori_book.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/shiori_book/n/n45fc8f61dc97"
+    },
+    {
+      "author_id": "azuma333",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/azuma333.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/azuma333/n/nf0153abc5ebe"
+    },
+    {
+      "author_id": "tasty_holly540",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/tasty_holly540.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/tasty_holly540/n/n9146be61bf1c"
+    },
+    {
+      "author_id": "taka_h_11",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/taka_h_11.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/taka_h_11/n/n377278bec8cf"
+    },
+    {
+      "author_id": "photo_hijiri",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/photo_hijiri.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/photo_hijiri/n/nd7ee40036d1b"
+    },
+    {
+      "author_id": "kitaro_shumi_313",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/kitaro_shumi_313.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/kitaro_shumi_313/n/n5472973e2750"
+    },
+    {
+      "author_id": "halftone7313",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/halftone7313.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/halftone7313/n/n70731dc385f2"
+    },
+    {
+      "author_id": "pthread_t",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/pthread_t.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/pthread_t/n/n2ec888e84537"
+    },
+    {
+      "author_id": "namae_boshuchu",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/namae_boshuchu.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/namae_boshuchu/n/n4994abf590e4"
+    },
+    {
+      "author_id": "takahirock16",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/takahirock16.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/takahirock16/n/n01cab1763e91"
+    },
+    {
+      "author_id": "elysian_ew",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/elysian_ew.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/elysian_ew/n/nc68e699bb458"
+    },
+    {
+      "author_id": "ohanabatakeparty",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/ohanabatakeparty.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/ohanabatakeparty/n/n6efe821c6408"
+    },
+    {
+      "author_id": "kandario_yoko",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/kandario_yoko.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/kandario_yoko/n/n4b8af137f10d"
+    },
+    {
+      "author_id": "mik_s",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/mik_s.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/mik_s/n/naa1486eb379c"
+    },
+    {
+      "author_id": "tokku_x",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/tokku_x.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/tokku_x/n/n77ef3d94e6c7"
+    },
+    {
+      "author_id": "yoshikaze0118",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/yoshikaze0118.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/yoshikaze0118/n/n307b8eb13f3c"
+    },
+    {
+      "author_id": "ngc__3",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/ngc__3.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/ngc__3/n/n76148a22575b"
+    },
+    {
+      "author_id": "penguin_paisen",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/penguin_paisen.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/penguin_paisen/n/n0772a5fa3255"
+    },
+    {
+      "author_id": "nm1984",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/nm1984.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/nm1984/n/n3d624ea3b8e2"
+    },
+    {
+      "author_id": "mya_shota",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/mya_shota.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/mya_shota/n/nab7eb47e26eb"
+    },
+    {
+      "author_id": "muteki_dead1",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/muteki_dead1.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/muteki_dead1/n/nda93a41ff3ff"
+    },
+    {
+      "author_id": "anko0880",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/anko0880.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/anko0880/n/n8c7ed8783033"
+    },
+    {
+      "author_id": "cutter",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/cutter.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/cutter/n/ne2dae13a5894"
+    },
+    {
+      "author_id": "yui_avocet1955",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/yui_avocet1955.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/yui_avocet1955/n/n8fd4590db6aa"
+    },
+    {
+      "author_id": "tiha_1013",
+      "url": "https://sakura-essays.github.io/idol-kosatsu-antenna/authors/tiha_1013.html",
+      "status": 200,
+      "verified_article_url": "https://note.com/tiha_1013/n/n35bd6581642a"
+    }
+  ],
+  "baseline_published_preserved": 249,
+  "baseline_excluded_republished": 0,
+  "browser_verification": {
+    "home": "279記事・101人の書き手を画面上で確認",
+    "query_url": "https://sakura-essays.github.io/idol-kosatsu-antenna/?q=PassCode",
+    "query_result": "1件：あんこ「PassCode広島公演」",
+    "newly_visible_articles": [
+      "PassCode広島公演",
+      "Le Sserafim 台北公演Part2",
+      "人生初ライブ参戦から1か月で、推しが大炎上した話"
+    ]
+  }
+}

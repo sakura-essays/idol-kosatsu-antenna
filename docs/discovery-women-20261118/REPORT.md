@@ -137,7 +137,11 @@
 
 - 第1回登録：`76d6e9c`（ハロプロ8人）、Actions成功。
 - 第2回登録：`2664c6d`（スターダスト・WACK関連13人）、Actions成功。
-- 第3回登録：独立系・女性K-POP9人を追加。最終デプロイと公開URLの確認は追記予定。
+- 第3回登録：`0f48f4b`（独立系・女性K-POP9人）。[Actions run 44254604367](https://github.com/sakura-essays/idol-kosatsu-antenna/actions/runs/44254604367) の publish ジョブ成功。
+- GitHubへの3回のコミット・main反映は完了。Pagesのデプロイ成功と、公開サイトの反映確認を別々に実施した。
+- 公開確認：2026-11-18T15:55:23+09:00。公開 `data.js` に101人・279記事、追加30人と各1記事が存在し、追加30人全員の書き手ページがHTTP 200で代表記事URLを含むことを確認。既存249掲載URLをすべて維持し、既存除外URLの公開復活は0。
+- 実ブラウザでもトップの「279記事・101人」、PassCode検索1件と正しい記事・書き手リンク、新規LE SSERAFIM・aespa記事の一覧表示を確認。
+- 詳細は `public-verification.json` を参照。
 
 ## 続きから行う場合
 

@@ -830,5 +830,8 @@
     }
   ],
   "registration_failures": [],
-  "deployment_status": "pending_final_verification"
+  "deployment_status": "completed_success",
+  "public_site_verified_at": "2026-11-18T15:55:23+09:00",
+  "actions_run_url": "https://github.com/sakura-essays/idol-kosatsu-antenna/actions/runs/44254604367",
+  "public_author_pages_verified": 30
 }
