@@ -39,10 +39,10 @@ def run():
             time.sleep(1)
             headers={}
             # Re-fetch after rule/dictionary changes; a 304 cannot refresh evidence.
-            from publication import VERSION,taxonomy_hash
+            from publication import EVIDENCE_VERSION,taxonomy_hash
             tax=read(ROOT/'config/taxonomy.json',{})
             current=[a for a in records.values() if a['author_id']==s['id'] and a.get('origin')=='rss']
-            fresh=bool(current) and all(a.get('rss_evidence',{}).get('version')==VERSION and a.get('rss_evidence',{}).get('taxonomy_hash')==taxonomy_hash(tax) for a in current)
+            fresh=bool(current) and all(a.get('rss_evidence',{}).get('version')==EVIDENCE_VERSION and a.get('rss_evidence',{}).get('taxonomy_hash')==taxonomy_hash(tax) for a in current)
             if fresh and old.get('etag'):headers['If-None-Match']=old['etag']
             if fresh and old.get('modified'):headers['If-Modified-Since']=old['modified']
             data,h=fetch(s['feed'],headers);items=list(parse(data))

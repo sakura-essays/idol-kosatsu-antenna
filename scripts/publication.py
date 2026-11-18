@@ -1,7 +1,8 @@
 """Versioned, deterministic RSS evidence; no article body is persisted."""
 import re, hashlib, json, datetime as dt
 from feed import fiction_guard
-VERSION='rss-1.1'
+VERSION='rss-1.2'
+EVIDENCE_VERSION='rss-1.1'
 ESSAY=r'考察|批評|感想|レビュー|分析|論評|振り返|参戦|観戦|行って|行った|観て|見て|聴いて|感じ|思った|思う|好き|楽しかっ|良かった|よかった|泣いた'
 CONTEXT=r'アイドル|ライブ|コンサート|公演|歌唱|歌詞|楽曲|振付|推し|ファン|MV|ミュージックビデオ|卒業|運営|パフォーマンス'
 CULTURE=r'アイドル|推し活|ファンダム|オタク文化|妄ツイ文化'
@@ -51,13 +52,17 @@ def evidence(title,text,tax):
     elif len(text.strip())<40:reason='RSS要約が短く判定材料不足'
     elif not tg and len(set(bg))>1:reason='本文に複数グループ・主題の確認待ち'
     elif (gs or culture) and personal and (tg or title_inferred or title_culture or body_subject or body_culture):result,reason='published','アイドルの主題と考察・感想の文脈をRSSで確認'
-    return dict(version=VERSION,taxonomy_hash=taxonomy_hash(tax),title_hash=digest(title),body_hash=digest(text),body_length=len(text.strip()),classification=classification,result=result,reason=reason,title_subject=bool(tg or title_inferred) or title_culture,title_essay=title_essay,body_subject=body_subject,body_culture=body_culture,observed_at=dt.datetime.now(dt.timezone.utc).isoformat())
+    return dict(version=EVIDENCE_VERSION,taxonomy_hash=taxonomy_hash(tax),title_hash=digest(title),body_hash=digest(text),body_length=len(text.strip()),classification=classification,result=result,reason=reason,title_subject=bool(tg or title_inferred) or title_culture,title_essay=title_essay,body_subject=body_subject,body_culture=body_culture,observed_at=dt.datetime.now(dt.timezone.utc).isoformat())
 def automatic(article,source,tax=None):
     if source.get('publication_mode')=='manual':return 'pending','書き手設定により記事単位の手動確認が必要'
     e=article.get('rss_evidence',{})
-    if e.get('version')!=VERSION or e.get('title_hash')!=digest(article['title']):return 'pending','現行ルールのRSS根拠未取得'
+    if e.get('version')!=EVIDENCE_VERSION or e.get('title_hash')!=digest(article['title']):return 'pending','現行ルールのRSS根拠未取得'
     if tax is not None and e.get('taxonomy_hash')!=taxonomy_hash(tax):return 'pending','分類辞書変更・RSS根拠の再取得待ち'
     mode=source.get('publication_mode','standard')
     if mode not in ('eligible','standard','cautious'):return 'pending','書き手設定を確認待ち'
+    if e['result']=='pending' and not e['classification']['category_ids'] and e['body_length']>=200 and re.search(r'コスメ収納|読書記録|作品展|クッキング体験|家計簿|料理レシピ',article['title']):
+        return 'excluded','アイドルの手掛かりがなく、題材が明確な生活・読書・美術記事'
+    if e['result']=='published' and mode=='standard' and not e['title_subject'] and (not e['title_essay'] or re.search(r'日記|備忘録|振り返り',article['title'])):
+        return 'pending','一般的な題名・混在日記の主題を確認待ち'
     if e['result']=='published' and mode=='cautious' and not (e['title_subject'] and e['title_essay']):return 'pending','慎重判定・タイトルの主題と形式の確認待ち'
     return e['result'],e['reason']

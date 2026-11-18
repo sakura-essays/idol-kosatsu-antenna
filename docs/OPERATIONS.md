@@ -43,9 +43,9 @@ noteの記事URLは共有・マガジン等のクエリを除去して正規化�
 グループ名・別名に検索語全体が完全一致する場合は分類IDで照合し、IVEとLIVE等の混同を防ぐ。その他の自由語は部分一致のまま。大分類ごとのグループ候補には、記事の複数分類を通じて関連するグループも含める。
 
 ## 自動掲載（2026-11-18）
-収集時に `publication.py` がRSS本文から根拠を抽出し、本文を保存せず `rss_evidence` に結果・分類・長さ・ハッシュ・取得日時を保存する。`decision` は最終結果、human/automatic/block、理由、判定日時、ルール版を記録。読者向けデータには含めない。有料API不要。ルールまたは辞書変更時は条件付き取得を解除して根拠を再取得する。
+収集時に `publication.py` がRSS本文から根拠を抽出し、本文を保存せず `rss_evidence` に結果・分類・長さ・ハッシュ・取得日時を保存する。`decision` は最終結果、human/automatic/block、理由、判定日時、ルール版を記録。読者向けデータには含めない。有料API不要。抽出ルール（EVIDENCE_VERSION）または辞書変更時は条件付き取得を解除して根拠を再取得する。最終判定ルール（VERSION）だけの変更は保存済みの根拠から再判定する。
 
-`config/sources.json` の `publication_mode` は eligible / standard（新規の既定） / cautious / stopped。いずれも記事単位の関連性・創作判定を通す。cautious はタイトルにも主題と考察・感想の形式を要求。自動昇格は行わない。旧 article_policy は履歴として残すが新しい判定では publication_mode を使う。
+`config/sources.json` の `publication_mode` は eligible / standard（新規の既定） / cautious / stopped。いずれも記事単位の関連性・創作判定を通す。standard は一般的な題名や混在日記を保留し、eligible は本文の強い主題根拠があればこの追加保留を解除できる。cautious はタイトルにも主題と考察・感想の形式を要求。自動昇格は行わない。旧 article_policy は履歴として残すが新しい判定では publication_mode を使う。
 
 `config/publication.json` の enabled=false で自動公開のみ停止できる。手動判断は独立して維持。自動非掲載は削除ではなく state/articles.json に記録する。復活は moderation.json に通常の確認済み承認を書く。
 
@@ -53,5 +53,5 @@ noteの記事URLは共有・マガジン等のクエリを除去して正規化�
 
 `state/review.json` は本当の不明記事と未移行過去記事だけ。`state/publication-dry-run.json` は運営用の候補報告。分類辞書の未収録、一般語、複数グループが本文だけに現れる場合、40字未満のRSS、宣伝と感想の混在は保留し得る。長さは文章力の採点ではなく判定情報の下限。
 
-## 今回発掘した書き手の手動確認（2026-11-18）
-`publication_mode: manual` はRSSの新着を必ず確認待ちにする。記事単位の明示承認は有効。今回の発掘書き手はこの設定とし、全体の自動公開設定や既存筆者のモードは変更しない。
+## 新規発掘分の明示的な保留
+`publication_mode: manual` は書き手単位の明示的な手動確認指定として維持する。新着は確認待ち、記事単位の承認は有効。2026-11-18に別作業で設定された30人のこの指定は、自動公開の全体設定で解除しない。通常の新規登録の既定はstandard。

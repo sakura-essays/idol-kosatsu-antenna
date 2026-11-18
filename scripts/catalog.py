@@ -37,7 +37,7 @@ def apply(records,sources,manual,moderation,tax):
     decisions={canonical(k):v for k,v in moderation.get('articles',{}).items()}
     ids={k:{v['id'] for v in tax[k]} for k in ('groups','members','songs','categories','topics')}
     fields={'group_ids':'groups','member_ids':'members','song_ids':'songs','category_ids':'categories','topic_ids':'topics'}
-    from publication import automatic,VERSION,digest
+    from publication import automatic,VERSION,EVIDENCE_VERSION,digest,taxonomy_hash
     migration=read(ROOT/'config/publication.json',{})
     backlog=set(migration.get('backlog_urls',[])); released=set(migration.get('released_urls',[]))
     for u,a in records.items():
@@ -50,7 +50,7 @@ def apply(records,sources,manual,moderation,tax):
         source=src.get(a['author_id'],{})
         if a.get('origin')=='rss' and source.get('feed') and owned(u,source) and valid_date(a.get('published_at')):
             a['status'],a['reason']=automatic(a,source,tax)
-            if a.get('rss_evidence',{}).get('version')==VERSION and a.get('rss_evidence',{}).get('title_hash')==digest(a['title']):
+            if not o and a.get('rss_evidence',{}).get('version')==EVIDENCE_VERSION and a.get('rss_evidence',{}).get('title_hash')==digest(a['title']) and a['rss_evidence'].get('taxonomy_hash')==taxonomy_hash(tax):
                 a.update(a['rss_evidence']['classification'])
             a['auto_candidate']=a['status']
             if a['status']=='published' and (not migration.get('enabled',False) or (u in backlog and u not in released)):

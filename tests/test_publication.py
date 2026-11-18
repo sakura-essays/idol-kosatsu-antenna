@@ -16,6 +16,14 @@ class PublicationTests(unittest.TestCase):
   self.assertEqual(self.judge('アイドルの妄ツイ文化を考察','妄ツイ文化とアイドルの距離を考察する。ファンの表現としてどのように読まれるのか。境界について私は思う。')['result'],'published')
  def test_incidental_group_in_movie_review(self):
   self.assertEqual(self.judge('『映画作品』備忘録','Negiccoのライブについて書いたのは去年です。今日は映画についての記録です。映画を見て感じたこと。とても面白かった。')['result'],'pending')
+ def test_mixed_diary_is_held(self):
+  from publication import automatic
+  t='春の匂い';b='ハロプロの配信が嬉しい。ハロプロが好き。今日は散歩して季節を感じていた。次に家で映画を見た。'*3
+  self.assertEqual(automatic({'title':t,'rss_evidence':self.judge(t,b)},self.s,self.tax)[0],'pending')
+ def test_clear_household_topic_excluded(self):
+  from publication import automatic
+  t='ワイんちのコスメ収納';b='コスメボックスの中身を整理した。棚や箱を買って化粧品をまとめて収納している。'*10
+  self.assertEqual(automatic({'title':t,'rss_evidence':self.judge(t,b)},self.s,self.tax)[0],'excluded')
  def test_group_from_body(self):
   self.assertEqual(self.judge('久々のライブの感想','AKB48のライブへ行った。曲の聴こえ方が好きだった。AKB48の公演を見て楽しかった。また見たいと思った。')['result'],'published')
  def test_unrelated(self):self.assertEqual(self.judge('今日の夕食','今日はカレーを作った。野菜をたくさん入れてみた。明日は何を食べようかと思った。とても美味しかった。')['result'],'excluded')
@@ -42,6 +50,14 @@ class PublicationTests(unittest.TestCase):
  def test_stopped_and_unknown_policy(self):
   for mode,status in [('stopped','excluded'),('bogus','pending')]:self.assertEqual(self.calc(source={**self.s,'publication_mode':mode})['status'],status)
  def test_changed_manual_title_held_even_with_rss(self):self.assertEqual(self.calc({'status':'published','verified_nonfiction':True,'reviewed_title':'旧題名','reviewed_at':'2026-11-18'})['status'],'pending')
+ def test_stored_evidence_survives_no_new_feed_items(self):
+  a=self.calc();r={self.url:copy.deepcopy(a)}
+  with patch('catalog.read',return_value={'enabled':True}):apply(r,[self.s],[],{},self.tax)
+  self.assertEqual(r[self.url]['status'],'published');self.assertEqual(r[self.url]['decision'],a['decision'])
+ def test_taxonomy_change_requires_refresh(self):
+  from publication import automatic
+  a=self.calc();changed=copy.deepcopy(self.tax);changed['groups'][0]['aliases'].append('new alias')
+  self.assertEqual(automatic(a,self.s,changed)[0],'pending')
  def test_audit(self):
   a=self.calc();self.assertEqual(a['decision']['method'],'automatic');self.assertNotIn('text',a);self.assertEqual(a['decision']['result'],'published')
  def test_backlog_release_and_kill_switch(self):

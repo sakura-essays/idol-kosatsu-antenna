@@ -1,0 +1,438 @@
+{
+  "counts": {
+    "published": 51,
+    "pending": 558,
+    "excluded": 6
+  },
+  "samples": {
+    "pending": [
+      {
+        "url": "https://note.com/dnf48/n/n22e225ec63fa",
+        "title": "「点」で楽しむAKB48  ― はるpyonが見られればそれで満足",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 142,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://note.com/pom_ym_bb/n/n32da571c6e7b",
+        "title": "【GW備忘録2026】8日目 えと、暇って、ｺﾄ？",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 64,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://ippyiwa.hatenablog.com/entry/2019/10/31/183200",
+        "title": "ラグビーワールドカップ2019観戦記①～9/20 日本 vs ロシア",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 5654,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://chihiro-blues.hatenablog.com/entry/2026/11/08/233500",
+        "title": "劇団あかつき「あなたらしく・わたしらしく」観劇してきました。",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 1133,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://atnnnas.hatenablog.com/entry/2018/05/17/212640",
+        "title": "ワイのお気に入りシャンプー＆トリートメント",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 7046,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://note.com/hatsutaiken_note/n/n2560cedb999f",
+        "title": "春高バレー",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 146,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://note.com/sannie_blog/n/na93be7be2dac",
+        "title": "4番目の光が輝いてくる話",
+        "reason": "RSS要約が短く判定材料不足",
+        "body_length": 15,
+        "original_access": "unavailable",
+        "assessment": "insufficient_original_access"
+      },
+      {
+        "url": "https://note.com/nadegata_hp/n/n7fc0b0bd7325",
+        "title": "初めて実診を見て、去年が少し悔しくなった",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 43,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://note.com/yas21/n/n603cd7abeec4",
+        "title": "2026/8/4～11 ドイツ・チェコ旅行（1日目）",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 619,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://note.com/thisiswakky/n/nd80854b07e34",
+        "title": "メキシコ旅行記③",
+        "reason": "RSS要約が短く判定材料不足",
+        "body_length": 19,
+        "original_access": "unavailable",
+        "assessment": "insufficient_original_access"
+      },
+      {
+        "url": "https://note.com/antitti/n/nde6f0114ca23",
+        "title": "BNK修行記（世界選抜総選挙の次の次の次の日の話）",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 43,
+        "original_access": "unavailable",
+        "assessment": "insufficient_original_access"
+      },
+      {
+        "url": "https://note.com/fubuki_hp/n/n1c8a11c25f2e",
+        "title": "【アンケートのお願い】",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 96,
+        "original_access": "unavailable",
+        "assessment": "insufficient_original_access"
+      },
+      {
+        "url": "https://atnnnas.hatenablog.com/entry/2017/01/15/125325",
+        "title": "ドラマ『不機嫌な果実』の成宮寛貴がタイプすぎるという話",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 8677,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://note.com/hatsutaiken_note/n/n48448f5db0a8",
+        "title": "質問箱始めました",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 62,
+        "original_access": "unavailable",
+        "assessment": "insufficient_original_access"
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2023/12/31/193825",
+        "title": "2023年のおはなし",
+        "reason": "本文に複数グループ・主題の確認待ち",
+        "body_length": 3754,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://chihiro-blues.hatenablog.com/entry/2026/11/12/232000",
+        "title": "新潟大学旭町学術資料展示館「ふるまちタイムトラベル」見に行ってきました。",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 814,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://note.com/sama_migirou/n/n905c5896695f",
+        "title": "人生を本当に変えるのは小さな方向転換である。",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 217,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://atnnnas.hatenablog.com/entry/2017/08/27/174040",
+        "title": "1人でできる趣味探し第2弾『ジョイフィット体験会』",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 3166,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      },
+      {
+        "url": "https://note.com/dnf48/n/n5aca8c79c126",
+        "title": "シングルじゃないのに定番。コンサートで愛される“隠れエース”たち",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 42,
+        "original_access": "unavailable",
+        "assessment": "insufficient_original_access"
+      },
+      {
+        "url": "https://note.com/ktmk___55/n/na827d55cf6ca",
+        "title": "学生時代、タロット占い師になりかけた",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 91,
+        "original_access": "checked",
+        "assessment": "hold_is_safe_not_a_rejection"
+      }
+    ],
+    "published": [
+      {
+        "url": "https://note.com/dnf48/n/neb5c0688da4a",
+        "title": "AKB48は「再生」から「成長」へ ― 「好きish」が示した最高の密度",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 152,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2019/11/09/224459",
+        "title": "日向坂46の2nd個握のおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 1253,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://jeln1nyo-0728.hatenablog.com/entry/2024/03/07/000000",
+        "title": "Sexy Zoneとして最後のシングル「puzzle」を買った。",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 1002,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/sama_migirou/n/nc63be6993ac8",
+        "title": "人生の始め方【欅坂46 10月のプールに飛び込んだ 歌詞考察】",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 667,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/ready_auklet5508/n/nbf23c0f5abcc",
+        "title": "NMB48 ここにだって天使はいる公演 歌詞考察 完",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 96,
+        "original_access": "unavailable",
+        "assessment": "insufficient_original_access"
+      },
+      {
+        "url": "https://note.com/antitti/n/nbb06329fcb62",
+        "title": "８月２４日SKE48研究生公演　最前観覧記",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 85,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/lively_fennel526/n/n13684ac1bb18",
+        "title": "ファンの高齢化は悪いことなのか――AKB48・坂道46・＝LOVEの世代交代を考える",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 77,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://ksk.hatenablog.com/entry/2012/12/30/184457",
+        "title": "121227 乃木坂46 Live in Zepp Tokyo 《夜公演》",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 7557,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2019/07/22/204217",
+        "title": "日向坂46の1st個握のおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 1536,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/sama_migirou/n/ncd991ccd90d7",
+        "title": "人生は、対岸にいる限り始まらない。【櫻坂46 We got your back 歌詞考察】",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 100,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/cathouse/n/n3a2f7492801a",
+        "title": "櫻坂46四期生／『Alter ego』から新参者まで",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 84,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2019/12/25/201646",
+        "title": "日向坂46の3rd全握のおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 1646,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/oboeteitekure913/n/nab5686ef4771",
+        "title": "SKE48と「アイバト」の問題",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 610,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/lively_fennel526/n/nb9ec8c4a5ba3",
+        "title": "櫻坂46は紅白に戻れるのか――国立14万人でも五分五分だと思う理由",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 57,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://sprint-life.hatenablog.com/entry/2018/02/28/234808",
+        "title": "Perfumeの新曲『無限未来』のMV(ショートバージョン)が公開",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 301,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://ippyiwa.hatenablog.com/entry/2015/09/21/021041",
+        "title": "Tokyo Idol Project LIVE vol.10 チャオベッラチンクエッティ×Negicco",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 2928,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/nadegata_hp/n/n4c1d9393da15",
+        "title": "MUSIC AWARDS JAPANを観て、鹿鳴館を思い出した",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 331,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://ksk.hatenablog.com/entry/2013/02/24/172206",
+        "title": "130222 乃木坂46 1st Birthday Live in 幕張メッセ",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 5109,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://note.com/cathouse/n/na8ae75752c81",
+        "title": "櫻坂46 13th Single『Unhappy birthday構文』フォーメーション考察と村井優の再生。",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 882,
+        "original_access": "checked",
+        "assessment": "eligible"
+      },
+      {
+        "url": "https://tkmt-182.hatenablog.com/entry/2019/05/03/124808",
+        "title": "日向坂46の1st全握のおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 1453,
+        "original_access": "checked",
+        "assessment": "eligible"
+      }
+    ],
+    "excluded": [
+      {
+        "url": "https://chihiro-blues.hatenablog.com/entry/2026/11/15/234000",
+        "title": "ギャラリー蔵織「8ルート 愉快なボクらのお宝作品展」見に行ってきました。",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 1029,
+        "original_access": "checked",
+        "assessment": "outside_idol_scope"
+      },
+      {
+        "url": "https://note.com/ktmk___55/n/n7b9538d25d49",
+        "title": "2月に読んだ8冊｜読書記録",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 306,
+        "original_access": "checked",
+        "assessment": "outside_idol_scope"
+      },
+      {
+        "url": "https://chihiro-blues.hatenablog.com/entry/2026/11/06/215000",
+        "title": "新潟伊勢丹・イセタンアートギャラリー「大塚麻理恵作品展 1枚の絵本」見に行ってきました。",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 579,
+        "original_access": "checked",
+        "assessment": "outside_idol_scope"
+      },
+      {
+        "url": "https://atnnnas.hatenablog.com/entry/2017/08/26/213829",
+        "title": "1人でできる趣味探し第1弾『ABCクッキング体験レッスン』",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 3376,
+        "original_access": "checked",
+        "assessment": "outside_idol_scope"
+      },
+      {
+        "url": "https://note.com/ktmk___55/n/n00179bad5264",
+        "title": "3月に読んだ6冊｜本屋大賞感想｜読書記録",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 282,
+        "original_access": "checked",
+        "assessment": "outside_idol_scope"
+      },
+      {
+        "url": "https://atnnnas.hatenablog.com/entry/2018/03/02/222048",
+        "title": "ワイんちのコスメ収納",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 3058,
+        "original_access": "checked",
+        "assessment": "outside_idol_scope"
+      }
+    ]
+  },
+  "author_distribution": {
+    "nadegata_hp": 2,
+    "splicom": 1,
+    "jeln1nyo-0728": 1,
+    "ippyiwa": 6,
+    "dnf48": 4,
+    "antitti": 2,
+    "ready_auklet5508": 1,
+    "oboeteitekure913": 2,
+    "yas21": 1,
+    "ksk": 4,
+    "sannie_blog": 1,
+    "tkmt-182": 8,
+    "hinatahappy": 1,
+    "tsukagirei": 1,
+    "ui_ui": 1,
+    "sama_migirou": 4,
+    "cathouse": 5,
+    "kokokokua2": 1,
+    "lively_fennel526": 5
+  },
+  "group_distribution": {
+    "juice": 1,
+    "hello-project": 1,
+    "perfume": 1,
+    "timelesz": 1,
+    "nogizaka46": 8,
+    "negicco": 5,
+    "akb48": 6,
+    "hkt48": 1,
+    "stu48": 1,
+    "ske48": 2,
+    "nmb48": 1,
+    "jumpingkiss": 1,
+    "hinatazaka46": 11,
+    "sakurazaka46": 12,
+    "equal-love": 1
+  },
+  "sampling": {
+    "seed": 20261118,
+    "frame": "Original backlog automatic decisions only (615; eight explicit human holds excluded)",
+    "drawn": 46,
+    "originals_checked": 39,
+    "originals_unavailable": 7,
+    "auto_publish_checked": 19,
+    "auto_exclude_checked": 6,
+    "pending_checked": 14
+  },
+  "errors": {
+    "initial_unrelated_publication_candidates": 2,
+    "initial_group_attribution_issues": 2,
+    "final_false_publications_in_checked_sample": 0,
+    "final_false_exclusions_in_checked_sample": 0,
+    "note": "Initial TED2 movie review and 春の匂い mixed diary were held by subject rules. Incidental Negicco/SMAP attribution was also held; no URL-specific exclusion added. Not an estimate of overall accuracy."
+  }
+}
