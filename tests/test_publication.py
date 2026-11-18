@@ -31,6 +31,11 @@ class PublicationTests(unittest.TestCase):
   with patch('catalog.read',return_value={'enabled':True}):apply(r,[s],[],{'articles':{self.url:override}} if override else {},self.tax)
   return r[self.url]
  def test_new_rss_automatically_published(self):self.assertEqual(self.calc()['status'],'published')
+ def test_manual_writer_requires_review_with_automation_enabled(self):
+  source={**self.s,'publication_mode':'manual'}
+  self.assertEqual(self.calc(source=source)['status'],'pending')
+  approved={'status':'published','verified_nonfiction':True,'reviewed_title':'AKB48のライブ感想','reviewed_at':'2026-11-18','category_ids':['48']}
+  self.assertEqual(self.calc(approved,source=source)['status'],'published')
  def test_manual_priority(self):
   for status in ('pending','excluded'):self.assertEqual(self.calc({'status':status})['status'],status)
   self.assertEqual(self.calc({'status':'published','verified_nonfiction':True,'reviewed_title':'AKB48のライブ感想','reviewed_at':'2026-11-18','category_ids':['48']})['status'],'published')

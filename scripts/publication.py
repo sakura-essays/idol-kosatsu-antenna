@@ -53,6 +53,7 @@ def evidence(title,text,tax):
     elif (gs or culture) and personal and (tg or title_inferred or title_culture or body_subject or body_culture):result,reason='published','アイドルの主題と考察・感想の文脈をRSSで確認'
     return dict(version=VERSION,taxonomy_hash=taxonomy_hash(tax),title_hash=digest(title),body_hash=digest(text),body_length=len(text.strip()),classification=classification,result=result,reason=reason,title_subject=bool(tg or title_inferred) or title_culture,title_essay=title_essay,body_subject=body_subject,body_culture=body_culture,observed_at=dt.datetime.now(dt.timezone.utc).isoformat())
 def automatic(article,source,tax=None):
+    if source.get('publication_mode')=='manual':return 'pending','書き手設定により記事単位の手動確認が必要'
     e=article.get('rss_evidence',{})
     if e.get('version')!=VERSION or e.get('title_hash')!=digest(article['title']):return 'pending','現行ルールのRSS根拠未取得'
     if tax is not None and e.get('taxonomy_hash')!=taxonomy_hash(tax):return 'pending','分類辞書変更・RSS根拠の再取得待ち'

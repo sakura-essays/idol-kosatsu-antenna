@@ -219,7 +219,8 @@
       "name": "=LOVE",
       "category_id": "jp-female",
       "aliases": [
-        "イコラブ"
+        "イコラブ",
+        "イコールラブ"
       ]
     },
     {
@@ -227,7 +228,8 @@
       "name": "≠ME",
       "category_id": "jp-female",
       "aliases": [
-        "ノイミー"
+        "ノイミー",
+        "ノットイコールミー"
       ]
     },
     {
@@ -235,7 +237,8 @@
       "name": "≒JOY",
       "category_id": "jp-female",
       "aliases": [
-        "ニアジョイ"
+        "ニアジョイ",
+        "ニアリーイコールジョイ"
       ]
     },
     {
@@ -564,6 +567,49 @@
       "aliases": [
         "JumpingKiss",
         "ジャンキス"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "candy-tune",
+      "name": "CANDY TUNE",
+      "category_id": "jp-female",
+      "aliases": [
+        "きゃんちゅー",
+        "CANDYTUNE"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "sweet-steady",
+      "name": "SWEET STEADY",
+      "category_id": "jp-female",
+      "aliases": [
+        "すいすて",
+        "スイステ",
+        "SWEETSTEADY",
+        "スイートステディ"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "cutie-street",
+      "name": "CUTIE STREET",
+      "category_id": "jp-female",
+      "aliases": [
+        "きゅーすと",
+        "CUTIESTREET"
+      ],
+      "kind": "group"
+    },
+    {
+      "id": "more-star",
+      "name": "MORE STAR",
+      "category_id": "jp-female",
+      "aliases": [
+        "もあすた",
+        "モアスター",
+        "MORESTAR"
       ],
       "kind": "group"
     }
