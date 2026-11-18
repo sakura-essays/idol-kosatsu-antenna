@@ -612,6 +612,20 @@
         "MORESTAR"
       ],
       "kind": "group"
+    },
+    {
+      "id": "ocha-norma",
+      "name": "OCHA NORMA",
+      "category_id": "hello",
+      "aliases": [],
+      "kind": "group"
+    },
+    {
+      "id": "suzuki-airi",
+      "name": "鈴木愛理",
+      "category_id": "hello",
+      "aliases": [],
+      "kind": "solo"
     }
   ],
   "members": [
