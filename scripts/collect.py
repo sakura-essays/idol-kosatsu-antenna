@@ -1,7 +1,8 @@
-"""RSS/Atom metadata collection. All new entries require editorial confirmation."""
+"""RSS/Atom metadata collection. New RSS entries pass the versioned publication gate."""
 import datetime as dt, time, urllib.error, urllib.parse, urllib.robotparser
 from feed import ROOT,UA,read,write,fetch,parse,canonical,fiction_guard
 from catalog import owned,apply
+from publication import evidence
 
 def ingest(records,items,source):
     count=0
@@ -13,7 +14,8 @@ def ingest(records,items,source):
         records[u]={'url':u,'title':item['title'],'author_id':source['id'],
           'published_at':old.get('published_at') or item['published_at'],
           'origin':old.get('origin','rss'),'first_seen_at':old.get('first_seen_at') or dt.datetime.now(dt.timezone.utc).isoformat(),
-          'content_warning':fiction_guard(item['title'],item['text'])}
+          'content_warning':fiction_guard(item['title'],item['text']),
+          'rss_evidence':evidence(item['title'],item['text'],read(ROOT/'config/taxonomy.json',{}))}
         count+=1
     return count
 
@@ -36,8 +38,13 @@ def run():
             if not robots[host].can_fetch(UA,s['feed']):raise ValueError('robots.txt disallows feed')
             time.sleep(1)
             headers={}
-            if old.get('etag'):headers['If-None-Match']=old['etag']
-            if old.get('modified'):headers['If-Modified-Since']=old['modified']
+            # Re-fetch after rule/dictionary changes; a 304 cannot refresh evidence.
+            from publication import VERSION,taxonomy_hash
+            tax=read(ROOT/'config/taxonomy.json',{})
+            current=[a for a in records.values() if a['author_id']==s['id'] and a.get('origin')=='rss']
+            fresh=bool(current) and all(a.get('rss_evidence',{}).get('version')==VERSION and a.get('rss_evidence',{}).get('taxonomy_hash')==taxonomy_hash(tax) for a in current)
+            if fresh and old.get('etag'):headers['If-None-Match']=old['etag']
+            if fresh and old.get('modified'):headers['If-Modified-Since']=old['modified']
             data,h=fetch(s['feed'],headers);items=list(parse(data))
             if not items:raise ValueError('Empty feed; existing data retained')
             log.update(status='ok',items=ingest(records,items,s),last_success=stamp)

@@ -6,7 +6,7 @@
 未知の書き手を検索エンジンから無断自動取得する仕組みはない。検索は領域と年代を変えて手動で行い、候補を残す。活動終了グループ・地方・海外非韓国と、まだ掲載の少ない書き手を優先する。
 
 ## 記事を承認
-RSSは新着をすべて確認待ちにする。元記事でタイトル・筆者・日付・考察または感想を確認したら `moderation.json` の `articles` にURLをキーとして指定する。既存の13記事を入力例として参照。
+RSSは記事単位の自動判定を行い、根拠不足の場合のみ確認待ちにする。手動確認の場合は、元記事でタイトル・筆者・日付・考察または感想を確認したら `moderation.json` の `articles` にURLをキーとして指定する。既存の13記事を入力例として参照。
 
 必須は `status: published`, `verified_nonfiction: true`, `reviewed_title`（現在の題名と完全一致）, `reviewed_at`, `category_ids`。`group_ids`, `topic_ids`, `member_ids`, `song_ids` を適切に指定する。巧拙・独創性の採点は不要。編集時にタイトルが変わると再審査になる。未来日・未確認日付は公開しない。
 
@@ -35,9 +35,20 @@ RSS外は `manual_articles.json` に記事メタデータと `verified_at`, `ver
 noteの記事URLは共有・マガジン等のクエリを除去して正規化する。一方、WordPress等の `?p=123` のような記事識別パラメーターは保持する。
 
 ## GitHub接続に書込権限がない場合の保存
-2026-11-17時点で本リポジトリへの接続書込はGit Trees / Contentsとも403。所有者ログイン済みのGitHub画面から、変更済みソースだけをリポジトリ相対パスの `source-checkpoint.zip` としてルートへアップロードできる。`.git` や認証情報は含めない。`.github/workflows` はZIPに入れず、更新時のstate/distも含めない（最新蓄積を上書きしない）。
+2026-11-17時点では接続書込が403だった（2026-11-18の本改修ではGit Treesで書込可能）。書込不可の場合は、所有者ログイン済みのGitHub画面から、変更済みソースだけをリポジトリ相対パスの `source-checkpoint.zip` としてルートへアップロードできる。`.git` や認証情報は含めない。`.github/workflows` はZIPに入れず、更新時のstate/distも含めない（最新蓄積を上書きしない）。
 
 その後、既存のActionsを手動実行すると、ZIP展開→テスト→RSS取得→ビルド→通常ファイルのコミット→ZIP削除→Pages公開を行う。この経路は初回に動作確認済み。操作後は必ず最新のmain・Actions結果・公開記事数を確認して進捗を更新する。利用者にGitHub権限拡張を求めることを既定にしない。
 
 
 グループ名・別名に検索語全体が完全一致する場合は分類IDで照合し、IVEとLIVE等の混同を防ぐ。その他の自由語は部分一致のまま。大分類ごとのグループ候補には、記事の複数分類を通じて関連するグループも含める。
+
+## 自動掲載（2026-11-18）
+収集時に `publication.py` がRSS本文から根拠を抽出し、本文を保存せず `rss_evidence` に結果・分類・長さ・ハッシュ・取得日時を保存する。`decision` は最終結果、human/automatic/block、理由、判定日時、ルール版を記録。読者向けデータには含めない。有料API不要。ルールまたは辞書変更時は条件付き取得を解除して根拠を再取得する。
+
+`config/sources.json` の `publication_mode` は eligible / standard（新規の既定） / cautious / stopped。いずれも記事単位の関連性・創作判定を通す。cautious はタイトルにも主題と考察・感想の形式を要求。自動昇格は行わない。旧 article_policy は履歴として残すが新しい判定では publication_mode を使う。
+
+`config/publication.json` の enabled=false で自動公開のみ停止できる。手動判断は独立して維持。自動非掲載は削除ではなく state/articles.json に記録する。復活は moderation.json に通常の確認済み承認を書く。
+
+初回移行時点の全URLを backlog_urls に固定。過去記事は判定が published でも released_urls に入れるまで確認待ち。新着は同じ記事判定を通って自動公開。`python scripts/rejudge.py` でドライラン結果・無作為20件ずつ（固定シード）・書き手別/グループ別の候補件数を出す。元記事を照合し、検証したURLを released_urls に追加して段階移行する。件数上限が毎回動いて公開記事が入れ替わる方式ではない。
+
+`state/review.json` は本当の不明記事と未移行過去記事だけ。`state/publication-dry-run.json` は運営用の候補報告。分類辞書の未収録、一般語、複数グループが本文だけに現れる場合、40字未満のRSS、宣伝と感想の混在は保留し得る。長さは文章力の採点ではなく判定情報の下限。
