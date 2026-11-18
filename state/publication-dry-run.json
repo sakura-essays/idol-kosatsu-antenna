@@ -1,22 +1,28 @@
 {
   "counts": {
     "published": 0,
-    "pending": 615,
+    "pending": 790,
     "excluded": 0
   },
   "samples": {
     "pending": [
       {
-        "url": "https://note.com/cathouse/n/na8ae75752c81",
-        "title": "櫻坂46 13th Single『Unhappy birthday構文』フォーメーション考察と村井優の再生。",
-        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
-        "body_length": 882
+        "url": "https://note.com/ui_ui/n/n570f82ed9c64",
+        "title": "第2回「現代と親鸞」公開シンポジウム（2020/10/24）【開催趣旨】",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 164
       },
       {
-        "url": "https://note.com/mizugaumai/n/n3f8e95392f52",
-        "title": "2022/02",
+        "url": "https://note.com/adam711/n/nc7c8fd4c1ef9",
+        "title": "8/7（金）みそにゃん子はうすROOMS配信",
         "reason": "関連性・文章形式の根拠不足",
-        "body_length": 136
+        "body_length": 421
+      },
+      {
+        "url": "https://note.com/keikeikei9/n/nef3e71d1b0db",
+        "title": "そこに未来はあるのか！？",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 44
       },
       {
         "url": "https://ippyiwa.hatenablog.com/entry/2015/10/15/233625",
@@ -31,52 +37,76 @@
         "body_length": 405
       },
       {
+        "url": "https://tkmt-182.hatenablog.com/entry/2019/07/12/220810",
+        "title": "『いつのまにか、ここにいる Documentary of 乃木坂46』のおはなし",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 7342
+      },
+      {
         "url": "https://atnnnas.hatenablog.com/entry/2018/04/25/203827",
         "title": "まるで出口のない迷路みたいに～KAT-TUN LIVE 2018 UNION～",
         "reason": "関連性・文章形式の根拠不足",
         "body_length": 5335
       },
       {
-        "url": "https://note.com/daraku_in/n/nf294bb4679a0",
-        "title": "4月の振り返り日記〜ルート営業崩壊〜",
+        "url": "https://note.com/antitti/n/na7a146d973cd",
+        "title": "メモ",
         "reason": "関連性・文章形式の根拠不足",
-        "body_length": 114
+        "body_length": 60
       },
       {
-        "url": "https://note.com/pom_ym_bb/n/n32da571c6e7b",
-        "title": "【GW備忘録2026】8日目 えと、暇って、ｺﾄ？",
+        "url": "https://note.com/light_nerine81/n/n120a8c1a8e91",
+        "title": "天皇賞秋",
         "reason": "関連性・文章形式の根拠不足",
-        "body_length": 64
+        "body_length": 74
       },
       {
-        "url": "https://note.com/lively_fennel526/n/n38ae4e110523",
-        "title": "松田里奈がいなくなっても、櫻坂46は続いていく――6thアニラで見た継承と別れ",
+        "url": "https://note.com/hinatahappy/n/n8b1e2ba2d161",
+        "title": "個人的2020年の曲10選",
         "reason": "関連性・文章形式の根拠不足",
-        "body_length": 53
+        "body_length": 159
       },
       {
-        "url": "https://note.com/tyan_th/n/n22ea5488fc15",
-        "title": "知名度ゼロからの“勝手に再評価” 〜私的名バンド名盤を語る〜その2 Guano Apes（グアノ エイプス）",
-        "reason": "関連性・文章形式の根拠不足",
-        "body_length": 142
+        "url": "https://note.com/oboeteitekure913/n/nab5686ef4771",
+        "title": "SKE48と「アイバト」の問題",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 610
       },
       {
-        "url": "https://note.com/sannie_blog/n/n8ac977b68c87",
-        "title": "あの夏も神宮も玲香もの話",
+        "url": "https://note.com/yano113/n/n28434c63328d",
+        "title": "2025年  今村麻莉愛さん活動記録",
         "reason": "関連性・文章形式の根拠不足",
-        "body_length": 196
+        "body_length": 160
       },
       {
-        "url": "https://note.com/antitti/n/n04f71aeba5ef",
-        "title": "STU48に募金するための遠征のようなもの（８月２８日２４時間テレビSTU48募金レポ）",
+        "url": "https://note.com/like_chimp6015/n/ncbf5043a176d",
+        "title": "相川暖花の選抜は、全然安泰ではない――彼女が連れてきた人を、SKE48はどこで受け止めるのか",
         "reason": "関連性・文章形式の根拠不足",
-        "body_length": 126
+        "body_length": 104
       },
       {
-        "url": "https://note.com/daraku_in/n/n7ea5e83cb117",
-        "title": "#もえぴろーぐメモ 接触編(2026/1)",
-        "reason": "RSS要約が短く判定材料不足",
-        "body_length": 20
+        "url": "https://note.com/vivid_lemur7625/n/n9fef346bf958",
+        "title": "この1年のSKE48劇場公演参戦記録",
+        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
+        "body_length": 1043
+      },
+      {
+        "url": "https://note.com/aaa_0987/n/n276e042b7aab",
+        "title": "雑多",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 63
+      },
+      {
+        "url": "https://note.com/antitti/n/n3fc428512aad",
+        "title": "８月１日チーム８福井県感想",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 55
+      },
+      {
+        "url": "https://note.com/vast_daisy3427/n/n30ed6a9575af",
+        "title": "失敗しないダイエットとは？医食同源の意味がようやくわかった",
+        "reason": "関連性・文章形式の根拠不足",
+        "body_length": 55
       },
       {
         "url": "https://atnnnas.hatenablog.com/entry/2017/01/15/125325",
@@ -85,46 +115,16 @@
         "body_length": 8677
       },
       {
-        "url": "https://note.com/dnf48/n/n3aed351eb0a8",
-        "title": "『星月花』だけじゃない。AKB48には魅力的なメンバーがたくさんいます【1/2】",
+        "url": "https://note.com/antitti/n/nc925e8ffa099",
+        "title": "２０１６年１月ヲタ活まとめ",
         "reason": "関連性・文章形式の根拠不足",
-        "body_length": 98
+        "body_length": 90
       },
       {
-        "url": "https://note.com/yas21/n/n7c6b5e415356",
-        "title": "ありきたりな言葉で",
-        "reason": "アイドルの主題と考察・感想の文脈をRSSで確認",
-        "body_length": 543
-      },
-      {
-        "url": "https://chihiro-blues.hatenablog.com/entry/2026/11/09/235000",
-        "title": "Kaffaパルムで逢いましょう。",
+        "url": "https://note.com/sama_migirou/n/nfc2ad82bf15f",
+        "title": "人生の薄っぺらさにどう慣れるか。",
         "reason": "関連性・文章形式の根拠不足",
-        "body_length": 1428
-      },
-      {
-        "url": "https://note.com/oboeteitekure913/n/nb0830d13aba7",
-        "title": "今日のラジオは文字です「待つことぐらいしかできないけどさ」",
-        "reason": "関連性・文章形式の根拠不足",
-        "body_length": 67
-      },
-      {
-        "url": "https://atnnnas.hatenablog.com/entry/2017/08/26/213829",
-        "title": "1人でできる趣味探し第1弾『ABCクッキング体験レッスン』",
-        "reason": "関連性・文章形式の根拠不足",
-        "body_length": 3376
-      },
-      {
-        "url": "https://note.com/cathouse/n/nec0c1700be9d",
-        "title": "【増補改定】三期生たちの“サイレントマジョリティー”——櫻坂46『静寂の暴力』",
-        "reason": "RSS要約が短く判定材料不足",
-        "body_length": 19
-      },
-      {
-        "url": "https://note.com/hinatahappy/n/ne825368f16fd",
-        "title": "マギアレコード 11話感想 記憶ミュージアムへの招待。 マギウスの1人、灯花ちゃんご対面！",
-        "reason": "RSS要約が短く判定材料不足",
-        "body_length": 16
+        "body_length": 678
       }
     ],
     "published": [],
