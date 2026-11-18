@@ -515,7 +515,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "shuto_8930312",
@@ -527,7 +528,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "light_nerine81",
@@ -539,7 +541,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "like_chimp6015",
@@ -551,7 +554,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "_ayapoon_",
@@ -563,7 +567,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "adam711",
@@ -575,7 +580,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "yano113",
@@ -587,7 +593,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "mochi_sasuke_35",
@@ -599,7 +606,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "large_zephyr846",
@@ -611,7 +619,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "vivid_lemur7625",
@@ -623,7 +632,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "vast_daisy3427",
@@ -635,7 +645,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "kn_ykh_1985",
@@ -647,7 +658,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "jellyfish_kaimii",
@@ -659,7 +671,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "watashitouta",
@@ -671,7 +684,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "hashipan21",
@@ -683,7 +697,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "syota_826",
@@ -695,7 +710,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "nonhani",
@@ -707,7 +723,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "iorisukicontents",
@@ -719,7 +736,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "tyarumera16",
@@ -731,7 +749,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "kayatan_deko",
@@ -743,7 +762,8 @@
     "article_policy": "review_required",
     "verified_at": "2026-11-18",
     "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
-    "publication_mode": "manual"
+    "publication_mode": "standard",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "tom_story",
@@ -753,9 +773,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "haraharakamone",
@@ -765,9 +786,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "millecrepes2",
@@ -777,9 +799,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "miami_blue",
@@ -789,9 +812,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "dusk_ss315",
@@ -801,9 +825,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "armi",
@@ -813,9 +838,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "amber_idol",
@@ -825,9 +851,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "cs0804",
@@ -837,9 +864,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "blitz_feuerwerk",
@@ -849,9 +877,10 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   },
   {
     "id": "katton_4284",
@@ -861,8 +890,9 @@
     "platform": "note",
     "enabled": true,
     "article_policy": "review_required",
-    "publication_mode": "manual",
+    "publication_mode": "standard",
     "verified_at": "2026-11-18",
-    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。"
+    "verification": "プロフィール・公開投稿一覧・公開RSSを確認。初期掲載は本文を確認した記事のみ。新着は記事単位の確認待ち。",
+    "auto_publish_after": "2026-11-18T13:20:00+09:00"
   }
 ]

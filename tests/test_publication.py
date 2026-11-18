@@ -65,4 +65,36 @@ class PublicationTests(unittest.TestCase):
    r={};ingest(r,[{'url':self.url,'title':'AKB48のライブ感想','text':'AKB48のライブを見てとても楽しかった。'*4,'published_at':'2026-01-01'}],self.s)
    with patch('catalog.read',return_value=config):apply(r,[self.s],[],{},self.tax)
    self.assertEqual(r[self.url]['status'],expected)
+ def test_new_author_activation_requires_fresh_publication_and_discovery(self):
+  from publication import automatic
+  source={**self.s,'publication_mode':'standard','auto_publish_after':'2026-11-18T13:20:00+09:00'}
+  title='AKB48の歌唱を考察'
+  body='今回のAKB48の公演を見て、歌声の聞こえ方について考えた。声が重なると印象が変わるのが面白いと思った。'
+  base={'title':title,'published_at':'2026-11-18T13:21:00+09:00','first_seen_at':'2026-11-18T13:22:00+09:00','rss_evidence':self.judge(title,body)}
+  self.assertEqual(automatic(base,source,self.tax)[0],'published')
+  for patch_values in (
+    {'published_at':'2026-11-18T13:19:00+09:00'},
+    {'first_seen_at':'2026-11-18T13:19:00+09:00'},
+    {'published_at':'2026-11-18T13:20:00+09:00'},
+    {'first_seen_at':'2026-11-18T13:20:00+09:00'},
+    {'published_at':'2026-11-18'},
+    {'first_seen_at':None},
+    {'published_at':'not a timestamp'},
+  ):
+   self.assertEqual(automatic({**base,**patch_values},source,self.tax)[0],'pending',str(patch_values))
+  self.assertEqual(automatic(base,{**source,'auto_publish_after':'bad cutoff'},self.tax)[0],'pending')
+ def test_new_author_old_articles_stay_pending_but_manual_approval_survives(self):
+  source={**self.s,'publication_mode':'standard','auto_publish_after':'2026-11-18T13:20:00+09:00'}
+  self.assertEqual(self.calc(source=source)['status'],'pending')
+  approved={'status':'published','verified_nonfiction':True,'reviewed_title':'AKB48のライブ感想','reviewed_at':'2026-11-18','category_ids':['48']}
+  self.assertEqual(self.calc(approved,source=source)['status'],'published')
+ def test_30_newly_registered_authors_have_safe_activation(self):
+  registrations=read(ROOT/'docs/discovery-20261118/registrations.json',[])
+  sources={s['id']:s for s in read(ROOT/'config/sources.json',[])}
+  self.assertEqual(len(registrations),30)
+  for entry in registrations:
+   with self.subTest(author=entry['author_id']):
+    s=sources[entry['author_id']]
+    self.assertEqual(s['publication_mode'],'standard')
+    self.assertEqual(s['auto_publish_after'],'2026-11-18T13:20:00+09:00')
 if __name__=='__main__':unittest.main()
