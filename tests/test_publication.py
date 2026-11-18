@@ -14,6 +14,10 @@ class PublicationTests(unittest.TestCase):
  def test_fiction_and_critique(self):
   self.assertEqual(self.judge('【妄ツイ】AKB48と僕の夏','これはメンバーとは何ら関係のない物語です。')['result'],'excluded')
   self.assertEqual(self.judge('アイドルの妄ツイ文化を考察','妄ツイ文化とアイドルの距離を考察する。ファンの表現としてどのように読まれるのか。境界について私は思う。')['result'],'published')
+ def test_incidental_group_in_movie_review(self):
+  self.assertEqual(self.judge('『映画作品』備忘録','Negiccoのライブについて書いたのは去年です。今日は映画についての記録です。映画を見て感じたこと。とても面白かった。')['result'],'pending')
+ def test_group_from_body(self):
+  self.assertEqual(self.judge('久々のライブの感想','AKB48のライブへ行った。曲の聴こえ方が好きだった。AKB48の公演を見て楽しかった。また見たいと思った。')['result'],'published')
  def test_unrelated(self):self.assertEqual(self.judge('今日の夕食','今日はカレーを作った。野菜をたくさん入れてみた。明日は何を食べようかと思った。とても美味しかった。')['result'],'excluded')
  def test_promo(self):self.assertEqual(self.judge('AKB48 商品紹介','販売開始。購入はこちら。商品紹介とスポンサーからのPR記事です。詳細についてはリンク先をご覧ください。')['result'],'excluded')
  def test_insufficient_and_ascii(self):

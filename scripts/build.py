@@ -46,5 +46,7 @@ def build():
     (out/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+esc(base+'/'+p)+'</loc></url>' for p in paths)+'</urlset>')
     (out/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+base+'/sitemap.xml\n')
     write(ROOT/'state/articles.json',records);write(ROOT/'state/review.json',[a for a in records if a['status']=='pending'])
+    from rejudge import report
+    write(ROOT/'state/publication-dry-run.json',report())
     print('Built',len(articles),'articles /',len(authors),'authors')
 if __name__=='__main__':build()
