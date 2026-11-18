@@ -430,9 +430,11 @@
   },
   "errors": {
     "initial_unrelated_publication_candidates": 2,
-    "initial_group_attribution_issues": 2,
+    "initial_group_attribution_issues": 1,
     "final_false_publications_in_checked_sample": 0,
     "final_false_exclusions_in_checked_sample": 0,
-    "note": "Initial TED2 movie review and 春の匂い mixed diary were held by subject rules. Incidental Negicco/SMAP attribution was also held; no URL-specific exclusion added. Not an estimate of overall accuracy."
-  }
+    "note": "Initial TED2 movie review and 春の匂い mixed diary were held by subject rules. A V6-focused essay had an incidental 嵐 group attribution and was held; no URL-specific exclusion added. Not an estimate of overall accuracy."
+  },
+  "rule_version": "rss-1.2",
+  "evidence_version": "rss-1.1"
 }
