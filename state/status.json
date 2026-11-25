@@ -3269,5 +3269,17 @@
     "manual_review_rate": 0.0,
     "bootstrap_evidence_imported": 447,
     "bootstrap_writers_registered": 327
+  },
+  "public_snapshot": {
+    "published": 607,
+    "writers_with_published_articles": 200,
+    "registered": 436,
+    "manual_review": 0,
+    "statuses": {
+      "published": 607,
+      "excluded": 250,
+      "pending": 5514,
+      "archive": 1064
+    }
   }
 }

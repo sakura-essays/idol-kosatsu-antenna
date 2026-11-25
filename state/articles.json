@@ -160568,8 +160568,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7bd52b2d33cff6806954",
-    "status": "archive",
-    "reason": "historical_release_budget",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [
       "tohoku"
     ],
@@ -160579,12 +160579,12 @@
       "jp-female"
     ],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:53.575012+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:32.416840+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -160770,24 +160770,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "2ea7855e4a3912be9261",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "ebichu",
-      "momoclo"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "jp-female"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:53.578027+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:32.421879+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -161155,24 +161150,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "a455113b2f5f3636d95c",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:53.585036+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:32.433118+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -161207,25 +161198,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7876c0125823676ef9f7",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "hello-project",
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:53.585699+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:32.434252+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -162189,24 +162175,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "844ae274f270d8f54304",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "juice"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
     "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:53.611323+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:32.459761+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353083,23 +353065,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "b61183aa6f3995348ba9",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "tohoku"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "jp-female"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.936335+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.301303+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353133,8 +353111,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "8ec358ee67668d915938",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353142,10 +353120,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.936909+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.302265+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353179,23 +353157,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7328f6d121804f395017",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "tohoku"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "jp-female"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.938247+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.304269+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353227,8 +353201,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "e2ac6a54f4e4c6035a22",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353236,10 +353210,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.938808+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.305208+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353271,8 +353245,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "51adaf689eb00e6c4248",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353280,10 +353254,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.939566+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.306432+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353315,8 +353289,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "c208144ecda314b7c8ec",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353324,10 +353298,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.940315+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.307640+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353359,8 +353333,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "b43ca42ca9c27669aeb0",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353368,10 +353342,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.941077+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.308845+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353403,8 +353377,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "6c91c9eb9466ada96548",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353412,10 +353386,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.941838+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.310062+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353447,8 +353421,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "164074d5be83e7432dd9",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353456,10 +353430,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.942593+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.311288+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353491,8 +353465,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "650a6ddfb9a1cfa52955",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353500,10 +353474,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.943349+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.312495+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353535,8 +353509,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "a06736ccd9ddb7c4ed20",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353544,10 +353518,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.944098+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.313697+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353581,23 +353555,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "8d4092dfaf1b67430908",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "tohoku"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "jp-female"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.945270+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.315460+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353629,8 +353599,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "c666d19d83225feae1a9",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353638,10 +353608,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.946035+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.316663+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353673,8 +353643,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "3de3c2da056b48de02d2",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353682,10 +353652,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.946787+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.317865+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353717,8 +353687,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "bbc6765ae383f5c14dd0",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353726,10 +353696,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.947539+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.319065+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353761,8 +353731,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f7552d6b84a5b5cf8eeb",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353770,10 +353740,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.948284+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.320279+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353807,8 +353777,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "45621dc5d78b5a679ee4",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353816,10 +353786,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.948874+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.321267+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353851,8 +353821,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7a29be80478cff03cfcb",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353860,10 +353830,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.949647+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.322480+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353897,8 +353867,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f250a8cb59bddb7b0794",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353906,10 +353876,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.950281+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.323539+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353941,8 +353911,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "5e377001e682f315142b",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353950,10 +353920,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.951047+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.324749+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -353985,8 +353955,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "ea31a415e32ac472c31d",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -353994,10 +353964,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.951653+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.325767+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -354031,8 +354001,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "a4742881251cacd92f4a",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -354040,10 +354010,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.952394+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.327037+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -354075,8 +354045,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "10d5eb134c58e47e8462",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -354084,10 +354054,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.953148+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.328260+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -354121,8 +354091,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "bd0d1387bf90e02a1a96",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -354130,10 +354100,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.953889+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.329556+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -354167,8 +354137,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "c8c50a1bfd8e9acad855",
-    "status": "archive",
-    "reason": "historical_release_budget",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [
       "tohoku"
     ],
@@ -354178,12 +354148,12 @@
       "jp-female"
     ],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.954544+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.330709+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -354217,8 +354187,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "4c5b46e8b260eb1b17a9",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -354226,10 +354196,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.955297+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.331955+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -354261,8 +354231,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7218d812f6819a79875a",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -354270,10 +354240,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.956129+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.333306+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -354305,8 +354275,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "b534d3c2bfe2e1512a58",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -354314,10 +354284,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.956882+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.334523+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -354349,8 +354319,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7dc29b88fc1bfc59827d",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -354358,10 +354328,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.957824+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.335966+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -355651,23 +355621,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "d0e5e0be2d0241926ccf",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "tokisen"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "jp-female"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.978451+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.370563+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -355703,25 +355669,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "03585c6f1c87d5d0a0b0",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "ebichu",
-      "momoclo",
-      "tokisen"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "jp-female"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.979732+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.372501+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -355753,8 +355713,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "bd6feab6ed2de06e742c",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -355762,10 +355722,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.980902+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.374334+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -355797,8 +355757,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "565ee142d29a742b6e99",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -355806,10 +355766,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.981835+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.375750+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -355841,8 +355801,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "edf834984b73b635154e",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -355850,10 +355810,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.982718+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.377139+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -355885,21 +355845,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f6a52f394a5b38886794",
-    "status": "archive",
-    "reason": "historical_release_budget",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "culture"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.983402+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.378281+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -355931,8 +355889,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "50ea349f3e9d01873aa8",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -355940,10 +355898,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.984610+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.380083+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -355975,21 +355933,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f3d9f8134aba2c77363f",
-    "status": "archive",
-    "reason": "historical_release_budget",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "culture"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.985231+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.381153+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356021,21 +355977,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "6d169b4663d7bd7c9f8b",
-    "status": "archive",
-    "reason": "historical_release_budget",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "culture"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.986396+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.382919+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356069,23 +356023,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "92ee6e7e77e361a6ad3e",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "tokisen"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "jp-female"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.987048+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.384022+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356117,8 +356067,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "38be927abce9f97624ce",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356126,10 +356076,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.988136+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.385690+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356163,8 +356113,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "4ef4132a0bab039a8b8b",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356172,10 +356122,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.988764+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.386755+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356207,8 +356157,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "85314c067dc399464204",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356216,10 +356166,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.989991+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.388630+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356251,8 +356201,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "99bc3c5ec2abf91585ee",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356260,10 +356210,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.990604+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.389658+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356295,8 +356245,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "4139de33afcf0ba47ec2",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356304,10 +356254,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.991469+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.391005+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356339,8 +356289,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "4c24e35e9eabc0df5dbb",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356348,10 +356298,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.992099+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.392091+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356383,8 +356333,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "ec46e961dbbfd72091e2",
-    "status": "pending",
-    "reason": "announcement_or_promotion",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356392,10 +356342,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "announcement_or_promotion",
-      "decided_at": "2026-11-25T04:33:57.993032+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.393548+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356427,8 +356377,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "e8fb575b8b8b7e92a224",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356436,10 +356386,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.993638+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.394568+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356471,8 +356421,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "aa59255d5397bc4cc01a",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356480,10 +356430,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.994593+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.396036+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356515,21 +356465,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "5b0054095a35900e7aad",
-    "status": "archive",
-    "reason": "historical_release_budget",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "culture"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:57.995242+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.397155+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356561,8 +356509,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "2ba5ba99a16a7fface5d",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356570,10 +356518,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.996216+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.398666+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356605,8 +356553,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "de128b6d74594eed7839",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356614,10 +356562,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.996830+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.400267+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356649,8 +356597,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "8f941e985fcbe75b33f2",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356658,10 +356606,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.997621+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.401626+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356693,8 +356641,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "a7952c39d8fa7e826512",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356702,10 +356650,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.998221+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.402670+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356737,8 +356685,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "43c7365e826fa401b495",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356746,10 +356694,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.998874+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.403791+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356781,8 +356729,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7640f99d9289b198a319",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356790,10 +356738,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:57.999471+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.404800+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356825,8 +356773,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7f0a78eb6757d9c6f86d",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356834,10 +356782,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.000255+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.406047+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356869,8 +356817,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "61a0a42009927c089072",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356878,10 +356826,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.000889+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.407131+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -356913,8 +356861,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "425f562a48ffcd344bb1",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -356922,10 +356870,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.001711+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.408424+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -359980,8 +359928,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "0cdc5b8d951325e96ad0",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -359989,10 +359937,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.058451+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.500365+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -360027,8 +359975,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "48306de2f4520453d7f1",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -360036,10 +359984,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.059428+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.501911+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360106,18 +360054,18 @@
     },
     "id": "abab2faf8f90ef4c8aa4",
     "status": "excluded",
-    "reason": "promotion_without_comment",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "excluded",
+    "auto_candidate": "pending",
     "decision": {
       "result": "excluded",
-      "method": "automatic",
-      "reason": "promotion_without_comment",
-      "decided_at": "2026-11-25T04:35:43.975131+00:00",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.502985+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360173,23 +360121,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "8fe99a38578b2be6e6fc",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:35:43.975832+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.504130+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360245,8 +360189,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "ced774de2443741371b0",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -360254,10 +360198,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.061358+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.505203+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360321,8 +360265,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "98b510400f53d36930d1",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -360330,10 +360274,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.062491+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.506973+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360397,24 +360341,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "d0ec9b63fcd80e5319ea",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.063665+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.508699+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -360448,25 +360388,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "0070ac53f166d02d102e",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "angerme",
-      "juice",
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:35:43.979944+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.510519+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360524,8 +360458,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "47d05e97adee7033bd0c",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -360533,10 +360467,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.066423+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.512883+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360601,8 +360535,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "c51e98096b29aaefd40f",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -360610,10 +360544,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.067066+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.513981+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360677,8 +360611,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "b31ba7c605fe536caca8",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -360686,10 +360620,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.067714+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.515073+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360753,24 +360687,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "ce2a7c379d619e3c60f5",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.069045+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.517135+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -360804,23 +360734,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f4e6b02cdecfc3e01e3c",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:35:43.984882+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.518324+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360876,8 +360802,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "b7ca64bde8e68324a4cb",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -360885,10 +360811,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.070806+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.519969+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -360952,24 +360878,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "fe4cfc042215d3be6704",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.071744+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.521443+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -361003,24 +360925,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "af64d86285ff27059fe5",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.072750+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.522994+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -361052,8 +360970,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "561c68b2523c0732e828",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361061,10 +360979,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.073425+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.524148+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -361096,8 +361014,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "cfa2f3349e78b2ca31e0",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361105,10 +361023,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.074533+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.525882+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -361142,24 +361060,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "4cec1b7affb72111f86b",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.075567+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.527499+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -361191,8 +361105,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "d14c3de2dcf12af75dbe",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361200,10 +361114,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.076217+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.528608+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -361237,8 +361151,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "6202201799a0a64a1e2f",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361246,10 +361160,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.077297+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.530301+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361314,8 +361228,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "9e74accddccdae88199f",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361323,10 +361237,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.078768+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.532491+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361391,8 +361305,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "6eff2495b990602a15f7",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361400,10 +361314,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.079399+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.533550+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361468,18 +361382,18 @@
     },
     "id": "e1063e793e3743afb9fc",
     "status": "excluded",
-    "reason": "promotion_without_comment",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "excluded",
+    "auto_candidate": "pending",
     "decision": {
       "result": "excluded",
-      "method": "automatic",
-      "reason": "promotion_without_comment",
-      "decided_at": "2026-11-25T04:35:43.995264+00:00",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.534640+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361534,8 +361448,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f9cbe20b05478508d56e",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361543,10 +361457,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.080669+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.535697+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361608,8 +361522,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "d904feef350f3a895f72",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361617,10 +361531,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.081669+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.537254+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -361654,23 +361568,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f3de0a83df6287c1ce74",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "rosy-chronicle"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.082535+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.538606+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -361705,18 +361615,18 @@
     },
     "id": "3c06d0da3af8e9b89aea",
     "status": "excluded",
-    "reason": "promotion_without_comment",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "excluded",
+    "auto_candidate": "pending",
     "decision": {
       "result": "excluded",
-      "method": "automatic",
-      "reason": "promotion_without_comment",
-      "decided_at": "2026-11-25T04:35:43.998406+00:00",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.539659+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361771,8 +361681,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "e66fee98fea517da4669",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361780,10 +361690,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.083816+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.540769+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361847,8 +361757,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "07a340e230e4f6ca2db2",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361856,10 +361766,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.084637+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.542073+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361923,8 +361833,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "059793c3f581d1b54cde",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -361932,10 +361842,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.085520+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.543449+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -361997,8 +361907,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "9356a95cc39ba7567612",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362006,10 +361916,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.086149+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.544526+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362041,8 +361951,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "21e908d0c598dde8b3d0",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362050,10 +361960,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.086740+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.545509+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362087,8 +361997,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "cd64a5976c6f0c12378e",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362096,10 +362006,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.087323+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.546491+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -362163,24 +362073,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "9911af5994b2ae2a262f",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.088384+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.548113+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362214,8 +362120,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "4119ff62233644eeda64",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362223,10 +362129,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.088991+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.549138+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -362288,8 +362194,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "393fece9329b1a468102",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362297,10 +362203,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.090079+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.550787+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362332,8 +362238,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "5c2e9002a57b90a07374",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362341,10 +362247,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.090681+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.551781+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362378,24 +362284,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "e713085fb06114bc68c6",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.091329+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.552882+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362427,8 +362329,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "562e2b360d49c5b025bd",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362436,10 +362338,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.091950+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.553925+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362474,10 +362376,9 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "33b7d17ba22f53c8d7c0",
-    "status": "published",
-    "reason": "original_idol_commentary",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [
-      "juice",
       "ocha-norma"
     ],
     "member_ids": [],
@@ -362486,13 +362387,13 @@
       "hello"
     ],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.093050+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.555654+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362527,25 +362428,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "ae40b52fae083c9a244c",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "berryz",
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.093646+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.556647+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362577,8 +362473,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "d9cda87ef0c5a83adf5e",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362586,10 +362482,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.094665+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.558320+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362623,24 +362519,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "1931c39df0a0a0a7e3e4",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "kobushi",
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:35:44.010848+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.560005+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -362696,23 +362587,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "5e68ae186963e9df5a31",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.096712+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.561609+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362746,23 +362633,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "476d4cd51e2f69d6a2ee",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.098279+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.563953+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362796,23 +362679,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "3451c11cc933e8e4d3d5",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.098904+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.564999+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362846,8 +362725,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "420301f39c7a53f35b8a",
-    "status": "archive",
-    "reason": "historical_release_budget",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [
       "ocha-norma"
     ],
@@ -362857,12 +362736,12 @@
       "hello"
     ],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.100283+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.567197+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362897,24 +362776,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "e51e485d6ae7ffedc530",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "hello-project",
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.101251+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.568724+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -362948,8 +362822,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "42c3e94888ef39c21901",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -362957,10 +362831,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.102076+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.570003+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -363024,23 +362898,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "c72f0db42b181ddc52b3",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.102905+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.571298+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -363072,8 +362942,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "5bdda30e3cc06cd85d06",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -363081,10 +362951,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.103528+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.572350+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -363119,24 +362989,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "5a9ac2890d3b26c8b501",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "hello-project",
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.104368+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.573682+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -363170,8 +363035,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "cd11686c33d056ede8f9",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -363179,10 +363044,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.104960+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.574709+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -363247,24 +363112,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "25e2b1b5d2a0ee15bef8",
-    "status": "archive",
-    "reason": "historical_release_budget",
-    "group_ids": [
-      "hello-project",
-      "ocha-norma"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "published",
+    "auto_candidate": "pending",
     "decision": {
-      "result": "archive",
-      "method": "automatic",
-      "reason": "historical_release_budget",
-      "decided_at": "2026-11-25T04:33:58.105577+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.575793+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -363298,8 +363158,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "92284acd4f237196a493",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -363307,10 +363167,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.106190+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.576863+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new",
@@ -363372,8 +363232,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "e994064201d269729e13",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -363381,10 +363241,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.106787+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.577866+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -363416,8 +363276,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "98a07f8c304ef589e9cd",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -363425,10 +363285,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.107410+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.578917+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371051,8 +370911,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f133e062ede9c84d4cd2",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371060,10 +370920,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.243999+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.801152+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371097,8 +370957,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "984c6e97868f3bca73de",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371106,10 +370966,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.244906+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.802590+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371141,8 +371001,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "169f43ed72967282b803",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371150,10 +371010,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.245814+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.804056+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371185,8 +371045,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "02c755771c618b5c22b3",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371194,10 +371054,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.246765+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.805557+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371231,24 +371091,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "88c9e99c3c52a90184ae",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "juice"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
     "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.247400+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.806615+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371282,8 +371138,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f7c0dece9a9243b91bc6",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371291,10 +371147,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.248074+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.807771+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371328,8 +371184,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "0ed67443f49d005d4b14",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371337,10 +371193,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.248716+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.808861+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371372,8 +371228,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "f6e3213c462e74201049",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371381,10 +371237,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.249595+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.810296+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371416,8 +371272,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "6de66657e22581f96862",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371425,10 +371281,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.250261+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.811449+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371460,8 +371316,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "acbbec9b465910bc3f91",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371469,10 +371325,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.250938+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.812610+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371504,8 +371360,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "cef7695fcf21518bddfd",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371513,10 +371369,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.251888+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.814128+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371550,24 +371406,20 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "b3f5a25b0bbec4328fad",
-    "status": "published",
-    "reason": "original_idol_commentary",
-    "group_ids": [
-      "juice"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
     "auto_candidate": "pending",
     "site_added_at": "2026-11-25T04:29:46.282858+00:00",
     "decision": {
-      "result": "published",
-      "method": "automatic",
-      "reason": "original_idol_commentary",
-      "decided_at": "2026-11-25T04:33:58.252510+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.815181+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371599,8 +371451,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "21a6e590a9533deef036",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371608,10 +371460,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.253569+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.816809+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371645,8 +371497,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "ecca74ca681fcf76786b",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371654,10 +371506,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.254244+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.817968+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371693,8 +371545,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "c16e32bf0f33bf94b514",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371702,10 +371554,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.255075+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.819325+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371739,8 +371591,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "21545f29ff19d0dc018a",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371748,10 +371600,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.255993+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.820821+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371785,8 +371637,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7ab1f16e68d9a6ed2a41",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371794,10 +371646,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.256675+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.822041+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371831,8 +371683,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "2df78ea961f9213e7c97",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371840,10 +371692,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.257287+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.823114+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371877,8 +371729,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "7dc561a6c2ef6f922332",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371886,10 +371738,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.257918+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.824200+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371923,8 +371775,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "067b587b8dc60428de8d",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371932,10 +371784,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.259151+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.826085+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -371969,8 +371821,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "6306aff1ef7711cfc336",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -371978,10 +371830,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.259779+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.827186+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -372015,8 +371867,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "bed4f19ef94a8646c4b1",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -372024,10 +371876,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.260623+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.828530+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -372061,8 +371913,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "82c5f652fc995f9b05c4",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -372070,10 +371922,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.261291+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.829669+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -372107,8 +371959,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "129c6046047015e392c9",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -372116,10 +371968,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.261951+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.830793+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -372155,8 +372007,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "bec5a6664a84b3025289",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -372164,10 +372016,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.262820+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.832183+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -372201,8 +372053,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "3659184ba96c75b093d2",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -372210,10 +372062,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.263466+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.833282+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -372249,8 +372101,8 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "56bd48fba118bae63bae",
-    "status": "pending",
-    "reason": "insufficient_context",
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
@@ -372258,10 +372110,10 @@
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "insufficient_context",
-      "decided_at": "2026-11-25T04:33:58.264091+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.834366+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -372294,18 +372146,18 @@
     },
     "id": "ee71f73c372b0c2e16e3",
     "status": "excluded",
-    "reason": "fictional_subject",
+    "reason": "掲載停止（再取得防止）",
     "group_ids": [],
     "member_ids": [],
     "song_ids": [],
     "category_ids": [],
     "topic_ids": [],
-    "auto_candidate": "excluded",
+    "auto_candidate": "pending",
     "decision": {
       "result": "excluded",
-      "method": "automatic",
-      "reason": "fictional_subject",
-      "decided_at": "2026-11-25T04:33:58.264735+00:00",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.835463+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
@@ -372339,23 +372191,19 @@
       "taxonomy_hash": "a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270"
     },
     "id": "3dd1a300143d4c1df260",
-    "status": "pending",
-    "reason": "verify_low_frequency_source_excerpt",
-    "group_ids": [
-      "juice"
-    ],
+    "status": "excluded",
+    "reason": "掲載停止（再取得防止）",
+    "group_ids": [],
     "member_ids": [],
     "song_ids": [],
-    "category_ids": [
-      "hello"
-    ],
+    "category_ids": [],
     "topic_ids": [],
     "auto_candidate": "pending",
     "decision": {
-      "result": "pending",
-      "method": "automatic",
-      "reason": "verify_low_frequency_source_excerpt",
-      "decided_at": "2026-11-25T04:36:00.151055+00:00",
+      "result": "excluded",
+      "method": "block",
+      "reason": "掲載停止（再取得防止）",
+      "decided_at": "2026-11-25T04:38:39.837039+00:00",
       "rule_version": "eligibility-2.2"
     },
     "migration_cohort": "new"
