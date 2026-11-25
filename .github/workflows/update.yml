@@ -44,9 +44,7 @@ jobs:
         run: |
           python -c 'import json, pathlib; s=json.load(open("state/status.json")); print("needed="+("yes" if "metrics" not in s or pathlib.Path("state/bootstrap-articles.json").is_file() else "no"))' >> "$GITHUB_OUTPUT"
       - name: Collect feeds, discover authors and recheck articles
-        id: collect
         if: github.event_name != 'push' || steps.migration.outputs.needed == 'yes'
-        continue-on-error: true
         run: python scripts/collect.py
       - name: Build public metadata only
         run: python scripts/build.py
@@ -68,8 +66,3 @@ jobs:
       - name: Deploy Pages
         id: deploy
         uses: actions/deploy-pages@v4
-      - name: Report pipeline failure after publishing retained data
-        if: steps.collect.outcome == 'failure'
-        run: |
-          echo '::error::収集処理が異常終了しました。公開済みデータは保持されています。収集ステップのログを確認してください。'
-          exit 1

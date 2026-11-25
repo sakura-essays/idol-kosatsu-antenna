@@ -8,7 +8,7 @@ sys.path.insert(0,str(pathlib.Path(__file__).resolve().parents[1]/'scripts'))
 from article_page import Page
 from autopublication import Classifier, VERSION
 from catalog import apply
-from discover import get_candidate, inspect, tag_candidates
+from discover import get_candidate, inspect, shared_group_blog, tag_candidates
 from feed import ROOT, read
 from network import Robots
 from publication import taxonomy_hash
@@ -90,6 +90,10 @@ class AutonomousTests(unittest.TestCase):
         self.assertTrue(a['retry']['closed'])
         self.assertFalse(due(a,self.fingerprint,self.now+dt.timedelta(days=10)))
         self.assertTrue(due(a,'new-dictionary',self.now+dt.timedelta(days=10)))
+
+    def test_group_feed_is_not_a_single_writer(self):
+        self.assertTrue(shared_group_blog('ロージークロニクルオフィシャルブログ Powered by Ameba',self.classifier))
+        self.assertFalse(shared_group_blog('個人名のオフィシャルブログ Powered by Ameba',self.classifier))
 
     def test_candidate_is_own_feed_and_admits_mixed_sources(self):
         c = get_candidate('https://note.com/writer/n/n123?utm_source=test',channel='note-new')

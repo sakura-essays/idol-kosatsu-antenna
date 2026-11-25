@@ -5356,25 +5356,6 @@
     "verified_feed_at": "2026-11-25T04:18:53.839718+00:00"
   },
   {
-    "id": "auto-f1f938adeab0cdfc",
-    "url": "https://ameblo.jp/madeintohoku",
-    "platform": "ameba",
-    "feed": "https://rssblog.ameba.jp/madeintohoku/rss20.xml",
-    "name": "いぎなり東北産オフィシャルブログ Powered by Ameba",
-    "enabled": true,
-    "publication_mode": "standard",
-    "auto_class": "B",
-    "registered_at": "2026-11-25T04:18:53.839718+00:00",
-    "discovered_via": "search",
-    "discovery_family": "",
-    "representative_url": "https://ameblo.jp/madeintohoku/entry-12816539643.html",
-    "groups": [
-      "tohoku"
-    ],
-    "primary_family": "stardust",
-    "verified_feed_at": "2026-11-25T04:18:53.839718+00:00"
-  },
-  {
     "id": "auto-f0685a3690e54f51",
     "url": "https://ameblo.jp/mmrclvz",
     "platform": "ameba",
@@ -5431,27 +5412,6 @@
     "representative_url": "https://ameblo.jp/rycol/entry-12985340064.html",
     "groups": [],
     "primary_family": "culture",
-    "verified_feed_at": "2026-11-25T04:18:53.839718+00:00"
-  },
-  {
-    "id": "auto-bf4ac185f461d561",
-    "url": "https://ameblo.jp/s-spicy",
-    "platform": "ameba",
-    "feed": "https://rssblog.ameba.jp/s-spicy/rss20.xml",
-    "name": "S★スパイシー オフィシャルブログ Powered by Ameba",
-    "enabled": true,
-    "publication_mode": "standard",
-    "auto_class": "B",
-    "registered_at": "2026-11-25T04:18:53.839718+00:00",
-    "discovered_via": "search",
-    "discovery_family": "",
-    "representative_url": "https://ameblo.jp/s-spicy/entry-12451009821.html",
-    "groups": [
-      "ebichu",
-      "momoclo",
-      "tokisen"
-    ],
-    "primary_family": "stardust",
     "verified_feed_at": "2026-11-25T04:18:53.839718+00:00"
   },
   {
@@ -5602,47 +5562,6 @@
       "ocha-norma",
       "suzuki-airi",
       "tsubaki"
-    ],
-    "primary_family": "hello",
-    "verified_feed_at": "2026-11-25T04:18:53.839718+00:00"
-  },
-  {
-    "id": "auto-710675380cce6186",
-    "url": "https://ameblo.jp/rosychronicle",
-    "platform": "ameba",
-    "feed": "https://rssblog.ameba.jp/rosychronicle/rss20.xml",
-    "name": "ロージークロニクルオフィシャルブログ Powered by Ameba",
-    "enabled": true,
-    "publication_mode": "standard",
-    "auto_class": "B",
-    "registered_at": "2026-11-25T04:18:53.839718+00:00",
-    "discovered_via": "ameba-new",
-    "discovery_family": "hello",
-    "representative_url": "https://ameblo.jp/rosychronicle/entry-12985527168.html",
-    "groups": [
-      "rosy-chronicle"
-    ],
-    "primary_family": "hello",
-    "verified_feed_at": "2026-11-25T04:18:53.839718+00:00"
-  },
-  {
-    "id": "auto-2011ef12a01e0eaa",
-    "url": "https://ameblo.jp/ocha-norma",
-    "platform": "ameba",
-    "feed": "https://rssblog.ameba.jp/ocha-norma/rss20.xml",
-    "name": "OCHA NORMAオフィシャルブログ Powered by Ameba",
-    "enabled": true,
-    "publication_mode": "standard",
-    "auto_class": "B",
-    "registered_at": "2026-11-25T04:18:53.839718+00:00",
-    "discovered_via": "ameba-new",
-    "discovery_family": "hello",
-    "representative_url": "https://ameblo.jp/ocha-norma/entry-12985502099.html",
-    "groups": [
-      "berryz",
-      "hello-project",
-      "juice",
-      "ocha-norma"
     ],
     "primary_family": "hello",
     "verified_feed_at": "2026-11-25T04:18:53.839718+00:00"
@@ -6029,25 +5948,6 @@
     ],
     "primary_family": "starto",
     "verified_feed_at": "2026-11-25T04:18:53.839718+00:00"
-  },
-  {
-    "id": "auto-145dc419f3e09939",
-    "url": "https://ameblo.jp/juicejuice-official",
-    "platform": "ameba",
-    "feed": "https://rssblog.ameba.jp/juicejuice-official/rss20.xml",
-    "name": "Juice＝Juiceオフィシャルブログ Powered by Ameba",
-    "enabled": true,
-    "publication_mode": "standard",
-    "auto_class": "C",
-    "registered_at": "2026-11-25T04:24:16.929772+00:00",
-    "discovered_via": "article-link",
-    "discovery_family": "",
-    "representative_url": "https://ameblo.jp/juicejuice-official/entry-12985445886.html",
-    "groups": [
-      "juice"
-    ],
-    "primary_family": "hello",
-    "verified_feed_at": "2026-11-25T04:24:16.929772+00:00"
   },
   {
     "id": "1116_fan",

@@ -234,7 +234,7 @@ def merge_bootstrap(records, sources, bundle, fingerprint):
     return imported
 
 
-def run(root, settings, *, check_limit=180):
+def run(root, settings, *, check_limit=300):
     now = dt.datetime.now(dt.timezone.utc)
     sources = sources_for(root)
     manual = read(root/'config/manual_articles.json',[])

@@ -47,8 +47,16 @@ def build():
     (out/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+base+'/sitemap.xml\n')
     write(ROOT/'state/articles.json',records)
     settings=read(ROOT/'config/publication.json',{})
-    write(ROOT/'state/review.json',[a for a in records if a['status']=='pending' and
-                                  (not settings.get('autonomous') or a['decision']['method']=='human' or a.get('reason')=='explicit_manual_source')])
+    review=[a for a in records if a['status']=='pending' and
+            (not settings.get('autonomous') or a['decision']['method']=='human' or a.get('reason')=='explicit_manual_source')]
+    write(ROOT/'state/review.json',review)
+    if settings.get('autonomous'):
+        status_path=ROOT/'state/status.json'
+        status=read(status_path,{})
+        status['public_snapshot']={'published':len(articles),'writers_with_published_articles':len(authors),
+                                   'registered':len(sources),'manual_review':len(review),
+                                   'statuses':dict(collections.Counter(a['status'] for a in records))}
+        write(status_path,status)
     if not settings.get('autonomous'):
         from rejudge import report
         write(ROOT/'state/publication-dry-run.json',report())

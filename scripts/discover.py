@@ -9,7 +9,7 @@ from urllib.parse import quote, urljoin, urlsplit
 
 from article_page import Page
 from autopublication import timestamp
-from catalog import owned, valid_date
+from catalog import norm, owned, valid_date
 from feed import canonical, parse, plain, read, write
 from network import Deferred, RobotsDenied
 from retry import TRANSIENT_CODES, check_page
@@ -155,6 +155,13 @@ def primary_family(group_ids, classifier, fallback=''):
     return next((key for key,count in weights.most_common() if key),fallback or 'culture')
 
 
+def shared_group_blog(name, classifier):
+    label = re.fullmatch(r'(.+?)[ 　]*(?:オフィシャルブログ|公式ブログ)(?:[ 　]+Powered by Ameba)?',name,re.I)
+    if not label:
+        return False
+    group_name = norm(label[1])
+    return group_name in classifier.aliases[1] or group_name in {'s★スパイシー'}
+
 def automatic_class(n, total):
     return 'A' if n >= 3 and n * 2 >= total else 'B' if n >= 2 else 'C' if n else 'D'
 
@@ -188,6 +195,8 @@ def inspect(candidate, classifier, network, fingerprint, now, blocked_articles, 
     name = bylines.most_common(1)[0][0] if bylines else title
     if not name:
         raise ValueError('missing public writer or blog name')
+    if shared_group_blog(name,classifier):
+        raise ValueError('multi-author group blog')
 
     qualifying = []
     for item in items:
@@ -398,7 +407,7 @@ def run_discovery(root, state, candidates, sources, classifier, network, fingerp
                     active_feeds.add(canonical(source['feed']).rstrip('/'))
                     accepted.append((source,items,headers))
             else:
-                permanent = error in {'no_qualifying_entry','multi-author feed','robots_disallowed','http_404','http_410'}
+                permanent = error in {'no_qualifying_entry','multi-author feed','multi-author group blog','robots_disallowed','http_404','http_410'}
                 candidate.update(status='D',reason=error,next=(now+dt.timedelta(days=30 if permanent else min(21,2**min(5,candidate['attempts'])))).isoformat())
     state['day'] = now.date().isoformat()
     return accepted, {'found':len(candidates)-old_count,'inspected':inspected,'registered':len(accepted),'index_requests':visited}
