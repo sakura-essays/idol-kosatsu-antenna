@@ -5,14 +5,14 @@ import datetime as dt
 import hashlib
 import re
 from urllib.error import HTTPError
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import quote, urljoin, urlsplit
 
 from article_page import Page
 from autopublication import timestamp
 from catalog import owned, valid_date
 from feed import canonical, parse, plain, read, write
 from network import Deferred, RobotsDenied
-from retry import check_page
+from retry import TRANSIENT_CODES, check_page
 
 NOTE = re.compile(r'/([a-zA-Z0-9_-]+)/n/n[a-zA-Z0-9]+/?$')
 AMEBA = re.compile(r'/([a-zA-Z0-9_-]+)/(?:entry-\d+\.html|)$')
@@ -40,6 +40,8 @@ def identity(url):
         m = AMEBA.fullmatch(path) or re.fullmatch(r'/([a-zA-Z0-9_-]+)', path)
         if m:
             return 'https://ameblo.jp/' + m[1], 'https://rssblog.ameba.jp/' + m[1] + '/rss20.xml', 'ameba'
+    if host == 'blog.livedoor.jp' and re.fullmatch(r'/[^/]+(?:/archives/[^/]+|/?)', path):
+        return 'https://' + host + '/' + path.split('/')[1], None, 'livedoor'
     if host == 'plaza.rakuten.co.jp' and re.fullmatch(r'/[^/]+(?:/diary/\d+/?|/?)', path):
         return 'https://' + host + '/' + path.split('/')[1], None, 'rakuten'
     for domain, platform in BLOGS.items():
@@ -137,6 +139,22 @@ def feed_for(candidate, network):
     raise ValueError('public feed not advertised')
 
 
+def primary_family(group_ids, classifier, fallback=''):
+    by_series = {
+        'ikonoijoy': {'equal-love','not-equal-me','nearly-joy'},
+        'kawaii-lab': {'fruits-zipper','candy-tune','sweet-steady','cutie-street','more-star'},
+        'stardust': {'momoclo','ebichu','tokisen','batten','tohoku','ukka','team-shachi'},
+        'tobe': {'number-i','imp'},
+        'bmsg': {'be-first','mazzel','hana'},
+        'auditions': {'me-i','issue','jo1','ini','nexz','niziu','andteam','dxteen'},
+        'live-local': {'ilife','yosugala','appare','festive','linq','fishbowl','negicco','ryutist','bish',
+                       'wack','ringwanderung','task-have-fun','title-mitei','cu-mete','tiptoe','kasumisou-stella'},
+    }
+    series = {group: key for key,groups in by_series.items() for group in groups}
+    weights = collections.Counter(series.get(g, classifier.groups.get(g)) for g in group_ids)
+    return next((key for key,count in weights.most_common() if key),fallback or 'culture')
+
+
 def automatic_class(n, total):
     return 'A' if n >= 3 and n * 2 >= total else 'B' if n >= 2 else 'C' if n else 'D'
 
@@ -178,31 +196,64 @@ def inspect(candidate, classifier, network, fingerprint, now, blocked_articles, 
         if item['auto_evidence']['result'] == 'published' and valid_date(item['published_at']):
             qualifying.append(item)
     if not qualifying and inspect_page:
-        candidates = [i for i in items if i['url'] == candidate.get('article')]
-        if not candidates:
-            candidates = [i for i in items if classifier.subjects(i['title'])][:1]
-        for item in candidates[:1]:
+        article_url = candidate.get('article')
+        examples = [i for i in items if i['url'] == article_url]
+        if not examples and article_url and article_url not in blocked_articles and owned(article_url,source):
+            # A rare contributor can have a relevant post outside the feed's current window.
             try:
-                page, published, _ = check_page(item, classifier, network, fingerprint)
-            except (ValueError, OSError):
-                break
-            if page['result'] == 'published' and valid_date(item['published_at'] or published):
-                item['page_evidence'] = page
-                item['published_at'] = item['published_at'] or published
-                qualifying.append(item)
+                data, _ = network.get(article_url)
+                page = Page(article_url,data)
+                body, published, tags = page.article()
+                actual_url = page.metadata.get('canonical') or page.metadata.get('og:url')
+                actual_title = page.metadata.get('og:title')
+                if actual_url and canonical(actual_url)==article_url and actual_title and body and valid_date(published):
+                    evidence = classifier.assess(actual_title,body,tags,origin='page',truncated=not page.available)
+                    if evidence['result']=='published':
+                        evidence['taxonomy_hash'] = fingerprint
+                        entry={'url':article_url,'title':actual_title,'published_at':published,
+                               'text':'','tags':tags,'truncated':True,'page_evidence':evidence}
+                        items.append(entry)
+                        qualifying.append(entry)
+            except Deferred:
+                raise
+            except HTTPError as exc:
+                if exc.code in TRANSIENT_CODES:
+                    raise
+            except ValueError:
+                pass
+        if not qualifying:
+            examples = examples or [i for i in items if classifier.subjects(i['title'])][:1]
+            for item in examples[:1]:
+                try:
+                    page, published, _ = check_page(item,classifier,network,fingerprint)
+                except Deferred:
+                    raise
+                except HTTPError as exc:
+                    if exc.code in TRANSIENT_CODES:
+                        raise
+                    break
+                except ValueError:
+                    break
+                if page['result']=='published' and valid_date(item['published_at'] or published):
+                    item['page_evidence'] = page
+                    item['published_at'] = item['published_at'] or published
+                    qualifying.append(item)
     category = automatic_class(len(qualifying), len(items))
     if category == 'D':
         return None, [], headers, 'no_qualifying_entry'
     groups = sorted({g for item in qualifying for g in (item.get('page_evidence') or item['auto_evidence'])['classification']['group_ids']})
+    family = primary_family((g for item in qualifying
+                             for g in (item.get('page_evidence') or item['auto_evidence'])['classification']['group_ids']),
+                            classifier,candidate.get('family',''))
     source.update(name=name[:180], enabled=True, publication_mode='standard', auto_class=category,
                   registered_at=now.isoformat(), discovered_via=candidate.get('channel', ''),
                   discovery_family=candidate.get('family', ''), representative_url=qualifying[0]['url'],
-                  groups=groups)
+                  groups=groups,primary_family=family)
     return source, items, headers, ''
 
 
 def exploration_order(indexes, state, sources, now):
-    counts = collections.Counter(s.get('discovery_family') for s in sources)
+    counts = collections.Counter(s.get('primary_family') or s.get('discovery_family') for s in sources)
     last = state.get('indexes', {})
     # Recompute weekly priorities automatically from registered coverage. Older index visits
     # win within a tier, so the same popular pages cannot crowd out less familiar subjects.
@@ -249,6 +300,16 @@ def candidate_order(candidates, now):
             for rows in groups.values() if i < len(rows)]
 
 
+def remember_tags(state, tags, family):
+    indexes = state.setdefault('dynamic_indexes',{})
+    for term in tags[:8]:
+        if not re.fullmatch(r'[\w .&!＋+♡=≠≒-]{3,45}',term) or term in {'アイドル','音楽','感想','日記','ライブ','コンサート','オタク'}:
+            continue
+        url='https://note.com/tag/'+quote(term,safe='')+'?mode=new'
+        if len(indexes)>=150 and url not in indexes:
+            del indexes[next(iter(indexes))]
+        indexes[url]={'url':url,'family':family or 'culture','channel':'note-related-tag','term':term}
+
 def note_page_links(page):
     for target, in_body in dict.fromkeys(page.links):
         host = urlsplit(target).hostname
@@ -271,7 +332,8 @@ def run_discovery(root, state, candidates, sources, classifier, network, fingerp
         if row:
             add_candidate(candidates,row,now)
     history = state.setdefault('indexes', {})
-    indexes = exploration_order(config.get('indexes', []), state, sources, now)
+    indexes = list({row['url']:row for row in [*state.get('dynamic_indexes',{}).values(),*config.get('indexes',[])]}.values())
+    indexes = exploration_order(indexes, state, sources, now)
     indexes = [r for r in indexes if force or history.get(r['url'],{}).get('day') != now.date().isoformat()]
     if index_loader is None:
         indexes = indexes[:index_limit]

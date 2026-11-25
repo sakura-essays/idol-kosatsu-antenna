@@ -99,9 +99,14 @@ class PublicNetwork:
                 data, _ = self.fetcher('https://' + host + '/robots.txt')
                 rules = Robots(data.decode('utf-8-sig', errors='replace'))
             except HTTPError as exc:
-                if exc.code not in (404, 410):
+                if exc.code == 403 and host == 'rssblog.ameba.jp':
+                    # RFC 9309 §2.3.1.3: 4xx means this robots file is unavailable.
+                    # Scope fallback to the HTTPS RSS route Ameba publishes for readers.
+                    rules = Robots('User-agent: *\nDisallow: /\nAllow: /*/rss20.xml$')
+                elif exc.code in (404,410):
+                    rules = Robots('')
+                else:
                     raise
-                rules = Robots('')
             self.robots[host] = rules
         return self.robots[host]
 

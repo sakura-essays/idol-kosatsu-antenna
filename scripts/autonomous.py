@@ -9,11 +9,11 @@ from pathlib import Path
 from urllib.error import HTTPError
 from urllib.parse import urljoin
 
-from autopublication import Classifier, VERSION, timestamp
+from autopublication import Classifier, VERSION, current, timestamp
 from catalog import apply, owned, valid_date
 from collect import ingest
 from discover import (add_candidate, automatic_class, excluded_source, get_candidate,
-                      note_page_links, profile_key, run_discovery)
+                      note_page_links, primary_family, profile_key, remember_tags, run_discovery)
 from feed import canonical, parse, read, write
 from network import Deferred, PublicNetwork
 from publication import taxonomy_hash
@@ -58,10 +58,10 @@ def feed_entry(headers, fingerprint, now, classification=None):
     return row
 
 
-def collect_feeds(records, sources, cache, network, classifier, fingerprint, now, moderation, just_registered=()):
+def collect_feeds(records, sources, cache, network, classifier, fingerprint, now, moderation, candidates=None):
     def due_sources():
         for source in sources:
-            if (not source.get('enabled') or not source.get('feed') or source['id'] in just_registered
+            if (not source.get('enabled') or not source.get('feed')
                     or excluded_source(source, moderation)):
                 continue
             old = cache.get(source['id'], {})
@@ -105,7 +105,17 @@ def collect_feeds(records, sources, cache, network, classifier, fingerprint, now
                 if source.get('auto_class'):
                     source['auto_class'] = mode
                     if accepted:
-                        source['groups'] = sorted({g for row in accepted for g in (row.get('page_evidence') or row['auto_evidence'])['classification']['group_ids']})
+                        groups = [g for row in accepted
+                                  for g in (row.get('page_evidence') or row['auto_evidence'])['classification']['group_ids']]
+                        source['groups'] = sorted(set(groups))
+                        source['primary_family'] = primary_family(groups,classifier,source.get('discovery_family',''))
+                if candidates is not None:
+                    for item in items[:6]:
+                        if records[item['url']]['auto_evidence']['result']=='published':
+                            for link in item['links'][:5]:
+                                candidate=get_candidate(urljoin(item['url'],link),channel='article-link')
+                                if candidate and candidate['id']!=source['id']:
+                                    add_candidate(candidates,candidate,now)
                 log.update(items=len(items),last_success=now.isoformat())
             elif status == 'unchanged':
                 cache[ident] = {k:v for k,v in old.items() if k not in ('failures','next')}
@@ -122,7 +132,7 @@ def collect_feeds(records, sources, cache, network, classifier, fingerprint, now
     return logs,taken
 
 
-def recheck_queue(root, records, sources, candidates, classifier, network, fingerprint, now, limit, moderation):
+def recheck_queue(root, records, sources, candidates, discovery_state, classifier, network, fingerprint, now, limit, moderation):
     by_source = {s['id']:s for s in sources}
     manual = {canonical(u) for u in moderation.get('articles',{})}
     migrations = {row['url'] for row in read(root/'config/reassessment.json',{}).get('articles',[])}
@@ -149,6 +159,8 @@ def recheck_queue(root, records, sources, candidates, classifier, network, finge
             if page or article.get('retry',{}).get('last') == now.isoformat():
                 processed += 1
             if page and article.get('page_evidence',{}).get('result') == 'published':
+                groups=article['page_evidence']['classification']['group_ids']
+                remember_tags(discovery_state,page.tags,primary_family(groups,classifier))
                 for target in note_page_links(page):
                     row = get_candidate(target, channel='article-link')
                     if row:
@@ -177,14 +189,19 @@ def summary(records, sources, candidates, now, discovered, previous, rechecked, 
         if a['status']=='published':
             for g in a['group_ids']:
                 by_group[g].add(a['author_id'])
+    waiting_first = sum(not a.get('retry',{}).get('first') for a in queue)
+    active_ids = {s['id'] for s in active}
+    by_family = collections.Counter()
+    for s in active:
+        by_family[s.get('primary_family') or s.get('discovery_family') or 'unassigned'] += 1
     return {**discovered,'registered_total':len(sources),'enabled_feeds':len(active),'source_classes':dict(class_counts),
             'platforms':dict(collections.Counter(s['platform'] for s in active)),
-            'families':dict(collections.Counter(s.get('discovery_family') or 'unassigned' for s in active)),
-            'groups':{k:len(v) for k,v in sorted(by_group.items())},'candidates_total':len(candidates),
+            'families':dict(by_family),
+            'groups':{k:len(v & active_ids) for k,v in sorted(by_group.items())},'candidates_total':len(candidates),
             'candidate_statuses':dict(collections.Counter(a['status'] for a in candidates.values())),
             'entries_fetched':taken,'decisions':dict(totals),'decisions_changed':dict(additions),
             'automatic_published':automatic['published'],'automatic_excluded':automatic['excluded'],
-            'rechecked':rechecked,'internal_recheck':len(queue), 'archive_release_queue':totals['archive'],
+            'rechecked':rechecked,'internal_recheck':len(queue),'recheck_not_yet_attempted':waiting_first, 'archive_release_queue':totals['archive'],
             'long_recheck':sum(bool((first:=timestamp(a.get('retry',{}).get('first'))) and now-first>=dt.timedelta(days=7)) for a in queue),
             'manual_review':len(manual),'failed_feeds':sum(r['status']=='error' for r in logs),
             'deferred_feeds':sum(r['status']=='deferred' for r in logs),'reasons':dict(reasons),
@@ -192,7 +209,32 @@ def summary(records, sources, candidates, now, discovered, previous, rechecked, 
             'manual_review_rate':round(sum(a['url'] in manual for a in changed)/max(1,len(changed)),4)}
 
 
-def run(root, settings, *, bootstrap=None, check_limit=120, do_discovery=True, do_collect=True):
+def merge_bootstrap(records, sources, bundle, fingerprint):
+    by_id = {s['id']:s for s in sources}
+    imported = 0
+    for addition in bundle.get('articles',[]):
+        url = canonical(addition['url'])
+        source = by_id.get(addition['author_id'])
+        if not source or not owned(url,source):
+            continue
+        row = records.get(url)
+        if row and (row['title'] != addition['title'] or row['author_id'] != addition['author_id']):
+            continue
+        evidence = {key:addition[key] for key in ('auto_evidence','page_evidence') if current(addition,key,fingerprint)}
+        if not evidence:
+            continue
+        if row is None:
+            row = {k:addition[k] for k in ('url','title','author_id','published_at','first_seen_at')}
+            row['origin'] = 'rss'
+            records[url] = row
+        for key,value in evidence.items():
+            if not current(row,key,fingerprint):
+                row[key] = value
+        imported += 1
+    return imported
+
+
+def run(root, settings, *, check_limit=180):
     now = dt.datetime.now(dt.timezone.utc)
     sources = sources_for(root)
     manual = read(root/'config/manual_articles.json',[])
@@ -206,21 +248,15 @@ def run(root, settings, *, bootstrap=None, check_limit=120, do_discovery=True, d
     auto_sources = read(root/'state/discovered-sources.json',[])
     discovery_state = read(root/'state/discovery.json',{})
     candidates = read(root/'state/discovery-candidates.json',{})
+    existing_candidates=set(candidates)
+    existing_profiles={profile_key(source['url']) for source in sources}
     network = PublicNetwork(seconds=420)
-    if bootstrap:
-        discovery_state = bootstrap['state']
-        candidates.update(bootstrap['candidates'])
-        keys = {profile_key(s['url']) for s in sources}
-        accepted = [(s,items,headers) for s,items,headers in bootstrap['accepted'] if profile_key(s['url']) not in keys]
-        discovered = {'found':len(candidates),'inspected':sum(row['inspected'] for row in bootstrap['stats']),
-                      'registered':len(accepted),'index_requests':len(discovery_state.get('indexes',{}))}
-    else:
-        accepted = []
-        discovered = {'found':0,'inspected':0,'registered':0,'index_requests':0}
-    logs, taken = collect_feeds(records,sources,cache,network,classifier,fingerprint,now,moderation) if do_collect else ([],0)
-    if not bootstrap and do_discovery:
-        network.end = time.monotonic()+160
-        accepted,discovered = run_discovery(root,discovery_state,candidates,sources,classifier,network,fingerprint,now,moderation)
+    bundle_path = root/'state/bootstrap-articles.json'
+    bundle = read(bundle_path,{})
+    imported = merge_bootstrap(records,sources,bundle,fingerprint)
+    logs, taken = collect_feeds(records,sources,cache,network,classifier,fingerprint,now,moderation,candidates)
+    network.end = time.monotonic()+160
+    accepted,discovered = run_discovery(root,discovery_state,candidates,sources,classifier,network,fingerprint,now,moderation)
     for source,items,headers in accepted:
         if excluded_source(source,moderation):
             continue
@@ -238,13 +274,16 @@ def run(root, settings, *, bootstrap=None, check_limit=120, do_discovery=True, d
             history[a['author_id']].update(a['group_ids'])
     context_sources = [{**s, 'groups':s.get('groups') or [g for g,n in history[s['id']].most_common(3) if n >= 2]}
                        for s in sources]
-    rechecked = recheck_queue(root,records,context_sources,candidates,classifier,network,fingerprint,now,check_limit,moderation)
+    rechecked = recheck_queue(root,records,context_sources,candidates,discovery_state,classifier,network,fingerprint,now,check_limit,moderation)
     apply(records,sources,manual,moderation,taxonomy,settings=settings,now=now)
     if settings.get('enabled'):
         release_archives(records,now,settings.get('archive_daily_limit',140),settings.get('archive_author_daily_limit',5))
         apply(records,sources,manual,moderation,taxonomy,settings=settings,now=now)
     pending = [a for a in records.values() if a['status']=='pending' and (a['decision']['method']=='human' or a['reason']=='explicit_manual_source')]
+    discovered['found'] = len(set(candidates)-existing_candidates-existing_profiles)
     metrics = summary(records,sources,candidates,now,discovered,previous,rechecked,taken,logs,cache,moderation)
+    metrics['bootstrap_evidence_imported'] = imported
+    metrics['bootstrap_writers_registered'] = len(set(bundle.get('writer_ids',[])) & {s['id'] for s in sources})
     status = {'attempted_at':now.isoformat(),'feeds':logs,'failures':metrics['failed_feeds'],'metrics':metrics}
     write(root/'state/discovered-sources.json',auto_sources)
     write(root/'state/articles.json',list(records.values()))
@@ -253,6 +292,8 @@ def run(root, settings, *, bootstrap=None, check_limit=120, do_discovery=True, d
     write(root/'state/discovery.json',discovery_state)
     write(root/'state/discovery-candidates.json',candidates)
     write(root/'state/status.json',status)
+    if bundle:
+        bundle_path.unlink(missing_ok=True)
     headline = {k:metrics[k] for k in ('enabled_feeds','found','registered','automatic_published','internal_recheck','manual_review','failed_feeds','deferred_feeds')}
     print(json.dumps(headline,ensure_ascii=False),flush=True)
     step = os.environ.get('GITHUB_STEP_SUMMARY')

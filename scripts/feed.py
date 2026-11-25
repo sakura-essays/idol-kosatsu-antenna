@@ -1,5 +1,5 @@
 """Feed utilities adapted from Sakura Essay Antenna (MIT); metadata only."""
-import datetime as dt, email.utils, html, ipaddress, json, pathlib, re, socket, unicodedata
+import datetime as dt, email.utils, html, http.client, ipaddress, json, pathlib, re, socket, unicodedata
 import urllib.request, urllib.error, urllib.parse, urllib.robotparser
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
@@ -16,9 +16,12 @@ def write(path, data):
     temp=path.with_suffix(path.suffix+'.tmp');temp.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n',encoding='utf-8');temp.replace(path)
 
 class Text(HTMLParser):
-    def __init__(self): super().__init__(); self.parts=[];self.skip=0
+    def __init__(self): super().__init__(); self.parts=[];self.links=[];self.skip=0
     def handle_starttag(self,tag,attrs):
         if tag in ('script','style'): self.skip+=1
+        if not self.skip and tag=='a':
+            link=dict(attrs).get('href')
+            if link and len(self.links)<40:self.links.append(link)
     def handle_endtag(self,tag):
         if tag in ('script','style'): self.skip=max(0,self.skip-1)
     def handle_data(self,data):
@@ -43,7 +46,7 @@ def safe_url(url):
     if p.scheme!='https' or p.port not in (None,443):raise ValueError('HTTPS public endpoints only')
     # Known publisher hosts also work through environments whose HTTPS proxy resolves DNS.
     proxy_safe={'note.com','ameblo.jp','rssblog.ameba.jp','blogtag.ameba.jp'}
-    known_suffixes=('.hatenablog.com','.hatenablog.jp','.hateblo.jp','.hatenadiary.jp','.hatenadiary.com')
+    known_suffixes=('.hatenablog.com','.hatenablog.jp','.hateblo.jp','.hatenadiary.jp','.hatenadiary.com','.blog.fc2.com','.wordpress.com')
     if p.hostname in proxy_safe or p.hostname.endswith(known_suffixes):return url
     for addr in socket.getaddrinfo(p.hostname,443,type=socket.SOCK_STREAM):
         if not ipaddress.ip_address(addr[4][0]).is_global:raise ValueError('Private address blocked')
@@ -60,10 +63,13 @@ class Redirect(urllib.request.HTTPRedirectHandler):
 def fetch(url,headers=None,*,on_redirect=None):
     safe_url(url)
     req=urllib.request.Request(url,headers={'User-Agent':UA,**(headers or {})})
-    with urllib.request.build_opener(Redirect(on_redirect)).open(req,timeout=10) as r:
-        data=r.read(LIMIT+1)
-        if len(data)>LIMIT:raise ValueError('Feed exceeds 4 MB limit')
-        return data,dict(r.headers)
+    try:
+        with urllib.request.build_opener(Redirect(on_redirect)).open(req,timeout=10) as r:
+            data=r.read(LIMIT+1)
+            if len(data)>LIMIT:raise ValueError('Response exceeds 4 MB limit')
+            return data,dict(r.headers)
+    except http.client.HTTPException as exc:
+        raise OSError('Incomplete HTTP response') from exc
 
 def date(value):
     try:d=dt.datetime.fromisoformat(value.replace('Z','+00:00'))
@@ -75,7 +81,10 @@ def date(value):
 
 def parse(data):
     if b'<!DOCTYPE' in data.upper() or b'<!ENTITY' in data.upper():raise ValueError('DTD/entities not allowed')
-    root=ET.fromstring(data)
+    try:
+        root=ET.fromstring(data)
+    except ET.ParseError as exc:
+        raise ValueError('Malformed RSS/Atom XML') from exc
     if root.tag.split('}')[-1] not in ('rss','feed','RDF'):raise ValueError('Not an RSS/Atom feed')
     for item in root.iter():
         if item.tag.split('}')[-1] not in ('item','entry'):continue
@@ -88,12 +97,16 @@ def parse(data):
             elif key=='category':
                 term=node.attrib.get('term') or node.text
                 if term:tags.append(term.strip())
+            elif key in ('content','summary','description') and len(node):
+                values[key]=' '.join(node.itertext())
             elif node.text:values[key]=node.text
         raw=values.get('encoded') or values.get('content') or values.get('description') or values.get('summary') or ''
-        text=plain(re.sub(r'</(?:p|li|div|h[1-6])>|<br\s*/?>', '\n', raw, flags=re.I))
+        source_text=Text()
+        source_text.feed(re.sub(r'</(?:p|li|div|h[1-6])>|<br\s*/?>', '\n', raw, flags=re.I))
+        text=' '.join(source_text.parts).strip()
         yield dict(title=html.unescape(values.get('title','')).strip(),url=values.get('link',''),
                    published_at=date(values.get('pubDate') or values.get('published') or values.get('date')),
-                   text=text,tags=tags,creator=values.get('creatorName') or values.get('creator'),
+                   text=text,tags=tags,links=source_text.links,creator=values.get('creatorName') or values.get('creator'),
                    truncated=bool(re.search(r'続きをみる|続きを読む|read more',text,re.I)))
 
 def fiction_guard(title,text):

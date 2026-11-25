@@ -101,11 +101,14 @@ class Page(HTMLParser):
             elif isinstance(data, list):
                 for item in data:
                     yield from objects(item)
+        structured_body = ''
         for row in (row for group in self.structured for row in objects(group)):
             if any(kind in str(row.get('@type', '')) for kind in ('Article', 'BlogPosting', 'CreativeWork')):
                 published = published or date(row.get('datePublished'))
                 self.available &= row.get('isAccessibleForFree') not in (False, 'false')
-                if not body and self.available and isinstance(row.get('articleBody'), str):
-                    body = plain(row['articleBody'])
+                if not body and not structured_body and isinstance(row.get('articleBody'), str):
+                    structured_body = row['articleBody']
+        if not body and self.available and structured_body:
+            body = plain(structured_body)
         # Only the visible DOM is read for paid articles. Title/date never substitutes for body.
         return body, published, tuple(dict.fromkeys(t for t in self.tags if 0 < len(t) <= 60))

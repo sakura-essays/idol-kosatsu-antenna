@@ -84,6 +84,7 @@ def apply(records,sources,manual,moderation,tax,*,settings=None,now=None):
             if (before[0]=='published' and before[2]=='automatic' and not o and migration.get('enabled',False)
                 and valid_date(a.get('published_at')) and not a.get('title_changed')
                 and reason not in {'explicit_privacy_or_reprint','fiction','legacy_explicit_exclusion'}
+                and not (status=='excluded' and ev and ev.get('origin')=='page')
                 and source.get('publication_mode')!='manual'):
                 a['status']='published'
                 if status!='published':

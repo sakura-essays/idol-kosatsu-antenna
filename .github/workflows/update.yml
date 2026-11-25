@@ -42,7 +42,7 @@ jobs:
       - name: Check migration state
         id: migration
         run: |
-          python -c 'import json; s=json.load(open("state/status.json")); print("needed="+("no" if "metrics" in s else "yes"))' >> "$GITHUB_OUTPUT"
+          python -c 'import json, pathlib; s=json.load(open("state/status.json")); print("needed="+("yes" if "metrics" not in s or pathlib.Path("state/bootstrap-articles.json").is_file() else "no"))' >> "$GITHUB_OUTPUT"
       - name: Collect feeds, discover authors and recheck articles
         id: collect
         if: github.event_name != 'push' || steps.migration.outputs.needed == 'yes'

@@ -1,6 +1,12 @@
 {
   "indexes": [
     {
+      "url": "https://note.com/millecrepes2/m/m007aaab161a3",
+      "family": "live-local",
+      "channel": "note-magazine",
+      "term": "アイドルのライブの感想"
+    },
+    {
       "url": "https://note.com/tag/AKB48?mode=new",
       "family": "48",
       "channel": "note-new",

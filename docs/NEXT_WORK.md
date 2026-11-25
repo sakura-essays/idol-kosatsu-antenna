@@ -1,5 +1,7 @@
 # 次回Work：この順で再開
 
+2026-11-25更新。現在は [初回移行記録](discovery-20261125/REPORT.md) と [自動運用](AUTONOMOUS_COLLECTION.md) が基準。GitHubの最新main・Actions・公開データを照合し、`state/status.json` の滞留数、フィード障害、系列別の偏りを確認する。以下は移行前の履歴。
+
 2026-11-18追記：デザインは全面刷新済み。DESIGN_REFRESH_20261118.mdと公開確認記録を先に読む。編集元はweb/とscripts/build.py。開始時点は200記事・41人で、以下の49記事は旧記録。distを直接編集せず、最新mainを優先する。デザイン更新と記事審査は独立して扱う。
 
 

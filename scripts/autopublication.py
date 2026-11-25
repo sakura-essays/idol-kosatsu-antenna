@@ -7,16 +7,16 @@ from catalog import norm
 from feed import fiction_guard
 from publication import AMBIGUOUS, digest
 
-VERSION = 'eligibility-2.1'
+VERSION = 'eligibility-2.2'
 TOPIC = r'アイドル|ハロプロ|ハロー！プロジェクト|ジャニーズ|STARTO|K[ -]?POP|坂道シリーズ'
 FANDOM = r'推しメン|チェキ|特典会|生誕祭|卒コン|対バン|推し活|ファンダム|オタ活|ヲタ活|ミーグリ|(?:個別)?握手会|推しについて|推しの配信|FCイベント|バーイベ'
 PERFORMANCE = r'ライブ|コンサート|公演|楽曲|歌詞|ダンス|歌唱|パフォーマンス|歌声|振り付け|振付|生歌|MV|ミュージックビデオ|ステージ|劇場'
 VOICE = (
     r'考察|批評|感想|レビュー|雑感|現場レポ|ライブレポ|観覧記|参加記|参戦|'
-    r'行(?:った|って(?:き|来)た)|(?:観|見|聴|聞)(?:て(?:き|来)た|たら|.*?かった)|'
+    r'行(?:った|きました|って(?:き|来)(?:た|ました))|(?:観|見|聴|聞)(?:て(?:き|来)た|たら|.*?かった)|'
     r'思(?:った|う|いました|える|えた)|感(?:じ|動)|考え(?:た|る|て)|'
     r'好き|苦手|良かった|よかった|すごかった|楽しかった|面白かっ|最高だった|'
-    r'素晴らし|嬉し|悔し|惜し(?:い|かっ)|泣(?:い|け)|'
+    r'素晴らし|嬉し|うれし|楽しい|楽しめ|悔し|惜し(?:い|かっ)|泣(?:い|け)|'
     r'初めて|待ち望|気にな|印象|記憶に|見入|聞き入|聴き入|'
     r'かわい|可愛|かっこい|格好い|しみた|染みた|素敵|心を打|刺さ(?:る|った)|鳥肌|魅力|残念|違和感|物足り|個人的|自分にとって|'
     r'私(?:は|には|にとって)|僕(?:は|には|にとって)|私はそう|自分なり|'
@@ -80,7 +80,7 @@ class Classifier:
         title = title.strip()
         text = '\n'.join(line.strip() for line in text.splitlines() if not NOISE.fullmatch(line))
         text = text[:45_000]
-        body = [s.strip() for s in re.split(r'[。！？!?\n]+', text) if len(s.strip()) > 3]
+        body = [s.strip() for s in re.split(r'[。！？\n]+|(?<=[.!?])\s+', text) if len(s.strip()) > 3]
         tags = ' '.join(tags)
         title_groups = self.subjects(title)
         tag_groups = self.subjects(tags)
@@ -118,12 +118,15 @@ class Classifier:
         }
         title_form = bool(re.search(TITLE_FORM, title))
         headline_voice = bool(re.search(VOICE, title))
+        fan_report = bool(re.search(r'配信|特典会|イベント|公演|ライブ',title) and
+                          len(set(re.findall(FANDOM,text,re.I)))>=2 and personal>=2)
+        firsthand = bool(re.search(r'私(?:は|が)|僕(?:は|が)|個人的|行って(?:き|来)|参加して|買って',text))
         strong_body = (topical >= 2 and (topic_intro or voiced >= 2)
                        and (topical >= max(2, len(body) // 14) or (first_groups and voiced)))
         described_subject = bool(topical and personal and
                                  ((first_groups and re.search(r'について|考えてみた|の話|レポ|感想|推し|ヲタク', title))
                                   or (groups and '選抜' in title and len(re.findall(r'センター|選抜メンバー',text))>=3)))
-        has_subject = topic_title or strong_body or described_subject or (bool(tag_groups) and topical and personal)
+        has_subject = topic_title or strong_body or described_subject or fan_report or (bool(tag_groups) and topical and personal)
         guard = fiction_guard(title, text)
         fiction_topic = re.search(r'(?:妄ツイ|夢小説|二次創作)(?:文化|の文化|を批評|を考察|の是非|の倫理)', title)
         about_real_episode = bool((title_groups or topical >= 2) and personal and
@@ -140,11 +143,14 @@ class Classifier:
             result, reason = 'excluded', 'fictional_subject'
         elif title_form and re.search(OTHER, title) and not topic_title and voiced < 2:
             result, reason = ('excluded' if origin == 'page' or not truncated else 'pending'), 'unrelated_topic'
-        elif re.search(NEWS + '|' + AD, title) and not (personal and (voiced or title_form or headline_voice)):
+        elif re.search(r'お知らせ|告知',title) and re.search(r'(?:ブログ|記事|レポ).{0,12}(?:予定|書きます|お楽しみに|準備中|公開します)',text) and len(text)<270:
+            result,reason=('pending' if truncated else 'excluded'),'announcement_or_promotion'
+        elif re.search(NEWS + '|' + AD, title) and not (personal and (voiced or title_form or headline_voice or (topic_title and personal>=2 and firsthand))):
             result, reason = ('pending' if truncated else 'excluded'), 'announcement_or_promotion'
-        elif re.search(AD, text) and not (voiced or (topic_title and title_form and personal)):
+        elif re.search(AD, text) and not (voiced or (topic_title and (title_form or firsthand) and personal>=2)):
             result, reason = ('pending' if truncated else 'excluded'), 'promotion_without_comment'
-        elif has_subject and ((topic_title and personal and (topical or title_form or headline_voice)) or
+        elif has_subject and ((topic_title and personal and (topical or title_form or headline_voice or (origin=='page' and personal>=2))) or
+                              (fan_report and origin=='page') or
                               (strong_body and (voiced or (personal and (title_form or topical >= 3)))) or
                               (described_subject and (origin == 'page' or voiced)) or
                               (tag_groups and personal and (voiced or (origin == 'page' and topical)))):

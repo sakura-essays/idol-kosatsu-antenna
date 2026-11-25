@@ -1,0 +1,37 @@
+{
+  "baseline_registered": 101,
+  "new_registered": 340,
+  "new_in_this_commit": 327,
+  "candidate_profiles_excluding_existing": 2040,
+  "feed_or_body_investigated_unique": 539,
+  "candidate_statuses": {
+    "D": 199,
+    "registered": 340,
+    "unverified": 1501
+  },
+  "new_writers_by_family": {
+    "hello": 62,
+    "bmsg": 17,
+    "ikonoijoy": 22,
+    "kpop": 30,
+    "jp-male": 15,
+    "kawaii-lab": 15,
+    "culture": 11,
+    "sakamichi": 21,
+    "starto": 36,
+    "auditions": 11,
+    "stardust": 20,
+    "48": 22,
+    "tobe": 37,
+    "overseas": 3,
+    "live-local": 16,
+    "jp-female": 2
+  },
+  "new_writers_by_platform": {
+    "note": 245,
+    "hatena": 15,
+    "ameba": 80
+  },
+  "prepared_article_evidence": 447,
+  "validated_tags": 78
+}
