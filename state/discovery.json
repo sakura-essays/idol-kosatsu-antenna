@@ -473,5 +473,43 @@
   "coverage": {
     "null": 101
   },
-  "day": "2026-11-25"
+  "day": "2026-11-25",
+  "dynamic_indexes": {
+    "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new": {
+      "url": "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "アーティスト"
+    },
+    "https://note.com/tag/K-POP?mode=new": {
+      "url": "https://note.com/tag/K-POP?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "K-POP"
+    },
+    "https://note.com/tag/%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9E%E3%83%B3%E3%82%AC?mode=new": {
+      "url": "https://note.com/tag/%E3%83%95%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9E%E3%83%B3%E3%82%AC?mode=new",
+      "family": "sakamichi",
+      "channel": "note-related-tag",
+      "term": "フィクションマンガ"
+    },
+    "https://note.com/tag/BMSG?mode=new": {
+      "url": "https://note.com/tag/BMSG?mode=new",
+      "family": "bmsg",
+      "channel": "note-related-tag",
+      "term": "BMSG"
+    },
+    "https://note.com/tag/MAZZEL?mode=new": {
+      "url": "https://note.com/tag/MAZZEL?mode=new",
+      "family": "bmsg",
+      "channel": "note-related-tag",
+      "term": "MAZZEL"
+    },
+    "https://note.com/tag/STARGLOW?mode=new": {
+      "url": "https://note.com/tag/STARGLOW?mode=new",
+      "family": "bmsg",
+      "channel": "note-related-tag",
+      "term": "STARGLOW"
+    }
+  }
 }

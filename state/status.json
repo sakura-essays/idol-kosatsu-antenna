@@ -1,907 +1,3273 @@
 {
-  "attempted_at": "2026-11-25T04:12:45.978093+00:00",
+  "attempted_at": "2026-11-25T04:29:46.282858+00:00",
   "feeds": [
     {
-      "id": "fubuki_hp",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "id": "auto-4b7a74c0a03be023",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "kouzu34",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "wakame_poke",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 9
+    },
+    {
+      "id": "idanah_mb28",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "gocenti",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 3
+    },
+    {
+      "id": "la_lune_26",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "jin_294",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "mai_sakura_myai",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "sayo0929",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "maegami_hageta",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 21
+    },
+    {
+      "id": "enomiya_",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 9
+    },
+    {
+      "id": "chu_cafe",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "sparta_cc",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "oniyamada",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-1181e48f822a6818",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "sayo_mayu3450",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "junnosuke0222",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "marie_nagoya",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "mimosa49",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "smart_daigakusei",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 19
+    },
+    {
+      "id": "mb_0517",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "unordinaryperson",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 15
+    },
+    {
+      "id": "11161116",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "turquesa",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "monnkumo_do",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "cool_tiger9409",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 9
+    },
+    {
+      "id": "kokoa_life0521",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 3
+    },
+    {
+      "id": "wise_turtle9985",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 24
+    },
+    {
+      "id": "rich_kudu1641",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "cloverx_x8",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "chiha_bmsg",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "lapislazuli2026",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 12
+    },
+    {
+      "id": "humble_lynx9244",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "czymonkey",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 6
+    },
+    {
+      "id": "akity",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "magic_pony9603",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "hongjoolena",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-5536140fa6428b4e",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "kei_from_tokyo",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 11
+    },
+    {
+      "id": "miyu_cat_",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "nayutastoyonaka",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "bold_tern733",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 3
+    },
+    {
+      "id": "springisintokyo",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "rich_auk791",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "funiklaaa115",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 14
+    },
+    {
+      "id": "sakichi0501",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 11
+    },
+    {
+      "id": "keen_marten8615",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 11
+    },
+    {
+      "id": "koyanagi_aki",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "bati_pad",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "inspire_design",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "clean_nerine445",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "mumujj2026",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 7
+    },
+    {
+      "id": "maru_encho",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "fond_avocet5022",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 17
+    },
+    {
+      "id": "rrr_nikckp",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 4
+    },
+    {
+      "id": "matchan610",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 14
+    },
+    {
+      "id": "gcarpashi99",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 22
+    },
+    {
+      "id": "mokuseido",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ryujisss7s",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "auto-954922523b1bef04",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "yuuuuui_ka",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "r_i_kbu8904",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ha_wa_wa",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "shiny_hosta581",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "shotakingyo",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 17
+    },
+    {
+      "id": "nagi_c_actor",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 12
+    },
+    {
+      "id": "natsuki9200",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "imada2chuboh",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 4
+    },
+    {
+      "id": "oshilog_5",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "sgrcchi",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 16
+    },
+    {
+      "id": "nozomi17jp",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "gray_hai_iro",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-f9bbf4f28a09b9e3",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "magic_azalea4790",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ditikngesg",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "1ms0b",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "siragen",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "_junkiisthesun",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 18
+    },
+    {
+      "id": "heartpapa",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "risootasan",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "clever_eel51",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 5
+    },
+    {
+      "id": "gentle_elk1411",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 5
+    },
+    {
+      "id": "eminus",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "piyoko_days_note",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "otakunanoda",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "sakao1124",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 3
+    },
+    {
+      "id": "aoisora1120",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ao_ogura",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "rin_rin_lifedesu",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 21
+    },
+    {
+      "id": "clever_bobcat524",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "kerori3767",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "momoneko107",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 23
+    },
+    {
+      "id": "tekuteku215",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 23
+    },
+    {
+      "id": "hakooshi_lucky",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 6
+    },
+    {
+      "id": "junk_juice",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "nya33n",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "02tripmusic",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 15
+    },
+    {
+      "id": "k_tar0",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "mochapocha",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "cos529pie",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 20
+    },
+    {
+      "id": "yomisugi_hodoki",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 12
+    },
+    {
+      "id": "brave_bee548",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "shanxia39",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "dekkai_luv_",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 14
+    },
+    {
+      "id": "miyuu_yoshida",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "vast_zebra839",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hanahikari",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 22
+    },
+    {
+      "id": "kuchinakatax",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "oshi_eigo",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hiyorib00k",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 15
+    },
+    {
+      "id": "just_relax1631",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 13
+    },
+    {
+      "id": "y_axl",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "sora621",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ieon_hikutu",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "encantadora_m",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "umatarooo",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "auto-076f6926b465515d",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "ni46",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "lofty_lotus1637",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "m240y_z9",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "dekaikinba",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 13
+    },
+    {
+      "id": "ryotaroh_note",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "usako_jiguvania",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "siontomogu",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "entm_1",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 21
+    },
+    {
+      "id": "kiriyama_lion",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "__mom07",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 5
+    },
+    {
+      "id": "tender_macaw547",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "kabenok017",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "dapper_falcon326",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 13
+    },
+    {
+      "id": "fair_mimosa8718",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 5
+    },
+    {
+      "id": "clever_beetle339",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "major_phlox6572",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "sanagi_gi",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ichigoyakiniku",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "witty_clover652",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 6
+    },
+    {
+      "id": "large_raven4374",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "brave_sheep6615",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 7
+    },
+    {
+      "id": "auto-681a601abb6c64b6",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 9
+    },
+    {
+      "id": "noisettepress",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "sakebitaidake",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "taiga_korea",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "idols_snh48g",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "kimurakohji_0415",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "itsumomegane",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "murataerika",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hima_mitei",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 17
+    },
+    {
+      "id": "werty1tym",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "underground_ceo",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-3c2adc636ecad593",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "alive_orchid4734",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "real_minnow8037",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "tasuku0_m",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "witty_yarrow2667",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "just_serval6877",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "oshilabo269",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "human_donki219",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 9
+    },
+    {
+      "id": "vivid_emu3104",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "shu_ap_sa",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 21
+    },
+    {
+      "id": "auto-a8471b9bbc96443f",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "lil21_",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "genba_biyori",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "bossykyk",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "major_dietes5812",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ontai_nikki",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "shika_lumen",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 15
+    },
+    {
+      "id": "super_pipit3057",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "innervision_dai",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "diary_yu",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "human_hyssop0",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "akb48_beyond",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "shn_sisisu_",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "jazzy_wasp2099",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 14
+    },
+    {
+      "id": "lilia_7",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "symksm1234",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ebc_tkrn_1224",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 4
+    },
+    {
+      "id": "mphz",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "easy_magpie616",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "auto-508036dcce75efac",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "airis_17ken",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "thaiidol_t",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "skka770",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "kawalabhk",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 3
+    },
+    {
+      "id": "sora_ao_i",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "shirokyan_fave",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "saya921tomo409",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "aketarashimeru",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "skytwo",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 16
+    },
+    {
+      "id": "senobe",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "gguttu0628",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "zaisu3114",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 13
+    },
+    {
+      "id": "cabe_coffee_life",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 24
+    },
+    {
+      "id": "tk39fish",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "windwoods1103",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "cool_shark313",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "ryon1023",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "glxwdhyxxker",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "cute_lilac186",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 16
+    },
+    {
+      "id": "8ytqr",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 7
+    },
+    {
+      "id": "torurisan",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 4
+    },
+    {
+      "id": "leoniehillrd",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "occur",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "mikkotan1212",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "amaduction",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "bibioshi_mattyan",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 3
+    },
+    {
+      "id": "koto_rbif",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "kumon_jidol",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 7
+    },
+    {
+      "id": "lovely_azalea625",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hamstan",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "eeee1124",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "blass07120919",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "kuroiusagi",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "eagle131",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hona_usa",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 5
+    },
+    {
+      "id": "jazzy_honest2390",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "yamarketing_2604",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 14
+    },
+    {
+      "id": "clear_quoll2926",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hanamaru_7339",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "softabyss",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-7685047bd480baa7",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "auto-0364d2ddc3fda06c",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 27
+    },
+    {
+      "id": "auto-7558f7937dcb7eb8",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "auto-12a2af440b98526b",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "auto-a8c67898ab7993e6",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 5
+    },
+    {
+      "id": "auto-e3f4f55e77f6c8a6",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-0badc2e59f5a5e3e",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-edeef52d2a825b14",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-513cae61d9e9e80b",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-8609030ff6664026",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-0263e5b04a452d03",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-f716e740cb5add3b",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-9fee4bca828d2f1f",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-3a36dc22de0ef6ad",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-d01cd2d2a8c59ada",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-7c77a0e3168cc25a",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-6e3e2a91e2d658f3",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-3b65617f2f6eb2fd",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-738aa6682efcbeac",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-ef20b10879458874",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-24a7573297174908",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-9540acbfd162ae79",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-d1cb5884c46d3fc9",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-29fa81d564c25dd4",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-c0365da9f19b5c0c",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-105065d3671d1411",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-7e396f9d08caaca9",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-5676378dd1d9c8f2",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-470f5887c61d85da",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-bb97951592245288",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-b3a24f899430c9c5",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-355b1b6442d944b8",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-7a6954b0a74a156b",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-17e8725a1d4db12c",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-c3e97b8340d1ba2d",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-97e980e5131f3644",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-d0dcaf6e844537a9",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-15491d97a53c3a5d",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-ff87dc7ee3a2b4ec",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-3967954e295d4b80",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-bb664966cd1b46cd",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-0322ffb0d75dfeeb",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-f1f938adeab0cdfc",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "auto-f0685a3690e54f51",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-b036aaf2f1b7c96f",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-2c99a72246a50498",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-bf4ac185f461d561",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "auto-1300a33a4082ef0b",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-f535e39052ee5dd0",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-fceaaeb3dbe60e31",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-ac2c4f9290f03753",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-6136ad2a8def3a65",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-7735dd1b13cdfcde",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-710675380cce6186",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "auto-2011ef12a01e0eaa",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "auto-da01783610ac8442",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-b55078fd9497f631",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-b9eab72894a17adf",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-718d6a2484c0a72d",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-9970ab4a4d18177e",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-f05172d7538e7b6b",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-967526dfe5aba056",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-8fd49f1d8488a9fc",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-5e7a690b07c9cf4f",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-2af8c0e24930cd45",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-0fff711342491eeb",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-220a1784f4f280b3",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-94f3aee8295b4152",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-a398221821c0c407",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-63415610e3d88e0f",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-f54579c3e8eb769b",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-256e7a63f44728c0",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-145dc419f3e09939",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "1116_fan",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "chaba_hidamari",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 4
+    },
+    {
+      "id": "ceo_oshikatsu",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 6
+    },
+    {
+      "id": "auto-2e4caa6187b955cf",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "hanamaru_00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 18
+    },
+    {
+      "id": "wup86712",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-53ebda4787e1b443",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "spica_2110",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "auto-85948cf6aefc0cf2",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "hdndnnnrnrn",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "midori_akb",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 14
+    },
+    {
+      "id": "auto-cd899ded89bc52a6",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "kpop_career",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "auto-569d1de64e0e5582",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "momochi0605",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "tpr174",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hina_syogyomujo",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "taichi_idol",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "auto-503b7df1f35c2f4c",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "re_na_wakatake",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hassy_0505",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 4
+    },
+    {
+      "id": "auto-c9a5c9912092fa34",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "tender_sheep6906",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-0e5e47f64a297614",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "bobbi_martin",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-8dbd3383ab361faf",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "proper_snail4944",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "huge_abelia9404",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 21
+    },
+    {
+      "id": "beyo_5nds",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 20
+    },
+    {
+      "id": "girly_aesthetics",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "hajirihiroki",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 5
+    },
+    {
+      "id": "kqtrm_39",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 8
+    },
+    {
+      "id": "auto-9ded0ac912e26422",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 2
+    },
+    {
+      "id": "q431aaa",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "auto-5c1592ea532b32be",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 30
+    },
+    {
+      "id": "kaname88_ebi15",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "toccochan1120",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 1
+    },
+    {
+      "id": "auto-1dab8b5e11160185",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 10
+    },
+    {
+      "id": "magic_aster4940",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 12
+    },
+    {
+      "id": "kinakolove",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
+      "items": 25
+    },
+    {
+      "id": "fubuki_hp",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
+      "status": "ok",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "nadegata_hp",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "aokinikki",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 2
     },
     {
       "id": "ktmk___55",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "hatsutaiken_note",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "sakuya0928",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 7
     },
     {
       "id": "0909otakulife_",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 4
     },
     {
       "id": "manami_fy05422",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 3
     },
     {
       "id": "daraku_in",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "nachi___s2",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 2
     },
     {
       "id": "idol0taku",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "splicom",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 30
     },
     {
       "id": "jeln1nyo-0728",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 30
     },
     {
       "id": "chihiro-blues",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 30
     },
     {
       "id": "ippyiwa",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 30
     },
     {
       "id": "atnnnas",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 30
     },
     {
       "id": "thisiswakky",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 23
     },
     {
       "id": "tyan_th",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "mizugaumai",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 9
     },
     {
       "id": "sexysadie",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "mick_nice",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 9
     },
     {
       "id": "dnf48",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "antitti",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "aaa_0987",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "pom_ym_bb",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "b8978na",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 17
     },
     {
       "id": "ready_auklet5508",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 4
     },
     {
       "id": "oboeteitekure913",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "yas21",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "biscuit0904",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 10
     },
     {
       "id": "ksk",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 30
     },
     {
       "id": "sannie_blog",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "tkmt-182",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 30
     },
     {
       "id": "tkakab",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 1
     },
     {
       "id": "hinatahappy",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "tsukagirei",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "ui_ui",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "sama_migirou",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "cathouse",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "kokokokua2",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 30
     },
     {
       "id": "lively_fennel526",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "keikeikei9",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 2
     },
     {
       "id": "shuto_8930312",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 19
     },
     {
       "id": "light_nerine81",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "like_chimp6015",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "_ayapoon_",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "adam711",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "yano113",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 4
     },
     {
       "id": "mochi_sasuke_35",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 8
     },
     {
       "id": "large_zephyr846",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "vivid_lemur7625",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 8
     },
     {
       "id": "vast_daisy3427",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "kn_ykh_1985",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "jellyfish_kaimii",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "watashitouta",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "hashipan21",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 4
     },
     {
       "id": "syota_826",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 8
     },
     {
       "id": "nonhani",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 13
     },
     {
       "id": "iorisukicontents",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 1
     },
     {
       "id": "tyarumera16",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "kayatan_deko",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "tom_story",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "haraharakamone",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 1
     },
     {
       "id": "millecrepes2",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "miami_blue",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "dusk_ss315",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "armi",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "amber_idol",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "cs0804",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 2
     },
     {
       "id": "blitz_feuerwerk",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "katton_4284",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "cule_akihirock",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "gyunyu_music",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 5
     },
     {
       "id": "knhr_midori",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 4
     },
     {
       "id": "kramon1",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "easy_skink7537",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "shiori_book",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 18
     },
     {
       "id": "azuma333",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "tasty_holly540",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "taka_h_11",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "photo_hijiri",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 7
     },
     {
       "id": "kitaro_shumi_313",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 4
     },
     {
       "id": "halftone7313",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "pthread_t",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 7
     },
     {
       "id": "namae_boshuchu",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 5
     },
     {
       "id": "takahirock16",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "elysian_ew",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 1
     },
     {
       "id": "ohanabatakeparty",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 4
     },
     {
       "id": "kandario_yoko",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 6
     },
     {
       "id": "mik_s",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "tokku_x",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 5
     },
     {
       "id": "yoshikaze0118",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "ngc__3",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "penguin_paisen",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 6
     },
     {
       "id": "nm1984",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "mya_shota",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 16
     },
     {
       "id": "muteki_dead1",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 23
     },
     {
       "id": "anko0880",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 3
     },
     {
       "id": "cutter",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 25
     },
     {
       "id": "yui_avocet1955",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 5
     },
     {
       "id": "tiha_1013",
-      "checked_at": "2026-11-25T04:12:45.978093+00:00",
+      "checked_at": "2026-11-25T04:29:46.282858+00:00",
       "status": "ok",
-      "last_success": "2026-11-25T04:12:45.978093+00:00",
+      "last_success": "2026-11-25T04:29:46.282858+00:00",
       "items": 5
     }
   ],
   "failures": 0,
   "metrics": {
-    "found": 484,
-    "inspected": 24,
-    "registered": 13,
-    "index_requests": 18,
-    "registered_total": 114,
-    "enabled_feeds": 114,
+    "found": 15,
+    "inspected": 0,
+    "registered": 0,
+    "index_requests": 0,
+    "registered_total": 441,
+    "enabled_feeds": 441,
     "source_classes": {
-      "B": 42,
-      "C": 63,
-      "A": 9
+      "B": 181,
+      "C": 195,
+      "A": 65
     },
     "platforms": {
-      "note": 104,
+      "note": 337,
       "はてなブログ": 8,
       "忍者ブログ": 1,
-      "hatena": 1
+      "hatena": 15,
+      "ameba": 80
     },
     "families": {
-      "unassigned": 104,
-      "48": 1,
-      "auditions": 1,
-      "bmsg": 1,
-      "culture": 1,
-      "hello": 1,
-      "ikonoijoy": 1,
-      "jp-male": 1,
-      "kawaii-lab": 1,
-      "kpop": 1,
-      "live-local": 1
+      "unassigned": 103,
+      "bmsg": 17,
+      "48": 23,
+      "auditions": 12,
+      "ikonoijoy": 21,
+      "hello": 61,
+      "jp-male": 15,
+      "kawaii-lab": 16,
+      "kpop": 29,
+      "sakamichi": 21,
+      "starto": 33,
+      "stardust": 20,
+      "tobe": 38,
+      "overseas": 3,
+      "live-local": 17,
+      "culture": 10,
+      "jp-female": 2
     },
     "groups": {
-      "7order": 1,
-      "aespa": 1,
-      "akb48": 13,
+      "7order": 3,
+      "ae-group": 1,
+      "aespa": 6,
+      "akb48": 46,
       "akb48-team-sh": 1,
-      "andteam": 3,
-      "angerme": 6,
-      "arashi": 2,
+      "andteam": 6,
+      "angerme": 36,
+      "appare": 1,
+      "arashi": 15,
       "asp-idol": 1,
-      "ateez": 1,
-      "batten": 1,
-      "be-first": 3,
+      "ateez": 4,
+      "batten": 3,
+      "be-first": 19,
       "bear-park": 1,
-      "berryz": 1,
-      "beyooooonds": 6,
-      "bigbang": 1,
+      "berryz": 11,
+      "beyooooonds": 25,
+      "bigbang": 2,
       "bis-idol": 1,
-      "bish": 2,
+      "bish": 3,
+      "blackpink": 3,
+      "bnk48": 2,
       "briot": 1,
-      "bts": 1,
-      "bullet-train": 2,
-      "bybbit": 1,
-      "candy-tune": 4,
+      "bts": 10,
+      "bullet-train": 9,
+      "bybbit": 2,
+      "c-ute": 6,
+      "candy-tune": 13,
       "chula": 1,
+      "country-girls": 7,
       "cu-mete": 1,
-      "cutie-street": 4,
+      "cutie-street": 14,
+      "da-ice": 1,
       "dotstokyo": 1,
-      "ebichu": 3,
-      "enhypen": 2,
-      "equal-love": 11,
+      "dxteen": 2,
+      "ebichu": 24,
+      "enhypen": 3,
+      "equal-love": 33,
+      "exo": 1,
       "exwhyz": 1,
-      "festive": 1,
+      "festive": 2,
       "fishbowl": 1,
       "fromis9": 1,
-      "fruits-zipper": 5,
+      "fruits-zipper": 21,
       "gang-parade": 1,
-      "genjibu": 1,
+      "genjibu": 3,
       "gidle": 1,
-      "hello-project": 12,
-      "hinatazaka46": 8,
-      "hkt48": 3,
-      "ilife": 1,
-      "ini": 2,
-      "ive": 1,
-      "izone": 1,
-      "jkt48": 2,
-      "juice": 7,
+      "hana": 5,
+      "hello-project": 64,
+      "hey-say-jump": 1,
+      "hinatazaka46": 16,
+      "hkt48": 8,
+      "ilife": 7,
+      "imp": 2,
+      "ini": 3,
+      "issue": 6,
+      "itzy": 1,
+      "ive": 2,
+      "izone": 2,
+      "jkt48": 4,
+      "jo1": 5,
+      "juice": 57,
       "jumpingkiss": 1,
-      "kat-tun": 1,
-      "king-prince": 1,
-      "kinki": 1,
-      "kis-my-ft2": 1,
-      "klp48": 1,
+      "kara": 1,
+      "kat-tun": 4,
+      "king-prince": 13,
+      "kinki": 5,
+      "kis-my-ft2": 4,
+      "klp48": 2,
+      "kobushi": 6,
       "kokoiya": 1,
-      "kyurushite": 1,
-      "le-sserafim": 2,
+      "kyurushite": 2,
+      "le-sserafim": 6,
       "liella": 1,
       "maiden-doll": 1,
       "mameshiba": 1,
-      "matsuura-aya": 3,
-      "mazzel": 1,
-      "me-i": 1,
-      "milk": 2,
-      "momoclo": 1,
-      "more-star": 3,
-      "morning": 6,
-      "naniwa": 1,
-      "nearly-joy": 5,
+      "matsuura-aya": 7,
+      "mazzel": 7,
+      "me-i": 5,
+      "milk": 22,
+      "momoclo": 23,
+      "more-star": 4,
+      "morning": 16,
+      "naniwa": 11,
+      "nct-dream": 2,
+      "nearly-joy": 14,
       "negicco": 3,
-      "ngt48": 3,
-      "nmb48": 5,
-      "nogizaka46": 14,
-      "not-equal-me": 10,
-      "ocha-norma": 4,
-      "passcode": 1,
-      "perfume": 1,
+      "newjeans": 3,
+      "ngt48": 6,
+      "niziu": 2,
+      "nmb48": 11,
+      "nmixx": 1,
+      "nogizaka46": 40,
+      "not-equal-me": 25,
+      "number-i": 41,
+      "ocha-norma": 22,
+      "owv": 1,
+      "passcode": 2,
+      "perfume": 3,
       "philosophy-dance": 2,
       "pupilmom": 1,
-      "rosy-chronicle": 3,
+      "red-velvet": 2,
+      "riize": 1,
+      "ringwanderung": 1,
+      "rosy-chronicle": 17,
       "ryugujo": 1,
       "ryutist": 2,
-      "sakurazaka46": 7,
-      "seventeen": 1,
+      "sakurazaka46": 26,
+      "seventeen": 3,
       "sgo48": 1,
-      "shimmer-shrimpmer": 1,
-      "sixtones": 3,
-      "ske48": 6,
-      "smap": 3,
-      "snh48": 1,
-      "snowman": 2,
-      "stu48": 5,
-      "super-dragon": 1,
-      "super-eight": 1,
-      "suzuki-airi": 1,
-      "sweet-steady": 4,
-      "takaneko": 1,
-      "team-shachi": 1,
+      "shimmer-shrimpmer": 2,
+      "shinee": 2,
+      "sixtones": 13,
+      "ske48": 14,
+      "smap": 10,
+      "snh48": 2,
+      "snowman": 12,
+      "snsd": 7,
+      "stray-kids": 4,
+      "stu48": 8,
+      "super-dragon": 3,
+      "super-eight": 4,
+      "suzuki-airi": 6,
+      "sweet-steady": 8,
+      "takaneko": 3,
+      "team-shachi": 6,
       "tenkuon-parade": 1,
-      "timelesz": 3,
+      "timelesz": 12,
       "title-mitei": 1,
-      "tohoku": 2,
-      "tokisen": 3,
+      "tohoku": 9,
+      "tokisen": 19,
       "tokyo-girls-style": 2,
-      "travis-japan": 1,
-      "tsubaki": 5,
-      "twice": 2,
-      "ukka": 2,
+      "travis-japan": 7,
+      "tsubaki": 20,
+      "tvxq": 3,
+      "twice": 6,
+      "ukka": 4,
       "usabeni": 1,
-      "v6": 1,
-      "west": 1,
-      "winds": 1,
+      "v6": 2,
+      "west": 2,
+      "winds": 2,
+      "xg": 3,
+      "yosugala": 3,
       "yurumerumo": 2,
       "zb1": 1
     },
-    "candidates_total": 504,
+    "candidates_total": 2096,
     "candidate_statuses": {
-      "unverified": 470,
-      "registered": 13,
-      "D": 11,
-      "duplicate": 10
+      "D": 199,
+      "registered": 344,
+      "unverified": 1523,
+      "duplicate": 30
     },
-    "entries_fetched": 2035,
+    "entries_fetched": 7229,
     "decisions": {
-      "published": 449,
-      "excluded": 106,
-      "pending": 1475,
-      "archive": 118
+      "published": 624,
+      "excluded": 104,
+      "pending": 5590,
+      "archive": 1117
     },
     "decisions_changed": {
-      "published": 162,
-      "archive": 118,
-      "pending": 135,
-      "excluded": 58
+      "pending": 4165,
+      "excluded": 46,
+      "archive": 1001,
+      "published": 177
     },
-    "automatic_published": 162,
-    "automatic_excluded": 58,
-    "rechecked": 120,
-    "internal_recheck": 1475,
-    "archive_release_queue": 118,
+    "automatic_published": 177,
+    "automatic_excluded": 45,
+    "rechecked": 180,
+    "internal_recheck": 5590,
+    "recheck_not_yet_attempted": 5493,
+    "archive_release_queue": 1117,
     "long_recheck": 0,
     "manual_review": 0,
     "failed_feeds": 0,
     "deferred_feeds": 0,
     "reasons": {
       "元記事を確認・掲載承認済み": 260,
-      "管理者による保留・除外": 47,
-      "announcement_or_promotion": 17,
-      "original_idol_commentary": 180,
-      "insufficient_context": 1364,
+      "管理者による保留・除外": 48,
+      "announcement_or_promotion": 39,
+      "original_idol_commentary": 356,
+      "insufficient_context": 5303,
       "editorial_scope_in_visible_preview": 1,
-      "collect_article_evidence": 93,
-      "アイドルの主題と考察・感想の文脈をRSSで確認": 8,
-      "historical_release_budget": 118,
-      "fictional_subject": 1,
-      "promotion_without_comment": 4,
-      "unrelated_topic": 47,
-      "ambiguous_fiction": 3,
-      "fiction": 3,
-      "verify_low_frequency_source_excerpt": 2
+      "collect_article_evidence": 166,
+      "unrelated_topic": 19,
+      "fictional_subject": 4,
+      "promotion_without_comment": 23,
+      "historical_release_budget": 1117,
+      "アイドルの主題と考察・感想の文脈をRSSで確認": 7,
+      "ambiguous_fiction": 28,
+      "fiction": 14,
+      "verify_low_frequency_source_excerpt": 50
     },
-    "automatic_publication_rate": 0.7364,
-    "manual_review_rate": 0.0
+    "automatic_publication_rate": 0.7973,
+    "manual_review_rate": 0.0,
+    "bootstrap_evidence_imported": 447,
+    "bootstrap_writers_registered": 327
   }
 }
