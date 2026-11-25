@@ -131,7 +131,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:12:45.978093+00:00",
-    "name": "てとら"
+    "name": "てとら",
+    "additional_articles": [
+      "https://note.com/tetoramarin/n/n9d8302517cb4"
+    ]
   },
   "coniro.hatenablog.com": {
     "id": "auto-954922523b1bef04",
@@ -351,7 +354,13 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "Chiha"
+    "name": "Chiha",
+    "additional_articles": [
+      "https://note.com/chiha_bmsg/n/n40fa854683a1",
+      "https://note.com/chiha_bmsg/n/n0b8f7d746232",
+      "https://note.com/chiha_bmsg/n/n33705bd63da2",
+      "https://note.com/chiha_bmsg/n/n1b18073756d1"
+    ]
   },
   "note.com/magic_azalea4790": {
     "id": "magic_azalea4790",
@@ -1483,7 +1492,13 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "わた"
+    "name": "わた",
+    "additional_articles": [
+      "https://note.com/jin_294/n/n5165164e1d26",
+      "https://note.com/jin_294/n/n2bfb54dd3854",
+      "https://note.com/jin_294/n/n088fab81d991",
+      "https://note.com/jin_294/n/na0c8105d798d"
+    ]
   },
   "note.com/djin_naming_24": {
     "id": "djin_naming_24",
@@ -1945,7 +1960,8 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "registered",
     "additional_articles": [
-      "https://note.com/sayo_mayu3450/n/n7be883a58210"
+      "https://note.com/sayo_mayu3450/n/n7be883a58210",
+      "https://note.com/sayo_mayu3450/n/n72e6f017f8a5"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
@@ -2495,7 +2511,13 @@
     "channel": "note-new",
     "index": "AKB48",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/easy_skink7537/n/n978bb8a77bc0",
+      "https://note.com/easy_skink7537/n/n48fe4dc80c2f",
+      "https://note.com/easy_skink7537/n/n68db47763069",
+      "https://note.com/easy_skink7537/n/na1be43408acb"
+    ]
   },
   "note.com/kpopstar_note": {
     "id": "kpopstar_note",
@@ -2915,7 +2937,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:12:45.978093+00:00",
-    "name": "すみれ｜60歳目前ひとりで生きる"
+    "name": "すみれ｜60歳目前ひとりで生きる",
+    "additional_articles": [
+      "https://note.com/59hitori_life/n/n5554e35599a8"
+    ]
   },
   "note.com/tadanoomagu": {
     "id": "tadanoomagu",
@@ -3484,7 +3509,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:12:45.978093+00:00",
-    "name": "わかめ"
+    "name": "わかめ",
+    "additional_articles": [
+      "https://note.com/wakame_poke/n/n7d832f6f506a"
+    ]
   },
   "note.com/tsuda_m_n_": {
     "id": "tsuda_m_n_",
@@ -4389,7 +4417,13 @@
     "channel": "note-new",
     "index": "BEYOOOOONDS",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/dusk_ss315/n/n1416cd4ce61e",
+      "https://note.com/dusk_ss315/n/n212eb2383f29",
+      "https://note.com/dusk_ss315/n/ne5b814cc7f33",
+      "https://note.com/dusk_ss315/n/nec1b0b141dfd"
+    ]
   },
   "note.com/seigerme": {
     "id": "seigerme",
@@ -4752,7 +4786,13 @@
     "channel": "note-new",
     "index": "BEYOOOOONDS",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/amber_idol/n/n992aa44d7b15",
+      "https://note.com/amber_idol/n/nb943d9bfd8c5",
+      "https://note.com/amber_idol/n/n00a56ddd573e",
+      "https://note.com/amber_idol/n/n58a43cb7760c"
+    ]
   },
   "note.com/pnnuehay787": {
     "id": "pnnuehay787",
@@ -4931,7 +4971,9 @@
     "status": "duplicate",
     "additional_articles": [
       "https://note.com/kn_ykh_1985/n/nb09529a82353",
-      "https://note.com/kn_ykh_1985/n/n801b250dd373"
+      "https://note.com/kn_ykh_1985/n/n801b250dd373",
+      "https://note.com/kn_ykh_1985/n/nb44d96cdb763",
+      "https://note.com/kn_ykh_1985/n/nf443bf6f08d8"
     ]
   },
   "note.com/ripe_egret2747": {
@@ -5011,7 +5053,10 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "registered",
     "additional_articles": [
-      "https://note.com/turquesa/n/ne2cb7cf42ff8"
+      "https://note.com/turquesa/n/ne2cb7cf42ff8",
+      "https://note.com/turquesa/n/nc7041c8c88d7",
+      "https://note.com/turquesa/n/n57933c91f56c",
+      "https://note.com/turquesa/n/n329f5b10bf07"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
@@ -5777,7 +5822,12 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "イェッタイガーじゅんのすけ"
+    "name": "イェッタイガーじゅんのすけ",
+    "additional_articles": [
+      "https://note.com/junnosuke0222/n/na5732c31db5f",
+      "https://note.com/junnosuke0222/n/n58c2728eddb4",
+      "https://note.com/junnosuke0222/n/ncdda27d7ecc0"
+    ]
   },
   "note.com/prime_walrus5680": {
     "id": "prime_walrus5680",
@@ -5919,7 +5969,10 @@
     "first": "2026-11-25T04:12:45.978093+00:00",
     "status": "duplicate",
     "additional_articles": [
-      "https://note.com/millecrepes2/n/nd26d4b1f893f"
+      "https://note.com/millecrepes2/n/nd26d4b1f893f",
+      "https://note.com/millecrepes2/n/nd14b7d684dc5",
+      "https://note.com/millecrepes2/n/n4643da4edb4f",
+      "https://note.com/millecrepes2/n/nae16c4c0a255"
     ]
   },
   "note.com/calm_condor6516": {
@@ -7585,7 +7638,11 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:24:16.929772+00:00",
-    "name": "かやの"
+    "name": "かやの",
+    "additional_articles": [
+      "https://note.com/kayatan_deko/n/n3265f379bee0",
+      "https://note.com/kayatan_deko/n/n915cb2d62ff1"
+    ]
   },
   "note.com/tyarumera16": {
     "id": "tyarumera16",
@@ -7601,7 +7658,9 @@
     "status": "registered",
     "additional_articles": [
       "https://note.com/tyarumera16/n/n0138bf8c8ec6",
-      "https://note.com/tyarumera16/n/nae7c0a0e143d"
+      "https://note.com/tyarumera16/n/nae7c0a0e143d",
+      "https://note.com/tyarumera16/n/n53b9a1138669",
+      "https://note.com/tyarumera16/n/n6e78e4895f32"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:24:16.929772+00:00",
@@ -7695,7 +7754,13 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/azuma333/n/na78f4fed3cc0",
+      "https://note.com/azuma333/n/nc693dd9f3cee",
+      "https://note.com/azuma333/n/n1c7616549e60",
+      "https://note.com/azuma333/n/nb07ae0ea65c8"
+    ]
   },
   "note.com/harusk": {
     "id": "harusk",
@@ -7725,7 +7790,8 @@
     "additional_articles": [
       "https://note.com/like_chimp6015/n/n4fc1b0ad97bb",
       "https://note.com/like_chimp6015/n/n0c76accb6ac4",
-      "https://note.com/like_chimp6015/n/n143103301b03"
+      "https://note.com/like_chimp6015/n/n143103301b03",
+      "https://note.com/like_chimp6015/n/ncc896b596cab"
     ]
   },
   "note.com/_ayapoon_": {
@@ -7739,7 +7805,10 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/_ayapoon_/n/n432362bffdcd"
+    ]
   },
   "note.com/kyatapy": {
     "id": "kyatapy",
@@ -9524,7 +9593,8 @@
     "name": "メニホビ",
     "additional_articles": [
       "https://note.com/tk39fish/n/nf235a57a88ca",
-      "https://note.com/tk39fish/n/nd5036092d28e"
+      "https://note.com/tk39fish/n/nd5036092d28e",
+      "https://note.com/tk39fish/n/n1cde3575cbd2"
     ]
   },
   "note.com/hidecozu": {
@@ -9560,7 +9630,8 @@
     "last": "2026-11-25T04:03:28.555680+00:00",
     "name": "コウ",
     "additional_articles": [
-      "https://note.com/eagle131/n/n9bd88ad9fb18"
+      "https://note.com/eagle131/n/n9bd88ad9fb18",
+      "https://note.com/eagle131/n/n0b4421ed268b"
     ]
   },
   "note.com/satsu_ren0404": {
@@ -10006,7 +10077,9 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "registered",
     "additional_articles": [
-      "https://note.com/sayo0929/n/n3f1d7236c763"
+      "https://note.com/sayo0929/n/n3f1d7236c763",
+      "https://note.com/sayo0929/n/n95bfd8c69dea",
+      "https://note.com/sayo0929/n/nf38dbd80e9cf"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
@@ -11408,7 +11481,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "ミン"
+    "name": "ミン",
+    "additional_articles": [
+      "https://note.com/clever_eel51/n/nc8f7876f8e4a"
+    ]
   },
   "note.com/oshi_love179": {
     "id": "oshi_love179",
@@ -11619,7 +11695,13 @@
     "channel": "note-new",
     "index": "FRUITS ZIPPER",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/muteki_dead1/n/ndc466c3c24af",
+      "https://note.com/muteki_dead1/n/n3cbbf4680123",
+      "https://note.com/muteki_dead1/n/n67c5e6302f1a",
+      "https://note.com/muteki_dead1/n/n05f30f21c182"
+    ]
   },
   "note.com/open_broom4362": {
     "id": "open_broom4362",
@@ -12229,7 +12311,8 @@
     "additional_articles": [
       "https://note.com/taka_h_11/n/n377278bec8cf",
       "https://note.com/taka_h_11/n/n3d397bac4c38",
-      "https://note.com/taka_h_11/n/nf96eb30bb1d2"
+      "https://note.com/taka_h_11/n/nf96eb30bb1d2",
+      "https://note.com/taka_h_11/n/n13c63f1f6e0c"
     ]
   },
   "note.com/kawaii_alchemist": {
@@ -12369,7 +12452,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:24:16.929772+00:00",
-    "name": "ネイビーズアフロのはじり"
+    "name": "ネイビーズアフロのはじり",
+    "additional_articles": [
+      "https://note.com/hajirihiroki/n/na80bf4d51387"
+    ]
   },
   "note.com/clubnpm2001": {
     "id": "clubnpm2001",
@@ -12424,7 +12510,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "日和。"
+    "name": "日和。",
+    "additional_articles": [
+      "https://note.com/hiyorib00k/n/nd1e5e229217c"
+    ]
   },
   "note.com/hidephilax": {
     "id": "hidephilax",
@@ -12627,7 +12716,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "oZAKO"
+    "name": "oZAKO",
+    "additional_articles": [
+      "https://note.com/cos529pie/n/n978d8299c7bb"
+    ]
   },
   "note.com/kuchinakatax": {
     "id": "kuchinakatax",
@@ -12838,7 +12930,11 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "視差 / SHISA"
+    "name": "視差 / SHISA",
+    "additional_articles": [
+      "https://note.com/clever_beetle339/n/n16170bfa8606",
+      "https://note.com/clever_beetle339/n/ndcfd69bedd4b"
+    ]
   },
   "note.com/serene_snake3821": {
     "id": "serene_snake3821",
@@ -13135,7 +13231,8 @@
     "last": "2026-11-25T04:03:28.555680+00:00",
     "name": "みみたぶ",
     "additional_articles": [
-      "https://note.com/humble_lynx9244/n/n61f97a2042d3"
+      "https://note.com/humble_lynx9244/n/n61f97a2042d3",
+      "https://note.com/humble_lynx9244/n/n520bb3a8256b"
     ]
   },
   "note.com/nuinui_0207": {
@@ -13257,7 +13354,8 @@
     "status": "duplicate",
     "additional_articles": [
       "https://note.com/vivid_lemur7625/n/n5f67a8a2d143",
-      "https://note.com/vivid_lemur7625/n/n246e3679b9d6"
+      "https://note.com/vivid_lemur7625/n/n246e3679b9d6",
+      "https://note.com/vivid_lemur7625/n/n35a937b0d4bf"
     ]
   },
   "note.com/shotakingyo": {
@@ -13607,7 +13705,8 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "registered",
     "additional_articles": [
-      "https://note.com/idols_snh48g/n/n9834ccb9e565"
+      "https://note.com/idols_snh48g/n/n9834ccb9e565",
+      "https://note.com/idols_snh48g/n/ne216048494dd"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
@@ -14705,7 +14804,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "りょうたろう"
+    "name": "りょうたろう",
+    "additional_articles": [
+      "https://note.com/ryotaroh_note/n/n8abaf19b68cd"
+    ]
   },
   "note.com/nogizaka19500430": {
     "id": "nogizaka19500430",
@@ -14918,7 +15020,13 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "サトル／アイドルエンタメビジネス"
+    "name": "サトル／アイドルエンタメビジネス",
+    "additional_articles": [
+      "https://note.com/cool_tiger9409/n/na2d8768a2d21",
+      "https://note.com/cool_tiger9409/n/n4ee4986d69ba",
+      "https://note.com/cool_tiger9409/n/nb30afada716f",
+      "https://note.com/cool_tiger9409/n/n3211e1e8fb9f"
+    ]
   },
   "note.com/fond_mole9511": {
     "id": "fond_mole9511",
@@ -15966,7 +16074,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "榎宮"
+    "name": "榎宮",
+    "additional_articles": [
+      "https://note.com/enomiya_/n/n246931c7a1ca"
+    ]
   },
   "note.com/cute_lilac186": {
     "id": "cute_lilac186",
@@ -18585,7 +18696,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "kerori"
+    "name": "kerori",
+    "additional_articles": [
+      "https://note.com/kerori3767/n/n5d073dc56822"
+    ]
   },
   "note.com/nice_jacana985": {
     "id": "nice_jacana985",
@@ -18695,7 +18809,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "ゆうき"
+    "name": "ゆうき",
+    "additional_articles": [
+      "https://note.com/ichigoyakiniku/n/ncce478c0edc5"
+    ]
   },
   "note.com/san_1740": {
     "id": "san_1740",
@@ -18804,7 +18921,8 @@
     "last": "2026-11-25T04:03:28.555680+00:00",
     "name": "木村浩司",
     "additional_articles": [
-      "https://note.com/kimurakohji_0415/n/n6cc66ed21850"
+      "https://note.com/kimurakohji_0415/n/n6cc66ed21850",
+      "https://note.com/kimurakohji_0415/n/nf9038d62043c"
     ]
   },
   "note.com/banmac": {
@@ -19117,7 +19235,11 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "あきてぃ"
+    "name": "あきてぃ",
+    "additional_articles": [
+      "https://note.com/akity/n/n5458a48f1ad4",
+      "https://note.com/akity/n/n92acd587589d"
+    ]
   },
   "note.com/bati_pad": {
     "id": "bati_pad",
@@ -20100,7 +20222,8 @@
     "status": "registered",
     "additional_articles": [
       "https://note.com/sgrcchi/n/n9eb702f0138d",
-      "https://note.com/sgrcchi/n/nd414e10d7ea0"
+      "https://note.com/sgrcchi/n/nd414e10d7ea0",
+      "https://note.com/sgrcchi/n/n012bcf717d14"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
@@ -20150,7 +20273,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "さかお"
+    "name": "さかお",
+    "additional_articles": [
+      "https://note.com/sakao1124/n/n04b190e1484c"
+    ]
   },
   "note.com/pastel_te": {
     "id": "pastel_te",
@@ -22086,7 +22212,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "拗らせ系ATINY 🏴‍☠️ホンジュリーナ"
+    "name": "拗らせ系ATINY 🏴‍☠️ホンジュリーナ",
+    "additional_articles": [
+      "https://note.com/hongjoolena/n/nb3c4fd5dd479"
+    ]
   },
   "note.com/jolly_montblanc": {
     "id": "jolly_montblanc",
@@ -22448,7 +22577,8 @@
     "additional_articles": [
       "https://note.com/ni46/n/n865aa9d60fff",
       "https://note.com/ni46/n/nfbda21d414cb",
-      "https://note.com/ni46/n/nac1ace309420"
+      "https://note.com/ni46/n/nac1ace309420",
+      "https://note.com/ni46/n/nc1ac4cebacda"
     ]
   },
   "note.com/jjjyuge": {
@@ -22527,7 +22657,11 @@
     "channel": "note-tag",
     "index": "KPOP",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/tiha_1013/n/n6fe1ab7fef5f",
+      "https://note.com/tiha_1013/n/n087b5b459523"
+    ]
   },
   "note.com/d_log02": {
     "id": "d_log02",
@@ -24328,7 +24462,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "やまさき｜LINEで再来店をつくる人"
+    "name": "やまさき｜LINEで再来店をつくる人",
+    "additional_articles": [
+      "https://note.com/yamarketing_2604/n/n1001c586ab56"
+    ]
   },
   "note.com/deadlanguage___": {
     "id": "deadlanguage___",
@@ -24418,7 +24555,11 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "スパルタ（スパさん）"
+    "name": "スパルタ（スパさん）",
+    "additional_articles": [
+      "https://note.com/sparta_cc/n/n03797eaeabe5",
+      "https://note.com/sparta_cc/n/n03a41d39468a"
+    ]
   },
   "note.com/go_and_tee": {
     "id": "go_and_tee",
@@ -25764,7 +25905,8 @@
     "status": "duplicate",
     "additional_articles": [
       "https://note.com/syota_826/n/nef337bbcd898",
-      "https://note.com/syota_826/n/n1e0a762914f5"
+      "https://note.com/syota_826/n/n1e0a762914f5",
+      "https://note.com/syota_826/n/n543daa7e7be6"
     ]
   },
   "note.com/_mcpy": {
@@ -25959,7 +26101,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "しゅんさん"
+    "name": "しゅんさん",
+    "additional_articles": [
+      "https://note.com/shn_sisisu_/n/n7a11dc99aaf4"
+    ]
   },
   "note.com/skka770": {
     "id": "skka770",
@@ -26210,7 +26355,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "こんちはジュプトル"
+    "name": "こんちはジュプトル",
+    "additional_articles": [
+      "https://note.com/windwoods1103/n/n4d8d9bad475c"
+    ]
   },
   "note.com/yamano4": {
     "id": "yamano4",
@@ -30716,7 +30864,9 @@
     "first": "2026-11-25T04:29:46.282858+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://realsound.jp/2024/03/post-1601036"
+      "https://realsound.jp/2024/03/post-1601036",
+      "https://realsound.jp/2021/06/post-799062.html",
+      "https://realsound.jp/2024/07/post-1735017.html"
     ]
   },
   "uta-net.com": {
@@ -30802,7 +30952,10 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T13:58:03.684341+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://topics.smt.docomo.ne.jp/article/zak2/entertainment/zak2-AQUURK44PVAAFJW2ZKZATQTUNM?page=1"
+    ]
   },
   "itomomo.com": {
     "id": "auto-2c9af90f4e781670",
@@ -30962,7 +31115,13 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T13:58:03.684341+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://www.nogizaka46.com/s/n46/diary/detail/104936?ima=2105&cd=MEMBER",
+      "https://www.nogizaka46.com/s/n46/diary/detail/104936",
+      "https://www.nogizaka46.com/s/n46/diary/detail/104815?ima=1457&cd=MEMBER",
+      "https://www.nogizaka46.com/s/n46/diary/detail/104816?ima=2258&cd=MEMBER"
+    ]
   },
   "note.com/sannie_blog": {
     "id": "sannie_blog",
@@ -31056,7 +31215,10 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T13:58:03.684341+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/market_osaka/n/nc03ace2596af"
+    ]
   },
   "sakurazaka46.com": {
     "id": "auto-c778f8edfda896e7",
@@ -31069,7 +31231,13 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T13:58:03.684341+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://sakurazaka46.com/s/s46/diary/detail/71310",
+      "https://sakurazaka46.com/s/s46/diary/detail/71308",
+      "https://sakurazaka46.com/s/s46/diary/detail/71312",
+      "https://sakurazaka46.com/s/s46/diary/detail/71030"
+    ]
   },
   "cinra.net": {
     "id": "auto-0e64e7a08287a5ef",
@@ -31095,6 +31263,542 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T13:58:03.684341+00:00",
+    "status": "unverified"
+  },
+  "note.com/large_zephyr846": {
+    "id": "large_zephyr846",
+    "url": "https://note.com/large_zephyr846",
+    "feed": "https://note.com/large_zephyr846/rss",
+    "platform": "note",
+    "article": "https://note.com/large_zephyr846/n/n59f0daaff858",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/large_zephyr846/n/n11eb9634ef1a",
+      "https://note.com/large_zephyr846/n/ne06962f58b22",
+      "https://note.com/large_zephyr846/n/nf33db7e41fda",
+      "https://note.com/large_zephyr846/n/nc6e5b5af8ee5"
+    ]
+  },
+  "news.infoseek.co.jp": {
+    "id": "auto-742f542bf9776a26",
+    "url": "https://news.infoseek.co.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://news.infoseek.co.jp/article/cinemacafenet_113257/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "hinatazaka46.com": {
+    "id": "auto-878e8c39be99c6d2",
+    "url": "https://www.hinatazaka46.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://www.hinatazaka46.com/s/official/diary/detail/70761",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://www.hinatazaka46.com/s/official/diary/detail/70919?ima=0000",
+      "https://www.hinatazaka46.com/s/official/diary/detail/70548?ima=0000&cd=member"
+    ]
+  },
+  "geinou-trend-ura-news.blog.jp": {
+    "id": "auto-2f026d846db3efe5",
+    "url": "https://geinou-trend-ura-news.blog.jp",
+    "feed": null,
+    "platform": "livedoor",
+    "article": "https://geinou-trend-ura-news.blog.jp/archives/40813448.html",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "sponichi.co.jp": {
+    "id": "auto-eac7bcf1f2634e49",
+    "url": "https://www.sponichi.co.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://www.sponichi.co.jp/entertainment/news/2026/06/19/articles/20260619s00041000248000c.html",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "coki.jp": {
+    "id": "auto-daa483d0916c6fdb",
+    "url": "https://coki.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://coki.jp/article/column/88313/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "billboard-japan.com": {
+    "id": "auto-027811c3530b2f57",
+    "url": "https://www.billboard-japan.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://www.billboard-japan.com/d_news/detail/4327/2",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "hinatafan.com": {
+    "id": "auto-3648ff0fcd47b653",
+    "url": "https://hinatafan.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://hinatafan.com/6877/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/jellyfish_kaimii": {
+    "id": "jellyfish_kaimii",
+    "url": "https://note.com/jellyfish_kaimii",
+    "feed": "https://note.com/jellyfish_kaimii/rss",
+    "platform": "note",
+    "article": "https://note.com/jellyfish_kaimii/n/n3a32a64d439c",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/jellyfish_kaimii/n/ncca75ded9d65",
+      "https://note.com/jellyfish_kaimii/n/n7b4dfca86892",
+      "https://note.com/jellyfish_kaimii/n/n19a2c5f8a458",
+      "https://note.com/jellyfish_kaimii/n/n1e5fb3977347"
+    ]
+  },
+  "note.com/kanisawa_moeko": {
+    "id": "kanisawa_moeko",
+    "url": "https://note.com/kanisawa_moeko",
+    "feed": "https://note.com/kanisawa_moeko/rss",
+    "platform": "note",
+    "article": "https://note.com/kanisawa_moeko/n/n9b694bb832d3",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "news.joysound.com": {
+    "id": "auto-a86591c5853ae5f5",
+    "url": "https://news.joysound.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://news.joysound.com/article/666775",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/blitz_feuerwerk": {
+    "id": "blitz_feuerwerk",
+    "url": "https://note.com/blitz_feuerwerk",
+    "feed": "https://note.com/blitz_feuerwerk/rss",
+    "platform": "note",
+    "article": "https://note.com/blitz_feuerwerk/n/n43a85d6fb8d5",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/blitz_feuerwerk/n/n0640bba6dec0",
+      "https://note.com/blitz_feuerwerk/n/ndbf502dc9ea2",
+      "https://note.com/blitz_feuerwerk/n/n0f42f574460b",
+      "https://note.com/blitz_feuerwerk/n/n9dabfede384b"
+    ]
+  },
+  "note.com/katton_4284": {
+    "id": "katton_4284",
+    "url": "https://note.com/katton_4284",
+    "feed": "https://note.com/katton_4284/rss",
+    "platform": "note",
+    "article": "https://note.com/katton_4284/n/n2467e646fd53",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/mogest": {
+    "id": "mogest",
+    "url": "https://note.com/mogest",
+    "feed": "https://note.com/mogest/rss",
+    "platform": "note",
+    "article": "https://note.com/mogest/n/n3f2f8c42ccad",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/knhr_midori": {
+    "id": "knhr_midori",
+    "url": "https://note.com/knhr_midori",
+    "feed": "https://note.com/knhr_midori/rss",
+    "platform": "note",
+    "article": "https://note.com/knhr_midori/n/neb3d9213a83c",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/t0m0y0": {
+    "id": "t0m0y0",
+    "url": "https://note.com/t0m0y0",
+    "feed": "https://note.com/t0m0y0/rss",
+    "platform": "note",
+    "article": "https://note.com/t0m0y0/n/ncc03ae2f3a05",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/nekonogara": {
+    "id": "nekonogara",
+    "url": "https://note.com/nekonogara",
+    "feed": "https://note.com/nekonogara/rss",
+    "platform": "note",
+    "article": "https://note.com/nekonogara/n/ne86b6b9292d7",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/shiori_book": {
+    "id": "shiori_book",
+    "url": "https://note.com/shiori_book",
+    "feed": "https://note.com/shiori_book/rss",
+    "platform": "note",
+    "article": "https://note.com/shiori_book/n/n50de01ccb4d7",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/shiori_book/n/nfcb862365485"
+    ]
+  },
+  "note.com/spa_and_beer": {
+    "id": "spa_and_beer",
+    "url": "https://note.com/spa_and_beer",
+    "feed": "https://note.com/spa_and_beer/rss",
+    "platform": "note",
+    "article": "https://note.com/spa_and_beer/n/n47920eb28862",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/kitaro_shumi_313": {
+    "id": "kitaro_shumi_313",
+    "url": "https://note.com/kitaro_shumi_313",
+    "feed": "https://note.com/kitaro_shumi_313/rss",
+    "platform": "note",
+    "article": "https://note.com/kitaro_shumi_313/n/n3a9c7cd372a4",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/kitaro_shumi_313/n/na335f5a14b81"
+    ]
+  },
+  "note.com/pthread_t": {
+    "id": "pthread_t",
+    "url": "https://note.com/pthread_t",
+    "feed": "https://note.com/pthread_t/rss",
+    "platform": "note",
+    "article": "https://note.com/pthread_t/n/n30fccd51ecda",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/pthread_t/n/n5dab2855c31f"
+    ]
+  },
+  "ameblo.jp/e-street-sendai": {
+    "id": "auto-622f8a9d6c19119e",
+    "url": "https://ameblo.jp/e-street-sendai",
+    "feed": "https://rssblog.ameba.jp/e-street-sendai/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/e-street-sendai/entry-11789462552.html",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/e-street-sendai/entry-11803752396.html",
+      "https://ameblo.jp/e-street-sendai/entry-11814721332.html",
+      "https://ameblo.jp/e-street-sendai/entry-11815483107.html",
+      "https://ameblo.jp/e-street-sendai/entry-12258533446.html"
+    ]
+  },
+  "blog.stardust.co.jp": {
+    "id": "auto-a12d9fb00f0d07f1",
+    "url": "https://blog.stardust.co.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://blog.stardust.co.jp/stardustplanet/archives/21303",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/namae_boshuchu": {
+    "id": "namae_boshuchu",
+    "url": "https://note.com/namae_boshuchu",
+    "feed": "https://note.com/namae_boshuchu/rss",
+    "platform": "note",
+    "article": "https://note.com/namae_boshuchu/n/nc3e54f8b2b80",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/namae_boshuchu/n/nab2eaead2e8f"
+    ]
+  },
+  "note.com/ngc__3": {
+    "id": "ngc__3",
+    "url": "https://note.com/ngc__3",
+    "feed": "https://note.com/ngc__3/rss",
+    "platform": "note",
+    "article": "https://note.com/ngc__3/n/n4480cc280006",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/ngc__3/n/n2a99b11e0dba",
+      "https://note.com/ngc__3/n/n5cb2c2e09d66",
+      "https://note.com/ngc__3/n/n05219abbfcb2",
+      "https://note.com/ngc__3/n/n0c19b33c3118"
+    ]
+  },
+  "m.163.com": {
+    "id": "auto-6970cac9e97b7d50",
+    "url": "https://m.163.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://m.163.com/dy/article/CIPH0EHD0518CTFO.html?spss=adap_pc",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/kosuketsubota": {
+    "id": "kosuketsubota",
+    "url": "https://note.com/kosuketsubota",
+    "feed": "https://note.com/kosuketsubota/rss",
+    "platform": "note",
+    "article": "https://note.com/kosuketsubota/n/n11a880ec9540",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "soompi.com": {
+    "id": "auto-ca512690a2ab9a4d",
+    "url": "https://www.soompi.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://www.soompi.com/article/1438647wpp/aespa-achieves-impressive-record-with-24-hour-view-count-for-black-mamba-debut-mv",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://www.soompi.com/article/1447508wpp/aespas-black-mamba-becomes-fastest-k-pop-group-debut-mv-to-hit-100-million-views",
+      "https://www.soompi.com/article/1315894wpp/itzys-dalla-dalla-becomes-fastest-k-pop-debut-mv-to-hit-100-million-views",
+      "https://www.soompi.com/article/1516174wpp/ive-hits-100-million-views-for-the-1st-time-with-debut-track-eleven",
+      "https://www.soompi.com/article/1539833wpp/le-sserafims-fearless-becomes-4th-fastest-k-pop-group-debut-mv-to-hit-100-million-views"
+    ]
+  },
+  "cdn2.smentertainment.com": {
+    "id": "auto-3557ec1ba571cd2c",
+    "url": "https://cdn2.smentertainment.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://cdn2.smentertainment.com/wp-content/uploads/2024/02/2021_SM_ENTERTAINMENT_sustainability_report_EN.pdf",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/lighta_ampligh": {
+    "id": "lighta_ampligh",
+    "url": "https://note.com/lighta_ampligh",
+    "feed": "https://note.com/lighta_ampligh/rss",
+    "platform": "note",
+    "article": "https://note.com/lighta_ampligh/n/n7a53028bf5c6",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/tmy_schaf": {
+    "id": "tmy_schaf",
+    "url": "https://note.com/tmy_schaf",
+    "feed": "https://note.com/tmy_schaf/rss",
+    "platform": "note",
+    "article": "https://note.com/tmy_schaf/n/n481b2f033a80",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/d_a_i_c_h_i": {
+    "id": "d_a_i_c_h_i",
+    "url": "https://note.com/d_a_i_c_h_i",
+    "feed": "https://note.com/d_a_i_c_h_i/rss",
+    "platform": "note",
+    "article": "https://note.com/d_a_i_c_h_i/n/nab05b0115a5f",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/milk1234567891": {
+    "id": "milk1234567891",
+    "url": "https://note.com/milk1234567891",
+    "feed": "https://note.com/milk1234567891/rss",
+    "platform": "note",
+    "article": "https://note.com/milk1234567891/n/n6d92f0bdad6e",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/enjiro": {
+    "id": "enjiro",
+    "url": "https://note.com/enjiro",
+    "feed": "https://note.com/enjiro/rss",
+    "platform": "note",
+    "article": "https://note.com/enjiro/n/nb39f836870fc",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "ameblo.jp/miyamotokarin-official": {
+    "id": "auto-17e5d18194570025",
+    "url": "https://ameblo.jp/miyamotokarin-official",
+    "feed": "https://rssblog.ameba.jp/miyamotokarin-official/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/miyamotokarin-official/entry-12974432505.html",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/miyamotokarin-official/entry-12974640519.html"
+    ]
+  },
+  "note.com/siroop_": {
+    "id": "siroop_",
+    "url": "https://note.com/siroop_",
+    "feed": "https://note.com/siroop_/rss",
+    "platform": "note",
+    "article": "https://note.com/siroop_/n/n22a5f1da40de",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
+    "status": "unverified"
+  },
+  "note.com/scoop_kawamura": {
+    "id": "scoop_kawamura",
+    "url": "https://note.com/scoop_kawamura",
+    "feed": "https://note.com/scoop_kawamura/rss",
+    "platform": "note",
+    "article": "https://note.com/scoop_kawamura/n/n2d17c8780931",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-25T19:38:16.091205+00:00",
     "status": "unverified"
   }
 }

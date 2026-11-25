@@ -477,13 +477,13 @@
   "dynamic_indexes": {
     "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new": {
       "url": "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new",
-      "family": "hello",
+      "family": "ikonoijoy",
       "channel": "note-related-tag",
       "term": "アーティスト"
     },
     "https://note.com/tag/K-POP?mode=new": {
       "url": "https://note.com/tag/K-POP?mode=new",
-      "family": "culture",
+      "family": "kpop",
       "channel": "note-related-tag",
       "term": "K-POP"
     },
@@ -609,7 +609,7 @@
     },
     "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC?mode=new": {
       "url": "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC?mode=new",
-      "family": "48",
+      "family": "ikonoijoy",
       "channel": "note-related-tag",
       "term": "音楽レビュー"
     },
@@ -624,6 +624,126 @@
       "family": "sakamichi",
       "channel": "note-related-tag",
       "term": "Blog"
+    },
+    "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E7%95%AA%E7%B5%84?mode=new": {
+      "url": "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E7%95%AA%E7%B5%84?mode=new",
+      "family": "sakamichi",
+      "channel": "note-related-tag",
+      "term": "音楽番組"
+    },
+    "https://note.com/tag/%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%84%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB?mode=new": {
+      "url": "https://note.com/tag/%E3%82%B5%E3%83%9E%E3%83%BC%E3%83%84%E3%82%A4%E3%83%B3%E3%83%86%E3%83%BC%E3%83%AB?mode=new",
+      "family": "ikonoijoy",
+      "channel": "note-related-tag",
+      "term": "サマーツインテール"
+    },
+    "https://note.com/tag/%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%E5%85%A8%E5%9B%BD%E3%83%84%E3%82%A2%E3%83%BC2026?mode=new": {
+      "url": "https://note.com/tag/%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4%E5%85%A8%E5%9B%BD%E3%83%84%E3%82%A2%E3%83%BC2026?mode=new",
+      "family": "ikonoijoy",
+      "channel": "note-related-tag",
+      "term": "ニアジョイ全国ツアー2026"
+    },
+    "https://note.com/tag/%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4?mode=new": {
+      "url": "https://note.com/tag/%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4?mode=new",
+      "family": "ikonoijoy",
+      "channel": "note-related-tag",
+      "term": "ニアジョイ"
+    },
+    "https://note.com/tag/%E5%A4%8F%E3%81%AF%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC?mode=new": {
+      "url": "https://note.com/tag/%E5%A4%8F%E3%81%AF%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC?mode=new",
+      "family": "ikonoijoy",
+      "channel": "note-related-tag",
+      "term": "夏はジュエリー"
+    },
+    "https://note.com/tag/tif2026?mode=new": {
+      "url": "https://note.com/tag/tif2026?mode=new",
+      "family": "ikonoijoy",
+      "channel": "note-related-tag",
+      "term": "tif2026"
+    },
+    "https://note.com/tag/%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A44%E5%91%A8%E5%B9%B4%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88?mode=new": {
+      "url": "https://note.com/tag/%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A44%E5%91%A8%E5%B9%B4%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88?mode=new",
+      "family": "ikonoijoy",
+      "channel": "note-related-tag",
+      "term": "ニアジョイ4周年コンサート"
+    },
+    "https://note.com/tag/%E3%81%B1%E3%83%BC%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93?mode=new": {
+      "url": "https://note.com/tag/%E3%81%B1%E3%83%BC%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "ぱーてぃーちゃん"
+    },
+    "https://note.com/tag/%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E8%8D%98?mode=new": {
+      "url": "https://note.com/tag/%E3%81%8A%E3%82%82%E3%81%97%E3%82%8D%E8%8D%98?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "おもしろ荘"
+    },
+    "https://note.com/tag/%E3%81%B1%E3%83%BC%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%E3%83%9D%E3%83%BC%E3%82%BA?mode=new": {
+      "url": "https://note.com/tag/%E3%81%B1%E3%83%BC%E3%81%A6%E3%81%83%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%E3%83%9D%E3%83%BC%E3%82%BA?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "ぱーてぃーちゃんポーズ"
+    },
+    "https://note.com/tag/%E3%82%A4%E3%83%B4%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3?mode=new": {
+      "url": "https://note.com/tag/%E3%82%A4%E3%83%B4%E3%82%B5%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%B3?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "イヴサンローラン"
+    },
+    "https://note.com/tag/sweetsteady?mode=new": {
+      "url": "https://note.com/tag/sweetsteady?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "sweetsteady"
+    },
+    "https://note.com/tag/%E3%81%99%E3%81%84%E3%81%99%E3%81%A6?mode=new": {
+      "url": "https://note.com/tag/%E3%81%99%E3%81%84%E3%81%99%E3%81%A6?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "すいすて"
+    },
+    "https://note.com/tag/m%E3%82%B9%E3%83%86?mode=new": {
+      "url": "https://note.com/tag/m%E3%82%B9%E3%83%86?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "mステ"
+    },
+    "https://note.com/tag/%E3%82%AB%E3%83%AF%E3%83%A9%E3%83%9C?mode=new": {
+      "url": "https://note.com/tag/%E3%82%AB%E3%83%AF%E3%83%A9%E3%83%9C?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "カワラボ"
+    },
+    "https://note.com/tag/kawaiilab?mode=new": {
+      "url": "https://note.com/tag/kawaiilab?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "kawaiilab"
+    },
+    "https://note.com/tag/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1?mode=new": {
+      "url": "https://note.com/tag/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "カラオケ"
+    },
+    "https://note.com/tag/%E5%8F%B0%E6%B9%BE%E6%97%85%E8%A1%8C?mode=new": {
+      "url": "https://note.com/tag/%E5%8F%B0%E6%B9%BE%E6%97%85%E8%A1%8C?mode=new",
+      "family": "bmsg",
+      "channel": "note-related-tag",
+      "term": "台湾旅行"
+    },
+    "https://note.com/tag/%E5%9C%B0%E4%B8%8B%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB?mode=new": {
+      "url": "https://note.com/tag/%E5%9C%B0%E4%B8%8B%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "地下アイドル"
+    },
+    "https://note.com/tag/fyp?mode=new": {
+      "url": "https://note.com/tag/fyp?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "fyp"
     }
   }
 }
