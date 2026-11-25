@@ -1,0 +1,67 @@
+{
+  "main": "54a0771765f7e33005664ab9d398a1ba34dd564f",
+  "public_snapshot": {
+    "published": 607,
+    "writers_with_published_articles": 200,
+    "registered": 436,
+    "manual_review": 0,
+    "statuses": {
+      "published": 607,
+      "excluded": 250,
+      "pending": 5514,
+      "archive": 1064
+    }
+  },
+  "active_with_success": 436,
+  "old_approved_kept": 260,
+  "original_pending": {
+    "pending": 1341,
+    "published": 132,
+    "excluded": 28,
+    "archive": 120
+  },
+  "eight_explicit_pending": {
+    "published": 5,
+    "excluded": 1,
+    "pending": 2
+  },
+  "last_full_collection": {
+    "entries_fetched": 7229,
+    "rechecked": 180,
+    "recheck_not_yet_attempted": 5493,
+    "failed_feeds": 0,
+    "manual_review_rate": 0.0
+  },
+  "new_registers": 335,
+  "sample_author_pages": {
+    "ameba": {
+      "name": "そのままさんのそのままでいいか！",
+      "path": "authors/auto-e3f4f55e77f6c8a6.html",
+      "count": 1
+    },
+    "note": {
+      "name": "こうず",
+      "path": "authors/kouzu34.html",
+      "count": 6
+    },
+    "hatena": {
+      "name": "推しごとぶろぐ",
+      "path": "authors/auto-4b7a74c0a03be023.html",
+      "count": 3
+    }
+  },
+  "public_script": "data.js?v=2039f06ba41f",
+  "data_sha256": "2039f06ba41f82b78ac358e375a48e1ea207920733148f237b2063d0c28284e1",
+  "verified_at_jst": "2026-11-25T13:41:25.900324+09:00",
+  "implementation_commit": "905407f4f246ef9b33f3de310751ce0f9974cae3",
+  "actions": {
+    "initial_collection": 45545159639,
+    "bulk_collection_only": 45547132238,
+    "public_deployment": 45548123242
+  },
+  "public_search_check": {
+    "query": "Number_i",
+    "results": 14
+  },
+  "python_unit_tests": 48
+}
