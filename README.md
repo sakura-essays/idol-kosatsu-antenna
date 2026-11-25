@@ -19,20 +19,20 @@ python scripts/collect.py
 python scripts/build.py
 ```
 
-`dist/index.html` を直接開いても検索可能。公開は独立したActionsとPages（Source: GitHub Actions）。通常は6時間おきにRSS取得し、明確に条件を満たす記事だけ自動掲載し、判断が難しい記事や移行前の過去記事は確認待ちへ保存します。push時は取得せずテスト・ビルド・公開。取得失敗時は既存データを維持し、公開した後にActionsを失敗表示にします。
+`dist/index.html` を直接開いても検索可能。公開は独立したGitHub ActionsとPages。通常は6時間おきにRSS取得と必要な記事の再判定を行い、毎日新しい書き手を発掘します。対象に合う記事は自動掲載し、公開時点が古い記事は元の公開日時で段階追加します。詳細は [自動発掘と記事収集](docs/AUTONOMOUS_COLLECTION.md) を参照。
 
 ## データの所在
 
 |ファイル|役割|
 |---|---|
-|`config/sources.json`|確認済み書き手・公開RSS/Atom。書き手別の自動掲載条件を設定|
+|`config/sources.json`|確認済み書き手・公開RSS/Atom。手動登録した書き手|
 |`config/manual_articles.json`|元記事で確認した過去記事。確認日と根拠必須|
 |`config/moderation.json`|記事単位の承認、訂正、URL・書き手の掲載停止|
 |`config/taxonomy.json`|大分類・グループ・人物・楽曲の固有IDと表記揺れ|
 |`config/pickups.json`|本文を読み選考したURLと紹介文。初期は空|
-|`config/candidates.json`|推薦・発掘候補。自動掲載されない|
+|`config/candidates.json`|初期候補。公開フィードと記事を再判定|
 |`state/articles.json`|蓄積メタデータ。本文は含めない|
-|`state/review.json`|確認待ちのメタデータ|
+|`state/review.json`|明示的な手動確認案件|
 |`state/status.json`|直近の取得成否|
 |`web/`|画面編集元|
 |`dist/`|生成済み公開ファイル。直接編集しない|

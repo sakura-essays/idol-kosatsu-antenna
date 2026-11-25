@@ -78,7 +78,10 @@
       "id": "nogizaka46",
       "name": "乃木坂46",
       "category_id": "sakamichi",
-      "aliases": []
+      "aliases": [
+        "乃木坂工事中",
+        "16人のプリンシパル"
+      ]
     },
     {
       "id": "sakurazaka46",
@@ -116,7 +119,9 @@
       "id": "juice",
       "name": "Juice=Juice",
       "category_id": "hello",
-      "aliases": []
+      "aliases": [
+        "ジュースジュース"
+      ]
     },
     {
       "id": "beyooooonds",
@@ -762,6 +767,446 @@
       "category_id": "jp-female",
       "aliases": [],
       "kind": "group"
+    },
+    {
+      "id": "sdn48",
+      "name": "SDN48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "bnk48",
+      "name": "BNK48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "cgm48",
+      "name": "CGM48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "mnl48",
+      "name": "MNL48",
+      "category_id": "48",
+      "aliases": []
+    },
+    {
+      "id": "yoshimotozaka",
+      "name": "吉本坂46",
+      "category_id": "sakamichi",
+      "aliases": []
+    },
+    {
+      "id": "travis-japan",
+      "name": "Travis Japan",
+      "category_id": "starto",
+      "aliases": [
+        "TravisJapan",
+        "トラジャ"
+      ]
+    },
+    {
+      "id": "hey-say-jump",
+      "name": "Hey! Say! JUMP",
+      "category_id": "starto",
+      "aliases": [
+        "Hey!Say!JUMP"
+      ]
+    },
+    {
+      "id": "ae-group",
+      "name": "Aぇ! group",
+      "category_id": "starto",
+      "aliases": [
+        "Aぇ!group"
+      ]
+    },
+    {
+      "id": "west",
+      "name": "WEST.",
+      "category_id": "starto",
+      "aliases": [
+        "ジャニーズWEST"
+      ]
+    },
+    {
+      "id": "king-prince",
+      "name": "King & Prince",
+      "category_id": "starto",
+      "aliases": [
+        "King&Prince",
+        "キンプリ"
+      ]
+    },
+    {
+      "id": "v6",
+      "name": "V6",
+      "category_id": "starto",
+      "aliases": []
+    },
+    {
+      "id": "kis-my-ft2",
+      "name": "Kis-My-Ft2",
+      "category_id": "starto",
+      "aliases": [
+        "キスマイ"
+      ]
+    },
+    {
+      "id": "kat-tun",
+      "name": "KAT-TUN",
+      "category_id": "starto",
+      "aliases": []
+    },
+    {
+      "id": "super-eight",
+      "name": "SUPER EIGHT",
+      "category_id": "starto",
+      "aliases": [
+        "関ジャニ∞"
+      ]
+    },
+    {
+      "id": "ilife",
+      "name": "iLiFE!",
+      "category_id": "jp-female",
+      "aliases": [
+        "iLiFE",
+        "アイライフ"
+      ]
+    },
+    {
+      "id": "yosugala",
+      "name": "yosugala",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "appare",
+      "name": "Appare!",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "festive",
+      "name": "FES☆TIVE",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "linq",
+      "name": "LinQ",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "fishbowl",
+      "name": "fishbowl",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "ringwanderung",
+      "name": "Ringwanderung",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "task-have-fun",
+      "name": "Task have Fun",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "title-mitei",
+      "name": "タイトル未定",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "cu-mete",
+      "name": "クマリデパート",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "tiptoe",
+      "name": "TipToe.",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "kasumisou-stella",
+      "name": "かすみ草とステラ",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "sakura-gakuin",
+      "name": "さくら学院",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "kamiyado",
+      "name": "神宿",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "hana",
+      "name": "HANA",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "issue",
+      "name": "IS:SUE",
+      "category_id": "jp-female",
+      "aliases": [
+        "ISSUE"
+      ]
+    },
+    {
+      "id": "niziu",
+      "name": "NiziU",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "number-i",
+      "name": "Number_i",
+      "category_id": "jp-male",
+      "aliases": [
+        "ナンバーアイ"
+      ]
+    },
+    {
+      "id": "imp",
+      "name": "IMP.",
+      "category_id": "jp-male",
+      "aliases": [
+        "IMPACTors"
+      ]
+    },
+    {
+      "id": "mazzel",
+      "name": "MAZZEL",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "ryugujo",
+      "name": "龍宮城",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "owv",
+      "name": "OWV",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "da-ice",
+      "name": "Da-iCE",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "nexz",
+      "name": "NEXZ",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "dxteen",
+      "name": "DXTEEN",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "boys-and-men",
+      "name": "BOYS AND MEN",
+      "category_id": "jp-male",
+      "aliases": [
+        "ボイメン"
+      ]
+    },
+    {
+      "id": "7order",
+      "name": "7ORDER",
+      "category_id": "jp-male",
+      "aliases": []
+    },
+    {
+      "id": "shinee",
+      "name": "SHINee",
+      "category_id": "kpop",
+      "aliases": [
+        "シャイニー"
+      ]
+    },
+    {
+      "id": "stray-kids",
+      "name": "Stray Kids",
+      "category_id": "kpop",
+      "aliases": [
+        "スキズ"
+      ]
+    },
+    {
+      "id": "ateez",
+      "name": "ATEEZ",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "exo",
+      "name": "EXO",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "riize",
+      "name": "RIIZE",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "nct-dream",
+      "name": "NCT DREAM",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "enhypen",
+      "name": "ENHYPEN",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "txt",
+      "name": "TOMORROW X TOGETHER",
+      "category_id": "kpop",
+      "aliases": [
+        "TXT",
+        "トゥバ"
+      ]
+    },
+    {
+      "id": "bigbang",
+      "name": "BIGBANG",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "tvxq",
+      "name": "東方神起",
+      "category_id": "kpop",
+      "aliases": [
+        "TVXQ"
+      ]
+    },
+    {
+      "id": "super-junior",
+      "name": "SUPER JUNIOR",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "newjeans",
+      "name": "NewJeans",
+      "category_id": "kpop",
+      "aliases": [
+        "NJZ"
+      ]
+    },
+    {
+      "id": "nmixx",
+      "name": "NMIXX",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "itzy",
+      "name": "ITZY",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "kep1er",
+      "name": "Kep1er",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "snsd",
+      "name": "少女時代",
+      "category_id": "kpop",
+      "aliases": [
+        "SNSD"
+      ]
+    },
+    {
+      "id": "kara",
+      "name": "KARA",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "gidle",
+      "name": "(G)I-DLE",
+      "category_id": "kpop",
+      "aliases": [
+        "i-dle"
+      ]
+    },
+    {
+      "id": "red-velvet",
+      "name": "Red Velvet",
+      "category_id": "kpop",
+      "aliases": []
+    },
+    {
+      "id": "zb1",
+      "name": "ZEROBASEONE",
+      "category_id": "kpop",
+      "aliases": [
+        "ZB1"
+      ]
+    },
+    {
+      "id": "xg",
+      "name": "XG",
+      "category_id": "jp-female",
+      "aliases": []
+    },
+    {
+      "id": "izone",
+      "name": "IZ*ONE",
+      "category_id": "kpop",
+      "aliases": [
+        "アイズワン"
+      ]
+    },
+    {
+      "id": "country-girls",
+      "name": "カントリー・ガールズ",
+      "category_id": "hello",
+      "aliases": [
+        "カントリーガールズ"
+      ]
+    },
+    {
+      "id": "fromis9",
+      "name": "fromis_9",
+      "category_id": "kpop",
+      "aliases": [
+        "fromis9"
+      ]
     }
   ],
   "members": [

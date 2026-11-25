@@ -1098,5 +1098,8 @@
     "https://tkmt-182.hatenablog.com/entry/2019/05/03/124808"
   ],
   "activated_at": "2026-11-18T01:54:10.153983+00:00",
-  "migration_note": "All records discovered before activation remain backlog. Release only the 19 source-checked automatic candidates; manual approvals remain independent."
+  "migration_note": "All records discovered before activation remain backlog. Release only the 19 source-checked automatic candidates; manual approvals remain independent.",
+  "autonomous": true,
+  "archive_daily_limit": 140,
+  "archive_author_daily_limit": 5
 }

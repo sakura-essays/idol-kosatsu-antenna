@@ -42,20 +42,25 @@ def safe_url(url):
     p=urllib.parse.urlsplit(url.strip())
     if p.scheme!='https' or p.port not in (None,443):raise ValueError('HTTPS public endpoints only')
     # Known publisher hosts also work through environments whose HTTPS proxy resolves DNS.
-    if p.hostname=='note.com' or p.hostname.endswith(('.hatenablog.com','.hatenablog.jp','.hateblo.jp')):return url
+    proxy_safe={'note.com','ameblo.jp','rssblog.ameba.jp','blogtag.ameba.jp'}
+    known_suffixes=('.hatenablog.com','.hatenablog.jp','.hateblo.jp','.hatenadiary.jp','.hatenadiary.com')
+    if p.hostname in proxy_safe or p.hostname.endswith(known_suffixes):return url
     for addr in socket.getaddrinfo(p.hostname,443,type=socket.SOCK_STREAM):
         if not ipaddress.ip_address(addr[4][0]).is_global:raise ValueError('Private address blocked')
     return url
 
 class Redirect(urllib.request.HTTPRedirectHandler):
+    def __init__(self, check=None):
+        self.check=check
     def redirect_request(self,req,fp,code,msg,headers,newurl):
         safe_url(newurl)
+        if self.check:self.check(newurl)
         return super().redirect_request(req,fp,code,msg,headers,newurl)
 
-def fetch(url,headers=None):
+def fetch(url,headers=None,*,on_redirect=None):
     safe_url(url)
     req=urllib.request.Request(url,headers={'User-Agent':UA,**(headers or {})})
-    with urllib.request.build_opener(Redirect()).open(req,timeout=25) as r:
+    with urllib.request.build_opener(Redirect(on_redirect)).open(req,timeout=10) as r:
         data=r.read(LIMIT+1)
         if len(data)>LIMIT:raise ValueError('Feed exceeds 4 MB limit')
         return data,dict(r.headers)
@@ -75,12 +80,21 @@ def parse(data):
     for item in root.iter():
         if item.tag.split('}')[-1] not in ('item','entry'):continue
         values={}
+        tags=[]
         for node in item:
             key=node.tag.split('}')[-1]
             if key=='link' and node.attrib.get('href'):
                 if node.attrib.get('rel','alternate')=='alternate':values['link']=node.attrib['href']
+            elif key=='category':
+                term=node.attrib.get('term') or node.text
+                if term:tags.append(term.strip())
             elif node.text:values[key]=node.text
-        yield dict(title=html.unescape(values.get('title','')).strip(),url=values.get('link',''),published_at=date(values.get('pubDate') or values.get('published') or values.get('date')),text=plain(values.get('encoded') or values.get('content') or values.get('description') or values.get('summary') or ''))
+        raw=values.get('encoded') or values.get('content') or values.get('description') or values.get('summary') or ''
+        text=plain(re.sub(r'</(?:p|li|div|h[1-6])>|<br\s*/?>', '\n', raw, flags=re.I))
+        yield dict(title=html.unescape(values.get('title','')).strip(),url=values.get('link',''),
+                   published_at=date(values.get('pubDate') or values.get('published') or values.get('date')),
+                   text=text,tags=tags,creator=values.get('creatorName') or values.get('creator'),
+                   truncated=bool(re.search(r'続きをみる|続きを読む|read more',text,re.I)))
 
 def fiction_guard(title,text):
     """Article-level guard. Creative work elsewhere never disqualifies an author."""

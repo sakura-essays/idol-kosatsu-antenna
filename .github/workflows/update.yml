@@ -1,4 +1,4 @@
-name: Collect, review queue and publish
+name: Collect, discover and publish
 on:
   push:
     branches: [main]
@@ -16,7 +16,7 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -39,9 +39,13 @@ jobs:
         run: |
           python -m unittest discover -s tests -v
           node tests/search.cjs
-      - name: Collect (retain existing metadata on feed errors)
+      - name: Check migration state
+        id: migration
+        run: |
+          python -c 'import json; s=json.load(open("state/status.json")); print("needed="+("no" if "metrics" in s else "yes"))' >> "$GITHUB_OUTPUT"
+      - name: Collect feeds, discover authors and recheck articles
         id: collect
-        if: github.event_name != 'push'
+        if: github.event_name != 'push' || steps.migration.outputs.needed == 'yes'
         continue-on-error: true
         run: python scripts/collect.py
       - name: Build public metadata only
@@ -53,7 +57,7 @@ jobs:
           git add README.md LICENSE .gitignore scripts config state web dist docs tests .github/ISSUE_TEMPLATE
           git rm --ignore-unmatch source-checkpoint.zip
           if ! git diff --cached --quiet; then
-            git commit -m 'Update independent idol index and review queue'
+            git commit -m 'Update idol articles and discovery state'
             git push origin HEAD:main
           fi
       - uses: actions/configure-pages@v5
@@ -64,8 +68,8 @@ jobs:
       - name: Deploy Pages
         id: deploy
         uses: actions/deploy-pages@v4
-      - name: Report partial collection failure after publishing retained data
+      - name: Report pipeline failure after publishing retained data
         if: steps.collect.outcome == 'failure'
         run: |
-          echo '::error::RSS取得に失敗した媒体があります。既存データは保持。state/status.jsonを確認してください。'
+          echo '::error::収集処理が異常終了しました。公開済みデータは保持されています。収集ステップのログを確認してください。'
           exit 1
