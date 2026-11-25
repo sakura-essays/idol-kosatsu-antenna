@@ -1,0 +1,117 @@
+{
+  "indexes": {
+    "https://blogtag.ameba.jp/news/AKB48": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/AKB48?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/%26TEAM?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 48,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/BE%3AFIRST": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 0,
+      "error": "HTTPError"
+    },
+    "https://note.com/tag/BE%3AFIRST?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 49,
+      "error": ""
+    },
+    "https://note.com/tag/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%AA%E3%82%BF%E3%82%AF?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%AB%E3%83%A0": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/BEYOOOOONDS?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 49,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/%3DLOVE": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 0,
+      "error": "HTTPError"
+    },
+    "https://note.com/tag/%3DLOVE?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 47,
+      "error": ""
+    },
+    "https://note.com/tag/7ORDER?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 48,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/CANDY%20TUNE": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 1,
+      "error": ""
+    },
+    "https://note.com/tag/CANDY%20TUNE?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/BTS": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/%28G%29I-DLE?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/%E3%83%A9%E3%82%A4%E3%83%96%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/Appare%21?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/BNK48?mode=new": {
+      "day": "2026-11-25",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    }
+  },
+  "week": "2026-48",
+  "coverage": {
+    "null": 101
+  },
+  "day": "2026-11-25"
+}

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "zakupero_note",
+    "url": "https://note.com/zakupero_note",
+    "platform": "note",
+    "feed": "https://note.com/zakupero_note/rss",
+    "name": "ざくぺろ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "search",
+    "discovery_family": "",
+    "representative_url": "https://note.com/zakupero_note/n/ne2890dab354a",
+    "groups": [
+      "berryz",
+      "hello-project",
+      "juice"
+    ]
+  },
+  {
+    "id": "auto-4b7a74c0a03be023",
+    "url": "https://natumikan0704.hatenablog.com",
+    "platform": "hatena",
+    "feed": "https://natumikan0704.hatenablog.com/feed",
+    "name": "推しごとぶろぐ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "A",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "search",
+    "discovery_family": "",
+    "representative_url": "https://natumikan0704.hatenablog.com/entry/2026/11/10/171614",
+    "groups": [
+      "andteam",
+      "be-first",
+      "bullet-train",
+      "mazzel",
+      "ryugujo",
+      "sixtones",
+      "snowman"
+    ]
+  },
+  {
+    "id": "kouzu34",
+    "url": "https://note.com/kouzu34",
+    "platform": "note",
+    "feed": "https://note.com/kouzu34/rss",
+    "name": "こうず",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "B",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "48",
+    "representative_url": "https://note.com/kouzu34/n/n9037f7e29c9a",
+    "groups": [
+      "akb48",
+      "equal-love",
+      "nearly-joy",
+      "ngt48",
+      "not-equal-me"
+    ]
+  },
+  {
+    "id": "logi_love78",
+    "url": "https://note.com/logi_love78",
+    "platform": "note",
+    "feed": "https://note.com/logi_love78/rss",
+    "name": "空Sun",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "auditions",
+    "representative_url": "https://note.com/logi_love78/n/ndd59d9c176c8",
+    "groups": [
+      "andteam",
+      "bigbang",
+      "enhypen",
+      "le-sserafim",
+      "zb1"
+    ]
+  },
+  {
+    "id": "59hitori_life",
+    "url": "https://note.com/59hitori_life",
+    "platform": "note",
+    "feed": "https://note.com/59hitori_life/rss",
+    "name": "すみれ｜60歳目前ひとりで生きる",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "bmsg",
+    "representative_url": "https://note.com/59hitori_life/n/n27ce96a4f92b",
+    "groups": [
+      "be-first"
+    ]
+  },
+  {
+    "id": "wakame_poke",
+    "url": "https://note.com/wakame_poke",
+    "platform": "note",
+    "feed": "https://note.com/wakame_poke/rss",
+    "name": "わかめ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "B",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "culture",
+    "representative_url": "https://note.com/wakame_poke/n/n227d4be53ab0",
+    "groups": [
+      "equal-love"
+    ]
+  },
+  {
+    "id": "midoripic",
+    "url": "https://note.com/midoripic",
+    "platform": "note",
+    "feed": "https://note.com/midoripic/rss",
+    "name": "Midori.Pic｜43歳からプロカメラマンを目指す人",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "hello",
+    "representative_url": "https://note.com/midoripic/n/ndb525ca1dcd7",
+    "groups": [
+      "beyooooonds",
+      "hello-project"
+    ]
+  },
+  {
+    "id": "ideal_bobcat2836",
+    "url": "https://note.com/ideal_bobcat2836",
+    "platform": "note",
+    "feed": "https://note.com/ideal_bobcat2836/rss",
+    "name": "30歳から始める推し活",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "ikonoijoy",
+    "representative_url": "https://note.com/ideal_bobcat2836/n/nb51f43bf7ca0",
+    "groups": [
+      "equal-love"
+    ]
+  },
+  {
+    "id": "tyoronist_1",
+    "url": "https://note.com/tyoronist_1",
+    "platform": "note",
+    "feed": "https://note.com/tyoronist_1/rss",
+    "name": "ちょろ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "jp-male",
+    "representative_url": "https://note.com/tyoronist_1/n/n4bb718e8b390",
+    "groups": [
+      "7order",
+      "nogizaka46"
+    ]
+  },
+  {
+    "id": "bayashi_24011",
+    "url": "https://note.com/bayashi_24011",
+    "platform": "note",
+    "feed": "https://note.com/bayashi_24011/rss",
+    "name": "バヤシ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "kawaii-lab",
+    "representative_url": "https://note.com/bayashi_24011/n/n72c0c8a7f5ce",
+    "groups": [
+      "candy-tune"
+    ]
+  },
+  {
+    "id": "idanah_mb28",
+    "url": "https://note.com/idanah_mb28",
+    "platform": "note",
+    "feed": "https://note.com/idanah_mb28/rss",
+    "name": "まりそる",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "B",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "kpop",
+    "representative_url": "https://note.com/idanah_mb28/n/n059823d8ac5e",
+    "groups": [
+      "ateez"
+    ]
+  },
+  {
+    "id": "gocenti",
+    "url": "https://note.com/gocenti",
+    "platform": "note",
+    "feed": "https://note.com/gocenti/rss",
+    "name": "5センチ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "B",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "live-local",
+    "representative_url": "https://note.com/gocenti/n/nefbeaa054a41",
+    "groups": [
+      "hello-project",
+      "juice"
+    ]
+  },
+  {
+    "id": "tetoramarin",
+    "url": "https://note.com/tetoramarin",
+    "platform": "note",
+    "feed": "https://note.com/tetoramarin/rss",
+    "name": "てとら",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-25T04:12:45.978093+00:00",
+    "discovered_via": "search",
+    "discovery_family": "",
+    "representative_url": "https://note.com/tetoramarin/n/n5f3712d495bf",
+    "groups": []
+  }
+]
