@@ -591,7 +591,7 @@
     },
     "https://note.com/tag/K-POP?mode=new": {
       "url": "https://note.com/tag/K-POP?mode=new",
-      "family": "hello",
+      "family": "kpop",
       "channel": "note-related-tag",
       "term": "K-POP"
     },
@@ -621,7 +621,7 @@
     },
     "https://note.com/tag/%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%9D%E3%83%83%E3%83%97?mode=new": {
       "url": "https://note.com/tag/%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%9D%E3%83%83%E3%83%97?mode=new",
-      "family": "auditions",
+      "family": "overseas",
       "channel": "note-related-tag",
       "term": "アジアンポップ"
     },
@@ -717,7 +717,7 @@
     },
     "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC?mode=new": {
       "url": "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC?mode=new",
-      "family": "hello",
+      "family": "ikonoijoy",
       "channel": "note-related-tag",
       "term": "音楽レビュー"
     },
@@ -852,6 +852,12 @@
       "family": "kpop",
       "channel": "note-related-tag",
       "term": "fyp"
+    },
+    "https://note.com/tag/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A3%E3%83%B3?mode=new": {
+      "url": "https://note.com/tag/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A3%E3%83%B3?mode=new",
+      "family": "tobe",
+      "channel": "note-related-tag",
+      "term": "ミュージシャン"
     }
   }
 }
