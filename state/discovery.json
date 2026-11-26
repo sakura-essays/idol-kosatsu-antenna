@@ -912,6 +912,18 @@
       "family": "sakamichi",
       "channel": "note-related-tag",
       "term": "マスメディア"
+    },
+    "https://note.com/tag/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9%E6%97%85%E8%A1%8C?mode=new": {
+      "url": "https://note.com/tag/%E8%BF%91%E7%95%BF%E5%9C%B0%E6%96%B9%E6%97%85%E8%A1%8C?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "近畿地方旅行"
+    },
+    "https://note.com/tag/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E6%97%85%E8%A1%8C?mode=new": {
+      "url": "https://note.com/tag/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E6%97%85%E8%A1%8C?mode=new",
+      "family": "ikonoijoy",
+      "channel": "note-related-tag",
+      "term": "アメリカ合衆国旅行"
     }
   }
 }
