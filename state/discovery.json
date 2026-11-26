@@ -467,23 +467,131 @@
       "visits": 10,
       "links": 50,
       "error": ""
+    },
+    "https://blogtag.ameba.jp/news/NMB48": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/AKB48TeamSH?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 20,
+      "error": ""
+    },
+    "https://note.com/tag/akb18%E6%9C%9F%E7%A0%94%E7%A9%B6%E7%94%9F?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 0,
+      "error": "HTTPError"
+    },
+    "https://note.com/tag/BOYS%20PLANET?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%9D%E3%83%83%E3%83%97?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 39,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/BMSG": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/BMSG%20FES?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/STARGLOW?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E5%8D%92%E6%A5%AD?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/%E3%83%8F%E3%83%AD%E3%83%97%E3%83%AD": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/Berryz%E5%B7%A5%E6%88%BF?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 47,
+      "error": ""
+    },
+    "https://note.com/tag/%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 48,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/%E2%89%A0ME": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/%E2%89%92JOY?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/tif2026?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/BOYS%20AND%20MEN?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 44,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/FRUITS%20ZIPPER": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 0,
+      "error": "HTTPError"
+    },
+    "https://note.com/tag/CUTIE%20STREET?mode=new": {
+      "day": "2026-11-26",
+      "visits": 1,
+      "links": 50,
+      "error": ""
     }
   },
   "week": "2026-48",
   "coverage": {
     "null": 101
   },
-  "day": "2026-11-25",
+  "day": "2026-11-26",
   "dynamic_indexes": {
     "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new": {
       "url": "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new",
-      "family": "ikonoijoy",
+      "family": "hello",
       "channel": "note-related-tag",
       "term": "アーティスト"
     },
     "https://note.com/tag/K-POP?mode=new": {
       "url": "https://note.com/tag/K-POP?mode=new",
-      "family": "kpop",
+      "family": "hello",
       "channel": "note-related-tag",
       "term": "K-POP"
     },
@@ -609,7 +717,7 @@
     },
     "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC?mode=new": {
       "url": "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC?mode=new",
-      "family": "ikonoijoy",
+      "family": "hello",
       "channel": "note-related-tag",
       "term": "音楽レビュー"
     },
