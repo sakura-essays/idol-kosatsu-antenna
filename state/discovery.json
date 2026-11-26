@@ -858,6 +858,60 @@
       "family": "tobe",
       "channel": "note-related-tag",
       "term": "ミュージシャン"
+    },
+    "https://note.com/tag/likejennie?mode=new": {
+      "url": "https://note.com/tag/likejennie?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "likejennie"
+    },
+    "https://note.com/tag/juicejuice?mode=new": {
+      "url": "https://note.com/tag/juicejuice?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "juicejuice"
+    },
+    "https://note.com/tag/%E6%AE%B5%E5%8E%9F%E7%91%A0%E3%80%85?mode=new": {
+      "url": "https://note.com/tag/%E6%AE%B5%E5%8E%9F%E7%91%A0%E3%80%85?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "段原瑠々"
+    },
+    "https://note.com/tag/breakout?mode=new": {
+      "url": "https://note.com/tag/breakout?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "breakout"
+    },
+    "https://note.com/tag/bcj26?mode=new": {
+      "url": "https://note.com/tag/bcj26?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "bcj26"
+    },
+    "https://note.com/tag/isaac?mode=new": {
+      "url": "https://note.com/tag/isaac?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "isaac"
+    },
+    "https://note.com/tag/johnt?mode=new": {
+      "url": "https://note.com/tag/johnt?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "johnt"
+    },
+    "https://note.com/tag/%E4%BA%95%E4%B8%8A%E7%8E%B2%E9%9F%B3?mode=new": {
+      "url": "https://note.com/tag/%E4%BA%95%E4%B8%8A%E7%8E%B2%E9%9F%B3?mode=new",
+      "family": "hello",
+      "channel": "note-related-tag",
+      "term": "井上玲音"
+    },
+    "https://note.com/tag/%E3%83%9E%E3%82%B9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2?mode=new": {
+      "url": "https://note.com/tag/%E3%83%9E%E3%82%B9%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2?mode=new",
+      "family": "sakamichi",
+      "channel": "note-related-tag",
+      "term": "マスメディア"
     }
   }
 }
