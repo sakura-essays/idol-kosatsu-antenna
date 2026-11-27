@@ -699,7 +699,7 @@
     },
     "https://note.com/tag/K-POP?mode=new": {
       "url": "https://note.com/tag/K-POP?mode=new",
-      "family": "culture",
+      "family": "kpop",
       "channel": "note-related-tag",
       "term": "K-POP"
     },
@@ -825,7 +825,7 @@
     },
     "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC?mode=new": {
       "url": "https://note.com/tag/%E9%9F%B3%E6%A5%BD%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC?mode=new",
-      "family": "ikonoijoy",
+      "family": "hello",
       "channel": "note-related-tag",
       "term": "音楽レビュー"
     },
@@ -1038,6 +1038,36 @@
       "family": "culture",
       "channel": "note-related-tag",
       "term": "蒼井翔太"
+    },
+    "https://note.com/tag/%E5%B0%B1%E5%AF%9D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA?mode=new": {
+      "url": "https://note.com/tag/%E5%B0%B1%E5%AF%9D%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA?mode=new",
+      "family": "48",
+      "channel": "note-related-tag",
+      "term": "就寝シリーズ"
+    },
+    "https://note.com/tag/%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC%E3%81%AE%E5%BE%8C%E3%81%A0%E3%81%8B%E3%82%89?mode=new": {
+      "url": "https://note.com/tag/%E3%82%B7%E3%83%A3%E3%83%AF%E3%83%BC%E3%81%AE%E5%BE%8C%E3%81%A0%E3%81%8B%E3%82%89?mode=new",
+      "family": "48",
+      "channel": "note-related-tag",
+      "term": "シャワーの後だから"
+    },
+    "https://note.com/tag/ootd?mode=new": {
+      "url": "https://note.com/tag/ootd?mode=new",
+      "family": "48",
+      "channel": "note-related-tag",
+      "term": "ootd"
+    },
+    "https://note.com/tag/%E3%81%8A%E6%B4%92%E8%90%BD%E3%81%95%E3%82%93%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?mode=new": {
+      "url": "https://note.com/tag/%E3%81%8A%E6%B4%92%E8%90%BD%E3%81%95%E3%82%93%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84?mode=new",
+      "family": "48",
+      "channel": "note-related-tag",
+      "term": "お洒落さんと繋がりたい"
+    },
+    "https://note.com/tag/%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF?mode=new": {
+      "url": "https://note.com/tag/%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E3%83%91%E3%83%BC%E3%82%AF?mode=new",
+      "family": "48",
+      "channel": "note-related-tag",
+      "term": "アミューズメントパーク"
     }
   }
 }
