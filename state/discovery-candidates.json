@@ -7927,7 +7927,10 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/tom_story/n/n247795ae9030"
+    ]
   },
   "note.com/featurecompass": {
     "id": "featurecompass",
@@ -10450,7 +10453,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "koto"
+    "name": "koto",
+    "additional_articles": [
+      "https://note.com/koto_rbif/n/n30abf57a3d52"
+    ]
   },
   "note.com/brainy_godwit124": {
     "id": "brainy_godwit124",
@@ -11806,7 +11812,10 @@
     "channel": "note-tag",
     "index": "Number_i",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/watashitouta/n/nb545910f725b"
+    ]
   },
   "note.com/dapper_allium186": {
     "id": "dapper_allium186",
@@ -26803,7 +26812,8 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "duplicate",
     "additional_articles": [
-      "https://note.com/nonhani/n/n13f11aa61567"
+      "https://note.com/nonhani/n/n13f11aa61567",
+      "https://note.com/nonhani/n/na8b1bd997fb7"
     ]
   },
   "note.com/sweetpeach_mm": {
@@ -26846,7 +26856,11 @@
     "channel": "note-new",
     "index": "≠ME",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/hashipan21/n/nef0a64210168",
+      "https://note.com/hashipan21/n/n065d851ad8b5"
+    ]
   },
   "note.com/major_dietes5812": {
     "id": "major_dietes5812",
@@ -32206,7 +32220,13 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T19:38:16.091205+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/katton_4284/n/n4df443728653",
+      "https://note.com/katton_4284/n/n5e7b9886c67f",
+      "https://note.com/katton_4284/n/n564963809e10",
+      "https://note.com/katton_4284/n/n09ea8e8eed09"
+    ]
   },
   "note.com/mogest": {
     "id": "mogest",
@@ -40501,6 +40521,217 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-27T13:58:32.788944+00:00",
+    "status": "unverified"
+  },
+  "note.com/vast_daisy3427": {
+    "id": "vast_daisy3427",
+    "url": "https://note.com/vast_daisy3427",
+    "feed": "https://note.com/vast_daisy3427/rss",
+    "platform": "note",
+    "article": "https://note.com/vast_daisy3427/n/n9ce815917535",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "iza.ne.jp": {
+    "id": "auto-12b2e3ba3466e023",
+    "url": "https://www.iza.ne.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://www.iza.ne.jp/article/20261007-JUU5YQA4SRAF3H7HKSATGMHO7Q/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "tbsradio.jp": {
+    "id": "auto-3504c652588c397d",
+    "url": "https://www.tbsradio.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://www.tbsradio.jp/archives/?id=p-134111",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "playlist.kingrecords.co.jp": {
+    "id": "auto-8255e3a66c32f93d",
+    "url": "https://playlist.kingrecords.co.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://playlist.kingrecords.co.jp/?post_type=playlist&p=3173",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://playlist.kingrecords.co.jp/?post_type=playlist&p=3175"
+    ]
+  },
+  "hololivesuperexpo.hololivepro.com": {
+    "id": "auto-0bab2de03c1c55fc",
+    "url": "https://hololivesuperexpo.hololivepro.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://hololivesuperexpo.hololivepro.com/2026/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "inorimachi.com": {
+    "id": "auto-3e5a3ce0a5fd6497",
+    "url": "https://www.inorimachi.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://www.inorimachi.com/special/2026/fcevent/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "rage-esports.jp": {
+    "id": "auto-94adfaed8f8c3b7d",
+    "url": "https://rage-esports.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://rage-esports.jp/2026/vsposhowdown/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "joqr.co.jp": {
+    "id": "auto-fd1e4174a8a6a6bf",
+    "url": "https://www.joqr.co.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://www.joqr.co.jp/ag/article/41919/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "note.com/lab1092": {
+    "id": "lab1092",
+    "url": "https://note.com/lab1092",
+    "feed": "https://note.com/lab1092/rss",
+    "platform": "note",
+    "article": "https://note.com/lab1092/n/nfcfd2da0f217",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "note.com/modecchi": {
+    "id": "modecchi",
+    "url": "https://note.com/modecchi",
+    "feed": "https://note.com/modecchi/rss",
+    "platform": "note",
+    "article": "https://note.com/modecchi/n/nc977c8cd488d",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "note.com/cottoncandy6661": {
+    "id": "cottoncandy6661",
+    "url": "https://note.com/cottoncandy6661",
+    "feed": "https://note.com/cottoncandy6661/rss",
+    "platform": "note",
+    "article": "https://note.com/cottoncandy6661/n/n7d164fc961ba",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "note.com/boscht": {
+    "id": "boscht",
+    "url": "https://note.com/boscht",
+    "feed": "https://note.com/boscht/rss",
+    "platform": "note",
+    "article": "https://note.com/boscht/n/n06b6a4d5ea4f",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "note.com/suama_monaka15": {
+    "id": "suama_monaka15",
+    "url": "https://note.com/suama_monaka15",
+    "feed": "https://note.com/suama_monaka15/rss",
+    "platform": "note",
+    "article": "https://note.com/suama_monaka15/n/nd247048a52f1",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "note.com/sawatashi_a": {
+    "id": "sawatashi_a",
+    "url": "https://note.com/sawatashi_a",
+    "feed": "https://note.com/sawatashi_a/rss",
+    "platform": "note",
+    "article": "https://note.com/sawatashi_a/n/n21746f300354",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "note.com/mirecat": {
+    "id": "mirecat",
+    "url": "https://note.com/mirecat",
+    "feed": "https://note.com/mirecat/rss",
+    "platform": "note",
+    "article": "https://note.com/mirecat/n/nae55d90487e0",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
+    "status": "unverified"
+  },
+  "note.com/image_maker": {
+    "id": "image_maker",
+    "url": "https://note.com/image_maker",
+    "feed": "https://note.com/image_maker/rss",
+    "platform": "note",
+    "article": "https://note.com/image_maker/n/na51e99b62864",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T19:40:23.494106+00:00",
     "status": "unverified"
   }
 }
