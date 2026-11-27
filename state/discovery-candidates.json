@@ -3819,7 +3819,9 @@
     "name": "ガチ恋社長",
     "additional_articles": [
       "https://note.com/underground_ceo/n/n03b7c43a98d4",
-      "https://note.com/underground_ceo/n/n87bfd16525a9"
+      "https://note.com/underground_ceo/n/n87bfd16525a9",
+      "https://note.com/underground_ceo/n/n4eedf6dd4857",
+      "https://note.com/underground_ceo/n/n1b7229dddf1c"
     ]
   },
   "note.com/fami_4809": {
@@ -8067,7 +8069,9 @@
     "status": "duplicate",
     "additional_articles": [
       "https://note.com/_ayapoon_/n/n432362bffdcd",
-      "https://note.com/_ayapoon_/n/n16b19976b69f"
+      "https://note.com/_ayapoon_/n/n16b19976b69f",
+      "https://note.com/_ayapoon_/n/n58bbfd6226ef",
+      "https://note.com/_ayapoon_/n/nefdc18362687"
     ]
   },
   "note.com/kyatapy": {
@@ -20221,7 +20225,8 @@
     "last": "2026-11-25T04:03:28.555680+00:00",
     "name": "箱推しラッキービッキー",
     "additional_articles": [
-      "https://note.com/hakooshi_lucky/n/nb116be9472af"
+      "https://note.com/hakooshi_lucky/n/nb116be9472af",
+      "https://note.com/hakooshi_lucky/n/n607f834d9adb"
     ]
   },
   "note.com/xmxixix": {
@@ -20351,7 +20356,8 @@
     "status": "unverified",
     "additional_articles": [
       "https://note.com/moral_mango3403/n/n54ee36955018",
-      "https://note.com/moral_mango3403/n/n0bdedfd6db1e"
+      "https://note.com/moral_mango3403/n/n0bdedfd6db1e",
+      "https://note.com/moral_mango3403/n/n68658f3cba8c"
     ]
   },
   "note.com/noted_tsts99": {
@@ -22926,7 +22932,11 @@
     "channel": "note-tag",
     "index": "SKE48",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "duplicate"
+    "status": "duplicate",
+    "additional_articles": [
+      "https://note.com/light_nerine81/n/nb1c87798c437",
+      "https://note.com/light_nerine81/n/nf8a3d12bd59a"
+    ]
   },
   "note.com/rico_green0723": {
     "id": "rico_green0723",
@@ -36754,7 +36764,8 @@
     "first": "2026-11-26T02:00:18.520764+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://news.livedoor.com/article/detail/26119868/"
+      "https://news.livedoor.com/article/detail/26119868/",
+      "https://news.livedoor.com/article/detail/8761871/"
     ]
   },
   "note.com/ricca99": {
@@ -37078,7 +37089,10 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-26T08:07:06.634077+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://www.j-cast.com/2013/08/02180737.html"
+    ]
   },
   "ameblo.jp/akihabara48": {
     "id": "auto-0db445f3c7841255",
@@ -40393,6 +40407,100 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-27T08:04:33.606670+00:00",
+    "status": "unverified"
+  },
+  "note.com/irodori_days929": {
+    "id": "irodori_days929",
+    "url": "https://note.com/irodori_days929",
+    "feed": "https://note.com/irodori_days929/rss",
+    "platform": "note",
+    "article": "https://note.com/irodori_days929/n/na2e5347670b4",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T13:58:32.788944+00:00",
+    "status": "unverified"
+  },
+  "rocketnews24.com": {
+    "id": "auto-c720b06eef534ef4",
+    "url": "https://rocketnews24.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://rocketnews24.com/2018/08/20/1103323/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T13:58:32.788944+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://rocketnews24.com/2018/09/04/1111350/"
+    ]
+  },
+  "abcnews.com": {
+    "id": "auto-8bc543d6be79c058",
+    "url": "https://abcnews.com",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://abcnews.com/blogs/entertainment/2012/02/whitney-houstons-star-spangled-secret/",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T13:58:32.788944+00:00",
+    "status": "unverified"
+  },
+  "hinapare-live.jp": {
+    "id": "auto-bf1b6e7cadf0a0a3",
+    "url": "https://hinapare-live.jp",
+    "feed": null,
+    "platform": "blog",
+    "article": "https://hinapare-live.jp/2024/report/index.html",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T13:58:32.788944+00:00",
+    "status": "unverified"
+  },
+  "note.com/yuka1111_log": {
+    "id": "yuka1111_log",
+    "url": "https://note.com/yuka1111_log",
+    "feed": "https://note.com/yuka1111_log/rss",
+    "platform": "note",
+    "article": "https://note.com/yuka1111_log/n/n40086fe71716",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T13:58:32.788944+00:00",
+    "status": "unverified"
+  },
+  "note.com/_wakapon_": {
+    "id": "_wakapon_",
+    "url": "https://note.com/_wakapon_",
+    "feed": "https://note.com/_wakapon_/rss",
+    "platform": "note",
+    "article": "https://note.com/_wakapon_/n/n0ba9fc1b3b31",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T13:58:32.788944+00:00",
+    "status": "unverified"
+  },
+  "note.com/yano113": {
+    "id": "yano113",
+    "url": "https://note.com/yano113",
+    "feed": "https://note.com/yano113/rss",
+    "platform": "note",
+    "article": "https://note.com/yano113/n/nc824260b8374",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T13:58:32.788944+00:00",
     "status": "unverified"
   }
 }
