@@ -575,13 +575,121 @@
       "visits": 1,
       "links": 50,
       "error": ""
+    },
+    "https://blogtag.ameba.jp/news/SKE48": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/CGM48?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 28,
+      "error": ""
+    },
+    "https://note.com/tag/akb48?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/DXTEEN?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/MAZZEL": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/HANA?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 48,
+      "error": ""
+    },
+    "https://note.com/tag/%E5%8F%B0%E6%B9%BE%E6%97%85%E8%A1%8C?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 49,
+      "error": ""
+    },
+    "https://note.com/tag/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E6%89%B9%E8%A9%95?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 22,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%A8%98%E3%80%82": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 0,
+      "error": "HTTPError"
+    },
+    "https://note.com/tag/Juice%3DJuice?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/bcj26?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 1,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/%E3%82%A4%E3%82%B3%E3%83%A9%E3%83%96": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 30,
+      "error": ""
+    },
+    "https://note.com/tag/%E3%83%8B%E3%82%A2%E3%82%B8%E3%83%A7%E3%82%A4?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD%E6%97%85%E8%A1%8C?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 0,
+      "error": "HTTPError"
+    },
+    "https://note.com/tag/Da-iCE?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://blogtag.ameba.jp/news/SWEET%20STEADY": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 0,
+      "error": "HTTPError"
+    },
+    "https://note.com/tag/KAWAII%20LAB.?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 50,
+      "error": ""
+    },
+    "https://note.com/tag/kawaiilab?mode=new": {
+      "day": "2026-11-27",
+      "visits": 1,
+      "links": 50,
+      "error": ""
     }
   },
   "week": "2026-48",
   "coverage": {
     "null": 101
   },
-  "day": "2026-11-26",
+  "day": "2026-11-27",
   "dynamic_indexes": {
     "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new": {
       "url": "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new",
@@ -591,7 +699,7 @@
     },
     "https://note.com/tag/K-POP?mode=new": {
       "url": "https://note.com/tag/K-POP?mode=new",
-      "family": "kpop",
+      "family": "culture",
       "channel": "note-related-tag",
       "term": "K-POP"
     },
@@ -621,7 +729,7 @@
     },
     "https://note.com/tag/%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%9D%E3%83%83%E3%83%97?mode=new": {
       "url": "https://note.com/tag/%E3%82%A2%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%9D%E3%83%83%E3%83%97?mode=new",
-      "family": "overseas",
+      "family": "culture",
       "channel": "note-related-tag",
       "term": "アジアンポップ"
     },
@@ -924,6 +1032,12 @@
       "family": "ikonoijoy",
       "channel": "note-related-tag",
       "term": "アメリカ合衆国旅行"
+    },
+    "https://note.com/tag/%E8%92%BC%E4%BA%95%E7%BF%94%E5%A4%AA?mode=new": {
+      "url": "https://note.com/tag/%E8%92%BC%E4%BA%95%E7%BF%94%E5%A4%AA?mode=new",
+      "family": "culture",
+      "channel": "note-related-tag",
+      "term": "蒼井翔太"
     }
   }
 }

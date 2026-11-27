@@ -1560,7 +1560,8 @@
     "status": "D",
     "additional_articles": [
       "https://ameblo.jp/yuurio12240124/entry-12985580090.html",
-      "https://ameblo.jp/yuurio12240124/entry-12985674066.html"
+      "https://ameblo.jp/yuurio12240124/entry-12985674066.html",
+      "https://ameblo.jp/yuurio12240124/entry-12985775020.html"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:24:16.929772+00:00",
@@ -1640,7 +1641,8 @@
     "status": "D",
     "additional_articles": [
       "https://ameblo.jp/qtchicksjp/entry-12983598618.html",
-      "https://ameblo.jp/qtchicksjp/entry-12983505616.html"
+      "https://ameblo.jp/qtchicksjp/entry-12983505616.html",
+      "https://ameblo.jp/qtchicksjp/entry-12983779128.html"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:18:53.839718+00:00",
@@ -1662,7 +1664,8 @@
     "additional_articles": [
       "https://ameblo.jp/a-k-on/entry-12985562963.html",
       "https://ameblo.jp/a-k-on/entry-12985460920.html",
-      "https://ameblo.jp/a-k-on/entry-12985655728.html"
+      "https://ameblo.jp/a-k-on/entry-12985655728.html",
+      "https://ameblo.jp/a-k-on/entry-12985760045.html"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:18:53.839718+00:00",
@@ -1679,7 +1682,11 @@
     "channel": "ameba-new",
     "index": "AKB48",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "ameblo.jp/kusuyama39": {
     "id": "auto-41f8a3cd60aa67f2",
@@ -1770,7 +1777,12 @@
     "channel": "ameba-new",
     "index": "AKB48",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/710502/entry-12985698801.html",
+      "https://ameblo.jp/710502/entry-12985604818.html",
+      "https://ameblo.jp/710502/entry-12985400050.html"
+    ]
   },
   "ameblo.jp/wapmizuki": {
     "id": "auto-d071b40da078a82a",
@@ -1902,7 +1914,8 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "registered",
     "additional_articles": [
-      "https://note.com/alive_orchid4734/n/n0b28ecbdc54c"
+      "https://note.com/alive_orchid4734/n/n0b28ecbdc54c",
+      "https://note.com/alive_orchid4734/n/nc0dc02580697"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
@@ -2206,7 +2219,10 @@
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
     "reason": "no_qualifying_entry",
-    "next": "2026-12-25T04:03:28.555680+00:00"
+    "next": "2026-12-25T04:03:28.555680+00:00",
+    "additional_articles": [
+      "https://note.com/k_galactica2/n/n14cecd31f3ff"
+    ]
   },
   "note.com/oboeteitekure913": {
     "id": "oboeteitekure913",
@@ -2316,7 +2332,10 @@
     "channel": "note-new",
     "index": "AKB48",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/furyosa1138/n/nc1d4f66dedd8"
+    ]
   },
   "note.com/midori_akb": {
     "id": "midori_akb",
@@ -2444,7 +2463,10 @@
     "channel": "note-new",
     "index": "AKB48",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/cloudberry_jam/n/nd4e53babeb03"
+    ]
   },
   "note.com/pachikiroku": {
     "id": "pachikiroku",
@@ -2658,7 +2680,8 @@
     "additional_articles": [
       "https://note.com/setlistplaylist/n/n4989c26ab663",
       "https://note.com/setlistplaylist/n/nb9918489c274",
-      "https://note.com/setlistplaylist/n/na25ff43b69dc"
+      "https://note.com/setlistplaylist/n/na25ff43b69dc",
+      "https://note.com/setlistplaylist/n/nf42c056e50f3"
     ]
   },
   "note.com/kinacoma": {
@@ -2765,7 +2788,10 @@
     "channel": "note-new",
     "index": "&TEAM",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/tiorannes/n/n29fac76fdaf4"
+    ]
   },
   "note.com/tender_yak5221": {
     "id": "tender_yak5221",
@@ -2781,7 +2807,9 @@
     "status": "unverified",
     "additional_articles": [
       "https://note.com/tender_yak5221/n/n4b9ee97c44af",
-      "https://note.com/tender_yak5221/n/n1a45217dd743"
+      "https://note.com/tender_yak5221/n/n1a45217dd743",
+      "https://note.com/tender_yak5221/n/n0a1b6232ebc9",
+      "https://note.com/tender_yak5221/n/n99262be7c30c"
     ]
   },
   "note.com/rapid_ibis7559": {
@@ -2853,7 +2881,10 @@
     "first": "2026-11-25T04:12:45.978093+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/shiny_auk417/n/n804677f4d49a"
+      "https://note.com/shiny_auk417/n/n804677f4d49a",
+      "https://note.com/shiny_auk417/n/n1894ffb2e33b",
+      "https://note.com/shiny_auk417/n/n43d2e76d0862",
+      "https://note.com/shiny_auk417/n/nbda943a6889e"
     ]
   },
   "note.com/suzukikenjiro": {
@@ -3015,7 +3046,10 @@
     "channel": "note-new",
     "index": "BE:FIRST",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/yameta_apparel/n/n9824516bfafc"
+    ]
   },
   "note.com/quiet_emu2080": {
     "id": "quiet_emu2080",
@@ -3080,7 +3114,9 @@
     "status": "unverified",
     "additional_articles": [
       "https://note.com/galapagosidol/n/nd710e814b853",
-      "https://note.com/galapagosidol/n/n7b2bc0607b1e"
+      "https://note.com/galapagosidol/n/n7b2bc0607b1e",
+      "https://note.com/galapagosidol/n/n854ec0a9c4fa",
+      "https://note.com/galapagosidol/n/nd13385cbfe94"
     ]
   },
   "note.com/morokoshi3": {
@@ -3443,7 +3479,10 @@
     "channel": "note-new",
     "index": "BE:FIRST",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/billion_hits/n/na890344bf54e"
+    ]
   },
   "note.com/pearl_besty": {
     "id": "pearl_besty",
@@ -3675,10 +3714,13 @@
     "channel": "note-new",
     "index": "アイドルオタク",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified",
+    "status": "registered",
     "additional_articles": [
       "https://note.com/oshikatsu_money/n/nb1a3e9447329"
-    ]
+    ],
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "推し活マネー研究室"
   },
   "note.com/idol_honne": {
     "id": "idol_honne",
@@ -3807,7 +3849,8 @@
     "status": "unverified",
     "additional_articles": [
       "https://note.com/k_popidol/n/nc546c948fc0b",
-      "https://note.com/k_popidol/n/nd9d4c0cd5ffe"
+      "https://note.com/k_popidol/n/nd9d4c0cd5ffe",
+      "https://note.com/k_popidol/n/ne5c48dfbd81c"
     ]
   },
   "note.com/po_po_nut": {
@@ -4607,7 +4650,10 @@
     "channel": "note-new",
     "index": "BEYOOOOONDS",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/akmyoyoyo/n/na4c6eedc6117"
+    ]
   },
   "note.com/maru_encho": {
     "id": "maru_encho",
@@ -4781,11 +4827,16 @@
     "channel": "note-new",
     "index": "BEYOOOOONDS",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified",
+    "status": "registered",
     "additional_articles": [
       "https://note.com/rosy_zinnia4526/n/na6c25bf52162",
-      "https://note.com/rosy_zinnia4526/n/n55b59094c9a7"
-    ]
+      "https://note.com/rosy_zinnia4526/n/n55b59094c9a7",
+      "https://note.com/rosy_zinnia4526/n/n3fad10e958d1",
+      "https://note.com/rosy_zinnia4526/n/n3b0629d7c8d4"
+    ],
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "桃の飴"
   },
   "note.com/hplover": {
     "id": "hplover",
@@ -5025,7 +5076,10 @@
     "channel": "note-new",
     "index": "=LOVE",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/ukarilove/n/n3671582eed91"
+    ]
   },
   "note.com/goenagogo": {
     "id": "goenagogo",
@@ -5159,7 +5213,8 @@
     "first": "2026-11-25T04:12:45.978093+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/kireikawaii/n/nf97de6b879a2"
+      "https://note.com/kireikawaii/n/nf97de6b879a2",
+      "https://note.com/kireikawaii/n/ned1d851d016f"
     ]
   },
   "note.com/turquesa": {
@@ -5335,7 +5390,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "しょう@理系大学1年生"
+    "name": "しょう@理系大学1年生",
+    "additional_articles": [
+      "https://note.com/bold_tern733/n/n8a769236e4bf"
+    ]
   },
   "note.com/tyoronist_1": {
     "id": "tyoronist_1",
@@ -5970,7 +6028,10 @@
     "channel": "note-new",
     "index": "CANDY TUNE",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/prime_walrus5680/n/nd38dcc4f2d63"
+    ]
   },
   "note.com/monnkumo_do": {
     "id": "monnkumo_do",
@@ -6430,7 +6491,11 @@
     "channel": "ameba-new",
     "index": "BTS",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "ameblo.jp/papayapayapaya-2025": {
     "id": "auto-1f3dbaf1c2d34c23",
@@ -7094,7 +7159,10 @@
     "channel": "ameba-new",
     "index": "ライブアイドル",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "rrrran-fooのブログ"
   },
   "ameblo.jp/inorinosekai": {
     "id": "auto-e048f4eb7fcb9ea8",
@@ -7185,7 +7253,10 @@
     "channel": "ameba-new",
     "index": "ライブアイドル",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/zumehiro-07/entry-12985366216.html"
+    ]
   },
   "note.com/juicy_camel5570": {
     "id": "juicy_camel5570",
@@ -7349,7 +7420,9 @@
     "first": "2026-11-25T04:12:45.978093+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/babachi_idollab/n/nadd97fee2646"
+      "https://note.com/babachi_idollab/n/nadd97fee2646",
+      "https://note.com/babachi_idollab/n/n5c0a13f192a6",
+      "https://note.com/babachi_idollab/n/na8f2cee06357"
     ]
   },
   "note.com/tworabbits": {
@@ -7674,7 +7747,10 @@
     "channel": "note-new",
     "index": "BNK48",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "オタク市場とグローバル文化観測〜Cathrine’s note〜"
   },
   "note.com/oshithaimousu": {
     "id": "oshithaimousu",
@@ -7916,7 +7992,13 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T04:12:45.978093+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "福岡聖菜",
+    "additional_articles": [
+      "https://note.com/seina_fuku48/n/n77f19deb7b83"
+    ]
   },
   "note.com/azuma333": {
     "id": "azuma333",
@@ -8033,9 +8115,9 @@
     "url": "https://note.com/nadegata_hp",
     "feed": "https://note.com/nadegata_hp/rss",
     "platform": "note",
-    "article": "https://note.com/nadegata_hp/n/n507183f67af2",
-    "title": "",
-    "family": "",
+    "article": "https://note.com/nadegata_hp/n/nf46947944213",
+    "title": "Juice=Juice「5ROOMS」を4公演観て考えた、ハロプロのライブが観客に委ねているもの",
+    "family": "hello",
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T04:12:45.978093+00:00",
@@ -8043,7 +8125,8 @@
     "additional_articles": [
       "https://note.com/nadegata_hp/n/n334bdecff205",
       "https://note.com/nadegata_hp/n/n7fc0b0bd7325",
-      "https://note.com/nadegata_hp/n/nb4bbe642c63b"
+      "https://note.com/nadegata_hp/n/nb4bbe642c63b",
+      "https://note.com/nadegata_hp/n/nf46947944213"
     ]
   },
   "ameblo.jp/juicejuice-official": {
@@ -8807,7 +8890,12 @@
     "channel": "note-tag",
     "index": "BE:FIRST",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/haiagaru3_life/n/na9e799dcf624",
+      "https://note.com/haiagaru3_life/n/nc7b6a41316ff",
+      "https://note.com/haiagaru3_life/n/n0ae849ceddcd"
+    ]
   },
   "note.com/proper_ixora7715": {
     "id": "proper_ixora7715",
@@ -9266,7 +9354,8 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/sane_oxalis9286/n/n14c2c05870a9"
+      "https://note.com/sane_oxalis9286/n/n14c2c05870a9",
+      "https://note.com/sane_oxalis9286/n/n36f91db4f3ce"
     ]
   },
   "note.com/mikiyo_tennis": {
@@ -9331,7 +9420,8 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/large_canna6443/n/n4d4c26204c9b"
+      "https://note.com/large_canna6443/n/n4d4c26204c9b",
+      "https://note.com/large_canna6443/n/n94955ab5aeac"
     ]
   },
   "note.com/uminochie": {
@@ -9400,7 +9490,10 @@
     "channel": "note-tag",
     "index": "CANDY TUNE",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/nisihe_higasihe/n/n84dc223d0762"
+    ]
   },
   "note.com/shiny_egret7284": {
     "id": "shiny_egret7284",
@@ -9907,10 +10000,15 @@
     "channel": "note-new",
     "index": "乃木坂46",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified",
+    "status": "registered",
     "additional_articles": [
-      "https://note.com/noteaccess/n/nf4b158ca44a4"
-    ]
+      "https://note.com/noteaccess/n/nf4b158ca44a4",
+      "https://note.com/noteaccess/n/nb5cc6d05a935",
+      "https://note.com/noteaccess/n/n9ba39d328f1e"
+    ],
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "パソコン坂"
   },
   "note.com/mai_sakura_myai": {
     "id": "mai_sakura_myai",
@@ -10480,10 +10578,14 @@
     "channel": "note-new",
     "index": "Number_i",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified",
+    "status": "D",
     "additional_articles": [
       "https://note.com/hikakumemo_lab/n/n7a8b2182cb8a"
-    ]
+    ],
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "note.com/rich_auk791": {
     "id": "rich_auk791",
@@ -12447,7 +12549,9 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/wngndays/n/n93d7b1d5c1f1"
+      "https://note.com/wngndays/n/n93d7b1d5c1f1",
+      "https://note.com/wngndays/n/ndc81eee28f29",
+      "https://note.com/wngndays/n/nd7530567d808"
     ]
   },
   "note.com/haraharakamone": {
@@ -12879,7 +12983,8 @@
     "additional_articles": [
       "https://note.com/star_source/n/n9003589b9700",
       "https://note.com/star_source/n/nf269a4e1aef5",
-      "https://note.com/star_source/n/ndf00f451b33b"
+      "https://note.com/star_source/n/ndf00f451b33b",
+      "https://note.com/star_source/n/n1c23010ad2d7"
     ]
   },
   "note.com/brainy_marten308": {
@@ -13505,7 +13610,8 @@
     "name": "みみたぶ",
     "additional_articles": [
       "https://note.com/humble_lynx9244/n/n61f97a2042d3",
-      "https://note.com/humble_lynx9244/n/n520bb3a8256b"
+      "https://note.com/humble_lynx9244/n/n520bb3a8256b",
+      "https://note.com/humble_lynx9244/n/n7b8f37f1591e"
     ]
   },
   "note.com/nuinui_0207": {
@@ -14041,7 +14147,8 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "registered",
     "additional_articles": [
-      "https://note.com/innervision_dai/n/n70827edee3fc"
+      "https://note.com/innervision_dai/n/n70827edee3fc",
+      "https://note.com/innervision_dai/n/n4bedba9067a3"
     ],
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
@@ -14203,7 +14310,10 @@
     "channel": "note-new",
     "index": "SNH48",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/keiwacampus/n/n59b6c8054afe"
+    ]
   },
   "note.com/ignitionp": {
     "id": "ignitionp",
@@ -14907,7 +15017,10 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "duplicate",
     "additional_articles": [
-      "https://note.com/tsukagirei/n/ncda1085506e9"
+      "https://note.com/tsukagirei/n/ncda1085506e9",
+      "https://note.com/tsukagirei/n/n967a0e0520b9",
+      "https://note.com/tsukagirei/n/n556485b819cc",
+      "https://note.com/tsukagirei/n/nd9f055f430f9"
     ]
   },
   "note.com/sakura_fjys0829": {
@@ -16484,7 +16597,10 @@
     "channel": "note-new",
     "index": "ももいろクローバーZ",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "桃"
   },
   "note.com/ema_wenhua": {
     "id": "ema_wenhua",
@@ -16715,7 +16831,10 @@
     "channel": "note-new",
     "index": "ももいろクローバーZ",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/kaneko_writer/n/ne69036df9762"
+    ]
   },
   "note.com/gomazon": {
     "id": "gomazon",
@@ -16863,7 +16982,10 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/yoshippppp/n/nd044971e4a24"
+      "https://note.com/yoshippppp/n/nd044971e4a24",
+      "https://note.com/yoshippppp/n/n18de7b49ba1a",
+      "https://note.com/yoshippppp/n/n93ce14a8f724",
+      "https://note.com/yoshippppp/n/n8070d98c0e08"
     ]
   },
   "note.com/just_relax1631": {
@@ -17225,7 +17347,10 @@
     "channel": "note-tag",
     "index": "アイドル考察",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/gay_quoll7948/n/n9757ee4b42e2"
+    ]
   },
   "note.com/super_pipit3057": {
     "id": "super_pipit3057",
@@ -19126,7 +19251,10 @@
     "channel": "note-new",
     "index": "ME:I",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/nako10100/n/nf56cb069a182"
+    ]
   },
   "note.com/entm_1": {
     "id": "entm_1",
@@ -19373,7 +19501,11 @@
     "channel": "note-new",
     "index": "STARTO",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "note.com/ticket_mamoru": {
     "id": "ticket_mamoru",
@@ -19653,7 +19785,10 @@
     "channel": "note-new",
     "index": "STARTO",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/dobutsu_hd/n/nc18a575f258e"
+    ]
   },
   "note.com/ancient_9": {
     "id": "ancient_9",
@@ -20191,7 +20326,10 @@
     "channel": "note-new",
     "index": "ハロプロ",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/ps_sp_os/n/n522d00ca4a69"
+    ]
   },
   "note.com/moral_mango3403": {
     "id": "moral_mango3403",
@@ -20206,7 +20344,8 @@
     "first": "2026-11-25T04:03:28.555680+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/moral_mango3403/n/n54ee36955018"
+      "https://note.com/moral_mango3403/n/n54ee36955018",
+      "https://note.com/moral_mango3403/n/n0bdedfd6db1e"
     ]
   },
   "note.com/noted_tsts99": {
@@ -20640,7 +20779,8 @@
     "name": "さかお",
     "additional_articles": [
       "https://note.com/sakao1124/n/n04b190e1484c",
-      "https://note.com/sakao1124/n/n88dee11ab426"
+      "https://note.com/sakao1124/n/n88dee11ab426",
+      "https://note.com/sakao1124/n/n40a9162088cf"
     ]
   },
   "note.com/pastel_te": {
@@ -20728,7 +20868,10 @@
     "channel": "note-tag",
     "index": "ハロプロ",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/just_flax7103/n/n472b7f8aa2e2"
+    ]
   },
   "note.com/tamuraharuki": {
     "id": "tamuraharuki",
@@ -21292,7 +21435,10 @@
     "channel": "note-tag",
     "index": "モーニング娘。",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/hinata_hiyori/n/n739f6181b36d"
+    ]
   },
   "note.com/sekussi": {
     "id": "sekussi",
@@ -23760,7 +23906,10 @@
     "channel": "note-new",
     "index": "KPOPライブ",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "an"
   },
   "note.com/muromi_lyrics": {
     "id": "muromi_lyrics",
@@ -25019,7 +25168,10 @@
     "channel": "note-new",
     "index": "ライブアイドル",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "星乃あくあ【STARNOTE】"
   },
   "note.com/trisphere": {
     "id": "trisphere",
@@ -26792,7 +26944,11 @@
     "channel": "note-new",
     "index": "SWEET STEADY",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/oshikatu/n/n346c32ab962d",
+      "https://note.com/oshikatu/n/n7a053de20f04"
+    ]
   },
   "note.com/cabe_coffee_life": {
     "id": "cabe_coffee_life",
@@ -27600,7 +27756,10 @@
     "channel": "note-tag",
     "index": "超特急",
     "first": "2026-11-25T04:03:28.555680+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "ぴこ"
   },
   "note.com/red5yx": {
     "id": "red5yx",
@@ -28435,7 +28594,10 @@
     "channel": "ameba-new",
     "index": "STARTO",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "舞浜ときどき埼玉、趣味と"
   },
   "ameblo.jp/miku12arashi33hy": {
     "id": "auto-45866ad511a0abd1",
@@ -29130,7 +29292,11 @@
     "channel": "ameba-new",
     "index": "TOBE",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified"
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "ameblo.jp/yumikpqp": {
     "id": "auto-c08d43d27ea50f75",
@@ -29484,10 +29650,14 @@
     "channel": "ameba-new",
     "index": "BMSG",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified",
+    "status": "D",
     "additional_articles": [
       "https://ameblo.jp/moon-yoi/entry-12984311529.html"
-    ]
+    ],
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "ameblo.jp/mogu-dailylife": {
     "id": "auto-4f28472a355cf84a",
@@ -29739,7 +29909,10 @@
     "channel": "ameba-new",
     "index": "MAZZEL",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/blossom-dog/entry-12985551920.html"
+    ]
   },
   "ameblo.jp/nekofunja-wanai": {
     "id": "auto-af7e2075c2c4d306",
@@ -30233,7 +30406,8 @@
     "first": "2026-11-25T04:13:20.572215+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://ameblo.jp/bobby-kay/entry-12985367020.html"
+      "https://ameblo.jp/bobby-kay/entry-12985367020.html",
+      "https://ameblo.jp/bobby-kay/entry-12985562717.html"
     ]
   },
   "ameblo.jp/combat-manager": {
@@ -30299,7 +30473,11 @@
     "channel": "ameba-new",
     "index": "SKE48",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/fivetours2006/entry-12985623163.html",
+      "https://ameblo.jp/fivetours2006/entry-12985515979.html"
+    ]
   },
   "ameblo.jp/yukolove-0804": {
     "id": "auto-04d3f038d2083d9b",
@@ -30524,7 +30702,11 @@
     "channel": "ameba-new",
     "index": "イコラブ",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified"
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "ameblo.jp/hakusen7": {
     "id": "auto-6f73872dab4fc479",
@@ -30626,7 +30808,10 @@
     "channel": "ameba-new",
     "index": "≠ME",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/7-iroko/entry-12985693550.html"
+    ]
   },
   "ameblo.jp/2632nuak": {
     "id": "auto-76445d11ea49502d",
@@ -30828,7 +31013,11 @@
     "channel": "ameba-new",
     "index": "乃木坂46",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified"
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "ameblo.jp/ulysess-0913": {
     "id": "auto-ff5d54bbbf74a490",
@@ -30993,7 +31182,10 @@
     "channel": "ameba-new",
     "index": "櫻坂46",
     "first": "2026-11-25T04:13:20.572215+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/akirabu/entry-12981263085.html"
+    ]
   },
   "ameblo.jp/jeyayu": {
     "id": "auto-e06b78788302805f",
@@ -31544,9 +31736,9 @@
     "url": "https://note.com/antitti",
     "feed": "https://note.com/antitti/rss",
     "platform": "note",
-    "article": "https://note.com/antitti/n/n028d46276ec1",
-    "title": "",
-    "family": "",
+    "article": "https://note.com/antitti/n/n215cc2aef943",
+    "title": "２０２０年を振り返る。良い年だったと振り返る。",
+    "family": "48",
     "channel": "article-link",
     "index": "",
     "first": "2026-11-25T13:58:03.684341+00:00",
@@ -32467,13 +32659,17 @@
     "channel": "note-new",
     "index": "BOYS PLANET",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified",
+    "status": "D",
     "additional_articles": [
       "https://note.com/cccuf8n/n/n6778853e8bcc",
       "https://note.com/cccuf8n/n/n1a7c3fc09c66",
       "https://note.com/cccuf8n/n/nf0e8e6b1a8b7",
       "https://note.com/cccuf8n/n/na3dfdab6ef5f"
-    ]
+    ],
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "note.com/mimimimimim_i": {
     "id": "mimimimimim_i",
@@ -32928,7 +33124,8 @@
     "first": "2026-11-26T02:00:18.520764+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/coconutnews/n/nc7ba87323fd8"
+      "https://note.com/coconutnews/n/nc7ba87323fd8",
+      "https://note.com/coconutnews/n/n588da637be08"
     ]
   },
   "note.com/nihongo109tamaki": {
@@ -33257,7 +33454,11 @@
     "channel": "note-new",
     "index": "BMSG FES",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "note.com/fair_plover4235": {
     "id": "fair_plover4235",
@@ -33376,7 +33577,8 @@
     "status": "unverified",
     "additional_articles": [
       "https://note.com/naninu_/n/nc5f4bacedb79",
-      "https://note.com/naninu_/n/n3ebc9b9a2bfe"
+      "https://note.com/naninu_/n/n3ebc9b9a2bfe",
+      "https://note.com/naninu_/n/nc15b3c1c814c"
     ]
   },
   "note.com/beehive_2016": {
@@ -33390,7 +33592,10 @@
     "channel": "note-new",
     "index": "BMSG FES",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/beehive_2016/n/n0ff691323426"
+    ]
   },
   "note.com/haquamatata": {
     "id": "haquamatata",
@@ -33838,7 +34043,8 @@
     "first": "2026-11-26T02:00:18.520764+00:00",
     "status": "unverified",
     "additional_articles": [
-      "https://note.com/polaris_note00/n/n73fe7be8f431"
+      "https://note.com/polaris_note00/n/n73fe7be8f431",
+      "https://note.com/polaris_note00/n/n208d2462abe5"
     ]
   },
   "note.com/fond_egret9232": {
@@ -34115,7 +34321,10 @@
     "channel": "note-new",
     "index": "アイドル卒業",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/akih/n/n84b3f64962a3"
+    ]
   },
   "note.com/lively_oriole311": {
     "id": "lively_oriole311",
@@ -34245,7 +34454,10 @@
     "channel": "ameba-new",
     "index": "ハロプロ",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/hallopro50s/entry-12985750493.html"
+    ]
   },
   "ameblo.jp/yukihatto": {
     "id": "auto-fa28787095f83487",
@@ -35098,7 +35310,10 @@
     "channel": "note-related-tag",
     "index": "カラオケ",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/brainy_ixora174/n/nc539ded21e23"
+    ]
   },
   "note.com/rapid_orca4745": {
     "id": "rapid_orca4745",
@@ -35364,7 +35579,10 @@
     "channel": "note-new",
     "index": "≒JOY",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/ideal_ikonoijoy/n/n0ee3f51ef617"
+    ]
   },
   "note.com/viadomdom4036": {
     "id": "viadomdom4036",
@@ -35468,7 +35686,10 @@
     "channel": "note-related-tag",
     "index": "tif2026",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/yuits_/n/n2c42a38602c3"
+    ]
   },
   "note.com/nanrl0817": {
     "id": "nanrl0817",
@@ -35513,7 +35734,11 @@
     "channel": "note-related-tag",
     "index": "tif2026",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
   },
   "note.com/taku_5807": {
     "id": "taku_5807",
@@ -36449,7 +36674,10 @@
     "channel": "note-new",
     "index": "CUTIE STREET",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "registered",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "name": "ますのすし"
   },
   "note.com/kittyidea": {
     "id": "kittyidea",
@@ -36475,7 +36703,10 @@
     "channel": "note-new",
     "index": "CUTIE STREET",
     "first": "2026-11-26T02:00:18.520764+00:00",
-    "status": "unverified"
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/cutiestreet/n/n9a1e018ff343"
+    ]
   },
   "note.com/manatsunosaru": {
     "id": "manatsunosaru",
@@ -37061,9 +37292,2976 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-26T19:45:16.266856+00:00",
-    "status": "unverified",
+    "status": "duplicate",
     "additional_articles": [
       "https://note.com/ktmk___55/n/nde9d3c081f56"
+    ]
+  },
+  "ameblo.jp/hongguocg": {
+    "id": "auto-db7e52eed478df60",
+    "url": "https://ameblo.jp/hongguocg",
+    "feed": "https://rssblog.ameba.jp/hongguocg/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/hongguocg/entry-12985741273.html",
+    "title": "",
+    "family": "48",
+    "channel": "ameba-new",
+    "index": "SKE48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "ameblo.jp/news2024": {
+    "id": "auto-3c19d90e49af87b7",
+    "url": "https://ameblo.jp/news2024",
+    "feed": "https://rssblog.ameba.jp/news2024/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/news2024/entry-12985661398.html",
+    "title": "",
+    "family": "48",
+    "channel": "ameba-new",
+    "index": "SKE48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/marukinmarukin": {
+    "id": "marukinmarukin",
+    "url": "https://note.com/marukinmarukin",
+    "feed": "https://note.com/marukinmarukin/rss",
+    "platform": "note",
+    "article": "https://note.com/marukinmarukin/n/n1b839554e61b",
+    "title": "48グループのミライ",
+    "family": "48",
+    "channel": "note-new",
+    "index": "CGM48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/chira_nicefacer": {
+    "id": "chira_nicefacer",
+    "url": "https://note.com/chira_nicefacer",
+    "feed": "https://note.com/chira_nicefacer/rss",
+    "platform": "note",
+    "article": "https://note.com/chira_nicefacer/n/na3df55e93fdd",
+    "title": "17.アイドルって、最高だ",
+    "family": "48",
+    "channel": "note-new",
+    "index": "CGM48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/pgen_thaiholic": {
+    "id": "pgen_thaiholic",
+    "url": "https://note.com/pgen_thaiholic",
+    "feed": "https://note.com/pgen_thaiholic/rss",
+    "platform": "note",
+    "article": "https://note.com/pgen_thaiholic/n/nf073bc6015ae",
+    "title": "新年にまつわるタイの歌12選（ルークトゥンモーラム以外もあり）",
+    "family": "48",
+    "channel": "note-new",
+    "index": "CGM48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/ichigaya_th": {
+    "id": "ichigaya_th",
+    "url": "https://note.com/ichigaya_th",
+    "feed": "https://note.com/ichigaya_th/rss",
+    "platform": "note",
+    "article": "https://note.com/ichigaya_th/n/n6f092ea9be02",
+    "title": "タイのアイドル事情 - 分類編",
+    "family": "48",
+    "channel": "note-new",
+    "index": "CGM48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tagkaz": {
+    "id": "tagkaz",
+    "url": "https://note.com/tagkaz",
+    "feed": "https://note.com/tagkaz/rss",
+    "platform": "note",
+    "article": "https://note.com/tagkaz/n/n2b906124bcf3",
+    "title": "BNK48の映画がめちゃめちゃおもしろかった件",
+    "family": "48",
+    "channel": "note-new",
+    "index": "CGM48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/moral_wolf4521": {
+    "id": "moral_wolf4521",
+    "url": "https://note.com/moral_wolf4521",
+    "feed": "https://note.com/moral_wolf4521/rss",
+    "platform": "note",
+    "article": "https://note.com/moral_wolf4521/n/n27ec5fad9e29",
+    "title": "知らない曲 メンバー予想ができない曲を勉強した📚",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/zukky_michu": {
+    "id": "zukky_michu",
+    "url": "https://note.com/zukky_michu",
+    "feed": "https://note.com/zukky_michu/rss",
+    "platform": "note",
+    "article": "https://note.com/zukky_michu/n/nab29e296f81b",
+    "title": "れんがの好きな物100選 part1",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "D",
+    "attempts": 1,
+    "last": "2026-11-27T02:02:27.255778+00:00",
+    "reason": "no_qualifying_entry",
+    "next": "2026-12-27T02:02:27.255778+00:00"
+  },
+  "note.com/philo_factory": {
+    "id": "philo_factory",
+    "url": "https://note.com/philo_factory",
+    "feed": "https://note.com/philo_factory/rss",
+    "platform": "note",
+    "article": "https://note.com/philo_factory/n/n8f63240a2b87",
+    "title": "行司はスタートボタンを押さない——スポーツとは何かについて",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/archie_archiee": {
+    "id": "archie_archiee",
+    "url": "https://note.com/archie_archiee",
+    "feed": "https://note.com/archie_archiee/rss",
+    "platform": "note",
+    "article": "https://note.com/archie_archiee/n/na4e79ad4160b",
+    "title": "アイドルがライブで急に口悪くなると、ちょっと冷める",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/ready_acacia712": {
+    "id": "ready_acacia712",
+    "url": "https://note.com/ready_acacia712",
+    "feed": "https://note.com/ready_acacia712/rss",
+    "platform": "note",
+    "article": "https://note.com/ready_acacia712/n/nbc280f1bcfff",
+    "title": "👩 川栄李奈31歳｜AKB48卒業、6度のオーディション、そして朝ドラヒロインへ――自分の才能が生きる場所を見つけた人生",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/fit_koala6805": {
+    "id": "fit_koala6805",
+    "url": "https://note.com/fit_koala6805",
+    "feed": "https://note.com/fit_koala6805/rss",
+    "platform": "note",
+    "article": "https://note.com/fit_koala6805/n/n4eda3ea69b69",
+    "title": "そのまなざしは優しかった",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/mirai2ken": {
+    "id": "mirai2ken",
+    "url": "https://note.com/mirai2ken",
+    "feed": "https://note.com/mirai2ken/rss",
+    "platform": "note",
+    "article": "https://note.com/mirai2ken/n/ncea50d23b39f",
+    "title": "#013 『AKB48×謎解き』　　知識Lv.★★",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/rieko27": {
+    "id": "rieko27",
+    "url": "https://note.com/rieko27",
+    "feed": "https://note.com/rieko27/rss",
+    "platform": "note",
+    "article": "https://note.com/rieko27/n/n18a6e70a5f73",
+    "title": "つかこうへい革命ミュージカル ダブルス　 『飛龍伝』 : 音楽",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nobuhirofujii": {
+    "id": "nobuhirofujii",
+    "url": "https://note.com/nobuhirofujii",
+    "feed": "https://note.com/nobuhirofujii/rss",
+    "platform": "note",
+    "article": "https://note.com/nobuhirofujii/n/nba6edfee91f3",
+    "title": "AKB48/桜の花びらたち 歌ってみた",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/charm_knot4107": {
+    "id": "charm_knot4107",
+    "url": "https://note.com/charm_knot4107",
+    "feed": "https://note.com/charm_knot4107/rss",
+    "platform": "note",
+    "article": "https://note.com/charm_knot4107/n/nc655f64c3f86",
+    "title": "第1回：日韓融合という実験の成功──『PRODUCE 48』が生んだ奇跡のバランス",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/calm_viper9188": {
+    "id": "calm_viper9188",
+    "url": "https://note.com/calm_viper9188",
+    "feed": "https://note.com/calm_viper9188/rss",
+    "platform": "note",
+    "article": "https://note.com/calm_viper9188/n/n334b86ee7059",
+    "title": "広辞苑とAKB",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/gogendou326": {
+    "id": "gogendou326",
+    "url": "https://note.com/gogendou326",
+    "feed": "https://note.com/gogendou326/rss",
+    "platform": "note",
+    "article": "https://note.com/gogendou326/n/n5957adb71fd6",
+    "title": "推し活を振り返ってみた",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/mild_spirea8997": {
+    "id": "mild_spirea8997",
+    "url": "https://note.com/mild_spirea8997",
+    "feed": "https://note.com/mild_spirea8997/rss",
+    "platform": "note",
+    "article": "https://note.com/mild_spirea8997/n/nc36b5da3e5c9",
+    "title": "『サマンサ？タバサ！？』",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/honest_bison5868": {
+    "id": "honest_bison5868",
+    "url": "https://note.com/honest_bison5868",
+    "feed": "https://note.com/honest_bison5868/rss",
+    "platform": "note",
+    "article": "https://note.com/honest_bison5868/n/n1ff218014b86",
+    "title": "30 MUSIC CHALLENGE②",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/hitoshi2go": {
+    "id": "hitoshi2go",
+    "url": "https://note.com/hitoshi2go",
+    "feed": "https://note.com/hitoshi2go/rss",
+    "platform": "note",
+    "article": "https://note.com/hitoshi2go/n/n11e0dbe7c003",
+    "title": "音楽乃時間--早漏",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/fts48_official": {
+    "id": "fts48_official",
+    "url": "https://note.com/fts48_official",
+    "feed": "https://note.com/fts48_official/rss",
+    "platform": "note",
+    "article": "https://note.com/fts48_official/n/n36c8939d91b0",
+    "title": "佐藤りぼんについて (by Pの部屋)",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/178yusuke": {
+    "id": "178yusuke",
+    "url": "https://note.com/178yusuke",
+    "feed": "https://note.com/178yusuke/rss",
+    "platform": "note",
+    "article": "https://note.com/178yusuke/n/n0b0e310a0f16",
+    "title": "推しを持つ、ということ",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/wise_deer1780": {
+    "id": "wise_deer1780",
+    "url": "https://note.com/wise_deer1780",
+    "feed": "https://note.com/wise_deer1780/rss",
+    "platform": "note",
+    "article": "https://note.com/wise_deer1780/n/n67b46dec4366",
+    "title": "Billboard年間1位18曲を全部数えたら、2年連続はLemonだけで、AKB48は4回だった",
+    "family": "48",
+    "channel": "note-related-tag",
+    "index": "akb48",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/chabashira_bl": {
+    "id": "chabashira_bl",
+    "url": "https://note.com/chabashira_bl",
+    "feed": "https://note.com/chabashira_bl/rss",
+    "platform": "note",
+    "article": "https://note.com/chabashira_bl/n/ncd5f7259826a",
+    "title": "お願いだからその輪に入れて「陽キャ集団にいる芹沢は、俺の前だと様子がおかしい」",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/idoldxtn": {
+    "id": "idoldxtn",
+    "url": "https://note.com/idoldxtn",
+    "feed": "https://note.com/idoldxtn/rss",
+    "platform": "note",
+    "article": "https://note.com/idoldxtn/n/n82941120bfa9",
+    "title": "DXTEEN、はじめまして",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tttaaaccc_dxtn": {
+    "id": "tttaaaccc_dxtn",
+    "url": "https://note.com/tttaaaccc_dxtn",
+    "feed": "https://note.com/tttaaaccc_dxtn/rss",
+    "platform": "note",
+    "article": "https://note.com/tttaaaccc_dxtn/n/n158bdcddca33",
+    "title": "2026 DXTEEN LIVE TOUR 〜 Re: Heart & Soul 〜　書き留めたい気持ち",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tsdxtn": {
+    "id": "tsdxtn",
+    "url": "https://note.com/tsdxtn",
+    "feed": "https://note.com/tsdxtn/rss",
+    "platform": "note",
+    "article": "https://note.com/tsdxtn/n/n480dca00ea3a",
+    "title": "【検証】mondを始めたら1年でどうなるのか。〜千本ノックをした結果〜",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/tsdxtn/n/nd95e55cfbb91"
+    ]
+  },
+  "note.com/atarimesoubi": {
+    "id": "atarimesoubi",
+    "url": "https://note.com/atarimesoubi",
+    "feed": "https://note.com/atarimesoubi/rss",
+    "platform": "note",
+    "article": "https://note.com/atarimesoubi/n/n3165585e264e",
+    "title": "いさ報 2026.11.9～2026.11.15",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tidayo": {
+    "id": "tidayo",
+    "url": "https://note.com/tidayo",
+    "feed": "https://note.com/tidayo/rss",
+    "platform": "note",
+    "article": "https://note.com/tidayo/n/nff7086d7a73c",
+    "title": "空港に行ったらアイドルと芸能人に遭遇。",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/dreamliketime_": {
+    "id": "dreamliketime_",
+    "url": "https://note.com/dreamliketime_",
+    "feed": "https://note.com/dreamliketime_/rss",
+    "platform": "note",
+    "article": "https://note.com/dreamliketime_/n/nc02d987ffb67",
+    "title": "10月 月記",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/dreamliketime_/n/ndf6b81991f18"
+    ]
+  },
+  "note.com/mapl_1e": {
+    "id": "mapl_1e",
+    "url": "https://note.com/mapl_1e",
+    "feed": "https://note.com/mapl_1e/rss",
+    "platform": "note",
+    "article": "https://note.com/mapl_1e/n/n69f59eec5509",
+    "title": "DXTEEN結成4周年！！",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/bright_deer422": {
+    "id": "bright_deer422",
+    "url": "https://note.com/bright_deer422",
+    "feed": "https://note.com/bright_deer422/rss",
+    "platform": "note",
+    "article": "https://note.com/bright_deer422/n/n0be2139dfda1",
+    "title": "e-radio「キャッチ！」presents    SHIGA BEAT CRUISIN’Vol.5 2026.10.24",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/bosei_chan": {
+    "id": "bosei_chan",
+    "url": "https://note.com/bosei_chan",
+    "feed": "https://note.com/bosei_chan/rss",
+    "platform": "note",
+    "article": "https://note.com/bosei_chan/n/na92cb16fe47c",
+    "title": "存在だけで僕の宇宙を変えてく",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/uemura_kaede": {
+    "id": "uemura_kaede",
+    "url": "https://note.com/uemura_kaede",
+    "feed": "https://note.com/uemura_kaede/rss",
+    "platform": "note",
+    "article": "https://note.com/uemura_kaede/n/n162ef792fb81",
+    "title": "『YourSky〜ハレのち恋』（ユアスカ）、『席替えしたら、どうやら後ろの男が俺のこと好きらしい』（セキスキ）感想まとめ",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/uemura_kaede/n/ndba48f7528b2",
+      "https://note.com/uemura_kaede/n/nb2a20fce661d",
+      "https://note.com/uemura_kaede/n/n50f8254b930f"
+    ]
+  },
+  "note.com/albaba": {
+    "id": "albaba",
+    "url": "https://note.com/albaba",
+    "feed": "https://note.com/albaba/rss",
+    "platform": "note",
+    "article": "https://note.com/albaba/n/nf7cf77b2a54b",
+    "title": "『陽キャ集団にいる芹沢は、俺の前だと様子がおかしい』最終回、王道学園BLはやめられない。",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/albaba/n/necc8089fa8a5",
+      "https://note.com/albaba/n/nf32e6729d374",
+      "https://note.com/albaba/n/nb54e9a646bba"
+    ]
+  },
+  "note.com/cheering_ad": {
+    "id": "cheering_ad",
+    "url": "https://note.com/cheering_ad",
+    "feed": "https://note.com/cheering_ad/rss",
+    "platform": "note",
+    "article": "https://note.com/cheering_ad/n/n9ca1c1c94c5c",
+    "title": "【B0ポスター掲出！】俳優・百瀬拓実さんお誕生日応援広告",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/mybabytaro": {
+    "id": "mybabytaro",
+    "url": "https://note.com/mybabytaro",
+    "feed": "https://note.com/mybabytaro/rss",
+    "platform": "note",
+    "article": "https://note.com/mybabytaro/n/n62d15766e57e",
+    "title": "ひだまりのような君へ",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nemui_gyoza": {
+    "id": "nemui_gyoza",
+    "url": "https://note.com/nemui_gyoza",
+    "feed": "https://note.com/nemui_gyoza/rss",
+    "platform": "note",
+    "article": "https://note.com/nemui_gyoza/n/nc1c0a3c79451",
+    "title": "田中笑太郎くん21歳のお誕生日おめでとう✨",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/taroukun_17": {
+    "id": "taroukun_17",
+    "url": "https://note.com/taroukun_17",
+    "feed": "https://note.com/taroukun_17/rss",
+    "platform": "note",
+    "article": "https://note.com/taroukun_17/n/ncec596a8f9c0",
+    "title": "笑顔で溢れていますように",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/oyasumi_merci": {
+    "id": "oyasumi_merci",
+    "url": "https://note.com/oyasumi_merci",
+    "feed": "https://note.com/oyasumi_merci/rss",
+    "platform": "note",
+    "article": "https://note.com/oyasumi_merci/n/nd8256a1bc205",
+    "title": "光を咲かせる人のこと①",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/juicy_tulip3202": {
+    "id": "juicy_tulip3202",
+    "url": "https://note.com/juicy_tulip3202",
+    "feed": "https://note.com/juicy_tulip3202/rss",
+    "platform": "note",
+    "article": "https://note.com/juicy_tulip3202/n/n361601abe47f",
+    "title": "小林大悟の大洋から宇宙船のかれらへ",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/deft_raven8236": {
+    "id": "deft_raven8236",
+    "url": "https://note.com/deft_raven8236",
+    "feed": "https://note.com/deft_raven8236/rss",
+    "platform": "note",
+    "article": "https://note.com/deft_raven8236/n/n161dc699f5f8",
+    "title": "番外編：BLドラマのお気に入り主題歌をオススメしたい！",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/ruka61121013": {
+    "id": "ruka61121013",
+    "url": "https://note.com/ruka61121013",
+    "feed": "https://note.com/ruka61121013/rss",
+    "platform": "note",
+    "article": "https://note.com/ruka61121013/n/n0e595d6307a9",
+    "title": "勝手に勝手に、コラボフェン牧飯レシピ公開するよー",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/3eczr": {
+    "id": "3eczr",
+    "url": "https://note.com/3eczr",
+    "feed": "https://note.com/3eczr/rss",
+    "platform": "note",
+    "article": "https://note.com/3eczr/n/n6fdebedfec9b",
+    "title": "はじめまして♡",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/unyapshop": {
+    "id": "unyapshop",
+    "url": "https://note.com/unyapshop",
+    "feed": "https://note.com/unyapshop/rss",
+    "platform": "note",
+    "article": "https://note.com/unyapshop/n/n92f7c2a98bdb",
+    "title": "4年経てば、ぬいぐるみは踊る｜自作ぬいぐるみでコマ撮りダンスを始めた話(2026.09.17)",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/open_lapone": {
+    "id": "open_lapone",
+    "url": "https://note.com/open_lapone",
+    "feed": "https://note.com/open_lapone/rss",
+    "platform": "note",
+    "article": "https://note.com/open_lapone/n/nd81c4769ac9e",
+    "title": "【LAPONEシリアル攻略④】30枚、50枚、100枚…どう使う？全落ちを減らすための応募配分",
+    "family": "auditions",
+    "channel": "note-new",
+    "index": "DXTEEN",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/open_lapone/n/nddb66d221eb7"
+    ]
+  },
+  "ameblo.jp/kaitai-note": {
+    "id": "auto-9305d964d5376eea",
+    "url": "https://ameblo.jp/kaitai-note",
+    "feed": "https://rssblog.ameba.jp/kaitai-note/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/kaitai-note/entry-12985733653.html",
+    "title": "",
+    "family": "bmsg",
+    "channel": "ameba-new",
+    "index": "MAZZEL",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "ameblo.jp/vvvmisatovvv": {
+    "id": "auto-e7448a7070124844",
+    "url": "https://ameblo.jp/vvvmisatovvv",
+    "feed": "https://rssblog.ameba.jp/vvvmisatovvv/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/vvvmisatovvv/entry-12985715373.html",
+    "title": "",
+    "family": "bmsg",
+    "channel": "ameba-new",
+    "index": "MAZZEL",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nguyenminhha": {
+    "id": "nguyenminhha",
+    "url": "https://note.com/nguyenminhha",
+    "feed": "https://note.com/nguyenminhha/rss",
+    "platform": "note",
+    "article": "https://note.com/nguyenminhha/n/nf64e78002c3b",
+    "title": "ノノガを見て、ちゃんみなについて思ったこと",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/hachimitsuxhoney": {
+    "id": "hachimitsuxhoney",
+    "url": "https://note.com/hachimitsuxhoney",
+    "feed": "https://note.com/hachimitsuxhoney/rss",
+    "platform": "note",
+    "article": "https://note.com/hachimitsuxhoney/n/nf5988578d60a",
+    "title": "はにのとぷろ日記 #8",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/matsumae_79": {
+    "id": "matsumae_79",
+    "url": "https://note.com/matsumae_79",
+    "feed": "https://note.com/matsumae_79/rss",
+    "platform": "note",
+    "article": "https://note.com/matsumae_79/n/na0635b54b1df",
+    "title": "『3冊の単語帳で迷った2日目の夜。韓国語も肩こりも、湯船でほどく』",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/arikumi": {
+    "id": "arikumi",
+    "url": "https://note.com/arikumi",
+    "feed": "https://note.com/arikumi/rss",
+    "platform": "note",
+    "article": "https://note.com/arikumi/n/n003481fdd540",
+    "title": "【毎日日記】2026.11.26 木　天気：曇",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/bloomtales": {
+    "id": "bloomtales",
+    "url": "https://note.com/bloomtales",
+    "feed": "https://note.com/bloomtales/rss",
+    "platform": "note",
+    "article": "https://note.com/bloomtales/n/n53daee005ba5",
+    "title": "【HANA🌹】ロナルド・マクドナルド・ハウスってなーに？",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/kuromse": {
+    "id": "kuromse",
+    "url": "https://note.com/kuromse",
+    "feed": "https://note.com/kuromse/rss",
+    "platform": "note",
+    "article": "https://note.com/kuromse/n/n99f39475212a",
+    "title": "HANAの日記 #07｜クリスマスまであと1ヶ月。隣にいてくれる人が欲しくなった。",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/bluemountain_69": {
+    "id": "bluemountain_69",
+    "url": "https://note.com/bluemountain_69",
+    "feed": "https://note.com/bluemountain_69/rss",
+    "platform": "note",
+    "article": "https://note.com/bluemountain_69/n/ncc2aca7cd967",
+    "title": "こうすけのこれを聴け！",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/advocate": {
+    "id": "advocate",
+    "url": "https://note.com/advocate",
+    "feed": "https://note.com/advocate/rss",
+    "platform": "note",
+    "article": "https://note.com/advocate/n/n3d9d9fba6b5f",
+    "title": "我が家のうさぎちゃんには、どうやら推しがいるらしい🤣",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/hana_etc": {
+    "id": "hana_etc",
+    "url": "https://note.com/hana_etc",
+    "feed": "https://note.com/hana_etc/rss",
+    "platform": "note",
+    "article": "https://note.com/hana_etc/n/n91a17c22416e",
+    "title": "【三行日記】必殺ポンポン薄毛隠し",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/hana_etc/n/na73dadf0822d"
+    ]
+  },
+  "note.com/modern_stoat957": {
+    "id": "modern_stoat957",
+    "url": "https://note.com/modern_stoat957",
+    "feed": "https://note.com/modern_stoat957/rss",
+    "platform": "note",
+    "article": "https://note.com/modern_stoat957/n/n1736b71d9035",
+    "title": "断酒記録(45)11/19~11/25",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/like_liger7008": {
+    "id": "like_liger7008",
+    "url": "https://note.com/like_liger7008",
+    "feed": "https://note.com/like_liger7008/rss",
+    "platform": "note",
+    "article": "https://note.com/like_liger7008/n/nf7838e64b3ac",
+    "title": "HANAとの不思議な縁",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/toyoujin": {
+    "id": "toyoujin",
+    "url": "https://note.com/toyoujin",
+    "feed": "https://note.com/toyoujin/rss",
+    "platform": "note",
+    "article": "https://note.com/toyoujin/n/nd7747412d06d",
+    "title": "やさぐれ日記",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nami9240": {
+    "id": "nami9240",
+    "url": "https://note.com/nami9240",
+    "feed": "https://note.com/nami9240/rss",
+    "platform": "note",
+    "article": "https://note.com/nami9240/n/n805d1203f11a",
+    "title": "no.46🐙",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/kitasan_life": {
+    "id": "kitasan_life",
+    "url": "https://note.com/kitasan_life",
+    "feed": "https://note.com/kitasan_life/rss",
+    "platform": "note",
+    "article": "https://note.com/kitasan_life/n/n867857e5f028",
+    "title": "【はじめてのnote】60歳で定年退職。100社就活、キッチンバイト、念願の鞄販売、そして趣味にライブに全力投球の第二の人生！",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/amaitabi": {
+    "id": "amaitabi",
+    "url": "https://note.com/amaitabi",
+    "feed": "https://note.com/amaitabi/rss",
+    "platform": "note",
+    "article": "https://note.com/amaitabi/n/n2988280dd9b0",
+    "title": "【30 MUSIC CHALLENGE】30曲選んだら、HANAが5曲入っていた",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/mere_2007": {
+    "id": "mere_2007",
+    "url": "https://note.com/mere_2007",
+    "feed": "https://note.com/mere_2007/rss",
+    "platform": "note",
+    "article": "https://note.com/mere_2007/n/nfaaa60ee5240",
+    "title": "ライブを楽しみに",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/koojiroo": {
+    "id": "koojiroo",
+    "url": "https://note.com/koojiroo",
+    "feed": "https://note.com/koojiroo/rss",
+    "platform": "note",
+    "article": "https://note.com/koojiroo/n/nc2d5a30e6ff7",
+    "title": "エンタメには、嘘つきが必要なのか。",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/easy_crane3118": {
+    "id": "easy_crane3118",
+    "url": "https://note.com/easy_crane3118",
+    "feed": "https://note.com/easy_crane3118/rss",
+    "platform": "note",
+    "article": "https://note.com/easy_crane3118/n/n6f601fe67a16",
+    "title": "花",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nagaokamone_9981": {
+    "id": "nagaokamone_9981",
+    "url": "https://note.com/nagaokamone_9981",
+    "feed": "https://note.com/nagaokamone_9981/rss",
+    "platform": "note",
+    "article": "https://note.com/nagaokamone_9981/n/nd888dd128de6",
+    "title": "魅力的な彼女たち（329日目）",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tanaka_takuto": {
+    "id": "tanaka_takuto",
+    "url": "https://note.com/tanaka_takuto",
+    "feed": "https://note.com/tanaka_takuto/rss",
+    "platform": "note",
+    "article": "https://note.com/tanaka_takuto/n/n295f35085023",
+    "title": "全部bet！｜小諸日記｜26.11.19",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/daidailydiary": {
+    "id": "daidailydiary",
+    "url": "https://note.com/daidailydiary",
+    "feed": "https://note.com/daidailydiary/rss",
+    "platform": "note",
+    "article": "https://note.com/daidailydiary/n/nc8c0faa8778b",
+    "title": "11/24 韓国語を勉強する",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/jitsuzai_u_tan": {
+    "id": "jitsuzai_u_tan",
+    "url": "https://note.com/jitsuzai_u_tan",
+    "feed": "https://note.com/jitsuzai_u_tan/rss",
+    "platform": "note",
+    "article": "https://note.com/jitsuzai_u_tan/n/n43a459a4bc3d",
+    "title": "【感想】NHK『Venue101 Presents HANA - BLOOMING LIVE SHOW -』で感じた、ライブの「生もの」の楽しさ",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/mireluna7284": {
+    "id": "mireluna7284",
+    "url": "https://note.com/mireluna7284",
+    "feed": "https://note.com/mireluna7284/rss",
+    "platform": "note",
+    "article": "https://note.com/mireluna7284/n/nee2e08e200a7",
+    "title": "🍣おいしいマグロを食べに～京急線を歩く！～第17回 羽田第3ターミナル駅～羽田第1・第2ターミナル駅 ～HANAの発音～",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/kiyoko_ps_editor": {
+    "id": "kiyoko_ps_editor",
+    "url": "https://note.com/kiyoko_ps_editor",
+    "feed": "https://note.com/kiyoko_ps_editor/rss",
+    "platform": "note",
+    "article": "https://note.com/kiyoko_ps_editor/n/n8259c990ca52",
+    "title": "独り言|言葉の本質を考える",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/kasikaki": {
+    "id": "kasikaki",
+    "url": "https://note.com/kasikaki",
+    "feed": "https://note.com/kasikaki/rss",
+    "platform": "note",
+    "article": "https://note.com/kasikaki/n/n5ff50a2fbecf",
+    "title": "トレンドよりclassicが私らしい✳︎HANA",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tyumokulive": {
+    "id": "tyumokulive",
+    "url": "https://note.com/tyumokulive",
+    "feed": "https://note.com/tyumokulive/rss",
+    "platform": "note",
+    "article": "https://note.com/tyumokulive/n/nf64bd9a51b74",
+    "title": "HANA「HANA Arena Tour 2027 “Born to Bloom Ⅱ”」日程と会場周辺のホテル・地図まとめ",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/wowm_2713": {
+    "id": "wowm_2713",
+    "url": "https://note.com/wowm_2713",
+    "feed": "https://note.com/wowm_2713/rss",
+    "platform": "note",
+    "article": "https://note.com/wowm_2713/n/n12ec916c1a56",
+    "title": "【娘（孫？）ができました:26/11/24】",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/amomo_0302": {
+    "id": "amomo_0302",
+    "url": "https://note.com/amomo_0302",
+    "feed": "https://note.com/amomo_0302/rss",
+    "platform": "note",
+    "article": "https://note.com/amomo_0302/n/n1bd6a0aad617",
+    "title": "〈5日目〉語学を学ぶきっかけ",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/miyachi_p": {
+    "id": "miyachi_p",
+    "url": "https://note.com/miyachi_p",
+    "feed": "https://note.com/miyachi_p/rss",
+    "platform": "note",
+    "article": "https://note.com/miyachi_p/n/n787ebe4cb950",
+    "title": "HANAを見ると、なぜか涙が出る。この気持ちに名前をつけたい。",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/haru_satoo": {
+    "id": "haru_satoo",
+    "url": "https://note.com/haru_satoo",
+    "feed": "https://note.com/haru_satoo/rss",
+    "platform": "note",
+    "article": "https://note.com/haru_satoo/n/nb7affaea5540",
+    "title": "【2026年ベストバイ】元百貨店BAが選ぶ10のコスメ -ズボラケアからデパコスまで-",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/clean_slug1035": {
+    "id": "clean_slug1035",
+    "url": "https://note.com/clean_slug1035",
+    "feed": "https://note.com/clean_slug1035/rss",
+    "platform": "note",
+    "article": "https://note.com/clean_slug1035/n/n5fae96e33e10",
+    "title": "ダメでした...",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/sanngatutaku": {
+    "id": "sanngatutaku",
+    "url": "https://note.com/sanngatutaku",
+    "feed": "https://note.com/sanngatutaku/rss",
+    "platform": "note",
+    "article": "https://note.com/sanngatutaku/n/n69b3cf2ae8dd",
+    "title": "流星の輝きに魅せられてーN48.52° W123.42°　第八話　HANAはますます星に魅入られていきます。",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/sunechamanomama": {
+    "id": "sunechamanomama",
+    "url": "https://note.com/sunechamanomama",
+    "feed": "https://note.com/sunechamanomama/rss",
+    "platform": "note",
+    "article": "https://note.com/sunechamanomama/n/nb8d0345922c7",
+    "title": "レコ大2026大賞予想｜数字で読む本命と大穴",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/quiet_coyote4652": {
+    "id": "quiet_coyote4652",
+    "url": "https://note.com/quiet_coyote4652",
+    "feed": "https://note.com/quiet_coyote4652/rss",
+    "platform": "note",
+    "article": "https://note.com/quiet_coyote4652/n/nc0b404ef87c3",
+    "title": "国立科学博物館行ってきたんだぞ。",
+    "family": "bmsg",
+    "channel": "note-new",
+    "index": "HANA",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/valo_tabi_ch1122": {
+    "id": "valo_tabi_ch1122",
+    "url": "https://note.com/valo_tabi_ch1122",
+    "feed": "https://note.com/valo_tabi_ch1122/rss",
+    "platform": "note",
+    "article": "https://note.com/valo_tabi_ch1122/n/nf1b917bf79db",
+    "title": "【台北グルメ】西門町・永康街・夜市で食べ歩き！行ってよかった14店",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/poyatabi": {
+    "id": "poyatabi",
+    "url": "https://note.com/poyatabi",
+    "feed": "https://note.com/poyatabi/rss",
+    "platform": "note",
+    "article": "https://note.com/poyatabi/n/n3325506029a3",
+    "title": "9月に行った台湾旅の動画",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/ripe_swift8048": {
+    "id": "ripe_swift8048",
+    "url": "https://note.com/ripe_swift8048",
+    "feed": "https://note.com/ripe_swift8048/rss",
+    "platform": "note",
+    "article": "https://note.com/ripe_swift8048/n/nd07fc6da69f5",
+    "title": "台湾旅行⓪（旅の目的と準備編）",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/naoton69": {
+    "id": "naoton69",
+    "url": "https://note.com/naoton69",
+    "feed": "https://note.com/naoton69/rss",
+    "platform": "note",
+    "article": "https://note.com/naoton69/n/n64851224a7fc",
+    "title": "台湾旅行2026 Day2",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/naoton69/n/n84d126a240ed"
+    ]
+  },
+  "note.com/apt_arnica588": {
+    "id": "apt_arnica588",
+    "url": "https://note.com/apt_arnica588",
+    "feed": "https://note.com/apt_arnica588/rss",
+    "platform": "note",
+    "article": "https://note.com/apt_arnica588/n/n18baa77f5a72",
+    "title": "【台湾旅：Day2：宝覚寺】記録好きな私が、どうしても写真を撮れなかった場所",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/sorano_oyaji": {
+    "id": "sorano_oyaji",
+    "url": "https://note.com/sorano_oyaji",
+    "feed": "https://note.com/sorano_oyaji/rss",
+    "platform": "note",
+    "article": "https://note.com/sorano_oyaji/n/n0560f34d07b4",
+    "title": "【旅行記】台湾縦断旅・高雄〜台中編｜台湾式ローカル朝食から台中の人気店を食べ歩き！",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/plastic_pallet": {
+    "id": "plastic_pallet",
+    "url": "https://note.com/plastic_pallet",
+    "feed": "https://note.com/plastic_pallet/rss",
+    "platform": "note",
+    "article": "https://note.com/plastic_pallet/n/nb0edd7d7061d",
+    "title": "【台湾旅行】台湾の入国カード、紙はもうない？オンライン登録（TWAC）は着く7日前から。Museに聞いて公式で確かめた",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/taipeitmc": {
+    "id": "taipeitmc",
+    "url": "https://note.com/taipeitmc",
+    "feed": "https://note.com/taipeitmc/rss",
+    "platform": "note",
+    "article": "https://note.com/taipeitmc/n/nbd99ef24a461",
+    "title": "Taipei Mandarin Center/台北語学センター/타이페이 언어중심 - TMC",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/moo_9801": {
+    "id": "moo_9801",
+    "url": "https://note.com/moo_9801",
+    "feed": "https://note.com/moo_9801/rss",
+    "platform": "note",
+    "article": "https://note.com/moo_9801/n/ned6a4432ed52",
+    "title": "別れてから思い切って行った台湾旅行記①",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nodakaori": {
+    "id": "nodakaori",
+    "url": "https://note.com/nodakaori",
+    "feed": "https://note.com/nodakaori/rss",
+    "platform": "note",
+    "article": "https://note.com/nodakaori/n/n97e8b364cf21",
+    "title": "Airbnbを使ってみた",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/matatabi_travel": {
+    "id": "matatabi_travel",
+    "url": "https://note.com/matatabi_travel",
+    "feed": "https://note.com/matatabi_travel/rss",
+    "platform": "note",
+    "article": "https://note.com/matatabi_travel/n/nc12cf5c6d07d",
+    "title": "台湾の思い出は、何色ですか。",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nifty_kudu3856": {
+    "id": "nifty_kudu3856",
+    "url": "https://note.com/nifty_kudu3856",
+    "feed": "https://note.com/nifty_kudu3856/rss",
+    "platform": "note",
+    "article": "https://note.com/nifty_kudu3856/n/n2d95a55cbc9c",
+    "title": "台湾、週末の小さな旅 #15｜台南・武聖夜市へ！ ゲームも観覧車も歌もある、何でもありのローカル夜市",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/fine_duck222": {
+    "id": "fine_duck222",
+    "url": "https://note.com/fine_duck222",
+    "feed": "https://note.com/fine_duck222/rss",
+    "platform": "note",
+    "article": "https://note.com/fine_duck222/n/naf208281f209",
+    "title": "noteをはじめて41か月",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/taqing": {
+    "id": "taqing",
+    "url": "https://note.com/taqing",
+    "feed": "https://note.com/taqing/rss",
+    "platform": "note",
+    "article": "https://note.com/taqing/n/ne384803730fc",
+    "title": "舞い踊れハイカーたちよ！山道祭は盆踊りフェスだった｜山道祭2026-台湾-",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nice_plover381": {
+    "id": "nice_plover381",
+    "url": "https://note.com/nice_plover381",
+    "feed": "https://note.com/nice_plover381/rss",
+    "platform": "note",
+    "article": "https://note.com/nice_plover381/n/n4bf4578f9b88",
+    "title": "2027年「平渓天燈祭り」ってどんなイベント？",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/fine_marten5083": {
+    "id": "fine_marten5083",
+    "url": "https://note.com/fine_marten5083",
+    "feed": "https://note.com/fine_marten5083/rss",
+    "platform": "note",
+    "article": "https://note.com/fine_marten5083/n/nd6f7a207d6c7",
+    "title": "第8話　帰国までが海外旅行！ 最後の最後に待っていた落とし穴",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/bound_notes": {
+    "id": "bound_notes",
+    "url": "https://note.com/bound_notes",
+    "feed": "https://note.com/bound_notes/rss",
+    "platform": "note",
+    "article": "https://note.com/bound_notes/n/n0a9f5064a860",
+    "title": "年末年始の台北、出発前にやること7つ｜TAIPEI-BOUND 01",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/honest_quoll7150": {
+    "id": "honest_quoll7150",
+    "url": "https://note.com/honest_quoll7150",
+    "feed": "https://note.com/honest_quoll7150/rss",
+    "platform": "note",
+    "article": "https://note.com/honest_quoll7150/n/nc011f53652be",
+    "title": "50代、台南で欲しかったチャイナシューズを買わなかった。",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/happyfp_2025": {
+    "id": "happyfp_2025",
+    "url": "https://note.com/happyfp_2025",
+    "feed": "https://note.com/happyfp_2025/rss",
+    "platform": "note",
+    "article": "https://note.com/happyfp_2025/n/n87f0cc4c6f25",
+    "title": "📒枕草子:2026年7月台湾旅行⑨コンビニ編",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/twtwtw21": {
+    "id": "twtwtw21",
+    "url": "https://note.com/twtwtw21",
+    "feed": "https://note.com/twtwtw21/rss",
+    "platform": "note",
+    "article": "https://note.com/twtwtw21/n/n815abb9adbcd",
+    "title": "【台北ひとり旅】観光地を増やすほど疲れる？移動時間を減らして台湾を楽しむ3つのルール",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/dtaeg": {
+    "id": "dtaeg",
+    "url": "https://note.com/dtaeg",
+    "feed": "https://note.com/dtaeg/rss",
+    "platform": "note",
+    "article": "https://note.com/dtaeg/n/n13f93a89ede7",
+    "title": "26/1122:ぽかぽかかおしゅん旅行記～BTSWT、台湾編～",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/ricos_hair2022": {
+    "id": "ricos_hair2022",
+    "url": "https://note.com/ricos_hair2022",
+    "feed": "https://note.com/ricos_hair2022/rss",
+    "platform": "note",
+    "article": "https://note.com/ricos_hair2022/n/n517e4d302d32",
+    "title": "「なんでRicosの学割は中学生以下より高校生・大学生のほうが割引率大きいんですか？」",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/coda_hataraku": {
+    "id": "coda_hataraku",
+    "url": "https://note.com/coda_hataraku",
+    "feed": "https://note.com/coda_hataraku/rss",
+    "platform": "note",
+    "article": "https://note.com/coda_hataraku/n/n649af0ec2464",
+    "title": "Claude Codeの引き継ぎメモ、増えてどれを読ませるか迷っていませんか？一言で続きから始める、引き継ぎメモと合言葉",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/kac2436417": {
+    "id": "kac2436417",
+    "url": "https://note.com/kac2436417",
+    "feed": "https://note.com/kac2436417/rss",
+    "platform": "note",
+    "article": "https://note.com/kac2436417/n/n88f298bdf243",
+    "title": "宮殿に泊まって、建物を「読む」　台北・圓山大飯店",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/invinciblemyhelo": {
+    "id": "invinciblemyhelo",
+    "url": "https://note.com/invinciblemyhelo",
+    "feed": "https://note.com/invinciblemyhelo/rss",
+    "platform": "note",
+    "article": "https://note.com/invinciblemyhelo/n/n968fde1c7cd3",
+    "title": "台湾旅行の旅✈️3日目",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/24hirofumi": {
+    "id": "24hirofumi",
+    "url": "https://note.com/24hirofumi",
+    "feed": "https://note.com/24hirofumi/rss",
+    "platform": "note",
+    "article": "https://note.com/24hirofumi/n/n2daaf29734cb",
+    "title": "徒然日記20261126【台湾🇹🇼202609】阿城鵝肉＠吉林路 まさかの台湾日和さんにバッタリ！",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/long_koala3162": {
+    "id": "long_koala3162",
+    "url": "https://note.com/long_koala3162",
+    "feed": "https://note.com/long_koala3162/rss",
+    "platform": "note",
+    "article": "https://note.com/long_koala3162/n/n5b513c679a5a",
+    "title": "永遠不會再重來：臺南車站",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tabitabiburabura": {
+    "id": "tabitabiburabura",
+    "url": "https://note.com/tabitabiburabura",
+    "feed": "https://note.com/tabitabiburabura/rss",
+    "platform": "note",
+    "article": "https://note.com/tabitabiburabura/n/n47d88ae40796",
+    "title": "台湾旅その15 埔里散策",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/hiroshigebasho": {
+    "id": "hiroshigebasho",
+    "url": "https://note.com/hiroshigebasho",
+    "feed": "https://note.com/hiroshigebasho/rss",
+    "platform": "note",
+    "article": "https://note.com/hiroshigebasho/n/nf6e90f0b9372",
+    "title": "「和平島地質公園〜阿根納造船廠遺構〜正濱漁港」散策（基隆市）",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/uzzura": {
+    "id": "uzzura",
+    "url": "https://note.com/uzzura",
+    "feed": "https://note.com/uzzura/rss",
+    "platform": "note",
+    "article": "https://note.com/uzzura/n/n3dd2f97f27e9",
+    "title": "四十代、台湾の東側をめぐる一人旅　#02 礁渓到着、だいじょばないけど大丈夫",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/keit": {
+    "id": "keit",
+    "url": "https://note.com/keit",
+    "feed": "https://note.com/keit/rss",
+    "platform": "note",
+    "article": "https://note.com/keit/n/nae47bdc1244f",
+    "title": "台湾旅行",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/shinyapapa": {
+    "id": "shinyapapa",
+    "url": "https://note.com/shinyapapa",
+    "feed": "https://note.com/shinyapapa/rss",
+    "platform": "note",
+    "article": "https://note.com/shinyapapa/n/n74ead0f51497",
+    "title": "台湾まで来ても、やっぱり「今日の1個」を探していた。",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tianyinzi": {
+    "id": "tianyinzi",
+    "url": "https://note.com/tianyinzi",
+    "feed": "https://note.com/tianyinzi/rss",
+    "platform": "note",
+    "article": "https://note.com/tianyinzi/n/n0fa4306db146",
+    "title": "【台湾旅行】eSIMとSIMカードの選び方｜楽天モバイルと、中華電信などの商品を比べる",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/rin_taiwan": {
+    "id": "rin_taiwan",
+    "url": "https://note.com/rin_taiwan",
+    "feed": "https://note.com/rin_taiwan/rss",
+    "platform": "note",
+    "article": "https://note.com/rin_taiwan/n/n6242f433da6c",
+    "title": "台湾人の給料はいくら？物価は本当に安い？台湾人が教えるリアルな生活費",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/dear_duck9350": {
+    "id": "dear_duck9350",
+    "url": "https://note.com/dear_duck9350",
+    "feed": "https://note.com/dear_duck9350/rss",
+    "platform": "note",
+    "article": "https://note.com/dear_duck9350/n/nfc923db3ad24",
+    "title": "友達との旅行、お金の精算どうしてる？私が台湾旅行で続けている「共通財布」の使い方",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/grand_quokka5583": {
+    "id": "grand_quokka5583",
+    "url": "https://note.com/grand_quokka5583",
+    "feed": "https://note.com/grand_quokka5583/rss",
+    "platform": "note",
+    "article": "https://note.com/grand_quokka5583/n/n8b8adba28e8f",
+    "title": "11月28日、台湾で1万人が選ばれる日――「九合一選挙」をゼロから読み解く",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/sora__hack": {
+    "id": "sora__hack",
+    "url": "https://note.com/sora__hack",
+    "feed": "https://note.com/sora__hack/rss",
+    "platform": "note",
+    "article": "https://note.com/sora__hack/n/n72d207670716",
+    "title": "【旅ニュース】11/26｜ピーチの成田〜ソウル5,000円、対象は1/12・13の1便だけ。羽田〜台北12,000円も1便（11/29まで）ほか3本",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nizza25p": {
+    "id": "nizza25p",
+    "url": "https://note.com/nizza25p",
+    "feed": "https://note.com/nizza25p/rss",
+    "platform": "note",
+    "article": "https://note.com/nizza25p/n/nfbedc4837f71",
+    "title": "台湾はタレ文化？老山東牛肉麺の絶品水餃子とと迪化街｜台湾旅行2",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/namb_nam": {
+    "id": "namb_nam",
+    "url": "https://note.com/namb_nam",
+    "feed": "https://note.com/namb_nam/rss",
+    "platform": "note",
+    "article": "https://note.com/namb_nam/n/ndbdc4c6f55ca",
+    "title": "台湾・阿里山1泊2日 事前手配の記録",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/clean_moraea990": {
+    "id": "clean_moraea990",
+    "url": "https://note.com/clean_moraea990",
+    "feed": "https://note.com/clean_moraea990/rss",
+    "platform": "note",
+    "article": "https://note.com/clean_moraea990/n/nce6de4c1c009",
+    "title": "高雄（台湾全土も！）の旅行を考えている方必見！",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/mio_ensei": {
+    "id": "mio_ensei",
+    "url": "https://note.com/mio_ensei",
+    "feed": "https://note.com/mio_ensei/rss",
+    "platform": "note",
+    "article": "https://note.com/mio_ensei/n/n2d2418bc64bf",
+    "title": "成田9:15発に3歳連れで乗るために前泊｜マロウドインターナショナルホテル成田の宿泊記",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/takewaniphoto": {
+    "id": "takewaniphoto",
+    "url": "https://note.com/takewaniphoto",
+    "feed": "https://note.com/takewaniphoto/rss",
+    "platform": "note",
+    "article": "https://note.com/takewaniphoto/n/ne8f7893159de",
+    "title": "台湾桃園国際空港第3ターミナル、2027年12月25日開業へ",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tournurse": {
+    "id": "tournurse",
+    "url": "https://note.com/tournurse",
+    "feed": "https://note.com/tournurse/rss",
+    "platform": "note",
+    "article": "https://note.com/tournurse/n/n9e2d8fc8156a",
+    "title": "［雑記］離れてわかる、ツアーナースさん達のタフさ",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/fine_quail4676": {
+    "id": "fine_quail4676",
+    "url": "https://note.com/fine_quail4676",
+    "feed": "https://note.com/fine_quail4676/rss",
+    "platform": "note",
+    "article": "https://note.com/fine_quail4676/n/n6b783634d475",
+    "title": "第8話　南の島に移住したら、旅先も島になった。",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tcml_osaka": {
+    "id": "tcml_osaka",
+    "url": "https://note.com/tcml_osaka",
+    "feed": "https://note.com/tcml_osaka/rss",
+    "platform": "note",
+    "article": "https://note.com/tcml_osaka/n/nbc4f8c42bd2b",
+    "title": "名前を知ると、台湾の球場が少し身近になる。",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/jolly_hebe9423": {
+    "id": "jolly_hebe9423",
+    "url": "https://note.com/jolly_hebe9423",
+    "feed": "https://note.com/jolly_hebe9423/rss",
+    "platform": "note",
+    "article": "https://note.com/jolly_hebe9423/n/n279df78c7d97",
+    "title": "これから旅をしてみようと思う",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/mame55trip": {
+    "id": "mame55trip",
+    "url": "https://note.com/mame55trip",
+    "feed": "https://note.com/mame55trip/rss",
+    "platform": "note",
+    "article": "https://note.com/mame55trip/n/n66d22380fc46",
+    "title": "はじめての台湾旅行も安心！九份・十分・瑞芳・猴硐猫村の観光ガイド【写真130枚】",
+    "family": "bmsg",
+    "channel": "note-related-tag",
+    "index": "台湾旅行",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/netangelz": {
+    "id": "netangelz",
+    "url": "https://note.com/netangelz",
+    "feed": "https://note.com/netangelz/rss",
+    "platform": "note",
+    "article": "https://note.com/netangelz/n/n2ce94c6386bf",
+    "title": "ガチ恋されるアイドルは、いちばんかわいい子ではない",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/miyusan15312": {
+    "id": "miyusan15312",
+    "url": "https://note.com/miyusan15312",
+    "feed": "https://note.com/miyusan15312/rss",
+    "platform": "note",
+    "article": "https://note.com/miyusan15312/n/n895d5867c847",
+    "title": "SNSで反論のリプが来た時は、冷静に考えて反省し学びにして、いいねボタンを押す",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/srttxt": {
+    "id": "srttxt",
+    "url": "https://note.com/srttxt",
+    "feed": "https://note.com/srttxt/rss",
+    "platform": "note",
+    "article": "https://note.com/srttxt/n/n47e1eccba559",
+    "title": "坂道グループ批評の進展",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/buta206901": {
+    "id": "buta206901",
+    "url": "https://note.com/buta206901",
+    "feed": "https://note.com/buta206901/rss",
+    "platform": "note",
+    "article": "https://note.com/buta206901/n/n2a96090c7439",
+    "title": "「アイドル批評」の危うさ",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nana_aoneko": {
+    "id": "nana_aoneko",
+    "url": "https://note.com/nana_aoneko",
+    "feed": "https://note.com/nana_aoneko/rss",
+    "platform": "note",
+    "article": "https://note.com/nana_aoneko/n/n2ae3fc33850e",
+    "title": "2025年の一言日記",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/manzo_suzuki": {
+    "id": "manzo_suzuki",
+    "url": "https://note.com/manzo_suzuki",
+    "feed": "https://note.com/manzo_suzuki/rss",
+    "platform": "note",
+    "article": "https://note.com/manzo_suzuki/n/n7a4ac81342c2",
+    "title": "ゲロ美と万蔵01 💋定食屋でアイドルを見る夜",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/banzai340": {
+    "id": "banzai340",
+    "url": "https://note.com/banzai340",
+    "feed": "https://note.com/banzai340/rss",
+    "platform": "note",
+    "article": "https://note.com/banzai340/n/nfb27ba1ab2e5",
+    "title": "自分の現在地は文学フリマで見つかるのかもしれない、知らんけど",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tonjiruoshou": {
+    "id": "tonjiruoshou",
+    "url": "https://note.com/tonjiruoshou",
+    "feed": "https://note.com/tonjiruoshou/rss",
+    "platform": "note",
+    "article": "https://note.com/tonjiruoshou/n/n93f1d8279bb6",
+    "title": "にわかアイドル地獄変",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/happanokos2": {
+    "id": "happanokos2",
+    "url": "https://note.com/happanokos2",
+    "feed": "https://note.com/happanokos2/rss",
+    "platform": "note",
+    "article": "https://note.com/happanokos2/n/nae5495341b84",
+    "title": "文学フリマにむけて。Podcast！",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/happanokos2/n/nd85cc7636692"
+    ]
+  },
+  "note.com/soutanopapa0722": {
+    "id": "soutanopapa0722",
+    "url": "https://note.com/soutanopapa0722",
+    "feed": "https://note.com/soutanopapa0722/rss",
+    "platform": "note",
+    "article": "https://note.com/soutanopapa0722/n/n800e0728bbac",
+    "title": "サイト『アイドルの値打ち』にて生田絵梨花が最高点を頂いた",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/choumiryou": {
+    "id": "choumiryou",
+    "url": "https://note.com/choumiryou",
+    "feed": "https://note.com/choumiryou/rss",
+    "platform": "note",
+    "article": "https://note.com/choumiryou/n/na1dfe1d89d9a",
+    "title": "「かいわい vol.4 特集 アイドルカルチャー・リイントロダクション」感想",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/choumiryou/n/n02428c4d0186",
+      "https://note.com/choumiryou/n/n1eb11045f57a"
+    ]
+  },
+  "note.com/katou_sei_": {
+    "id": "katou_sei_",
+    "url": "https://note.com/katou_sei_",
+    "feed": "https://note.com/katou_sei_/rss",
+    "platform": "note",
+    "article": "https://note.com/katou_sei_/n/n9d9b77ecc5db",
+    "title": "「乃木坂46、終末のユートピア〜この地獄を生き抜くためのアイドル批評〜」第2回雑感",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/unisan92": {
+    "id": "unisan92",
+    "url": "https://note.com/unisan92",
+    "feed": "https://note.com/unisan92/rss",
+    "platform": "note",
+    "article": "https://note.com/unisan92/n/ne347ee6084f6",
+    "title": "アイドルファンになって10周年――「豪STREAM」という僕にとっての、ももクロ批評番組",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/scarlet222": {
+    "id": "scarlet222",
+    "url": "https://note.com/scarlet222",
+    "feed": "https://note.com/scarlet222/rss",
+    "platform": "note",
+    "article": "https://note.com/scarlet222/n/n9ed4d93a3ac7",
+    "title": "テン年代アイドル論、あるいは・・・・・・・・・とはなんだったのか？",
+    "family": "culture",
+    "channel": "note-new",
+    "index": "アイドル批評",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tian7box": {
+    "id": "tian7box",
+    "url": "https://note.com/tian7box",
+    "feed": "https://note.com/tian7box/rss",
+    "platform": "note",
+    "article": "https://note.com/tian7box/n/n1e476db405dc",
+    "title": "Juice=Juice Room Tour 2026「5ROOMS」に見えた物語(純度100%なオタクの妄想)",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/kokoahiranaga": {
+    "id": "kokoahiranaga",
+    "url": "https://note.com/kokoahiranaga",
+    "feed": "https://note.com/kokoahiranaga/rss",
+    "platform": "note",
+    "article": "https://note.com/kokoahiranaga/n/n963ded25df77",
+    "title": "Juice=Juice Room Tour 2026 「5ROOMS -SUITE-」@日本武道館　参戦レポ",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/romancezuttochu": {
+    "id": "romancezuttochu",
+    "url": "https://note.com/romancezuttochu",
+    "feed": "https://note.com/romancezuttochu/rss",
+    "platform": "note",
+    "article": "https://note.com/romancezuttochu/n/n9ea49f00aba7",
+    "title": "Juice=Juice(概念)になりたい",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/madonna_k": {
+    "id": "madonna_k",
+    "url": "https://note.com/madonna_k",
+    "feed": "https://note.com/madonna_k/rss",
+    "platform": "note",
+    "article": "https://note.com/madonna_k/n/ne6cd7e7ad043",
+    "title": "涙のヒロイン降板劇とJuice=Juice",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/madonna_k/n/n2bd901fa47ce"
+    ]
+  },
+  "note.com/02ko29": {
+    "id": "02ko29",
+    "url": "https://note.com/02ko29",
+    "feed": "https://note.com/02ko29/rss",
+    "platform": "note",
+    "article": "https://note.com/02ko29/n/n1978afcf358b",
+    "title": "活動記録2026年11月",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/jj_nagano": {
+    "id": "jj_nagano",
+    "url": "https://note.com/jj_nagano",
+    "feed": "https://note.com/jj_nagano/rss",
+    "platform": "note",
+    "article": "https://note.com/jj_nagano/n/nb0775e335a63",
+    "title": "盛れミ新規が遡るMV途中下車",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/jj_nagano/n/n71ce2f4629c8",
+      "https://note.com/jj_nagano/n/nfc4d5dae2990"
+    ]
+  },
+  "note.com/happy_hornet2243": {
+    "id": "happy_hornet2243",
+    "url": "https://note.com/happy_hornet2243",
+    "feed": "https://note.com/happy_hornet2243/rss",
+    "platform": "note",
+    "article": "https://note.com/happy_hornet2243/n/n600509fd138e",
+    "title": "Juice=Juice Room Tour 2026「5ROOMS -ROYAL SUITE-」公演をライブビューイングで観てきました。",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/orinudon": {
+    "id": "orinudon",
+    "url": "https://note.com/orinudon",
+    "feed": "https://note.com/orinudon/rss",
+    "platform": "note",
+    "article": "https://note.com/orinudon/n/n44dde26d8d89",
+    "title": "本作りの休日 ｜ 日記",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/natsu_m1kan": {
+    "id": "natsu_m1kan",
+    "url": "https://note.com/natsu_m1kan",
+    "feed": "https://note.com/natsu_m1kan/rss",
+    "platform": "note",
+    "article": "https://note.com/natsu_m1kan/n/nba0cfb40beef",
+    "title": "【Juice=Juice】バラードが実は最高なんです。宮本さんと段原さん中心。",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/natsu_m1kan/n/ndd77304b5ecd"
+    ]
+  },
+  "note.com/mucha_purple012": {
+    "id": "mucha_purple012",
+    "url": "https://note.com/mucha_purple012",
+    "feed": "https://note.com/mucha_purple012/rss",
+    "platform": "note",
+    "article": "https://note.com/mucha_purple012/n/n09f4cd6a6a2c",
+    "title": "きっと私の人生は。",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tasty_orchid934": {
+    "id": "tasty_orchid934",
+    "url": "https://note.com/tasty_orchid934",
+    "feed": "https://note.com/tasty_orchid934/rss",
+    "platform": "note",
+    "article": "https://note.com/tasty_orchid934/n/n21c8bf00c67a",
+    "title": "宝塚トップなめ2番手決め顔ピン送りにしびれた話",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/pero_live": {
+    "id": "pero_live",
+    "url": "https://note.com/pero_live",
+    "feed": "https://note.com/pero_live/rss",
+    "platform": "note",
+    "article": "https://note.com/pero_live/n/na88120696a5c",
+    "title": "GIFTのJuice=Juiceは昼と夕方で会場が変わる",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/wabisabi_prf": {
+    "id": "wabisabi_prf",
+    "url": "https://note.com/wabisabi_prf",
+    "feed": "https://note.com/wabisabi_prf/rss",
+    "platform": "note",
+    "article": "https://note.com/wabisabi_prf/n/na72508b16c36",
+    "title": "Perfumeオタクの女が、Juice=Juiceに出会って沼に落ちるまでの話",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/raboraborabo": {
+    "id": "raboraborabo",
+    "url": "https://note.com/raboraborabo",
+    "feed": "https://note.com/raboraborabo/rss",
+    "platform": "note",
+    "article": "https://note.com/raboraborabo/n/nbb97904addbd",
+    "title": "過渡期を迎えたモーニング娘。’26のこれからを考える",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tasty_whale762": {
+    "id": "tasty_whale762",
+    "url": "https://note.com/tasty_whale762",
+    "feed": "https://note.com/tasty_whale762/rss",
+    "platform": "note",
+    "article": "https://note.com/tasty_whale762/n/na66027d91f59",
+    "title": "冷笑は、まぢでやめよう？｜研修報告 #26",
+    "family": "hello",
+    "channel": "note-new",
+    "index": "Juice=Juice",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nifty_poppy3688": {
+    "id": "nifty_poppy3688",
+    "url": "https://note.com/nifty_poppy3688",
+    "feed": "https://note.com/nifty_poppy3688/rss",
+    "platform": "note",
+    "article": "https://note.com/nifty_poppy3688/n/n10e66d32f826",
+    "title": "人生最高の想い出",
+    "family": "hello",
+    "channel": "note-related-tag",
+    "index": "bcj26",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "ameblo.jp/umi36": {
+    "id": "auto-ee902f4cf1205b1a",
+    "url": "https://ameblo.jp/umi36",
+    "feed": "https://rssblog.ameba.jp/umi36/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/umi36/entry-12985385487.html",
+    "title": "",
+    "family": "ikonoijoy",
+    "channel": "ameba-new",
+    "index": "イコラブ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "ameblo.jp/o2yan5": {
+    "id": "auto-4de9007575b4b7e0",
+    "url": "https://ameblo.jp/o2yan5",
+    "feed": "https://rssblog.ameba.jp/o2yan5/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/o2yan5/entry-12985759464.html",
+    "title": "",
+    "family": "ikonoijoy",
+    "channel": "ameba-new",
+    "index": "イコラブ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "ameblo.jp/nepalmaaya": {
+    "id": "auto-086dd649a89f3d39",
+    "url": "https://ameblo.jp/nepalmaaya",
+    "feed": "https://rssblog.ameba.jp/nepalmaaya/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/nepalmaaya/entry-12985513875.html",
+    "title": "",
+    "family": "ikonoijoy",
+    "channel": "ameba-new",
+    "index": "イコラブ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "ameblo.jp/5151-555666": {
+    "id": "auto-5db7cbf1bb3ca42b",
+    "url": "https://ameblo.jp/5151-555666",
+    "feed": "https://rssblog.ameba.jp/5151-555666/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/5151-555666/entry-12985604627.html",
+    "title": "",
+    "family": "ikonoijoy",
+    "channel": "ameba-new",
+    "index": "イコラブ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/toshi_suzu_46": {
+    "id": "toshi_suzu_46",
+    "url": "https://note.com/toshi_suzu_46",
+    "feed": "https://note.com/toshi_suzu_46/rss",
+    "platform": "note",
+    "article": "https://note.com/toshi_suzu_46/n/n1f03f0b6fd9a",
+    "title": "永遠なんてないのかもしれない、それでも。――「夏はジュエリー」歌詞考察",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/auksg09": {
+    "id": "auksg09",
+    "url": "https://note.com/auksg09",
+    "feed": "https://note.com/auksg09/rss",
+    "platform": "note",
+    "article": "https://note.com/auksg09/n/n594458b26066",
+    "title": "ニアジョイ新曲と、何度目かのナナメの夕暮れ。",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/auksg09/n/n0be7d41d3b7d"
+    ]
+  },
+  "note.com/tojo_mutsumi": {
+    "id": "tojo_mutsumi",
+    "url": "https://note.com/tojo_mutsumi",
+    "feed": "https://note.com/tojo_mutsumi/rss",
+    "platform": "note",
+    "article": "https://note.com/tojo_mutsumi/n/n07972fb21433",
+    "title": "【リリイベ参加レポ】ニアジョイ6thシングル「ロックスター様」＠ららぽーと福岡",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/marurun_123": {
+    "id": "marurun_123",
+    "url": "https://note.com/marurun_123",
+    "feed": "https://note.com/marurun_123/rss",
+    "platform": "note",
+    "article": "https://note.com/marurun_123/n/n3a587899363d",
+    "title": "カメコって奥が深い",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nedukikanro": {
+    "id": "nedukikanro",
+    "url": "https://note.com/nedukikanro",
+    "feed": "https://note.com/nedukikanro/rss",
+    "platform": "note",
+    "article": "https://note.com/nedukikanro/n/n306d1f62fb1b",
+    "title": "ロックスター様について～好きな人が変わってしまうことへの苦しみ～",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/35dokushin": {
+    "id": "35dokushin",
+    "url": "https://note.com/35dokushin",
+    "feed": "https://note.com/35dokushin/rss",
+    "platform": "note",
+    "article": "https://note.com/35dokushin/n/n1b49dafc04b7",
+    "title": "今年一の神曲「ロックスター様」",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/ample_agapan6417": {
+    "id": "ample_agapan6417",
+    "url": "https://note.com/ample_agapan6417",
+    "feed": "https://note.com/ample_agapan6417/rss",
+    "platform": "note",
+    "article": "https://note.com/ample_agapan6417/n/nc9c3c6d03223",
+    "title": "俺と俺の幼馴染は別のクラスになってしまいました.1",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/t0o0k0o0": {
+    "id": "t0o0k0o0",
+    "url": "https://note.com/t0o0k0o0",
+    "feed": "https://note.com/t0o0k0o0/rss",
+    "platform": "note",
+    "article": "https://note.com/t0o0k0o0/n/n5001c07ab90e",
+    "title": "【≒JOYライブ初参戦記②・当日編】23歳、岡山のサラリーマン。～ドパガキ、現場デビュー～",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/t0o0k0o0/n/nd22def1281b5"
+    ]
+  },
+  "note.com/meee_hitsujida": {
+    "id": "meee_hitsujida",
+    "url": "https://note.com/meee_hitsujida",
+    "feed": "https://note.com/meee_hitsujida/rss",
+    "platform": "note",
+    "article": "https://note.com/meee_hitsujida/n/n9d24a1e9a4f4",
+    "title": "この感動を一生忘れない【2026年10月の通信簿】",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/kodai201207": {
+    "id": "kodai201207",
+    "url": "https://note.com/kodai201207",
+    "feed": "https://note.com/kodai201207/rss",
+    "platform": "note",
+    "article": "https://note.com/kodai201207/n/n343fb4f7d519",
+    "title": "良い推しの日だから…",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/kodai201207/n/n7a1f8b5c507d"
+    ]
+  },
+  "note.com/8111f": {
+    "id": "8111f",
+    "url": "https://note.com/8111f",
+    "feed": "https://note.com/8111f/rss",
+    "platform": "note",
+    "article": "https://note.com/8111f/n/na5db2b89ec98",
+    "title": "カメコレンズ履歴 #1 EF200-400mm F4L IS USM",
+    "family": "ikonoijoy",
+    "channel": "note-new",
+    "index": "ニアジョイ",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/namakemonovel_yz": {
+    "id": "namakemonovel_yz",
+    "url": "https://note.com/namakemonovel_yz",
+    "feed": "https://note.com/namakemonovel_yz/rss",
+    "platform": "note",
+    "article": "https://note.com/namakemonovel_yz/n/nbea10a9c7593",
+    "title": "claquepot の新曲『トリップ』に引きこもりフリーランスが刺された件",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/namakemonovel_yz/n/n8b966cd0ff93",
+      "https://note.com/namakemonovel_yz/n/n61036c15f8f6",
+      "https://note.com/namakemonovel_yz/n/n115880d790db",
+      "https://note.com/namakemonovel_yz/n/nd78ff8c5e44d"
+    ]
+  },
+  "note.com/next_action61": {
+    "id": "next_action61",
+    "url": "https://note.com/next_action61",
+    "feed": "https://note.com/next_action61/rss",
+    "platform": "note",
+    "article": "https://note.com/next_action61/n/n03d8dbef8cb8",
+    "title": "私の推し活遍歴",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/next_action61/n/n9c81caa7cce0",
+      "https://note.com/next_action61/n/n3afabb1dfc07"
+    ]
+  },
+  "note.com/squallxxx": {
+    "id": "squallxxx",
+    "url": "https://note.com/squallxxx",
+    "feed": "https://note.com/squallxxx/rss",
+    "platform": "note",
+    "article": "https://note.com/squallxxx/n/n078a67cb3489",
+    "title": "2026年に出会った楽曲のこと",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/sumika_mi": {
+    "id": "sumika_mi",
+    "url": "https://note.com/sumika_mi",
+    "feed": "https://note.com/sumika_mi/rss",
+    "platform": "note",
+    "article": "https://note.com/sumika_mi/n/nebc105868357",
+    "title": "「大きくなったら」の理想と現実",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/dndk_02gr": {
+    "id": "dndk_02gr",
+    "url": "https://note.com/dndk_02gr",
+    "feed": "https://note.com/dndk_02gr/rss",
+    "platform": "note",
+    "article": "https://note.com/dndk_02gr/n/nbfc37777ac9a",
+    "title": "自分語り◎へ〜！Da-iCEドームやるんだ〜！",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/merry_puma4687": {
+    "id": "merry_puma4687",
+    "url": "https://note.com/merry_puma4687",
+    "feed": "https://note.com/merry_puma4687/rss",
+    "platform": "note",
+    "article": "https://note.com/merry_puma4687/n/n46fa045f0e07",
+    "title": "人生初の箱推し",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/chimolog_000275": {
+    "id": "chimolog_000275",
+    "url": "https://note.com/chimolog_000275",
+    "feed": "https://note.com/chimolog_000275/rss",
+    "platform": "note",
+    "article": "https://note.com/chimolog_000275/n/n16e80778428a",
+    "title": "『「好き」と「好き」の間の日常を綴ります。はじめてのnote・自己紹介』",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/yuuuuk_ta": {
+    "id": "yuuuuk_ta",
+    "url": "https://note.com/yuuuuk_ta",
+    "feed": "https://note.com/yuuuuk_ta/rss",
+    "platform": "note",
+    "article": "https://note.com/yuuuuk_ta/n/n3a92ea236eec",
+    "title": "涙が出るほど感動した曲",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/human_badger3262": {
+    "id": "human_badger3262",
+    "url": "https://note.com/human_badger3262",
+    "feed": "https://note.com/human_badger3262/rss",
+    "platform": "note",
+    "article": "https://note.com/human_badger3262/n/n49ba105b8e5b",
+    "title": "３行日記｜韓国でも「いつも通り最高」な推し",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/human_badger3262/n/n65911b058323",
+      "https://note.com/human_badger3262/n/nd74a9bd3f83a"
+    ]
+  },
+  "note.com/mild_eel2306": {
+    "id": "mild_eel2306",
+    "url": "https://note.com/mild_eel2306",
+    "feed": "https://note.com/mild_eel2306/rss",
+    "platform": "note",
+    "article": "https://note.com/mild_eel2306/n/nf2957b4e078a",
+    "title": "3行日記|仕事day〜ようやく忙しさのピーク越えた〜",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/agile_toad9726": {
+    "id": "agile_toad9726",
+    "url": "https://note.com/agile_toad9726",
+    "feed": "https://note.com/agile_toad9726/rss",
+    "platform": "note",
+    "article": "https://note.com/agile_toad9726/n/n184f1a4a203f",
+    "title": "今の推し活はとってもラク。",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/clap_edit": {
+    "id": "clap_edit",
+    "url": "https://note.com/clap_edit",
+    "feed": "https://note.com/clap_edit/rss",
+    "platform": "note",
+    "article": "https://note.com/clap_edit/n/n301db0aeec32",
+    "title": "【週報原本】推しがいる幸せをかみしめる　今週の棚卸し（11/2～11/8　週報）",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/charm_hosta7622": {
+    "id": "charm_hosta7622",
+    "url": "https://note.com/charm_hosta7622",
+    "feed": "https://note.com/charm_hosta7622/rss",
+    "platform": "note",
+    "article": "https://note.com/charm_hosta7622/n/n1ed78ca114f3",
+    "title": "日曜短歌（11月8日）",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/charm_hosta7622/n/n07d933f6b33a"
+    ]
+  },
+  "note.com/happy_mimosa449": {
+    "id": "happy_mimosa449",
+    "url": "https://note.com/happy_mimosa449",
+    "feed": "https://note.com/happy_mimosa449/rss",
+    "platform": "note",
+    "article": "https://note.com/happy_mimosa449/n/n68fd9a602ccb",
+    "title": "11/4 Da-iCE DAY HALL PHASE 2026@大宮ソニックシティ",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/attaka_ofuton": {
+    "id": "attaka_ofuton",
+    "url": "https://note.com/attaka_ofuton",
+    "feed": "https://note.com/attaka_ofuton/rss",
+    "platform": "note",
+    "article": "https://note.com/attaka_ofuton/n/nb5b9f83c972f",
+    "title": "Da-iCEのホールツアーに行ってきた！",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/sumahoto": {
+    "id": "sumahoto",
+    "url": "https://note.com/sumahoto",
+    "feed": "https://note.com/sumahoto/rss",
+    "platform": "note",
+    "article": "https://note.com/sumahoto/n/n7fee6a6edceb",
+    "title": "Da-iCE「うららか」の話 ～歴史を感じさせつつ現在を照らすような～",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/pe_6ice": {
+    "id": "pe_6ice",
+    "url": "https://note.com/pe_6ice",
+    "feed": "https://note.com/pe_6ice/rss",
+    "platform": "note",
+    "article": "https://note.com/pe_6ice/n/nfb56d06ece48",
+    "title": "ぺー子の小話　長良川国際会議場編",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/ragunarok_crew": {
+    "id": "ragunarok_crew",
+    "url": "https://note.com/ragunarok_crew",
+    "feed": "https://note.com/ragunarok_crew/rss",
+    "platform": "note",
+    "article": "https://note.com/ragunarok_crew/n/n02408ea3e356",
+    "title": "日本のアイコンになるために僕たちの考えていること・していること",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/hiiro3588": {
+    "id": "hiiro3588",
+    "url": "https://note.com/hiiro3588",
+    "feed": "https://note.com/hiiro3588/rss",
+    "platform": "note",
+    "article": "https://note.com/hiiro3588/n/n531864d7de03",
+    "title": "Da-iCEの新曲「うららか」が描く、温かな愛のカタチ",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/iiiiiiiiinu0114": {
+    "id": "iiiiiiiiinu0114",
+    "url": "https://note.com/iiiiiiiiinu0114",
+    "feed": "https://note.com/iiiiiiiiinu0114/rss",
+    "platform": "note",
+    "article": "https://note.com/iiiiiiiiinu0114/n/n41a37b3fb596",
+    "title": "EXOを10年以上好きな私が、今もEXOを好きな理由",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/note_cdiem": {
+    "id": "note_cdiem",
+    "url": "https://note.com/note_cdiem",
+    "feed": "https://note.com/note_cdiem/rss",
+    "platform": "note",
+    "article": "https://note.com/note_cdiem/n/n2272dfcb3baa",
+    "title": "うららか / Da-iCE",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/the34z": {
+    "id": "the34z",
+    "url": "https://note.com/the34z",
+    "feed": "https://note.com/the34z/rss",
+    "platform": "note",
+    "article": "https://note.com/the34z/n/nda6649092b7d",
+    "title": "君にだけ微笑む冷凍ビーム",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/dreamy_bee985": {
+    "id": "dreamy_bee985",
+    "url": "https://note.com/dreamy_bee985",
+    "feed": "https://note.com/dreamy_bee985/rss",
+    "platform": "note",
+    "article": "https://note.com/dreamy_bee985/n/n19eea7237d13",
+    "title": "Da-iCEの新曲の映像に魅せられて、初めて描いたファンアート",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/asada_nuts": {
+    "id": "asada_nuts",
+    "url": "https://note.com/asada_nuts",
+    "feed": "https://note.com/asada_nuts/rss",
+    "platform": "note",
+    "article": "https://note.com/asada_nuts/n/n33dac12ae9e5",
+    "title": "10/3【マグロックとさわやか】ニート日記64日目",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/open_snipe3153": {
+    "id": "open_snipe3153",
+    "url": "https://note.com/open_snipe3153",
+    "feed": "https://note.com/open_snipe3153/rss",
+    "platform": "note",
+    "article": "https://note.com/open_snipe3153/n/n92ea854f5e36",
+    "title": "2026年おすすめアイドル・ダンス＆ボーカルグループ5選｜人気グループを比較",
+    "family": "jp-male",
+    "channel": "note-new",
+    "index": "Da-iCE",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/houyatakahito": {
+    "id": "houyatakahito",
+    "url": "https://note.com/houyatakahito",
+    "feed": "https://note.com/houyatakahito/rss",
+    "platform": "note",
+    "article": "https://note.com/houyatakahito/n/n035dac834553",
+    "title": "なぜ日本のアイドルはK-POPと真逆の戦略で世界で勝ち始めたのか。",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/oh1yeah1111": {
+    "id": "oh1yeah1111",
+    "url": "https://note.com/oh1yeah1111",
+    "feed": "https://note.com/oh1yeah1111/rss",
+    "platform": "note",
+    "article": "https://note.com/oh1yeah1111/n/nf290c059e7af",
+    "title": "KAWAII LAB.がXから撤退して1週間経った感想を言う",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/yagoto_10": {
+    "id": "yagoto_10",
+    "url": "https://note.com/yagoto_10",
+    "feed": "https://note.com/yagoto_10/rss",
+    "platform": "note",
+    "article": "https://note.com/yagoto_10/n/n57c1473119db",
+    "title": "CUTIE STREET（きゅーすと）紅白初出場！「かわいいだけじゃだめですか？」から始まった8人の快進撃",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/suitou_kun": {
+    "id": "suitou_kun",
+    "url": "https://note.com/suitou_kun",
+    "feed": "https://note.com/suitou_kun/rss",
+    "platform": "note",
+    "article": "https://note.com/suitou_kun/n/ne1ab1b27b130",
+    "title": "ライブハウス「水質汚濁防止法」のご案内 〜清流（笑）を守りたい選ばれし鑑賞派のための現場環境保護ガイドライン〜",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/guzo_dx": {
+    "id": "guzo_dx",
+    "url": "https://note.com/guzo_dx",
+    "feed": "https://note.com/guzo_dx/rss",
+    "platform": "note",
+    "article": "https://note.com/guzo_dx/n/nc67f8ebf54cc",
+    "title": "【2026年11月】女性アイドルオーディションまとめ｜KAWAII LAB.・スターダスト・TWIN PLANETなど全6件",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/toko_fukenji": {
+    "id": "toko_fukenji",
+    "url": "https://note.com/toko_fukenji",
+    "feed": "https://note.com/toko_fukenji/rss",
+    "platform": "note",
+    "article": "https://note.com/toko_fukenji/n/n3f146da02ecb",
+    "title": "寒い時代だ。――それでも、アイドルの自我と思想を諦められない",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/aogami_rino_0115": {
+    "id": "aogami_rino_0115",
+    "url": "https://note.com/aogami_rino_0115",
+    "feed": "https://note.com/aogami_rino_0115/rss",
+    "platform": "note",
+    "article": "https://note.com/aogami_rino_0115/n/n37e77422995e",
+    "title": "「推しのXが止まった今、オタクの活動範囲を広げよう　〜KAWAII LAB.ファンのためのInstagram・TikTok入門〜」",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/buffrin_leo": {
+    "id": "buffrin_leo",
+    "url": "https://note.com/buffrin_leo",
+    "feed": "https://note.com/buffrin_leo/rss",
+    "platform": "note",
+    "article": "https://note.com/buffrin_leo/n/n8bd571dcfc30",
+    "title": "個人Xの休止で何が変わるのか──KAWAII LAB.の発表から考える「発信の居場所」",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/emesh": {
+    "id": "emesh",
+    "url": "https://note.com/emesh",
+    "feed": "https://note.com/emesh/rss",
+    "platform": "note",
+    "article": "https://note.com/emesh/n/ndec382afa7b9",
+    "title": "KAWAII LAB.のX撤退の衝撃",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/lively_oxalis3": {
+    "id": "lively_oxalis3",
+    "url": "https://note.com/lively_oxalis3",
+    "feed": "https://note.com/lively_oxalis3/rss",
+    "platform": "note",
+    "article": "https://note.com/lively_oxalis3/n/nfed74e0b8a9d",
+    "title": "カワラボくすぐりシーン",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/aorbandsee": {
+    "id": "aorbandsee",
+    "url": "https://note.com/aorbandsee",
+    "feed": "https://note.com/aorbandsee/rss",
+    "platform": "note",
+    "article": "https://note.com/aorbandsee/n/n69f30b173ec6",
+    "title": "アイドル戦国時代、再到来！二郎系インスパイア的観点からのブランディング",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/thinkware": {
+    "id": "thinkware",
+    "url": "https://note.com/thinkware",
+    "feed": "https://note.com/thinkware/rss",
+    "platform": "note",
+    "article": "https://note.com/thinkware/n/nbbc7dc1354fd",
+    "title": "かわいいだけじゃダメですか？ドラレコも参加した車のコラボ企画",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/nyshy": {
+    "id": "nyshy",
+    "url": "https://note.com/nyshy",
+    "feed": "https://note.com/nyshy/rss",
+    "platform": "note",
+    "article": "https://note.com/nyshy/n/n49064719bda8",
+    "title": "え？10月？",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/morimoto_usg": {
+    "id": "morimoto_usg",
+    "url": "https://note.com/morimoto_usg",
+    "feed": "https://note.com/morimoto_usg/rss",
+    "platform": "note",
+    "article": "https://note.com/morimoto_usg/n/n0affbe2fe3bf",
+    "title": "最近ハマってるアーティスト3選❕",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tasukiamyi": {
+    "id": "tasukiamyi",
+    "url": "https://note.com/tasukiamyi",
+    "feed": "https://note.com/tasukiamyi/rss",
+    "platform": "note",
+    "article": "https://note.com/tasukiamyi/n/n54ed9f3e6664",
+    "title": "もあすたには魅力が詰まってる About MORESTAR #2",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/makmoph": {
+    "id": "makmoph",
+    "url": "https://note.com/makmoph",
+    "feed": "https://note.com/makmoph/rss",
+    "platform": "note",
+    "article": "https://note.com/makmoph/n/n5b43bd822a88",
+    "title": "推してないのに、なぜ歌える？ KAWAII LAB.の広がり方がうますぎる。",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/saba3871": {
+    "id": "saba3871",
+    "url": "https://note.com/saba3871",
+    "feed": "https://note.com/saba3871/rss",
+    "platform": "note",
+    "article": "https://note.com/saba3871/n/n2fb0eb5f73fa",
+    "title": "CL横浜備忘録【CL千葉優先権獲得】",
+    "family": "kawaii-lab",
+    "channel": "note-new",
+    "index": "KAWAII LAB.",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/ferdinand_ja_jp": {
+    "id": "ferdinand_ja_jp",
+    "url": "https://note.com/ferdinand_ja_jp",
+    "feed": "https://note.com/ferdinand_ja_jp/rss",
+    "platform": "note",
+    "article": "https://note.com/ferdinand_ja_jp/n/n03190951da02",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/tamochaos": {
+    "id": "tamochaos",
+    "url": "https://note.com/tamochaos",
+    "feed": "https://note.com/tamochaos/rss",
+    "platform": "note",
+    "article": "https://note.com/tamochaos/n/n85020495f368",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified"
+  },
+  "note.com/idol0taku": {
+    "id": "idol0taku",
+    "url": "https://note.com/idol0taku",
+    "feed": "https://note.com/idol0taku/rss",
+    "platform": "note",
+    "article": "https://note.com/idol0taku/n/n71baaf066adb",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/idol0taku/n/nb2c799fe4318",
+      "https://note.com/idol0taku/n/nc81866843101",
+      "https://note.com/idol0taku/n/na4004ae2f1e6",
+      "https://note.com/idol0taku/n/n47b3290c1a9a"
+    ]
+  },
+  "note.com/mizugaumai": {
+    "id": "mizugaumai",
+    "url": "https://note.com/mizugaumai",
+    "feed": "https://note.com/mizugaumai/rss",
+    "platform": "note",
+    "article": "https://note.com/mizugaumai/n/n11069f02a3da",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-27T02:02:27.255778+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/mizugaumai/n/n52d401157eb4"
     ]
   }
 }

@@ -7018,5 +7018,217 @@
       "txt"
     ],
     "primary_family": "starto"
+  },
+  {
+    "id": "oshikatsu_money",
+    "url": "https://note.com/oshikatsu_money",
+    "platform": "note",
+    "feed": "https://note.com/oshikatsu_money/rss",
+    "name": "推し活マネー研究室",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "culture",
+    "representative_url": "https://note.com/oshikatsu_money/n/nb1a3e9447329",
+    "groups": [],
+    "primary_family": "culture"
+  },
+  {
+    "id": "rosy_zinnia4526",
+    "url": "https://note.com/rosy_zinnia4526",
+    "platform": "note",
+    "feed": "https://note.com/rosy_zinnia4526/rss",
+    "name": "桃の飴",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "hello",
+    "representative_url": "https://note.com/rosy_zinnia4526/n/n55b59094c9a7",
+    "groups": [
+      "berryz"
+    ],
+    "primary_family": "hello"
+  },
+  {
+    "id": "euphoric_0128",
+    "url": "https://note.com/euphoric_0128",
+    "platform": "note",
+    "feed": "https://note.com/euphoric_0128/rss",
+    "name": "ぴこ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-tag",
+    "discovery_family": "jp-male",
+    "representative_url": "https://note.com/euphoric_0128/n/n09a2347f43da",
+    "groups": [
+      "bullet-train",
+      "da-ice",
+      "hey-say-jump",
+      "tokisen"
+    ],
+    "primary_family": "jp-male"
+  },
+  {
+    "id": "masunosushi___",
+    "url": "https://note.com/masunosushi___",
+    "platform": "note",
+    "feed": "https://note.com/masunosushi___/rss",
+    "name": "ますのすし",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "kawaii-lab",
+    "representative_url": "https://note.com/masunosushi___/n/n7f58d84f56f7",
+    "groups": [
+      "cutie-street"
+    ],
+    "primary_family": "kawaii-lab"
+  },
+  {
+    "id": "joyous_thyme6672",
+    "url": "https://note.com/joyous_thyme6672",
+    "platform": "note",
+    "feed": "https://note.com/joyous_thyme6672/rss",
+    "name": "an",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "kpop",
+    "representative_url": "https://note.com/joyous_thyme6672/n/n2efe2817f5ec",
+    "groups": [],
+    "primary_family": "kpop"
+  },
+  {
+    "id": "auto-786d99ece1615264",
+    "url": "https://ameblo.jp/rrrran-foo",
+    "platform": "ameba",
+    "feed": "https://rssblog.ameba.jp/rrrran-foo/rss20.xml",
+    "name": "rrrran-fooのブログ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "ameba-new",
+    "discovery_family": "live-local",
+    "representative_url": "https://ameblo.jp/rrrran-foo/entry-12976981713.html",
+    "groups": [],
+    "primary_family": "live-local"
+  },
+  {
+    "id": "0211_nyanko",
+    "url": "https://note.com/0211_nyanko",
+    "platform": "note",
+    "feed": "https://note.com/0211_nyanko/rss",
+    "name": "星乃あくあ【STARNOTE】",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "B",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "live-local",
+    "representative_url": "https://note.com/0211_nyanko/n/n4ab8457735bd",
+    "groups": [],
+    "primary_family": "live-local"
+  },
+  {
+    "id": "cont_cons",
+    "url": "https://note.com/cont_cons",
+    "platform": "note",
+    "feed": "https://note.com/cont_cons/rss",
+    "name": "オタク市場とグローバル文化観測〜Cathrine’s note〜",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "overseas",
+    "representative_url": "https://note.com/cont_cons/n/na007d8d5f9bd",
+    "groups": [
+      "bnk48"
+    ],
+    "primary_family": "48"
+  },
+  {
+    "id": "seina_fuku48",
+    "url": "https://note.com/seina_fuku48",
+    "platform": "note",
+    "feed": "https://note.com/seina_fuku48/rss",
+    "name": "福岡聖菜",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "B",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "article-link",
+    "discovery_family": "",
+    "representative_url": "https://note.com/seina_fuku48/n/n39f9fcca7f73",
+    "groups": [
+      "akb48"
+    ],
+    "primary_family": "48"
+  },
+  {
+    "id": "noteaccess",
+    "url": "https://note.com/noteaccess",
+    "platform": "note",
+    "feed": "https://note.com/noteaccess/rss",
+    "name": "パソコン坂",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "sakamichi",
+    "representative_url": "https://note.com/noteaccess/n/n7c640aafa969",
+    "groups": [
+      "nogizaka46"
+    ],
+    "primary_family": "sakamichi"
+  },
+  {
+    "id": "shima_enaga__",
+    "url": "https://note.com/shima_enaga__",
+    "platform": "note",
+    "feed": "https://note.com/shima_enaga__/rss",
+    "name": "桃",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "stardust",
+    "representative_url": "https://note.com/shima_enaga__/n/n0e0f5bd4c29d",
+    "groups": [],
+    "primary_family": "stardust"
+  },
+  {
+    "id": "auto-75f24f496dfa698c",
+    "url": "https://ameblo.jp/miskonect0",
+    "platform": "ameba",
+    "feed": "https://rssblog.ameba.jp/miskonect0/rss20.xml",
+    "name": "舞浜ときどき埼玉、趣味と",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "A",
+    "registered_at": "2026-11-27T02:02:27.255778+00:00",
+    "discovered_via": "ameba-new",
+    "discovery_family": "starto",
+    "representative_url": "https://ameblo.jp/miskonect0/entry-12984487112.html",
+    "groups": [
+      "arashi",
+      "naniwa",
+      "number-i",
+      "sixtones"
+    ],
+    "primary_family": "starto"
   }
 ]
