@@ -1,811 +1,811 @@
 {
   "fubuki_hp": {
-    "etag": "W/\"55f34551bfd45c68c13855af6a00d76b\"",
+    "etag": "W/\"4de3c3d2af81203c271f85f31f0c55b5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "nadegata_hp": {
-    "etag": "W/\"878f7a80aa37b572718caaffea96fbb4\"",
+    "etag": "W/\"0df2e535a615250122053825b3f8e46f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "aokinikki": {
-    "etag": "W/\"807dfa634adfb325aaab6cede8ac926b\"",
+    "etag": "W/\"ce0f67bbc0c8fb6b10269d9dc3d92153\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ktmk___55": {
-    "etag": "W/\"b27f945cf3e23773511113c795ac079b\"",
+    "etag": "W/\"19a949d3b7175f357d94a5a0f9046684\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hatsutaiken_note": {
-    "etag": "W/\"48693b3e153f5bfcbccae178d4d628c7\"",
+    "etag": "W/\"2da0a4ae95c1d56e8f372288d62a6878\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sakuya0928": {
-    "etag": "W/\"c395a60df4c12e13b08f160b9fe0efa2\"",
+    "etag": "W/\"1df549f963f6571db257f96e2bd2ee24\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "0909otakulife_": {
-    "etag": "W/\"7705226b4afc28cd1c4ae30ab9bd7d9d\"",
+    "etag": "W/\"f2f4677667d1d8fa72d8b7bbf816330f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "manami_fy05422": {
-    "etag": "W/\"6b0deb1428ca526401849e9f3699587d\"",
+    "etag": "W/\"4f374a4c548b3c54976d866fac6f4606\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "daraku_in": {
-    "etag": "W/\"4638972f865f548e55010c3e5300fba0\"",
+    "etag": "W/\"ad9ad49bd9e2c70b812f3147f08134dd\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "nachi___s2": {
-    "etag": "W/\"f9dfe7f4b8cbfd763b3e420fbfb881db\"",
+    "etag": "W/\"a7149bcb99a5b85d532fa470457e2101\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "idol0taku": {
-    "etag": "W/\"2e3e8e7969fd0605a5b0c0cfcff8d2f6\"",
+    "etag": "W/\"867a46546608d1e2219c609acc03a08e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "splicom": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "jeln1nyo-0728": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "chihiro-blues": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ippyiwa": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "atnnnas": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "thisiswakky": {
-    "etag": "W/\"5d5466e655f6861bfd17c563498f74a6\"",
+    "etag": "W/\"9ebcb13908abbef11cccb1b056e9387b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tyan_th": {
-    "etag": "W/\"0f85b3f23ca232fcdd7aabdb7e2921a2\"",
+    "etag": "W/\"eddfee91530c53d355e78f3d8729c265\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mizugaumai": {
-    "etag": "W/\"26223a322e045e91f05c2312c8f23c02\"",
+    "etag": "W/\"8caa97eb280761355e9e5b4c23735f0f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sexysadie": {
-    "etag": "W/\"83ceda752a3697a0ec32a920aaae983e\"",
+    "etag": "W/\"db512aeb713a5162bc1208c8bdc45840\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mick_nice": {
-    "etag": "W/\"dc2a3a6a01cc75f9af487a5b73c437e1\"",
+    "etag": "W/\"88c7409f3493168883f5d31e0ca6a862\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "dnf48": {
-    "etag": "W/\"f67e450a328231a4948b3b7bad212420\"",
+    "etag": "W/\"f7ab2e8f15884103a8b9fdbaadd6f7f6\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "antitti": {
-    "etag": "W/\"5290d9c1c8256fbbada1147993e72b7c\"",
+    "etag": "W/\"a6e4e95d5eb5797933a9d0a401a6e87d\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "aaa_0987": {
-    "etag": "W/\"450635993a11960756c4f48c76a7165c\"",
+    "etag": "W/\"5731c85a84c84b715fd6f72f5ee591f2\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "pom_ym_bb": {
-    "etag": "W/\"d9644ffa2b4e05346758646f9d8d8b30\"",
+    "etag": "W/\"3c8589ae8bb1ec2260b346b742c1127c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "b8978na": {
-    "etag": "W/\"939997d7ef8c97122fa904496da8cb38\"",
+    "etag": "W/\"9de17a1ca6c5999b09e18f3cfe48e912\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ready_auklet5508": {
-    "etag": "W/\"f2995c91d6497c844074424cfb28cd30\"",
+    "etag": "W/\"8525e37ec3a3710a33b83f5828b4fd7b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "oboeteitekure913": {
-    "etag": "W/\"b6500402d1d45b7248683ccf94a07ec6\"",
+    "etag": "W/\"201785e098f4d75699e70052bb0e04ed\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "yas21": {
-    "etag": "W/\"61f23bd95c60e80ac24b903983af4ae0\"",
+    "etag": "W/\"63b2e438886ac02f09f1b0c606ad460c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "biscuit0904": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ksk": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sannie_blog": {
-    "etag": "W/\"e7dcf8886b26d91593184f7face24259\"",
+    "etag": "W/\"b72b10f33351eb0071d48379cffb6496\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tkmt-182": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tkakab": {
-    "etag": "W/\"b23d5e510206ab708af7d8522cb9b0bb\"",
+    "etag": "W/\"3062b4d11283a3edb3f68d9cc29c3501\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hinatahappy": {
-    "etag": "W/\"1b1385b9da14c9be1182e6bfca3608da\"",
+    "etag": "W/\"db75d8cfa7780b982797a2d494355dad\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tsukagirei": {
-    "etag": "W/\"991480cf19656699de55e04e9a132357\"",
+    "etag": "W/\"06d45072e3852415889272650410eb48\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ui_ui": {
-    "etag": "W/\"c2e3c1431d7eae63744a8485e5bc51b1\"",
+    "etag": "W/\"66ad8d0af895962bb0e9bf158c8ef0cd\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sama_migirou": {
-    "etag": "W/\"0c354f97060b9cd1193a0eda96ade813\"",
+    "etag": "W/\"3143ceac0caacfeec42c82d71c3243ec\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "cathouse": {
-    "etag": "W/\"1f7a2051b0596e22fd47282e828239bb\"",
+    "etag": "W/\"d8e4dd2baf1d5d35d0bc3e050f45c233\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kokokokua2": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "lively_fennel526": {
-    "etag": "W/\"31f4849f07c60c721afa55e8e12167e2\"",
+    "etag": "W/\"51dd9e8e67e27540f4d9a5bffe48847e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "keikeikei9": {
-    "etag": "W/\"ded1a8a422a0a3f67ffbff479ba8b43d\"",
+    "etag": "W/\"b581d6f23d6b782375182c09bac2dad7\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "shuto_8930312": {
-    "etag": "W/\"5f8a28ab8a451652238232accd9f637a\"",
+    "etag": "W/\"aa04492d6a158eb9e56646c41aae444f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "light_nerine81": {
-    "etag": "W/\"90262c6d22df24607cb03fc83617777b\"",
+    "etag": "W/\"400c697c37a58b37b4cd3952a5db1156\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "like_chimp6015": {
-    "etag": "W/\"fe3779fe084ccfa7084626abc9f7369d\"",
+    "etag": "W/\"71abf77beb98205032343f29b10028ab\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "_ayapoon_": {
-    "etag": "W/\"49605746a824d7f6f2ee3949eb789fc2\"",
+    "etag": "W/\"ed5449ba6ecfb1aa68e09a3838738aef\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "adam711": {
-    "etag": "W/\"2eda936901ebb91f594e9d1cdbf13181\"",
+    "etag": "W/\"6d7ee7b73ea0a0427bf8c9b62fdd96e1\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "yano113": {
-    "etag": "W/\"4f86fff36d641d4b3ed865d908e99fcd\"",
+    "etag": "W/\"2ffdc446fd5d7ee2b7bf2c50dc008459\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mochi_sasuke_35": {
-    "etag": "W/\"89ca352784752aa32b38dd9c3d653f63\"",
+    "etag": "W/\"d998530ba62b9d0decd4f495824e05d4\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "large_zephyr846": {
-    "etag": "W/\"27f6b1b60867cd63a6a2349b15a95228\"",
+    "etag": "W/\"b594785a1792362edf035dc13109630c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "vivid_lemur7625": {
-    "etag": "W/\"170268c4e40330c5aec4b96f27fb6aed\"",
+    "etag": "W/\"bf41645c7de6382a6990cf320fc1114c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "vast_daisy3427": {
-    "etag": "W/\"d231d4b9e59966df5ac577d47c4b601b\"",
+    "etag": "W/\"4879dee32acc95c7fb380f470f549dec\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kn_ykh_1985": {
-    "etag": "W/\"c443b2c1c312cea215e73eb8b6c5f15c\"",
+    "etag": "W/\"d4173591b48dacebc8640f7646a499b1\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "jellyfish_kaimii": {
-    "etag": "W/\"39dc386eeb6cb9fc94dcc9af71c2c357\"",
+    "etag": "W/\"b6a5b327590a5277428bfc6bd5a3330d\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "watashitouta": {
-    "etag": "W/\"5c87143d38e245f83be9fd1c2abc1dd4\"",
+    "etag": "W/\"c37a1447754c4d773bb611682091840f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
-    "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "auto_class": "B",
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hashipan21": {
-    "etag": "W/\"131c1b87b9c8bae304bb81786150fdba\"",
+    "etag": "W/\"21d8e094e4e3ce6c1a93709cf1500eba\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
-    "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "auto_class": "A",
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "syota_826": {
-    "etag": "W/\"1024e97543a70c2c7769bbd0b6dccbdc\"",
+    "etag": "W/\"0539a996f7466f1ea6ba95f6953822e2\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "nonhani": {
-    "etag": "W/\"701e01e2c5950d8968cbcffa09b9756d\"",
+    "etag": "W/\"d9067f450c252e2eb981be48e1986de5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
-    "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "auto_class": "B",
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "iorisukicontents": {
-    "etag": "W/\"30ce50dd94e9ad3c929f7cf112f9ff56\"",
+    "etag": "W/\"5cd8761ee75d3403326774f470279217\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tyarumera16": {
-    "etag": "W/\"26aeb036d172719a486b7424838a9c21\"",
+    "etag": "W/\"88100753a47f1ea7ef6c8a4ee81d51db\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kayatan_deko": {
-    "etag": "W/\"f29690eae34450e90bdc68bc0a946d4a\"",
+    "etag": "W/\"1a8513f79aecf89ebb4c4f340abe3df5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tom_story": {
-    "etag": "W/\"d31ba66b5415410acf9858bcb365120e\"",
+    "etag": "W/\"889fe0c30bf06ad1506a068d12bf301e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "haraharakamone": {
-    "etag": "W/\"ee53a49ef53931d2550c8e6e0232a759\"",
+    "etag": "W/\"b462780685f6cd28d73a7bd39bb52f02\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "millecrepes2": {
-    "etag": "W/\"53c160b80897a72114181963a41e94de\"",
+    "etag": "W/\"14656fc0f7807d73432a5b8f5521b5ca\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
-    "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "auto_class": "A",
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "miami_blue": {
-    "etag": "W/\"07cfcdfcb6c7006c6f5fcc8d9510cec9\"",
+    "etag": "W/\"8825edc845d00b18401b1af63d92e260\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "dusk_ss315": {
-    "etag": "W/\"e90ad26729f3ddd1dfe18d32555fd1b2\"",
+    "etag": "W/\"5f9ef90891291bd4f3f4f9218718ccb5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "armi": {
-    "etag": "W/\"4bb9520365c91796f3fff399f86f3ea9\"",
+    "etag": "W/\"f99420d63cfd30620143dc9c4ad285d5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "amber_idol": {
-    "etag": "W/\"28d8cf8cea863a95185991d2a7685765\"",
+    "etag": "W/\"11a5b41a5fce1b68ac25e182a1e9e921\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "cs0804": {
-    "etag": "W/\"fe681a7c76581fe40183b45c70ae51bb\"",
+    "etag": "W/\"d4549b0220b86d9be17c73b0d24129f6\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "blitz_feuerwerk": {
-    "etag": "W/\"fefc4dc49808d45145f9d5bfb177f7f0\"",
+    "etag": "W/\"262476a241354a39b3cef1180d89939d\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "katton_4284": {
-    "etag": "W/\"f0a78a04e2b6fccead2c72700c5e5905\"",
+    "etag": "W/\"58e68837b8773a44e0f93353c7cde6fe\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "cule_akihirock": {
-    "etag": "W/\"076cf51366a0e13563963f0dfc1895fe\"",
+    "etag": "W/\"063cdc914e1235d62f18d4c1d136e3c6\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "gyunyu_music": {
-    "etag": "W/\"2cc86178568265e2b5a7f2e9534b00ad\"",
+    "etag": "W/\"85b966f0bd608fa5eca801168546cbbc\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "knhr_midori": {
-    "etag": "W/\"b561455e09243d648031de59b2327999\"",
+    "etag": "W/\"5f4f1f2aadab4eb580adb8129f179baf\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kramon1": {
-    "etag": "W/\"b2685ab354fbc3d964cca36d6da96a1d\"",
+    "etag": "W/\"82b91cf8412429f2a1c55f701ed22590\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "easy_skink7537": {
-    "etag": "W/\"097bc48c3ba4eed26667edc6179b9535\"",
+    "etag": "W/\"756bf2a5e8ad42e12a628500473b01d0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "shiori_book": {
-    "etag": "W/\"094a4827c1c39b1f82f630ab96a840a7\"",
+    "etag": "W/\"daff898bb6488f9a3870ebed609398ef\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "azuma333": {
-    "etag": "W/\"3bcd54bf07f49b76f9053d39c3935d95\"",
+    "etag": "W/\"108e7338a301acfc73fad0e382e70247\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tasty_holly540": {
-    "etag": "W/\"8e4130232194c940e820cd6ef51fe013\"",
+    "etag": "W/\"c9456990ad1584971a20ed9d7e7a6f77\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "taka_h_11": {
-    "etag": "W/\"e8726852d417d91132c8f4a11669e239\"",
+    "etag": "W/\"d68cad7f1dd87281e2aee1d4049a9742\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "photo_hijiri": {
-    "etag": "W/\"77ee72dafbeb60bf64aff9d56c4bf9cc\"",
+    "etag": "W/\"8064e1bf2fa44e34b6f2c49325febaa5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kitaro_shumi_313": {
-    "etag": "W/\"492e4d0217a8a32bbfd67fc4fb225b7b\"",
+    "etag": "W/\"b2ce43996579203e45fc13dd3dc90920\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "halftone7313": {
-    "etag": "W/\"55cca8fc3dce5e09197644284b8952ae\"",
+    "etag": "W/\"beedaea7745a48a75ebb1db327d4b8f3\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "pthread_t": {
-    "etag": "W/\"a77272c657d252da520cbf444a96a4c5\"",
+    "etag": "W/\"79a7602714728ac5f3f1deffe69bb8df\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "namae_boshuchu": {
-    "etag": "W/\"f8c7680d2ab2c62794991742c4b57323\"",
+    "etag": "W/\"5dadf454f68716d2a78f370a85526ef2\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "takahirock16": {
-    "etag": "W/\"1e06f32dc975023d9ee75b478be69d1f\"",
+    "etag": "W/\"fa06deb7c13a7f41a741934bdc64fca7\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "elysian_ew": {
-    "etag": "W/\"428d93258d96224a5b285c79022138e9\"",
+    "etag": "W/\"e8e1ae0e2384e4f1c0a207067f5994cf\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ohanabatakeparty": {
-    "etag": "W/\"3d25972edaaab9479af3e8c034556a99\"",
+    "etag": "W/\"85fc51d3e4fb0755cbc7fc9445edb1e2\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kandario_yoko": {
-    "etag": "W/\"528f58a57ea0ddeb05ac8629e508ef47\"",
+    "etag": "W/\"7f99c7c77df4be44079a24eda6b3cf28\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mik_s": {
-    "etag": "W/\"8242985bcbe9e9da4d6e46804d83a48d\"",
+    "etag": "W/\"2b9e1b3b5563676e2dc04d9bbbdabf48\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tokku_x": {
-    "etag": "W/\"1d19bc536f9b97a5f471c1d52b65cd3c\"",
+    "etag": "W/\"9c8b274b671ba64a0e8efde8a2ad6df1\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "yoshikaze0118": {
-    "etag": "W/\"36a83bad882aa8d217ac8c1106b74b63\"",
+    "etag": "W/\"88204dd8c0789204d009e46b33f99db0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ngc__3": {
-    "etag": "W/\"2c2061668e1d6c5d0ced26e1ec1e376c\"",
+    "etag": "W/\"5edfa7066e3c4d684c56bc9ea898ca3e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "penguin_paisen": {
-    "etag": "W/\"b90df7a8c22d97a792fdfc93a55c2967\"",
+    "etag": "W/\"07d062c331de074e0f7ba964fecf46b5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "nm1984": {
-    "etag": "W/\"4fd7d6efeddbbbdb8f2ccd8f17c30fb2\"",
+    "etag": "W/\"80fa169a6701092b794d179265fdec1e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mya_shota": {
-    "etag": "W/\"a4338c3d720cd7ecc1de554726a14f9c\"",
+    "etag": "W/\"6b7d33ed1efd0e11c54d6989dd60a701\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "muteki_dead1": {
-    "etag": "W/\"184c2672a5a713c6f3c3ff62ba893e4c\"",
+    "etag": "W/\"7fcb864072c1553e73f4bcce411334af\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "anko0880": {
-    "etag": "W/\"d489bf1755659b352ac69b0e65d93563\"",
+    "etag": "W/\"ea86daf7b241bc1bae1a1fbba23f0d4e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "cutter": {
-    "etag": "W/\"615a9389e9888937776b2e3e7387889f\"",
+    "etag": "W/\"b7860ac374e063ca6c2cc9218a94d019\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "C",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "yui_avocet1955": {
-    "etag": "W/\"40f1392c648310bfea99515003b43ae0\"",
+    "etag": "W/\"691285166323489cde7563f98ccefe7c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tiha_1013": {
-    "etag": "W/\"1fa7fa73f59cfd187bba3378c5c1785e\"",
+    "etag": "W/\"8093310ec25ff0ff633c488684bb7935\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "zakupero_note": {
     "etag": "W/\"76990bf0019f271263d3857abe300412\"",
@@ -818,18 +818,18 @@
   "auto-4b7a74c0a03be023": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kouzu34": {
-    "etag": "W/\"65ca330e7c88ab4b1c6555b309230bbc\"",
+    "etag": "W/\"48b45080dc7498676ecad67a7683c8bb\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "logi_love78": {
     "etag": "W/\"e4b8968ad713cf3982c9ff440f1e7c60\"",
@@ -840,20 +840,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "59hitori_life": {
-    "etag": "W/\"a8a3797bde5bc9b1e348a4e92e35d8d5\"",
+    "etag": "W/\"ab6dbb52149bcb176880bc75f5cf0ef8\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "wakame_poke": {
-    "etag": "W/\"6376e5a4b052adf76add3e89ca71aee3\"",
+    "etag": "W/\"0e786a9b0bdf7b91c25282fe4118ffdb\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "midoripic": {
     "etag": "W/\"32c2f5e09ce0999d902d9a4b4d4ee31c\"",
@@ -864,12 +864,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "ideal_bobcat2836": {
-    "etag": "W/\"ee4e175a51fa8fdf4aaabb8e6060569e\"",
+    "etag": "W/\"e63b625390ff5bd4e9ff26c6e5e3e803\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tyoronist_1": {
     "etag": "W/\"547f9d3cac5ef2b6ea3b0de9e39bf47d\"",
@@ -888,180 +888,180 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "idanah_mb28": {
-    "etag": "W/\"4b306c50412b73c4c33907d955a6b4f5\"",
+    "etag": "W/\"fc3ede05813ebf761eb51c5ec3363e03\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "gocenti": {
-    "etag": "W/\"b1df981dfa5659628d562940134afd41\"",
+    "etag": "W/\"a4cc8b3754494a415f85ef3866129ade\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tetoramarin": {
-    "etag": "W/\"616e10d2da2fe8ffd5efd85395156699\"",
+    "etag": "W/\"80ab3da154600a93a2d82e22fc5b67c5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "la_lune_26": {
-    "etag": "W/\"07a970e1bff3009480266a5c3384d8ee\"",
+    "etag": "W/\"019f6b04cd2a352fd2225c2d66f10491\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "jin_294": {
-    "etag": "W/\"a3c83237e214d48451160ef3fa018b4f\"",
+    "etag": "W/\"3465e9902e78893526bfb6a46cd75d9c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mai_sakura_myai": {
-    "etag": "W/\"bdd17e53cfa20da56bb11a177892dadc\"",
+    "etag": "W/\"aa42e49aff3b1b260711c6000c0e299e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sayo0929": {
-    "etag": "W/\"95097c2fd3d5da68fc13afaa970e659b\"",
+    "etag": "W/\"139079b2a896695181a50882b6e0794e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "maegami_hageta": {
-    "etag": "W/\"7afb7eb2c3e9b7b877c09d70609ad6d7\"",
+    "etag": "W/\"153d85d55675a0a8c2f6cade8580fcfe\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "enomiya_": {
-    "etag": "W/\"8eb06c8798b9ac1c1aabc252e53a4e12\"",
+    "etag": "W/\"72ea01bdd6769248e3c6b16cbbca5fea\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "chu_cafe": {
-    "etag": "W/\"085acd2f60be0671ac0d6f8cab8b9aad\"",
+    "etag": "W/\"35aeb55ae7350e09e54a851aa216fdd6\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sparta_cc": {
-    "etag": "W/\"dd3828cf446d5d7671972ec260bc02d7\"",
+    "etag": "W/\"b5628552bc27d6dea12b24e454ef085b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "oniyamada": {
-    "etag": "W/\"9f00afdcb5a13360376a4928934e23da\"",
+    "etag": "W/\"be0f39cf817ef47e9d16ef19eecb4960\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-1181e48f822a6818": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sayo_mayu3450": {
-    "etag": "W/\"c71e692a2ef7d8bc5e6697a0a780243c\"",
+    "etag": "W/\"ca02d41694972749278aeaed86b8d204\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "junnosuke0222": {
-    "etag": "W/\"9d823649f957cbac95ac14f52fe061d6\"",
+    "etag": "W/\"11c0a7c60060980723bac3dab68c4938\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "marie_nagoya": {
-    "etag": "W/\"b53a4ad8c0d1a27dafe6d1ae0e3975af\"",
+    "etag": "W/\"0cd5b66a989b5eae442408b76ae76736\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mimosa49": {
-    "etag": "W/\"fa8b128cc3844d451caa3b713b441e4f\"",
+    "etag": "W/\"98b48bde2cf84791af08bb09097e2de5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "smart_daigakusei": {
-    "etag": "W/\"c357f9668d086c48eaa5141c830b8aa2\"",
+    "etag": "W/\"3d8c90e4df80d0a5824f9f175f7c479e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mb_0517": {
-    "etag": "W/\"7f187088236bce2870c29b15f854990d\"",
+    "etag": "W/\"9d46215d05acd2af9e19d8ee7ceee792\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "unordinaryperson": {
-    "etag": "W/\"42276adc8efb960fdd0fd54b1b586388\"",
+    "etag": "W/\"12fcbaa7f3ae6d7afcd12625d544d0d9\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "11161116": {
-    "etag": "W/\"7cefebd4d103396eee7de0024056a2ef\"",
+    "etag": "W/\"c85d76a8e0ad1ac1901fd9bade7cc674\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "turquesa": {
-    "etag": "W/\"77d45a1fd21c3578c67c971c8ab56ec4\"",
+    "etag": "W/\"5bf5cbc3e458e3f94d441abcb38cb377\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "monnkumo_do": {
     "etag": "W/\"5f55c5ec5a3e074ad537af44660883b7\"",
@@ -1072,12 +1072,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "cool_tiger9409": {
-    "etag": "W/\"ca9813790984cbbb2a752523acb63e8a\"",
+    "etag": "W/\"ce3a2a43c1b3d3698a954bf37c4d265d\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kokoa_life0521": {
     "etag": "W/\"6373493fd075b1e877324a6819678bfa\"",
@@ -1096,12 +1096,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "rich_kudu1641": {
-    "etag": "W/\"ecef187a9bd24e972ccab56423149f03\"",
+    "etag": "W/\"c5a10d151328df2959ad96acdfae4024\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "cloverx_x8": {
     "etag": "W/\"8cf46d63e82876e18707e27d7abeb5e7\"",
@@ -1112,28 +1112,28 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "chiha_bmsg": {
-    "etag": "W/\"f3ee93b57fe7fccb29e2a2bd16ddf43e\"",
+    "etag": "W/\"dc531d708fb3535c57203ac6e503fcc4\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "lapislazuli2026": {
-    "etag": "W/\"01c3211b5cd26745b2947d20655327bd\"",
+    "etag": "W/\"46646a5bab1638a65f107e0e023abdcc\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "humble_lynx9244": {
-    "etag": "W/\"ef6be18fea7eb30b9d4de03f865cd069\"",
+    "etag": "W/\"c861dee8c2f89622c0e9d794e44e3ccf\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "czymonkey": {
     "etag": "W/\"9ff7c34e20bcab8e640c644c0d189d08\"",
@@ -1144,12 +1144,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "akity": {
-    "etag": "W/\"9c627f512b978bd9df6ce232bee5fb7b\"",
+    "etag": "W/\"d3c0bbc36e5fe115260df9b10c8342f1\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "magic_pony9603": {
     "etag": "W/\"d6eb2aa79d7b90904ffd91f56c1df0ed\"",
@@ -1160,20 +1160,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "hongjoolena": {
-    "etag": "W/\"d3ee010e655d03671aa7dc425ea42937\"",
+    "etag": "W/\"f2387b641f2ca6857e57d41c7b01170a\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-5536140fa6428b4e": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kei_from_tokyo": {
     "etag": "W/\"8c158e56d84c91401bfc5667dcea8463\"",
@@ -1192,28 +1192,28 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "nayutastoyonaka": {
-    "etag": "W/\"b4a7dec6b5e734d741558275d3e9fc28\"",
+    "etag": "W/\"e76038be999598b812b0f3243392ab82\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "bold_tern733": {
-    "etag": "W/\"97c69d6e780c87d432d6291a62975c24\"",
+    "etag": "W/\"0f3fbdbc96bdbc3e6d7c29fc4a0b77c8\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "springisintokyo": {
-    "etag": "W/\"75d51b439a28dd112494800143c9852f\"",
+    "etag": "W/\"dfa755a49a7c4adf8fad35cb0909ae5b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "rich_auk791": {
     "etag": "W/\"1fe153fdcb5ef72d5dfdd816a313e765\"",
@@ -1224,20 +1224,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "funiklaaa115": {
-    "etag": "W/\"cb5125160b8fefb077e72f938249fd09\"",
+    "etag": "W/\"0eac06b30787fc585f782b7afaa62179\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sakichi0501": {
-    "etag": "W/\"a611e3537d257739be2dad5ac9c13c0c\"",
+    "etag": "W/\"d0844c720523aed7fbc4a0b589549815\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "keen_marten8615": {
     "etag": "W/\"a42022eebe092af424ce4578d4eddfb2\"",
@@ -1248,12 +1248,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "koyanagi_aki": {
-    "etag": "W/\"c5a58ead3b9d592779e7b9fc327fa6d4\"",
+    "etag": "W/\"a9fd56eed1676934969ab06dccd5e600\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "bati_pad": {
     "etag": "W/\"746a6fbe61d54b69429b7cb9392bcec3\"",
@@ -1264,52 +1264,52 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "inspire_design": {
-    "etag": "W/\"b54809b144f67e3d084742434839fa38\"",
+    "etag": "W/\"0f3ea2b46089d45d3ee7843de64ea7a0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "clean_nerine445": {
-    "etag": "W/\"805a17d17a3551f03db7590e09041d68\"",
+    "etag": "W/\"20a0e6ff6dd08770ca1a1a0fc86ba55f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mumujj2026": {
-    "etag": "W/\"d6e6e7c24abfc548314950aa23d5115c\"",
+    "etag": "W/\"23b4296c84493990d416d38b370a9416\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "maru_encho": {
-    "etag": "W/\"447711942ddb9fd229a42afa2d863aad\"",
+    "etag": "W/\"621455eede940e335dde38ca25cc52fb\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "fond_avocet5022": {
-    "etag": "W/\"bfb0c6c9079801bae52fa07d4fa2ae55\"",
+    "etag": "W/\"38852e7c68f922541e21c152bca1f73e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "rrr_nikckp": {
-    "etag": "W/\"e45a6b2cdcfdbe947fd2c46469e65dbd\"",
+    "etag": "W/\"bd98ec0ca86b3749089b203a20f5a3fe\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "matchan610": {
     "etag": "W/\"167f8fe9b6f47f2b294750994c34091d\"",
@@ -1320,12 +1320,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "gcarpashi99": {
-    "etag": "W/\"fe563beaa4b399db6d99b7a59147ed2d\"",
+    "etag": "W/\"251113b7e90c3d6bf3a44119e486f5de\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mokuseido": {
     "etag": "W/\"dea01af4cb3522fff552dbad0a477df4\"",
@@ -1336,20 +1336,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "ryujisss7s": {
-    "etag": "W/\"2890eb33ff6e4ec0ae09b66319f6fe74\"",
+    "etag": "W/\"54b387e1ead96a042e911d72be34899e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-954922523b1bef04": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "yuuuuui_ka": {
     "etag": "W/\"b2385a72a015f6599206c3080d6dcfe0\"",
@@ -1360,36 +1360,36 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "r_i_kbu8904": {
-    "etag": "W/\"377ae0a1a6bcffd164b13fd43b6b1540\"",
+    "etag": "W/\"0e042a66c89d52cb8eb34d166970237f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ha_wa_wa": {
-    "etag": "W/\"220c337bc2e90d6f6e041ee547a92125\"",
+    "etag": "W/\"86ff6ed9c67a4278aa3840d81b041356\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "shiny_hosta581": {
-    "etag": "W/\"356e6f3bb21adda328fd51232753f272\"",
+    "etag": "W/\"fdfbb7a810a7c25a69a64719fe8bab99\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "shotakingyo": {
-    "etag": "W/\"6f3e7de812c1bb9e9ebe231bb64d0bd0\"",
+    "etag": "W/\"a0fd8567a79267a1dff1fda59a99409d\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "nagi_c_actor": {
     "etag": "W/\"f5e1df1ac702f6ba8d578048b515b78b\"",
@@ -1408,12 +1408,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "imada2chuboh": {
-    "etag": "W/\"1610629e0003b9d0c30a613f0b021279\"",
+    "etag": "W/\"52d091e7c02905b64b42b5f031206ba1\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "oshilog_5": {
     "etag": "W/\"2801773b071a3282da6b1d48eddd0a01\"",
@@ -1424,12 +1424,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "sgrcchi": {
-    "etag": "W/\"84e530b8180989a80a75c7751d00fc73\"",
+    "etag": "W/\"72fd7282320efeaecefb98deda782b88\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "nozomi17jp": {
     "etag": "W/\"3b154fc525c66d468477432ef84e3e0c\"",
@@ -1450,58 +1450,58 @@
   "auto-f9bbf4f28a09b9e3": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "magic_azalea4790": {
-    "etag": "W/\"eac9712b3b9d3aa4312fcf2ea873f8f9\"",
+    "etag": "W/\"550915cd92eda9456005435c44dedf94\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ditikngesg": {
-    "etag": "W/\"2231d386dee798a3de3f68351bb71667\"",
+    "etag": "W/\"796c9a551ff82c17b1b3db58869ef39c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "1ms0b": {
-    "etag": "W/\"241d762d2d0ab7845308e4af48584dd6\"",
+    "etag": "W/\"ab3aba53d6b470437f97879febc3d68f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "siragen": {
-    "etag": "W/\"e87414ca65d344766f63922c3b8d20c3\"",
+    "etag": "W/\"6c49dd324f6669b994c5d5b3def7cd26\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "_junkiisthesun": {
-    "etag": "W/\"37f3b84751b2319c75a6c87e932e0ae0\"",
+    "etag": "W/\"d261238597a5e4c60624b096e21e2b89\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "heartpapa": {
-    "etag": "W/\"219bccdeca5625099d7497fdaba4dea7\"",
+    "etag": "W/\"13545f005a800a0576a270533c8f534b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "risootasan": {
     "etag": "W/\"d5843a472fb9e83075b4e41aa3f522c7\"",
@@ -1512,20 +1512,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "clever_eel51": {
-    "etag": "W/\"ce400e12d586a148d66fcd320dfd967c\"",
+    "etag": "W/\"8508bb3ab961aaa7f3bf53aa4507e777\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "gentle_elk1411": {
-    "etag": "W/\"2debfc657fdb81c4d6810a404a645f3e\"",
+    "etag": "W/\"e1884a031d1be32b66f4c82b8752550e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "eminus": {
     "etag": "W/\"81eedfb9cd98c013f3d68f6d33393810\"",
@@ -1552,12 +1552,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "sakao1124": {
-    "etag": "W/\"39b0fb748c20fb66da91cc76fce63d2e\"",
+    "etag": "W/\"ed907714d147e319f859db767686108f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "aoisora1120": {
     "etag": "W/\"cb89b2fdba97b0622b0ccda872e1be3d\"",
@@ -1576,60 +1576,60 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "rin_rin_lifedesu": {
-    "etag": "W/\"fe0b2f56a2b5368645ce98537a2f0d4d\"",
+    "etag": "W/\"dbdcf58002bc564ed9e5e243128650e9\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "clever_bobcat524": {
-    "etag": "W/\"3b9067feaadd2a4f8cd1b5e7ff2eea54\"",
+    "etag": "W/\"bda5fc5ca31fcef03d883681b4aa349d\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kerori3767": {
-    "etag": "W/\"e023bca4212f2e337a38efd57e9f5604\"",
+    "etag": "W/\"c5e4d9d6c2cb0dae4019e511752e9d5f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "momoneko107": {
-    "etag": "W/\"91878ef51803611464d4d2f075367238\"",
+    "etag": "W/\"aab77730dc4fbf051dcab90e7d7a392b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tekuteku215": {
-    "etag": "W/\"c30c0cb1e9829855f91ac9b99427a57e\"",
+    "etag": "W/\"3f2b069ca6862877a8c0fcb5e0c41ae9\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hakooshi_lucky": {
-    "etag": "W/\"e6d9619bc11428065d400ec44b7f2697\"",
+    "etag": "W/\"e050067d883aadf34784350908f725aa\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "junk_juice": {
-    "etag": "W/\"569eef58feef60e0bffce39d1b40a957\"",
+    "etag": "W/\"bff8d3ff7b748bab102fefd009effe6c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "nya33n": {
     "etag": "W/\"589c11528065b9f6e7f729daf76ec21a\"",
@@ -1640,20 +1640,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "02tripmusic": {
-    "etag": "W/\"2e9390fdac093bdb5dee16dd630663b4\"",
+    "etag": "W/\"02c701bdefcced78d1d83a68e6f8b399\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "k_tar0": {
-    "etag": "W/\"7f3faedebdad68fcb116ed32448694a4\"",
+    "etag": "W/\"fe72ac5a3cb886e7c58188304077468a\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mochapocha": {
     "etag": "W/\"51c9cdac7209f7a440510dd49d9e1a6d\"",
@@ -1672,12 +1672,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "yomisugi_hodoki": {
-    "etag": "W/\"45f25f005d9f088259a02d615bc1de53\"",
+    "etag": "W/\"c29cf978437a07aa92831d270c750779\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "brave_bee548": {
     "etag": "W/\"db6503146bd2c7635f39c148a71b4779\"",
@@ -1688,44 +1688,44 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "shanxia39": {
-    "etag": "W/\"75d32f604ae5a71044d19ed6d885b98a\"",
+    "etag": "W/\"c97dd5e619009b80ee58a1219c3078b0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "dekkai_luv_": {
-    "etag": "W/\"5ec3a91f25bc1a34672365fb9583e45b\"",
+    "etag": "W/\"360946373cc341bb3474a07446feba6a\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "miyuu_yoshida": {
-    "etag": "W/\"01f7f8073fc64812444af3bebeb3e92d\"",
+    "etag": "W/\"1ab2c6530b9be2d9fef101fb7ba34cad\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "vast_zebra839": {
-    "etag": "W/\"c711681f2c33e9722f8f85d45237a730\"",
+    "etag": "W/\"f975096482161b65350d59ef71c72c27\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hanahikari": {
-    "etag": "W/\"4d96409a7f33022c67bc3c594a001805\"",
+    "etag": "W/\"681c9f85a34f88f503366eb9c5d0c2fb\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kuchinakatax": {
     "etag": "W/\"b6aa8e01a3353fbfbeb88cfd40c3f3f7\"",
@@ -1736,12 +1736,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "oshi_eigo": {
-    "etag": "W/\"8cddaaf62682afab0d1000b7a890ca6d\"",
+    "etag": "W/\"1210c18d1e9bfece505e1f70a496d355\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hiyorib00k": {
     "etag": "W/\"cf3d0d389679137572a3d1925646c392\"",
@@ -1752,12 +1752,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "just_relax1631": {
-    "etag": "W/\"e692d00526c07e351309ae635d7e4eb3\"",
+    "etag": "W/\"1e2c8cb9818cdda31a1ac41c3aacdc17\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "y_axl": {
     "etag": "W/\"b62cf2484862521571d630fb5a6afab9\"",
@@ -1802,18 +1802,18 @@
   "auto-076f6926b465515d": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ni46": {
-    "etag": "W/\"c46f8040735dc770d018fe3745c38046\"",
+    "etag": "W/\"15c8d26ae72ee777c87e23bccf07d7e9\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "lofty_lotus1637": {
     "etag": "W/\"80a94e675f484bffbc12bea0cd0c0f35\"",
@@ -1832,12 +1832,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "dekaikinba": {
-    "etag": "W/\"34cfc826969e076176bae19243284cdd\"",
+    "etag": "W/\"c130da7fe21ab43712a933a31af10e3c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ryotaroh_note": {
     "etag": "W/\"7ec22a0224c175d869fe4a5482630af7\"",
@@ -1848,36 +1848,36 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "usako_jiguvania": {
-    "etag": "W/\"181dc65aed8fdfdcfd791d0d9e5962f2\"",
+    "etag": "W/\"158a0534f0207a2036fe7b76577021ff\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "siontomogu": {
-    "etag": "W/\"bbafb7f60613b6e36be23360b1463745\"",
+    "etag": "W/\"2596a9ee5366a0dbfab14bb3ad58f5c1\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "entm_1": {
-    "etag": "W/\"c674cba5b20460835fe8eede0a6c6b4a\"",
+    "etag": "W/\"544d774f7ee45f8b0070232b38a565d4\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kiriyama_lion": {
-    "etag": "W/\"f9f4bb77d7b19dd458015ca37fcb9dc1\"",
+    "etag": "W/\"9203e202f145af7498deebe0b9a124ed\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "__mom07": {
     "etag": "W/\"9ca53b3fd63a6dc975ab1ba85e7b6c9c\"",
@@ -1896,20 +1896,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "kabenok017": {
-    "etag": "W/\"c88fdc97faf79f8e196f716dfe4425cf\"",
+    "etag": "W/\"910f8da109925135e3604021926ee908\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "dapper_falcon326": {
-    "etag": "W/\"fac73cd2338e06190d3b96d957750248\"",
+    "etag": "W/\"358bc70c365def25efdd700a698fd92e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "fair_mimosa8718": {
     "etag": "W/\"9e1183411f6858b3724f7580859cfffb\"",
@@ -1920,20 +1920,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "clever_beetle339": {
-    "etag": "W/\"ed98527e42553e3378cbb407fc3e9c56\"",
+    "etag": "W/\"69cd2d38504cf3c677343d85d84b6317\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "major_phlox6572": {
-    "etag": "W/\"bff26e96a671a670ac0e6aa9c8aa710e\"",
+    "etag": "W/\"e87839c4d1167bfa31987076652d91f9\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "sanagi_gi": {
     "etag": "W/\"df06b7dea0f2126521c6f687b72f32f1\"",
@@ -1952,12 +1952,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "witty_clover652": {
-    "etag": "W/\"708a2206f0831cffcbb4b4200994bc50\"",
+    "etag": "W/\"b5a35b027eee23840587c73c3e55021f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "large_raven4374": {
     "etag": "W/\"5d037c0f9e49b5e22f48a79f99e216c7\"",
@@ -1968,20 +1968,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "brave_sheep6615": {
-    "etag": "W/\"8a98952dfe8655552a874ee247c5365e\"",
+    "etag": "W/\"7eff0505bdfdb1965f2d522cc834a1ed\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-681a601abb6c64b6": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "noisettepress": {
     "etag": "W/\"5f4227c00e5779c41fafe6d0d3e6c6f0\"",
@@ -1992,44 +1992,44 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "sakebitaidake": {
-    "etag": "W/\"f958a8db9c19ccd55925cb8d76eb046b\"",
+    "etag": "W/\"4f7877c98bd72d30c4c819c90ef0eba3\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "taiga_korea": {
-    "etag": "W/\"7daab377edcfadbfe315b4d81e59dd5e\"",
+    "etag": "W/\"5e660f679961885323799d15c9ea9f41\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "idols_snh48g": {
-    "etag": "W/\"da21fb5174957574eacdedf34d9f7f2a\"",
+    "etag": "W/\"e4ce66049a01fe0b9075c9b73c9fdfa0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kimurakohji_0415": {
-    "etag": "W/\"7ede2c1f1f0a83c9d1535dd787126abc\"",
+    "etag": "W/\"7e09103c992ff966a4a421598c812502\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "itsumomegane": {
-    "etag": "W/\"a057d59e68833c5b847163c70ca4e5df\"",
+    "etag": "W/\"7a12f535dd97d346b5dd4c01eb7752eb\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "murataerika": {
     "etag": "W/\"29a1b88dbc7f269f03248c85a5d533c8\"",
@@ -2040,52 +2040,52 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "hima_mitei": {
-    "etag": "W/\"3f3882b19cf3440b487ec4065662f776\"",
+    "etag": "W/\"f4643d60b7df081d7f4e9d5cef0b296f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "werty1tym": {
-    "etag": "W/\"b3a90f6441e5601d15788dd6b5acb401\"",
+    "etag": "W/\"5fcf959d1c998981024c6687c90b1602\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "underground_ceo": {
-    "etag": "W/\"c562a5c9a8454c7a56fcff2e936b107e\"",
+    "etag": "W/\"1b7c631e736fbfcade9ab93f1c640d96\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-3c2adc636ecad593": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "alive_orchid4734": {
-    "etag": "W/\"09d334904da61714dc80eac47f8e1c15\"",
+    "etag": "W/\"20b2753d6effba457973664cd44d5e3a\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "real_minnow8037": {
-    "etag": "W/\"e43d88f5d258a0ba0dfd9e43d6ae21f7\"",
+    "etag": "W/\"691a4a81a239aa34944c477a0da08952\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tasuku0_m": {
     "etag": "W/\"6c1594d593eea435323127f734a46a44\"",
@@ -2096,108 +2096,108 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "witty_yarrow2667": {
-    "etag": "W/\"6c402fe992fa5f8363fde6fda84e28b8\"",
+    "etag": "W/\"34b013ea45e86043e07a29ecb1d2d7e3\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "just_serval6877": {
-    "etag": "W/\"945d7e6fb50335ebcc82d94c98a6c285\"",
+    "etag": "W/\"7e9c84868aaae5df089aa8097ff3b0c2\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "oshilabo269": {
-    "etag": "W/\"733b6ae22ff8859bebf31a0699450a84\"",
+    "etag": "W/\"1de8071477303d59d93db0944426953f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "human_donki219": {
-    "etag": "W/\"cc4596af33e0f05a197d61e9abbf52a0\"",
+    "etag": "W/\"1ce6de425b58006261a6b8273ed5df5c\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "vivid_emu3104": {
-    "etag": "W/\"9ef32bd450443efd125418a1c1b2c238\"",
+    "etag": "W/\"e317c86f27c6592c256c37937f1ee204\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "shu_ap_sa": {
-    "etag": "W/\"dd422d2fa9ea9a2256160456b1d06c49\"",
+    "etag": "W/\"b8af42f625374fa849cf67c34f8b8d60\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-a8471b9bbc96443f": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "lil21_": {
-    "etag": "W/\"5d33a39018dd047deb8f1153cd5fbb74\"",
+    "etag": "W/\"b3b608d47e215c8deaed0c26d6bb97a2\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "genba_biyori": {
-    "etag": "W/\"36e87131d5f67e9919fd341b8ea738bc\"",
+    "etag": "W/\"5a4a3116a4399c786c66f1f7d8278621\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "bossykyk": {
-    "etag": "W/\"1d0b272d2000653e1525d1634bb93790\"",
+    "etag": "W/\"5536634b1d74d651652ec1cb49758404\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "major_dietes5812": {
-    "etag": "W/\"15b4e17f79c17fc1604925edd2484b93\"",
+    "etag": "W/\"38f2dae2c620dcc1412edf64db1a1604\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ontai_nikki": {
-    "etag": "W/\"c371a5aa7bc14fd6f2b19b62edd66bc0\"",
+    "etag": "W/\"76a28c13c7ebaeca41ce181ff2cc64dd\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "shika_lumen": {
-    "etag": "W/\"bfa7ea3bfc65197a865195e44f81a520\"",
+    "etag": "W/\"21d6c4c18fb0dde8901431bc02b7675b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "super_pipit3057": {
     "etag": "W/\"df63f97ac44157a6990f896b0d8c3e58\"",
@@ -2208,12 +2208,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "innervision_dai": {
-    "etag": "W/\"b90663aedf7bf86584447bf501327ef7\"",
+    "etag": "W/\"c5fa66ba1e0ab0e9242933ebfe782dcd\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "diary_yu": {
     "etag": "W/\"908b9b5f99c7576b7a1b4aa55848a527\"",
@@ -2224,44 +2224,44 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "human_hyssop0": {
-    "etag": "W/\"f6a8b7fba97a0b4315c1008152d6e378\"",
+    "etag": "W/\"cabe79f5c4abb008692dd3675a860d06\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "akb48_beyond": {
-    "etag": "W/\"bb16385aa28fae818391eb5160237cdf\"",
+    "etag": "W/\"abf31dfda1dd98cd07a28a5a1acc49b0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "shn_sisisu_": {
-    "etag": "W/\"80baf0d9a60f622041edcbba6efb1cd8\"",
+    "etag": "W/\"426598b56e059ce902cf7ebbdbbeb0ac\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "jazzy_wasp2099": {
-    "etag": "W/\"c2a6f4c6a4c1142da5a9758a6cc659e6\"",
+    "etag": "W/\"ca98b81edf32922053711b4c58cdaa70\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "lilia_7": {
-    "etag": "W/\"62377a6b85f19447246e302b4fcdcfed\"",
+    "etag": "W/\"37b46f471c7f829677ca88ff12a52874\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "symksm1234": {
     "etag": "W/\"0017ecfffefab53b7c516d6295d50e3b\"",
@@ -2272,20 +2272,20 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "ebc_tkrn_1224": {
-    "etag": "W/\"2090e5ec556af2e449c998868e931a7e\"",
+    "etag": "W/\"239bddc7b705b54510443c03b094add5\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mphz": {
-    "etag": "W/\"a2757b08a7044099e70a3fe42e51f228\"",
+    "etag": "W/\"61ba7a1f2aa4705be04bb47d9a1f0578\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "easy_magpie616": {
     "etag": "W/\"56e905d3e69d1b5c1dfb6438c7a06094\"",
@@ -2298,34 +2298,34 @@
   "auto-508036dcce75efac": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "airis_17ken": {
-    "etag": "W/\"6f3ddd3f7dba3ec272fc80220757f7ad\"",
+    "etag": "W/\"d4db206472fd4090369865bbab230a2a\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "thaiidol_t": {
-    "etag": "W/\"187f315e416669b0d54144b54a69104c\"",
+    "etag": "W/\"fcb6ead9efe47cb58b7d397040f29914\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "skka770": {
-    "etag": "W/\"8c9d71acac49cc7b6493003b597f73e2\"",
+    "etag": "W/\"c8f6d65685dc2c71dca320319ba3b055\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kawalabhk": {
     "etag": "W/\"45551bed823751bb702266567358ed38\"",
@@ -2336,28 +2336,28 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "sora_ao_i": {
-    "etag": "W/\"ccf5b380174c64563143fcd7627914a9\"",
+    "etag": "W/\"09f4766e4ba8a7cce028e3d743c14de9\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "shirokyan_fave": {
-    "etag": "W/\"af3d7f5e4d133ee206da0db35b316c5a\"",
+    "etag": "W/\"2b5aa8b5e1d7683819e7c787294d90f8\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "saya921tomo409": {
-    "etag": "W/\"f9746b8ab5327852260d35bff0b49ced\"",
+    "etag": "W/\"cff3eef38677aebd90cbb2c9baf2b373\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "aketarashimeru": {
     "etag": "W/\"7feab3c14a0610630b0a43e3f6cf057b\"",
@@ -2368,68 +2368,68 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "skytwo": {
-    "etag": "W/\"c1eda870cc0295ec1640374ea4cb3920\"",
+    "etag": "W/\"788fdf998393546299ef6b8008a5d912\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "senobe": {
-    "etag": "W/\"b64a9f73008f671fbcd5b0ba154faa5f\"",
+    "etag": "W/\"cf2f474da23d811dca18be91952012af\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "gguttu0628": {
-    "etag": "W/\"71694d9567dcf94a6ba0bf52dea54985\"",
+    "etag": "W/\"c28a145b480584f522bcc2bbec73f22f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
-    "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "auto_class": "A",
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "zaisu3114": {
-    "etag": "W/\"82ca14151df1fc107252f6fee016f809\"",
+    "etag": "W/\"175cb83ca9ae24ad59f956a46c483e1e\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "cabe_coffee_life": {
-    "etag": "W/\"569bac06564ef9e58c6e4c4742ea17ad\"",
+    "etag": "W/\"7c1a46adb2bdbd7cc0fab5574fbabf30\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tk39fish": {
-    "etag": "W/\"2582b14ef2b632012c53afcb41633628\"",
+    "etag": "W/\"34abbd4486b949c384e370d66f518fc3\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "windwoods1103": {
-    "etag": "W/\"757f9048d0a97a149e2133a461f39ce6\"",
+    "etag": "W/\"4b0a9754c37012172d58229b9f33c8dc\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "cool_shark313": {
-    "etag": "W/\"6ef72386dc4de17faf7c6bbdde4e7982\"",
+    "etag": "W/\"cab4260b33678fed94174e16d2b417bd\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ryon1023": {
     "etag": "W/\"4e5ce8be5c1fac1701a8fd6c1f400942\"",
@@ -2448,132 +2448,132 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "cute_lilac186": {
-    "etag": "W/\"e7ffaa115d3741d12892de7a44b88760\"",
+    "etag": "W/\"5c5feac7b069880fe70ecb349ea34fd9\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "8ytqr": {
-    "etag": "W/\"d716b6ebad5e1d17c904e324e4f16857\"",
+    "etag": "W/\"2b06a5046d59ee57ed5a91eaef870c30\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "torurisan": {
-    "etag": "W/\"78594834571f29fdcec48992a40b86c5\"",
+    "etag": "W/\"ec25fe46ea712205f26acffa4605f1f4\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "leoniehillrd": {
-    "etag": "W/\"3cfac3a2d5d76e5456cd47a4ddf570b6\"",
+    "etag": "W/\"ff6c8faabd6c80121bce69caf17793dc\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "occur": {
-    "etag": "W/\"3d3faa9c317a59d0ce5dc52a9871c880\"",
+    "etag": "W/\"acf579b49530d5b8bb03cc49d6809823\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "mikkotan1212": {
-    "etag": "W/\"d2331c34ef5fee8e3fb20432c182d9f7\"",
+    "etag": "W/\"842d1de0c328bdb62aa11996a02abc8f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "amaduction": {
-    "etag": "W/\"74caf9a95ff26b3155b87b55883b875e\"",
+    "etag": "W/\"5b505cb977357410b40b9ebb98c066a0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "bibioshi_mattyan": {
-    "etag": "W/\"da3b04de22b9a6d2ce7511370d729eea\"",
+    "etag": "W/\"e4b92a8888a07839b29b0551e872f460\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "koto_rbif": {
-    "etag": "W/\"aa542a37e352420508ded9e3870aa6d8\"",
+    "etag": "W/\"ea473932fe80a475a99ebf3239a1c047\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kumon_jidol": {
-    "etag": "W/\"a8be313c6b9b0c0794132faff0bee473\"",
+    "etag": "W/\"84ea9dff7d0f1247558829818c2a1407\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "lovely_azalea625": {
-    "etag": "W/\"878574ba9e53d12791c43a4a43af4791\"",
+    "etag": "W/\"d5d744436b7cb6e1ab91e04a99690083\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hamstan": {
-    "etag": "W/\"10138a7c9e684e80291cb240403fb009\"",
+    "etag": "W/\"0f3f420eb3214e5547833d97f1403a1f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "eeee1124": {
-    "etag": "W/\"02d58fd0a1fbc646766550871988ac75\"",
+    "etag": "W/\"e5e1ff74a891b5ae72b6e69404ea4aa3\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "blass07120919": {
-    "etag": "W/\"4b0b991e1ca45e577edaea5658e2a93c\"",
+    "etag": "W/\"4ad259b8600edff60035cc251600c245\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kuroiusagi": {
-    "etag": "W/\"9d25be17944c33f91b6f26cbfb193146\"",
+    "etag": "W/\"82eaf02a7d2d0e7b5f67a6602bab070f\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "eagle131": {
-    "etag": "W/\"4b49939bcd4115f1168f1dbe29744598\"",
+    "etag": "W/\"d67c4ab5a5c8b573a35e39042d2ee86b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hona_usa": {
     "etag": "W/\"8c8dfd74bf4aee6f721401243e60a202\"",
@@ -2584,12 +2584,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "jazzy_honest2390": {
-    "etag": "W/\"35408d7e3c2a09d79db6311c8e6fbf2b\"",
+    "etag": "W/\"02ab33bf260475f67358ce5ce3d620ce\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "yamarketing_2604": {
     "etag": "W/\"78476d99d6e3a647b3d399d9346807bb\"",
@@ -2616,44 +2616,44 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "softabyss": {
-    "etag": "W/\"b234e7aed8727f6d530df89b386b991c\"",
+    "etag": "W/\"d3d51b8fdeaa83e19f3c2cbe9d08c60d\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-7685047bd480baa7": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-0364d2ddc3fda06c": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-7558f7937dcb7eb8": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-12a2af440b98526b": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-a8c67898ab7993e6": {
     "etag": null,
@@ -2666,10 +2666,10 @@
   "auto-e3f4f55e77f6c8a6": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-0badc2e59f5a5e3e": {
     "etag": null,
@@ -2682,10 +2682,10 @@
   "auto-edeef52d2a825b14": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-513cae61d9e9e80b": {
     "etag": null,
@@ -2698,18 +2698,18 @@
   "auto-8609030ff6664026": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-0263e5b04a452d03": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-f716e740cb5add3b": {
     "etag": null,
@@ -2722,10 +2722,10 @@
   "auto-9fee4bca828d2f1f": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-3a36dc22de0ef6ad": {
     "etag": null,
@@ -2738,10 +2738,10 @@
   "auto-d01cd2d2a8c59ada": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-7c77a0e3168cc25a": {
     "etag": null,
@@ -2754,42 +2754,42 @@
   "auto-6e3e2a91e2d658f3": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-3b65617f2f6eb2fd": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-738aa6682efcbeac": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-ef20b10879458874": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-24a7573297174908": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-9540acbfd162ae79": {
     "etag": null,
@@ -2802,18 +2802,18 @@
   "auto-d1cb5884c46d3fc9": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-29fa81d564c25dd4": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-c0365da9f19b5c0c": {
     "etag": null,
@@ -2826,10 +2826,10 @@
   "auto-105065d3671d1411": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-7e396f9d08caaca9": {
     "etag": null,
@@ -2842,42 +2842,42 @@
   "auto-5676378dd1d9c8f2": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-470f5887c61d85da": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-bb97951592245288": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-b3a24f899430c9c5": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-355b1b6442d944b8": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-7a6954b0a74a156b": {
     "etag": null,
@@ -2890,18 +2890,18 @@
   "auto-17e8725a1d4db12c": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-c3e97b8340d1ba2d": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-97e980e5131f3644": {
     "etag": null,
@@ -2914,50 +2914,50 @@
   "auto-d0dcaf6e844537a9": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-15491d97a53c3a5d": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-ff87dc7ee3a2b4ec": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-3967954e295d4b80": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-bb664966cd1b46cd": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-0322ffb0d75dfeeb": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-f1f938adeab0cdfc": {
     "etag": null,
@@ -2970,18 +2970,18 @@
   "auto-f0685a3690e54f51": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-b036aaf2f1b7c96f": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-2c99a72246a50498": {
     "etag": null,
@@ -3002,42 +3002,42 @@
   "auto-1300a33a4082ef0b": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-f535e39052ee5dd0": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-fceaaeb3dbe60e31": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-ac2c4f9290f03753": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-6136ad2a8def3a65": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-7735dd1b13cdfcde": {
     "etag": null,
@@ -3066,42 +3066,42 @@
   "auto-da01783610ac8442": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-b55078fd9497f631": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-b9eab72894a17adf": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-718d6a2484c0a72d": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-9970ab4a4d18177e": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
-    "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "auto_class": "C",
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-f05172d7538e7b6b": {
     "etag": null,
@@ -3114,18 +3114,18 @@
   "auto-967526dfe5aba056": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-8fd49f1d8488a9fc": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-5e7a690b07c9cf4f": {
     "etag": null,
@@ -3170,26 +3170,26 @@
   "auto-a398221821c0c407": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-63415610e3d88e0f": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-f54579c3e8eb769b": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-256e7a63f44728c0": {
     "etag": null,
@@ -3216,36 +3216,36 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "chaba_hidamari": {
-    "etag": "W/\"dfdf32e340c5d3ba8171999d64c0b76e\"",
+    "etag": "W/\"e3e9add78f51773c14496804a2eb0241\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "ceo_oshikatsu": {
-    "etag": "W/\"5c46d9cbdaa03962daee16a98b4f06ed\"",
+    "etag": "W/\"f7ef3abaab314f169e5145f7c05c1f01\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-2e4caa6187b955cf": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hanamaru_00": {
-    "etag": "W/\"1b738d8c59dc3c5981fc65b80218da0b\"",
+    "etag": "W/\"9f45874c2b7524b4a0d84bc7af664903\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "wup86712": {
     "etag": "W/\"6256ba9d84ddcaf2d2d3050eae2450c1\"",
@@ -3264,60 +3264,60 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "spica_2110": {
-    "etag": "W/\"1d76089f132267d1273516aec6aa9857\"",
+    "etag": "W/\"24cd691540491eb4c7de8f17593244fe\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-85948cf6aefc0cf2": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hdndnnnrnrn": {
-    "etag": "W/\"b568cc4611a334e09fdbf800c21453a2\"",
+    "etag": "W/\"3991ad2d6878261a31b314501e1b16c0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "midori_akb": {
-    "etag": "W/\"fc825ef274269607f02c0a68d58e1b32\"",
+    "etag": "W/\"0031a8d020382fa604ac71e746f87739\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-cd899ded89bc52a6": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kpop_career": {
-    "etag": "W/\"67c20467bd85c23c9cbc7a57e0cb4970\"",
+    "etag": "W/\"e2523aba3aebfcef48add7cc355c80e4\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-569d1de64e0e5582": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "momochi0605": {
     "etag": "W/\"49eea258eebd84d53ffe1856be663a2f\"",
@@ -3328,12 +3328,12 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "tpr174": {
-    "etag": "W/\"46746200fa9f0956bc433b3c779f45ed\"",
+    "etag": "W/\"b89e4665dab29ae83c43e7e01e086bdd\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hina_syogyomujo": {
     "etag": "W/\"9ad158ea4f81c2b7920cd92313426a1b\"",
@@ -3354,18 +3354,18 @@
   "auto-503b7df1f35c2f4c": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "re_na_wakatake": {
-    "etag": "W/\"dcdb1f30f08de5f73951c9628162123f\"",
+    "etag": "W/\"0f84e16ace81cb34c0d58acdfc4b2031\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "hassy_0505": {
     "etag": "W/\"121c971440bb5aaf76978148acd4053f\"",
@@ -3378,34 +3378,34 @@
   "auto-c9a5c9912092fa34": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "tender_sheep6906": {
-    "etag": "W/\"203ae755be6c825929063003b60a6597\"",
+    "etag": "W/\"4b48fa71d2c82e7427f4f2569d84d90b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-0e5e47f64a297614": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "bobbi_martin": {
-    "etag": "W/\"fbf24848aa1af2a546fd4a7500eafcfc\"",
+    "etag": "W/\"62c5f0195bc5c72f465354f783592262\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-8dbd3383ab361faf": {
     "etag": null,
@@ -3416,28 +3416,28 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "proper_snail4944": {
-    "etag": "W/\"a49e6f11731aaadaabeda9e34c532f65\"",
+    "etag": "W/\"e431f3d5e9ef0ad3b8169c0304559777\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "huge_abelia9404": {
-    "etag": "W/\"9ea6e1402e020b665680b51f8c294bd2\"",
+    "etag": "W/\"70c23c1f478f10942182305eea744b08\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "beyo_5nds": {
-    "etag": "W/\"6f985a4577657431065161e471c02656\"",
+    "etag": "W/\"d5cb885bafcc4b756b185fbe79b8e33a\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "girly_aesthetics": {
     "etag": "W/\"5ac40dad7e892550d18c73ebe7a04600\"",
@@ -3448,28 +3448,28 @@
     "checked_at": "2026-11-27T08:04:33.606670+00:00"
   },
   "hajirihiroki": {
-    "etag": "W/\"88c7ae69505105bb5068ab9072090671\"",
+    "etag": "W/\"c31bfaec645a0ecd2f8adc0bb42507e3\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kqtrm_39": {
-    "etag": "W/\"560846cedf226f834fafc2d6c09c09a7\"",
+    "etag": "W/\"2c46934bd2fea3223e92243f12fdd946\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-9ded0ac912e26422": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "q431aaa": {
     "etag": "W/\"87e56fa00c29125cf576aa1bbae98860\"",
@@ -3482,18 +3482,18 @@
   "auto-5c1592ea532b32be": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kaname88_ebi15": {
-    "etag": "W/\"2f8a579005e3179496917f06304d892b\"",
+    "etag": "W/\"21522262aa99c071c3329e26eac4e35b\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "toccochan1120": {
     "etag": "W/\"ad92dd42759dc08f2514a8c975438b7e\"",
@@ -3512,20 +3512,20 @@
     "checked_at": "2026-11-27T02:02:27.255778+00:00"
   },
   "magic_aster4940": {
-    "etag": "W/\"c994532306aad552468a1af89f7f0480\"",
+    "etag": "W/\"e2c5771e0794aec17da0dc898475f102\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "kinakolove": {
-    "etag": "W/\"7f953928a0ffec0ea629b94214998575\"",
+    "etag": "W/\"83f27d06a88fe8dc4014dd52096940e0\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "chikazoemakoto": {
     "etag": "W/\"dea9d3050b28621062f83521eb3825a3\"",
@@ -3535,12 +3535,12 @@
     "auto_class": "C"
   },
   "m127_11710": {
-    "etag": "W/\"02f33ee6ee33baf229daf3119acce5e2\"",
+    "etag": "W/\"a5963f571da66e3ec0438a367b9f49aa\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "great_prawn6449": {
     "etag": "W/\"e81faf97bfcf7c72c5cdd103fdc35ce3\"",
@@ -3550,12 +3550,12 @@
     "auto_class": "C"
   },
   "driftwood": {
-    "etag": "W/\"b7c89975fd3d7767aa93061eb4f4b2f2\"",
+    "etag": "W/\"9519b84668f1201b6b6c44b9c6152167\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "akisuket": {
     "etag": "W/\"095273fc3abfd893675d519792bd228a\"",
@@ -3581,34 +3581,34 @@
   "auto-a27e6a1b040f79e8": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "oshikatsu_kr": {
-    "etag": "W/\"0af4af1fcf622c347bc9c1884b5f10d2\"",
+    "etag": "W/\"bdf12ffb11146a15b64d7519108e1225\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-23250018cf98eb7c": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "agile_condor4247": {
-    "etag": "W/\"3cdac534c7730f0fa7400e3358e88436\"",
+    "etag": "W/\"73ea789ab711f19e958b7c3ce7b6ac92\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "yuyu22_kk": {
     "etag": "W/\"eaa362adf0813858b070447d7bff200b\"",
@@ -3625,20 +3625,20 @@
     "auto_class": "C"
   },
   "deadlanguage___": {
-    "etag": "W/\"18c4884983dd3b600c3906d772672015\"",
+    "etag": "W/\"aac3e84cf44ea7aad2d645d7fff06c44\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "auto-004c589018d51495": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "oshikatsu_money": {
     "etag": "W/\"8325b84d99935f664b4a225746340986\"",
@@ -3683,12 +3683,12 @@
     "auto_class": "C"
   },
   "0211_nyanko": {
-    "etag": "W/\"49257a376868abf9b120234eabd04f4b\"",
+    "etag": "W/\"a2b26fc9f433b78eb4113fd080514910\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "cont_cons": {
     "etag": "W/\"42731239fa471128878cd97ed56dfe6d\"",
@@ -3698,12 +3698,12 @@
     "auto_class": "C"
   },
   "seina_fuku48": {
-    "etag": "W/\"2c199ba74175d5d3f93fa77c499b25bc\"",
+    "etag": "W/\"c7ac29d3f9dde088e4f77d1eab1755ac\"",
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "B",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
   },
   "noteaccess": {
     "etag": "W/\"c36028152fcd2bdc48a1ea2590bfe4ce\"",
@@ -3722,9 +3722,107 @@
   "auto-75f24f496dfa698c": {
     "etag": null,
     "modified": null,
-    "last_success": "2026-11-27T19:40:23.494106+00:00",
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
     "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
     "auto_class": "A",
-    "checked_at": "2026-11-27T19:40:23.494106+00:00"
+    "checked_at": "2026-11-28T01:58:39.754882+00:00"
+  },
+  "kittyidea": {
+    "etag": "W/\"74b00878bb76155c60b044f7ceea5b71\"",
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "auto-41f8a3cd60aa67f2": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "mataro_dp": {
+    "etag": "W/\"99593316b65b9e59b05935ac24604b53\"",
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "tsubura261283": {
+    "etag": "W/\"91d552cae4dc76903d39c678fe484406\"",
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "hplover": {
+    "etag": "W/\"fdabc11eed3980df1273cee9fe993859\"",
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "itz_gyanbur": {
+    "etag": "W/\"18bab329b29e57bb71c1340df1fb0203\"",
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "A"
+  },
+  "auto-969a21003a31fa8a": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "auto-1f3dbaf1c2d34c23": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "mirecat": {
+    "etag": "W/\"76cca8a0c43a05821d3a688f76c1916d\"",
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "ahilfuha": {
+    "etag": "W/\"7fe50471f9f384cfbc96892966d8e24f\"",
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "auto-e048f4eb7fcb9ea8": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "A"
+  },
+  "isshin_chiko": {
+    "etag": "W/\"1da4cbe82c1d0dfcaf8cb77b640d7e3b\"",
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "B"
+  },
+  "auto-45866ad511a0abd1": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
+  },
+  "auto-c08d43d27ea50f75": {
+    "etag": null,
+    "modified": null,
+    "last_success": "2026-11-28T01:58:39.754882+00:00",
+    "fingerprint": "eligibility-2.2a9ddfb1696e5ac706b0873f358ce528aaab5d5bbd9ca902f4287fd29f0963270",
+    "auto_class": "C"
   }
 }

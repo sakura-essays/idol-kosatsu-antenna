@@ -7230,5 +7230,273 @@
       "sixtones"
     ],
     "primary_family": "starto"
+  },
+  {
+    "id": "kittyidea",
+    "url": "https://note.com/kittyidea",
+    "platform": "note",
+    "feed": "https://note.com/kittyidea/rss",
+    "name": "キティノウナイ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "kawaii-lab",
+    "representative_url": "https://note.com/kittyidea/n/n624a8beec016",
+    "groups": [
+      "candy-tune",
+      "cutie-street"
+    ],
+    "primary_family": "kawaii-lab"
+  },
+  {
+    "id": "auto-41f8a3cd60aa67f2",
+    "url": "https://ameblo.jp/kusuyama39",
+    "platform": "ameba",
+    "feed": "https://rssblog.ameba.jp/kusuyama39/rss20.xml",
+    "name": "#Yhwh to #Rock !? #Ai #Score 1200 ↗️ #YusukeKusuyama™♂",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "ameba-new",
+    "discovery_family": "48",
+    "representative_url": "https://ameblo.jp/kusuyama39/entry-12985101164.html",
+    "groups": [
+      "smap"
+    ],
+    "primary_family": "starto"
+  },
+  {
+    "id": "mataro_dp",
+    "url": "https://note.com/mataro_dp",
+    "platform": "note",
+    "feed": "https://note.com/mataro_dp/rss",
+    "name": "mono太郎",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "bmsg",
+    "representative_url": "https://note.com/mataro_dp/n/n0257ef8c8cf7",
+    "groups": [
+      "be-first",
+      "mazzel"
+    ],
+    "primary_family": "bmsg"
+  },
+  {
+    "id": "tsubura261283",
+    "url": "https://note.com/tsubura261283",
+    "platform": "note",
+    "feed": "https://note.com/tsubura261283/rss",
+    "name": "つぶつぶ｜保健師のセカンドキャリア×走る日々",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "culture",
+    "representative_url": "https://note.com/tsubura261283/n/n00601cd78860",
+    "groups": [],
+    "primary_family": "culture"
+  },
+  {
+    "id": "hplover",
+    "url": "https://note.com/hplover",
+    "platform": "note",
+    "feed": "https://note.com/hplover/rss",
+    "name": "ぴよ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "hello",
+    "representative_url": "https://note.com/hplover/n/n577b7f3ee295",
+    "groups": [
+      "beyooooonds",
+      "hello-project",
+      "juice"
+    ],
+    "primary_family": "hello"
+  },
+  {
+    "id": "itz_gyanbur",
+    "url": "https://note.com/itz_gyanbur",
+    "platform": "note",
+    "feed": "https://note.com/itz_gyanbur/rss",
+    "name": "板妻乃馬右衛門(X (旧Twitter)メインアカウント @1014itazuma )",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "A",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "note-related-tag",
+    "discovery_family": "ikonoijoy",
+    "representative_url": "https://note.com/itz_gyanbur/n/nf751f9f47fee",
+    "groups": [
+      "akb48",
+      "fishbowl",
+      "hello-project",
+      "nogizaka46",
+      "smap",
+      "task-have-fun",
+      "title-mitei"
+    ],
+    "primary_family": "live-local"
+  },
+  {
+    "id": "auto-969a21003a31fa8a",
+    "url": "https://ameblo.jp/citose0129",
+    "platform": "ameba",
+    "feed": "https://rssblog.ameba.jp/citose0129/rss20.xml",
+    "name": "ちとせのブログ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "ameba-new",
+    "discovery_family": "kawaii-lab",
+    "representative_url": "https://ameblo.jp/citose0129/entry-12984867867.html",
+    "groups": [
+      "candy-tune"
+    ],
+    "primary_family": "kawaii-lab"
+  },
+  {
+    "id": "auto-1f3dbaf1c2d34c23",
+    "url": "https://ameblo.jp/papayapayapaya-2025",
+    "platform": "ameba",
+    "feed": "https://rssblog.ameba.jp/papayapayapaya-2025/rss20.xml",
+    "name": "LOVE LETTERS: 多言語フィルター越しに観る不確かな世界",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "ameba-new",
+    "discovery_family": "kpop",
+    "representative_url": "https://ameblo.jp/papayapayapaya-2025/entry-12985550995.html",
+    "groups": [
+      "bts"
+    ],
+    "primary_family": "kpop"
+  },
+  {
+    "id": "mirecat",
+    "url": "https://note.com/mirecat",
+    "platform": "note",
+    "feed": "https://note.com/mirecat/rss",
+    "name": "みれのスクラップ",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "article-link",
+    "discovery_family": "kpop",
+    "representative_url": "https://note.com/mirecat/n/n136d3a0d33c2",
+    "groups": [
+      "aespa",
+      "blackpink",
+      "bts",
+      "newjeans",
+      "nmixx",
+      "shinee",
+      "snsd",
+      "super-junior",
+      "zb1"
+    ],
+    "primary_family": "kpop"
+  },
+  {
+    "id": "ahilfuha",
+    "url": "https://note.com/ahilfuha",
+    "platform": "note",
+    "feed": "https://note.com/ahilfuha/rss",
+    "name": "くすぐり好き",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "overseas",
+    "representative_url": "https://note.com/ahilfuha/n/na5a5e1a94f14",
+    "groups": [
+      "snh48"
+    ],
+    "primary_family": "overseas"
+  },
+  {
+    "id": "auto-e048f4eb7fcb9ea8",
+    "url": "https://ameblo.jp/inorinosekai",
+    "platform": "ameba",
+    "feed": "https://rssblog.ameba.jp/inorinosekai/rss20.xml",
+    "name": "水瀬いのりの歌の世界",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "A",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "ameba-new",
+    "discovery_family": "live-local",
+    "representative_url": "https://ameblo.jp/inorinosekai/entry-12981942545.html",
+    "groups": [
+      "festive"
+    ],
+    "primary_family": "live-local"
+  },
+  {
+    "id": "isshin_chiko",
+    "url": "https://note.com/isshin_chiko",
+    "platform": "note",
+    "feed": "https://note.com/isshin_chiko/rss",
+    "name": "いっしん",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "B",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "note-new",
+    "discovery_family": "sakamichi",
+    "representative_url": "https://note.com/isshin_chiko/n/n57965c5e32d5",
+    "groups": [
+      "nogizaka46"
+    ],
+    "primary_family": "sakamichi"
+  },
+  {
+    "id": "auto-45866ad511a0abd1",
+    "url": "https://ameblo.jp/miku12arashi33hy",
+    "platform": "ameba",
+    "feed": "https://rssblog.ameba.jp/miku12arashi33hy/rss20.xml",
+    "name": "喋り場ならぬ語り場(仮)",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "ameba-new",
+    "discovery_family": "starto",
+    "representative_url": "https://ameblo.jp/miku12arashi33hy/entry-12985869689.html",
+    "groups": [
+      "snowman"
+    ],
+    "primary_family": "starto"
+  },
+  {
+    "id": "auto-c08d43d27ea50f75",
+    "url": "https://ameblo.jp/yumikpqp",
+    "platform": "ameba",
+    "feed": "https://rssblog.ameba.jp/yumikpqp/rss20.xml",
+    "name": "ただ平野紫耀が好きなんだから仕方ない！！！",
+    "enabled": true,
+    "publication_mode": "standard",
+    "auto_class": "C",
+    "registered_at": "2026-11-28T01:58:39.754882+00:00",
+    "discovered_via": "ameba-new",
+    "discovery_family": "tobe",
+    "representative_url": "https://ameblo.jp/yumikpqp/entry-12985271760.html",
+    "groups": [
+      "number-i"
+    ],
+    "primary_family": "tobe"
   }
 ]
