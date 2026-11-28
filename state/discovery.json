@@ -801,13 +801,13 @@
   "dynamic_indexes": {
     "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new": {
       "url": "https://note.com/tag/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88?mode=new",
-      "family": "hello",
+      "family": "jp-female",
       "channel": "note-related-tag",
       "term": "アーティスト"
     },
     "https://note.com/tag/K-POP?mode=new": {
       "url": "https://note.com/tag/K-POP?mode=new",
-      "family": "kpop",
+      "family": "culture",
       "channel": "note-related-tag",
       "term": "K-POP"
     },
