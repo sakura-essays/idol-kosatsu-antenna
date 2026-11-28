@@ -6055,7 +6055,8 @@
     "additional_articles": [
       "https://note.com/junnosuke0222/n/na5732c31db5f",
       "https://note.com/junnosuke0222/n/n58c2728eddb4",
-      "https://note.com/junnosuke0222/n/ncdda27d7ecc0"
+      "https://note.com/junnosuke0222/n/ncdda27d7ecc0",
+      "https://note.com/junnosuke0222/n/n80cea1836ea0"
     ]
   },
   "note.com/prime_walrus5680": {
@@ -16375,7 +16376,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "スマートAI大学生"
+    "name": "スマートAI大学生",
+    "additional_articles": [
+      "https://note.com/smart_daigakusei/n/nff9691a15ae6"
+    ]
   },
   "note.com/rittanppp": {
     "id": "rittanppp",
@@ -23121,7 +23125,8 @@
     "status": "duplicate",
     "additional_articles": [
       "https://note.com/light_nerine81/n/nb1c87798c437",
-      "https://note.com/light_nerine81/n/nf8a3d12bd59a"
+      "https://note.com/light_nerine81/n/nf8a3d12bd59a",
+      "https://note.com/light_nerine81/n/n429f7fe553d9"
     ]
   },
   "note.com/rico_green0723": {
@@ -31865,7 +31870,8 @@
     "additional_articles": [
       "https://www.uta-net.com/song/4548/",
       "https://www.uta-net.com/song/2024/",
-      "https://www.uta-net.com/song/9493/"
+      "https://www.uta-net.com/song/9493/",
+      "https://www.uta-net.com/song/6844/"
     ]
   },
   "note.com/ai_gazou": {
@@ -45634,6 +45640,51 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-28T13:47:23.464330+00:00",
+    "status": "unverified"
+  },
+  "ameblo.jp/morningmusume-10ki": {
+    "id": "auto-fbc8a8cedc9c316a",
+    "url": "https://ameblo.jp/morningmusume-10ki",
+    "feed": "https://rssblog.ameba.jp/morningmusume-10ki/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/morningmusume-10ki/entry-12985939294.html",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-28T19:35:08.309790+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://ameblo.jp/morningmusume-10ki/entry-12935972770.html?frm=theme"
+    ]
+  },
+  "note.com/j_funakura": {
+    "id": "j_funakura",
+    "url": "https://note.com/j_funakura",
+    "feed": "https://note.com/j_funakura/rss",
+    "platform": "note",
+    "article": "https://note.com/j_funakura/n/nb9ab5d4227b6",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-28T19:35:08.309790+00:00",
+    "status": "unverified",
+    "additional_articles": [
+      "https://note.com/j_funakura/n/na123ec5024e1"
+    ]
+  },
+  "ameblo.jp/morningm-13ki": {
+    "id": "auto-59b94171f6c3d3ee",
+    "url": "https://ameblo.jp/morningm-13ki",
+    "feed": "https://rssblog.ameba.jp/morningm-13ki/rss20.xml",
+    "platform": "ameba",
+    "article": "https://ameblo.jp/morningm-13ki/entry-12936510774.html?frm=theme",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-28T19:35:08.309790+00:00",
     "status": "unverified"
   }
 }
