@@ -35,7 +35,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "Manon"
+    "name": "Manon",
+    "additional_articles": [
+      "https://note.com/la_lune_26/n/nc5da2bc28856"
+    ]
   },
   "tmma26-8897.hatenablog.com": {
     "id": "auto-7685047bd480baa7",
@@ -16622,7 +16625,9 @@
     "last": "2026-11-25T04:03:28.555680+00:00",
     "name": "榎宮",
     "additional_articles": [
-      "https://note.com/enomiya_/n/n246931c7a1ca"
+      "https://note.com/enomiya_/n/n246931c7a1ca",
+      "https://note.com/enomiya_/n/nd727489aa26c",
+      "https://note.com/enomiya_/n/n1a46df6cb78f"
     ]
   },
   "note.com/cute_lilac186": {
@@ -20263,7 +20268,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:24:16.929772+00:00",
-    "name": "係長ももっち"
+    "name": "係長ももっち",
+    "additional_articles": [
+      "https://note.com/momochi0605/n/n8966fe73581c"
+    ]
   },
   "note.com/51_kana_244": {
     "id": "51_kana_244",
@@ -25345,7 +25353,9 @@
     "name": "スパルタ（スパさん）",
     "additional_articles": [
       "https://note.com/sparta_cc/n/n03797eaeabe5",
-      "https://note.com/sparta_cc/n/n03a41d39468a"
+      "https://note.com/sparta_cc/n/n03a41d39468a",
+      "https://note.com/sparta_cc/n/n411d124dfb4a",
+      "https://note.com/sparta_cc/n/n230086f35515"
     ]
   },
   "note.com/go_and_tee": {
@@ -26548,7 +26558,10 @@
     "status": "registered",
     "attempts": 1,
     "last": "2026-11-25T04:03:28.555680+00:00",
-    "name": "とある地下アイドルグループ"
+    "name": "とある地下アイドルグループ",
+    "additional_articles": [
+      "https://note.com/senobe/n/n9f87e2541e23"
+    ]
   },
   "note.com/deep_roses3079": {
     "id": "deep_roses3079",
@@ -45595,6 +45608,32 @@
     "channel": "article-link",
     "index": "",
     "first": "2026-11-28T07:55:22.452788+00:00",
+    "status": "unverified"
+  },
+  "note.com/vivit_design": {
+    "id": "vivit_design",
+    "url": "https://note.com/vivit_design",
+    "feed": "https://note.com/vivit_design/rss",
+    "platform": "note",
+    "article": "https://note.com/vivit_design/n/n31d261444b63",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-28T13:47:23.464330+00:00",
+    "status": "unverified"
+  },
+  "note.com/yurinomemo": {
+    "id": "yurinomemo",
+    "url": "https://note.com/yurinomemo",
+    "feed": "https://note.com/yurinomemo/rss",
+    "platform": "note",
+    "article": "https://note.com/yurinomemo/n/n09559b96da0e",
+    "title": "",
+    "family": "",
+    "channel": "article-link",
+    "index": "",
+    "first": "2026-11-28T13:47:23.464330+00:00",
     "status": "unverified"
   }
 }

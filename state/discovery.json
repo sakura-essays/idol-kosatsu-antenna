@@ -1059,13 +1059,13 @@
     },
     "https://note.com/tag/%E5%9C%B0%E4%B8%8B%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB?mode=new": {
       "url": "https://note.com/tag/%E5%9C%B0%E4%B8%8B%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB?mode=new",
-      "family": "kpop",
+      "family": "48",
       "channel": "note-related-tag",
       "term": "地下アイドル"
     },
     "https://note.com/tag/fyp?mode=new": {
       "url": "https://note.com/tag/fyp?mode=new",
-      "family": "kpop",
+      "family": "48",
       "channel": "note-related-tag",
       "term": "fyp"
     },
@@ -1176,6 +1176,60 @@
       "family": "48",
       "channel": "note-related-tag",
       "term": "アミューズメントパーク"
+    },
+    "https://note.com/tag/%E3%83%89%E3%83%A9%E3%83%9E?mode=new": {
+      "url": "https://note.com/tag/%E3%83%89%E3%83%A9%E3%83%9E?mode=new",
+      "family": "kawaii-lab",
+      "channel": "note-related-tag",
+      "term": "ドラマ"
+    },
+    "https://note.com/tag/villainshouse?mode=new": {
+      "url": "https://note.com/tag/villainshouse?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "villainshouse"
+    },
+    "https://note.com/tag/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81?mode=new": {
+      "url": "https://note.com/tag/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "おすすめ"
+    },
+    "https://note.com/tag/gothic?mode=new": {
+      "url": "https://note.com/tag/gothic?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "gothic"
+    },
+    "https://note.com/tag/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%81?mode=new": {
+      "url": "https://note.com/tag/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%81?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "サークルライチ"
+    },
+    "https://note.com/tag/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%81%E5%9B%9B%E6%9C%9F%E7%94%9F?mode=new": {
+      "url": "https://note.com/tag/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%83%A9%E3%82%A4%E3%83%81%E5%9B%9B%E6%9C%9F%E7%94%9F?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "サークルライチ四期生"
+    },
+    "https://note.com/tag/%E3%82%AE%E3%83%9F%E3%83%83%E3%82%AF?mode=new": {
+      "url": "https://note.com/tag/%E3%82%AE%E3%83%9F%E3%83%83%E3%82%AF?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "ギミック"
+    },
+    "https://note.com/tag/%E3%82%AE%E3%83%9F%E3%83%83%E3%82%AF%E7%B5%A1%E7%B9%B0%E8%AD%9A?mode=new": {
+      "url": "https://note.com/tag/%E3%82%AE%E3%83%9F%E3%83%83%E3%82%AF%E7%B5%A1%E7%B9%B0%E8%AD%9A?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "ギミック絡繰譚"
+    },
+    "https://note.com/tag/%E9%8F%A1%E3%82%88%E9%8F%A1?mode=new": {
+      "url": "https://note.com/tag/%E9%8F%A1%E3%82%88%E9%8F%A1?mode=new",
+      "family": "kpop",
+      "channel": "note-related-tag",
+      "term": "鏡よ鏡"
     }
   }
 }
